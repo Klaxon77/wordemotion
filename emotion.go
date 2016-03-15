@@ -1,8 +1,6 @@
 package emotion
 
 import (
-	"bufio"
-	"os"
 	"fmt"
 	"strings"
 )
@@ -13,15 +11,10 @@ func init() {
 	emotionMap = make(map[string]int)
 	attitudeMap = make(map[string]Attitude)
 
-	file, err := os.Open("D:\\projects\\go\\src\\github.com\\klaxon77\\emotion\\emotions_db.txt")
-	check(err)
-	defer file.Close()
-
-	scanner := bufio.NewScanner(file)
-	for scanner.Scan() {
-		s := scanner.Text()
+	lines := strings.Split(db(), "\n")
+	for _, line := range lines {
 		var word, emotionOrAttitudeStr, associated string
-		fmt.Sscanf(s, "%s %s %s", &word, &emotionOrAttitudeStr, &associated)
+		fmt.Sscanf(line, "%s %s %s", &word, &emotionOrAttitudeStr, &associated)
 
 		if (associated == "1") {
 			emotion := ToEmotion(emotionOrAttitudeStr)
@@ -36,8 +29,6 @@ func init() {
 			}
 		}
 	}
-
-	check(scanner.Err())
 }
 
 func check(e error) {

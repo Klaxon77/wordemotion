@@ -1,18473 +1,18475 @@
-aback	anger	0
-aback	anticipation	0
-aback	disgust	0
-aback	fear	0
-aback	joy	0
-aback	negative	0
-aback	positive	0
-aback	sadness	0
-aback	surprise	0
-aback	trust	0
-abacus	anger	0
-abacus	anticipation	0
-abacus	disgust	0
-abacus	fear	0
-abacus	joy	0
-abacus	negative	0
-abacus	positive	0
-abacus	sadness	0
-abacus	surprise	0
-abacus	trust	1
-abandon	anger	0
-abandon	anticipation	0
-abandon	disgust	0
-abandon	fear	1
-abandon	joy	0
-abandon	negative	1
-abandon	positive	0
-abandon	sadness	1
-abandon	surprise	0
-abandon	trust	0
-abandoned	anger	1
-abandoned	anticipation	0
-abandoned	disgust	0
-abandoned	fear	1
-abandoned	joy	0
-abandoned	negative	1
-abandoned	positive	0
-abandoned	sadness	1
-abandoned	surprise	0
-abandoned	trust	0
-abandonment	anger	1
-abandonment	anticipation	0
-abandonment	disgust	0
-abandonment	fear	1
-abandonment	joy	0
-abandonment	negative	1
-abandonment	positive	0
-abandonment	sadness	1
-abandonment	surprise	1
-abandonment	trust	0
-abate	anger	0
-abate	anticipation	0
-abate	disgust	0
-abate	fear	0
-abate	joy	0
-abate	negative	0
-abate	positive	0
-abate	sadness	0
-abate	surprise	0
-abate	trust	0
-abatement	anger	0
-abatement	anticipation	0
-abatement	disgust	0
-abatement	fear	0
-abatement	joy	0
-abatement	negative	0
-abatement	positive	0
-abatement	sadness	0
-abatement	surprise	0
-abatement	trust	0
-abba	anger	0
-abba	anticipation	0
-abba	disgust	0
-abba	fear	0
-abba	joy	0
-abba	negative	0
-abba	positive	1
-abba	sadness	0
-abba	surprise	0
-abba	trust	0
-abbot	anger	0
-abbot	anticipation	0
-abbot	disgust	0
-abbot	fear	0
-abbot	joy	0
-abbot	negative	0
-abbot	positive	0
-abbot	sadness	0
-abbot	surprise	0
-abbot	trust	1
-abbreviate	anger	0
-abbreviate	anticipation	0
-abbreviate	disgust	0
-abbreviate	fear	0
-abbreviate	joy	0
-abbreviate	negative	0
-abbreviate	positive	0
-abbreviate	sadness	0
-abbreviate	surprise	0
-abbreviate	trust	0
-abbreviation	anger	0
-abbreviation	anticipation	0
-abbreviation	disgust	0
-abbreviation	fear	0
-abbreviation	joy	0
-abbreviation	negative	0
-abbreviation	positive	0
-abbreviation	sadness	0
-abbreviation	surprise	0
-abbreviation	trust	0
-abdomen	anger	0
-abdomen	anticipation	0
-abdomen	disgust	0
-abdomen	fear	0
-abdomen	joy	0
-abdomen	negative	0
-abdomen	positive	0
-abdomen	sadness	0
-abdomen	surprise	0
-abdomen	trust	0
-abdominal	anger	0
-abdominal	anticipation	0
-abdominal	disgust	0
-abdominal	fear	0
-abdominal	joy	0
-abdominal	negative	0
-abdominal	positive	0
-abdominal	sadness	0
-abdominal	surprise	0
-abdominal	trust	0
-abduction	anger	0
-abduction	anticipation	0
-abduction	disgust	0
-abduction	fear	1
-abduction	joy	0
-abduction	negative	1
-abduction	positive	0
-abduction	sadness	1
-abduction	surprise	1
-abduction	trust	0
-aberrant	anger	0
-aberrant	anticipation	0
-aberrant	disgust	0
-aberrant	fear	0
-aberrant	joy	0
-aberrant	negative	1
-aberrant	positive	0
-aberrant	sadness	0
-aberrant	surprise	0
-aberrant	trust	0
-aberration	anger	0
-aberration	anticipation	0
-aberration	disgust	1
-aberration	fear	0
-aberration	joy	0
-aberration	negative	1
-aberration	positive	0
-aberration	sadness	0
-aberration	surprise	0
-aberration	trust	0
-abeyance	anger	0
-abeyance	anticipation	0
-abeyance	disgust	0
-abeyance	fear	0
-abeyance	joy	0
-abeyance	negative	0
-abeyance	positive	0
-abeyance	sadness	0
-abeyance	surprise	0
-abeyance	trust	0
-abhor	anger	1
-abhor	anticipation	0
-abhor	disgust	1
-abhor	fear	1
-abhor	joy	0
-abhor	negative	1
-abhor	positive	0
-abhor	sadness	0
-abhor	surprise	0
-abhor	trust	0
-abhorrent	anger	1
-abhorrent	anticipation	0
-abhorrent	disgust	1
-abhorrent	fear	1
-abhorrent	joy	0
-abhorrent	negative	1
-abhorrent	positive	0
-abhorrent	sadness	0
-abhorrent	surprise	0
-abhorrent	trust	0
-abide	anger	0
-abide	anticipation	0
-abide	disgust	0
-abide	fear	0
-abide	joy	0
-abide	negative	0
-abide	positive	0
-abide	sadness	0
-abide	surprise	0
-abide	trust	0
-ability	anger	0
-ability	anticipation	0
-ability	disgust	0
-ability	fear	0
-ability	joy	0
-ability	negative	0
-ability	positive	1
-ability	sadness	0
-ability	surprise	0
-ability	trust	0
-abject	anger	0
-abject	anticipation	0
-abject	disgust	1
-abject	fear	0
-abject	joy	0
-abject	negative	1
-abject	positive	0
-abject	sadness	0
-abject	surprise	0
-abject	trust	0
-ablation	anger	0
-ablation	anticipation	0
-ablation	disgust	0
-ablation	fear	0
-ablation	joy	0
-ablation	negative	0
-ablation	positive	0
-ablation	sadness	0
-ablation	surprise	0
-ablation	trust	0
-ablaze	anger	0
-ablaze	anticipation	0
-ablaze	disgust	0
-ablaze	fear	0
-ablaze	joy	0
-ablaze	negative	0
-ablaze	positive	0
-ablaze	sadness	0
-ablaze	surprise	0
-ablaze	trust	0
-abnormal	anger	0
-abnormal	anticipation	0
-abnormal	disgust	1
-abnormal	fear	0
-abnormal	joy	0
-abnormal	negative	1
-abnormal	positive	0
-abnormal	sadness	0
-abnormal	surprise	0
-abnormal	trust	0
-aboard	anger	0
-aboard	anticipation	0
-aboard	disgust	0
-aboard	fear	0
-aboard	joy	0
-aboard	negative	0
-aboard	positive	0
-aboard	sadness	0
-aboard	surprise	0
-aboard	trust	0
-abode	anger	0
-abode	anticipation	0
-abode	disgust	0
-abode	fear	0
-abode	joy	0
-abode	negative	0
-abode	positive	0
-abode	sadness	0
-abode	surprise	0
-abode	trust	0
-abolish	anger	1
-abolish	anticipation	0
-abolish	disgust	0
-abolish	fear	0
-abolish	joy	0
-abolish	negative	1
-abolish	positive	0
-abolish	sadness	0
-abolish	surprise	0
-abolish	trust	0
-abolition	anger	0
-abolition	anticipation	0
-abolition	disgust	0
-abolition	fear	0
-abolition	joy	0
-abolition	negative	1
-abolition	positive	0
-abolition	sadness	0
-abolition	surprise	0
-abolition	trust	0
-abominable	anger	0
-abominable	anticipation	0
-abominable	disgust	1
-abominable	fear	1
-abominable	joy	0
-abominable	negative	1
-abominable	positive	0
-abominable	sadness	0
-abominable	surprise	0
-abominable	trust	0
-abomination	anger	1
-abomination	anticipation	0
-abomination	disgust	1
-abomination	fear	1
-abomination	joy	0
-abomination	negative	1
-abomination	positive	0
-abomination	sadness	0
-abomination	surprise	0
-abomination	trust	0
-aboriginal	anger	0
-aboriginal	anticipation	0
-aboriginal	disgust	0
-aboriginal	fear	0
-aboriginal	joy	0
-aboriginal	negative	0
-aboriginal	positive	0
-aboriginal	sadness	0
-aboriginal	surprise	0
-aboriginal	trust	0
-abort	anger	0
-abort	anticipation	0
-abort	disgust	0
-abort	fear	0
-abort	joy	0
-abort	negative	1
-abort	positive	0
-abort	sadness	0
-abort	surprise	0
-abort	trust	0
-abortion	anger	0
-abortion	anticipation	0
-abortion	disgust	1
-abortion	fear	1
-abortion	joy	0
-abortion	negative	1
-abortion	positive	0
-abortion	sadness	1
-abortion	surprise	0
-abortion	trust	0
-abortive	anger	0
-abortive	anticipation	0
-abortive	disgust	0
-abortive	fear	0
-abortive	joy	0
-abortive	negative	1
-abortive	positive	0
-abortive	sadness	1
-abortive	surprise	0
-abortive	trust	0
-abound	anger	0
-abound	anticipation	0
-abound	disgust	0
-abound	fear	0
-abound	joy	0
-abound	negative	0
-abound	positive	0
-abound	sadness	0
-abound	surprise	0
-abound	trust	0
-abovementioned	anger	0
-abovementioned	anticipation	0
-abovementioned	disgust	0
-abovementioned	fear	0
-abovementioned	joy	0
-abovementioned	negative	0
-abovementioned	positive	1
-abovementioned	sadness	0
-abovementioned	surprise	0
-abovementioned	trust	0
-abrasion	anger	0
-abrasion	anticipation	0
-abrasion	disgust	0
-abrasion	fear	0
-abrasion	joy	0
-abrasion	negative	1
-abrasion	positive	0
-abrasion	sadness	0
-abrasion	surprise	0
-abrasion	trust	0
-abroad	anger	0
-abroad	anticipation	0
-abroad	disgust	0
-abroad	fear	0
-abroad	joy	0
-abroad	negative	0
-abroad	positive	0
-abroad	sadness	0
-abroad	surprise	0
-abroad	trust	0
-abrogate	anger	0
-abrogate	anticipation	0
-abrogate	disgust	0
-abrogate	fear	0
-abrogate	joy	0
-abrogate	negative	1
-abrogate	positive	0
-abrogate	sadness	0
-abrogate	surprise	0
-abrogate	trust	0
-abrupt	anger	0
-abrupt	anticipation	0
-abrupt	disgust	0
-abrupt	fear	0
-abrupt	joy	0
-abrupt	negative	0
-abrupt	positive	0
-abrupt	sadness	0
-abrupt	surprise	1
-abrupt	trust	0
-abruptly	anger	0
-abruptly	anticipation	0
-abruptly	disgust	0
-abruptly	fear	0
-abruptly	joy	0
-abruptly	negative	0
-abruptly	positive	0
-abruptly	sadness	0
-abruptly	surprise	0
-abruptly	trust	0
-abscess	anger	0
-abscess	anticipation	0
-abscess	disgust	0
-abscess	fear	0
-abscess	joy	0
-abscess	negative	1
-abscess	positive	0
-abscess	sadness	1
-abscess	surprise	0
-abscess	trust	0
-absence	anger	0
-absence	anticipation	0
-absence	disgust	0
-absence	fear	1
-absence	joy	0
-absence	negative	1
-absence	positive	0
-absence	sadness	1
-absence	surprise	0
-absence	trust	0
-absent	anger	0
-absent	anticipation	0
-absent	disgust	0
-absent	fear	0
-absent	joy	0
-absent	negative	1
-absent	positive	0
-absent	sadness	1
-absent	surprise	0
-absent	trust	0
-absentee	anger	0
-absentee	anticipation	0
-absentee	disgust	0
-absentee	fear	0
-absentee	joy	0
-absentee	negative	1
-absentee	positive	0
-absentee	sadness	1
-absentee	surprise	0
-absentee	trust	0
-absenteeism	anger	0
-absenteeism	anticipation	0
-absenteeism	disgust	0
-absenteeism	fear	0
-absenteeism	joy	0
-absenteeism	negative	1
-absenteeism	positive	0
-absenteeism	sadness	0
-absenteeism	surprise	0
-absenteeism	trust	0
-absinthe	anger	0
-absinthe	anticipation	0
-absinthe	disgust	0
-absinthe	fear	0
-absinthe	joy	0
-absinthe	negative	0
-absinthe	positive	0
-absinthe	sadness	0
-absinthe	surprise	0
-absinthe	trust	0
-absolute	anger	0
-absolute	anticipation	0
-absolute	disgust	0
-absolute	fear	0
-absolute	joy	0
-absolute	negative	0
-absolute	positive	1
-absolute	sadness	0
-absolute	surprise	0
-absolute	trust	0
-absolution	anger	0
-absolution	anticipation	0
-absolution	disgust	0
-absolution	fear	0
-absolution	joy	1
-absolution	negative	0
-absolution	positive	1
-absolution	sadness	0
-absolution	surprise	0
-absolution	trust	1
-absorbed	anger	0
-absorbed	anticipation	0
-absorbed	disgust	0
-absorbed	fear	0
-absorbed	joy	0
-absorbed	negative	0
-absorbed	positive	1
-absorbed	sadness	0
-absorbed	surprise	0
-absorbed	trust	0
-absorbent	anger	0
-absorbent	anticipation	0
-absorbent	disgust	0
-absorbent	fear	0
-absorbent	joy	0
-absorbent	negative	0
-absorbent	positive	0
-absorbent	sadness	0
-absorbent	surprise	0
-absorbent	trust	0
-absorbing	anger	0
-absorbing	anticipation	0
-absorbing	disgust	0
-absorbing	fear	0
-absorbing	joy	0
-absorbing	negative	0
-absorbing	positive	0
-absorbing	sadness	0
-absorbing	surprise	0
-absorbing	trust	0
-absorption	anger	0
-absorption	anticipation	0
-absorption	disgust	0
-absorption	fear	0
-absorption	joy	0
-absorption	negative	0
-absorption	positive	0
-absorption	sadness	0
-absorption	surprise	0
-absorption	trust	0
-abstain	anger	0
-abstain	anticipation	0
-abstain	disgust	0
-abstain	fear	0
-abstain	joy	0
-abstain	negative	0
-abstain	positive	0
-abstain	sadness	0
-abstain	surprise	0
-abstain	trust	0
-abstention	anger	0
-abstention	anticipation	0
-abstention	disgust	0
-abstention	fear	0
-abstention	joy	0
-abstention	negative	0
-abstention	positive	0
-abstention	sadness	0
-abstention	surprise	0
-abstention	trust	0
-abstinence	anger	0
-abstinence	anticipation	0
-abstinence	disgust	0
-abstinence	fear	0
-abstinence	joy	0
-abstinence	negative	0
-abstinence	positive	0
-abstinence	sadness	0
-abstinence	surprise	0
-abstinence	trust	0
-abstract	anger	0
-abstract	anticipation	0
-abstract	disgust	0
-abstract	fear	0
-abstract	joy	0
-abstract	negative	0
-abstract	positive	0
-abstract	sadness	0
-abstract	surprise	0
-abstract	trust	0
-abstraction	anger	0
-abstraction	anticipation	0
-abstraction	disgust	0
-abstraction	fear	0
-abstraction	joy	0
-abstraction	negative	0
-abstraction	positive	0
-abstraction	sadness	0
-abstraction	surprise	0
-abstraction	trust	0
-absurd	anger	0
-absurd	anticipation	0
-absurd	disgust	0
-absurd	fear	0
-absurd	joy	0
-absurd	negative	1
-absurd	positive	0
-absurd	sadness	0
-absurd	surprise	0
-absurd	trust	0
-absurdity	anger	0
-absurdity	anticipation	0
-absurdity	disgust	0
-absurdity	fear	0
-absurdity	joy	0
-absurdity	negative	1
-absurdity	positive	0
-absurdity	sadness	0
-absurdity	surprise	0
-absurdity	trust	0
-abundance	anger	0
-abundance	anticipation	1
-abundance	disgust	1
-abundance	fear	0
-abundance	joy	1
-abundance	negative	1
-abundance	positive	1
-abundance	sadness	0
-abundance	surprise	0
-abundance	trust	1
-abundant	anger	0
-abundant	anticipation	0
-abundant	disgust	0
-abundant	fear	0
-abundant	joy	1
-abundant	negative	0
-abundant	positive	1
-abundant	sadness	0
-abundant	surprise	0
-abundant	trust	0
-abuse	anger	1
-abuse	anticipation	0
-abuse	disgust	1
-abuse	fear	1
-abuse	joy	0
-abuse	negative	1
-abuse	positive	0
-abuse	sadness	1
-abuse	surprise	0
-abuse	trust	0
-abutment	anger	0
-abutment	anticipation	0
-abutment	disgust	0
-abutment	fear	0
-abutment	joy	0
-abutment	negative	0
-abutment	positive	0
-abutment	sadness	0
-abutment	surprise	0
-abutment	trust	0
-aby	anger	0
-aby	anticipation	0
-aby	disgust	0
-aby	fear	0
-aby	joy	0
-aby	negative	0
-aby	positive	0
-aby	sadness	0
-aby	surprise	0
-aby	trust	0
-abysmal	anger	0
-abysmal	anticipation	0
-abysmal	disgust	0
-abysmal	fear	0
-abysmal	joy	0
-abysmal	negative	1
-abysmal	positive	0
-abysmal	sadness	1
-abysmal	surprise	0
-abysmal	trust	0
-abyss	anger	0
-abyss	anticipation	0
-abyss	disgust	0
-abyss	fear	1
-abyss	joy	0
-abyss	negative	1
-abyss	positive	0
-abyss	sadness	1
-abyss	surprise	0
-abyss	trust	0
-academic	anger	0
-academic	anticipation	0
-academic	disgust	0
-academic	fear	0
-academic	joy	0
-academic	negative	0
-academic	positive	1
-academic	sadness	0
-academic	surprise	0
-academic	trust	1
-academy	anger	0
-academy	anticipation	0
-academy	disgust	0
-academy	fear	0
-academy	joy	0
-academy	negative	0
-academy	positive	1
-academy	sadness	0
-academy	surprise	0
-academy	trust	0
-accede	anger	0
-accede	anticipation	0
-accede	disgust	0
-accede	fear	0
-accede	joy	0
-accede	negative	0
-accede	positive	0
-accede	sadness	0
-accede	surprise	0
-accede	trust	0
-accelerate	anger	0
-accelerate	anticipation	1
-accelerate	disgust	0
-accelerate	fear	0
-accelerate	joy	0
-accelerate	negative	0
-accelerate	positive	0
-accelerate	sadness	0
-accelerate	surprise	0
-accelerate	trust	0
-acceleration	anger	0
-acceleration	anticipation	0
-acceleration	disgust	0
-acceleration	fear	0
-acceleration	joy	0
-acceleration	negative	0
-acceleration	positive	0
-acceleration	sadness	0
-acceleration	surprise	0
-acceleration	trust	0
-accent	anger	0
-accent	anticipation	0
-accent	disgust	0
-accent	fear	0
-accent	joy	0
-accent	negative	0
-accent	positive	0
-accent	sadness	0
-accent	surprise	0
-accent	trust	0
-accentuate	anger	0
-accentuate	anticipation	0
-accentuate	disgust	0
-accentuate	fear	0
-accentuate	joy	0
-accentuate	negative	0
-accentuate	positive	0
-accentuate	sadness	0
-accentuate	surprise	0
-accentuate	trust	0
-accept	anger	0
-accept	anticipation	0
-accept	disgust	0
-accept	fear	0
-accept	joy	0
-accept	negative	0
-accept	positive	0
-accept	sadness	0
-accept	surprise	0
-accept	trust	0
-acceptable	anger	0
-acceptable	anticipation	0
-acceptable	disgust	0
-acceptable	fear	0
-acceptable	joy	0
-acceptable	negative	0
-acceptable	positive	1
-acceptable	sadness	0
-acceptable	surprise	0
-acceptable	trust	0
-acceptance	anger	0
-acceptance	anticipation	0
-acceptance	disgust	0
-acceptance	fear	0
-acceptance	joy	0
-acceptance	negative	0
-acceptance	positive	1
-acceptance	sadness	0
-acceptance	surprise	0
-acceptance	trust	0
-access	anger	0
-access	anticipation	0
-access	disgust	0
-access	fear	0
-access	joy	0
-access	negative	0
-access	positive	0
-access	sadness	0
-access	surprise	0
-access	trust	0
-accessible	anger	0
-accessible	anticipation	0
-accessible	disgust	0
-accessible	fear	0
-accessible	joy	0
-accessible	negative	0
-accessible	positive	1
-accessible	sadness	0
-accessible	surprise	0
-accessible	trust	0
-accession	anger	0
-accession	anticipation	0
-accession	disgust	0
-accession	fear	0
-accession	joy	0
-accession	negative	0
-accession	positive	0
-accession	sadness	0
-accession	surprise	0
-accession	trust	0
-accessory	anger	0
-accessory	anticipation	0
-accessory	disgust	0
-accessory	fear	0
-accessory	joy	0
-accessory	negative	0
-accessory	positive	0
-accessory	sadness	0
-accessory	surprise	0
-accessory	trust	0
-accident	anger	0
-accident	anticipation	0
-accident	disgust	0
-accident	fear	1
-accident	joy	0
-accident	negative	1
-accident	positive	0
-accident	sadness	1
-accident	surprise	1
-accident	trust	0
-accidental	anger	0
-accidental	anticipation	0
-accidental	disgust	0
-accidental	fear	1
-accidental	joy	0
-accidental	negative	1
-accidental	positive	0
-accidental	sadness	0
-accidental	surprise	1
-accidental	trust	0
-accidentally	anger	0
-accidentally	anticipation	0
-accidentally	disgust	0
-accidentally	fear	0
-accidentally	joy	0
-accidentally	negative	0
-accidentally	positive	0
-accidentally	sadness	0
-accidentally	surprise	1
-accidentally	trust	0
-accolade	anger	0
-accolade	anticipation	1
-accolade	disgust	0
-accolade	fear	0
-accolade	joy	1
-accolade	negative	0
-accolade	positive	1
-accolade	sadness	0
-accolade	surprise	1
-accolade	trust	1
-accommodate	anger	0
-accommodate	anticipation	0
-accommodate	disgust	0
-accommodate	fear	0
-accommodate	joy	0
-accommodate	negative	0
-accommodate	positive	0
-accommodate	sadness	0
-accommodate	surprise	0
-accommodate	trust	0
-accommodation	anger	0
-accommodation	anticipation	0
-accommodation	disgust	0
-accommodation	fear	0
-accommodation	joy	0
-accommodation	negative	0
-accommodation	positive	1
-accommodation	sadness	0
-accommodation	surprise	0
-accommodation	trust	0
-accompaniment	anger	0
-accompaniment	anticipation	1
-accompaniment	disgust	0
-accompaniment	fear	0
-accompaniment	joy	1
-accompaniment	negative	0
-accompaniment	positive	1
-accompaniment	sadness	0
-accompaniment	surprise	0
-accompaniment	trust	1
-accompany	anger	0
-accompany	anticipation	0
-accompany	disgust	0
-accompany	fear	0
-accompany	joy	0
-accompany	negative	0
-accompany	positive	0
-accompany	sadness	0
-accompany	surprise	0
-accompany	trust	0
-accompanying	anger	0
-accompanying	anticipation	0
-accompanying	disgust	0
-accompanying	fear	0
-accompanying	joy	0
-accompanying	negative	0
-accompanying	positive	0
-accompanying	sadness	0
-accompanying	surprise	0
-accompanying	trust	0
-accomplice	anger	0
-accomplice	anticipation	0
-accomplice	disgust	0
-accomplice	fear	0
-accomplice	joy	0
-accomplice	negative	0
-accomplice	positive	0
-accomplice	sadness	0
-accomplice	surprise	0
-accomplice	trust	0
-accomplish	anger	0
-accomplish	anticipation	0
-accomplish	disgust	0
-accomplish	fear	0
-accomplish	joy	1
-accomplish	negative	0
-accomplish	positive	1
-accomplish	sadness	0
-accomplish	surprise	0
-accomplish	trust	0
-accomplished	anger	0
-accomplished	anticipation	0
-accomplished	disgust	0
-accomplished	fear	0
-accomplished	joy	1
-accomplished	negative	0
-accomplished	positive	1
-accomplished	sadness	0
-accomplished	surprise	0
-accomplished	trust	0
-accomplishment	anger	0
-accomplishment	anticipation	0
-accomplishment	disgust	0
-accomplishment	fear	0
-accomplishment	joy	0
-accomplishment	negative	0
-accomplishment	positive	1
-accomplishment	sadness	0
-accomplishment	surprise	0
-accomplishment	trust	0
-accord	anger	0
-accord	anticipation	0
-accord	disgust	0
-accord	fear	0
-accord	joy	0
-accord	negative	0
-accord	positive	1
-accord	sadness	0
-accord	surprise	0
-accord	trust	1
-accordance	anger	0
-accordance	anticipation	0
-accordance	disgust	0
-accordance	fear	0
-accordance	joy	0
-accordance	negative	0
-accordance	positive	0
-accordance	sadness	0
-accordance	surprise	0
-accordance	trust	0
-accordion	anger	0
-accordion	anticipation	0
-accordion	disgust	0
-accordion	fear	0
-accordion	joy	0
-accordion	negative	0
-accordion	positive	0
-accordion	sadness	0
-accordion	surprise	0
-accordion	trust	0
-account	anger	0
-account	anticipation	0
-account	disgust	0
-account	fear	0
-account	joy	0
-account	negative	0
-account	positive	0
-account	sadness	0
-account	surprise	0
-account	trust	1
-accountability	anger	0
-accountability	anticipation	0
-accountability	disgust	0
-accountability	fear	0
-accountability	joy	0
-accountability	negative	0
-accountability	positive	1
-accountability	sadness	0
-accountability	surprise	0
-accountability	trust	1
-accountable	anger	0
-accountable	anticipation	0
-accountable	disgust	0
-accountable	fear	0
-accountable	joy	0
-accountable	negative	0
-accountable	positive	1
-accountable	sadness	0
-accountable	surprise	0
-accountable	trust	1
-accountant	anger	0
-accountant	anticipation	0
-accountant	disgust	0
-accountant	fear	0
-accountant	joy	0
-accountant	negative	0
-accountant	positive	0
-accountant	sadness	0
-accountant	surprise	0
-accountant	trust	1
-accounting	anger	0
-accounting	anticipation	0
-accounting	disgust	0
-accounting	fear	0
-accounting	joy	0
-accounting	negative	0
-accounting	positive	0
-accounting	sadness	0
-accounting	surprise	0
-accounting	trust	0
-accounts	anger	0
-accounts	anticipation	0
-accounts	disgust	0
-accounts	fear	0
-accounts	joy	0
-accounts	negative	0
-accounts	positive	0
-accounts	sadness	0
-accounts	surprise	0
-accounts	trust	1
-accredited	anger	0
-accredited	anticipation	0
-accredited	disgust	0
-accredited	fear	0
-accredited	joy	0
-accredited	negative	0
-accredited	positive	1
-accredited	sadness	0
-accredited	surprise	0
-accredited	trust	1
-accretion	anger	0
-accretion	anticipation	0
-accretion	disgust	0
-accretion	fear	0
-accretion	joy	0
-accretion	negative	0
-accretion	positive	0
-accretion	sadness	0
-accretion	surprise	0
-accretion	trust	0
-accrue	anger	0
-accrue	anticipation	0
-accrue	disgust	0
-accrue	fear	0
-accrue	joy	0
-accrue	negative	0
-accrue	positive	0
-accrue	sadness	0
-accrue	surprise	0
-accrue	trust	0
-accueil	anger	0
-accueil	anticipation	0
-accueil	disgust	0
-accueil	fear	0
-accueil	joy	0
-accueil	negative	0
-accueil	positive	1
-accueil	sadness	0
-accueil	surprise	0
-accueil	trust	0
-accumulate	anger	0
-accumulate	anticipation	0
-accumulate	disgust	0
-accumulate	fear	0
-accumulate	joy	0
-accumulate	negative	0
-accumulate	positive	0
-accumulate	sadness	0
-accumulate	surprise	0
-accumulate	trust	0
-accumulation	anger	0
-accumulation	anticipation	0
-accumulation	disgust	0
-accumulation	fear	0
-accumulation	joy	0
-accumulation	negative	0
-accumulation	positive	0
-accumulation	sadness	0
-accumulation	surprise	0
-accumulation	trust	0
-accuracy	anger	0
-accuracy	anticipation	0
-accuracy	disgust	0
-accuracy	fear	0
-accuracy	joy	0
-accuracy	negative	0
-accuracy	positive	0
-accuracy	sadness	0
-accuracy	surprise	0
-accuracy	trust	0
-accurate	anger	0
-accurate	anticipation	0
-accurate	disgust	0
-accurate	fear	0
-accurate	joy	0
-accurate	negative	0
-accurate	positive	1
-accurate	sadness	0
-accurate	surprise	0
-accurate	trust	1
-accursed	anger	1
-accursed	anticipation	0
-accursed	disgust	0
-accursed	fear	1
-accursed	joy	0
-accursed	negative	1
-accursed	positive	0
-accursed	sadness	1
-accursed	surprise	0
-accursed	trust	0
-accusation	anger	1
-accusation	anticipation	0
-accusation	disgust	1
-accusation	fear	0
-accusation	joy	0
-accusation	negative	1
-accusation	positive	0
-accusation	sadness	0
-accusation	surprise	0
-accusation	trust	0
-accusative	anger	0
-accusative	anticipation	0
-accusative	disgust	0
-accusative	fear	0
-accusative	joy	0
-accusative	negative	1
-accusative	positive	0
-accusative	sadness	0
-accusative	surprise	0
-accusative	trust	0
-accused	anger	1
-accused	anticipation	0
-accused	disgust	0
-accused	fear	1
-accused	joy	0
-accused	negative	1
-accused	positive	0
-accused	sadness	0
-accused	surprise	0
-accused	trust	0
-accuser	anger	1
-accuser	anticipation	0
-accuser	disgust	0
-accuser	fear	1
-accuser	joy	0
-accuser	negative	1
-accuser	positive	0
-accuser	sadness	0
-accuser	surprise	0
-accuser	trust	0
-accusing	anger	1
-accusing	anticipation	0
-accusing	disgust	0
-accusing	fear	1
-accusing	joy	0
-accusing	negative	1
-accusing	positive	0
-accusing	sadness	0
-accusing	surprise	0
-accusing	trust	0
-accustomed	anger	0
-accustomed	anticipation	0
-accustomed	disgust	0
-accustomed	fear	0
-accustomed	joy	0
-accustomed	negative	0
-accustomed	positive	0
-accustomed	sadness	0
-accustomed	surprise	0
-accustomed	trust	0
-ace	anger	0
-ace	anticipation	0
-ace	disgust	0
-ace	fear	0
-ace	joy	0
-ace	negative	0
-ace	positive	1
-ace	sadness	0
-ace	surprise	0
-ace	trust	0
-acetic	anger	0
-acetic	anticipation	0
-acetic	disgust	0
-acetic	fear	0
-acetic	joy	0
-acetic	negative	0
-acetic	positive	0
-acetic	sadness	0
-acetic	surprise	0
-acetic	trust	0
-ache	anger	0
-ache	anticipation	0
-ache	disgust	0
-ache	fear	0
-ache	joy	0
-ache	negative	1
-ache	positive	0
-ache	sadness	1
-ache	surprise	0
-ache	trust	0
-achieve	anger	0
-achieve	anticipation	0
-achieve	disgust	0
-achieve	fear	0
-achieve	joy	1
-achieve	negative	0
-achieve	positive	1
-achieve	sadness	0
-achieve	surprise	0
-achieve	trust	1
-achievement	anger	0
-achievement	anticipation	1
-achievement	disgust	0
-achievement	fear	0
-achievement	joy	1
-achievement	negative	0
-achievement	positive	1
-achievement	sadness	0
-achievement	surprise	0
-achievement	trust	1
-aching	anger	0
-aching	anticipation	0
-aching	disgust	0
-aching	fear	0
-aching	joy	0
-aching	negative	1
-aching	positive	0
-aching	sadness	1
-aching	surprise	0
-aching	trust	0
-acid	anger	0
-acid	anticipation	0
-acid	disgust	0
-acid	fear	0
-acid	joy	0
-acid	negative	1
-acid	positive	0
-acid	sadness	0
-acid	surprise	0
-acid	trust	0
-acidity	anger	0
-acidity	anticipation	0
-acidity	disgust	0
-acidity	fear	0
-acidity	joy	0
-acidity	negative	0
-acidity	positive	0
-acidity	sadness	0
-acidity	surprise	0
-acidity	trust	0
-acknowledge	anger	0
-acknowledge	anticipation	0
-acknowledge	disgust	0
-acknowledge	fear	0
-acknowledge	joy	0
-acknowledge	negative	0
-acknowledge	positive	0
-acknowledge	sadness	0
-acknowledge	surprise	0
-acknowledge	trust	0
-acknowledged	anger	0
-acknowledged	anticipation	0
-acknowledged	disgust	0
-acknowledged	fear	0
-acknowledged	joy	0
-acknowledged	negative	0
-acknowledged	positive	0
-acknowledged	sadness	0
-acknowledged	surprise	0
-acknowledged	trust	0
-acknowledgment	anger	0
-acknowledgment	anticipation	0
-acknowledgment	disgust	0
-acknowledgment	fear	0
-acknowledgment	joy	0
-acknowledgment	negative	0
-acknowledgment	positive	1
-acknowledgment	sadness	0
-acknowledgment	surprise	0
-acknowledgment	trust	0
-acme	anger	0
-acme	anticipation	0
-acme	disgust	0
-acme	fear	0
-acme	joy	0
-acme	negative	0
-acme	positive	0
-acme	sadness	0
-acme	surprise	0
-acme	trust	0
-acoustic	anger	0
-acoustic	anticipation	0
-acoustic	disgust	0
-acoustic	fear	0
-acoustic	joy	0
-acoustic	negative	0
-acoustic	positive	0
-acoustic	sadness	0
-acoustic	surprise	0
-acoustic	trust	0
-acoustics	anger	0
-acoustics	anticipation	0
-acoustics	disgust	0
-acoustics	fear	0
-acoustics	joy	0
-acoustics	negative	0
-acoustics	positive	0
-acoustics	sadness	0
-acoustics	surprise	0
-acoustics	trust	0
-acquaint	anger	0
-acquaint	anticipation	0
-acquaint	disgust	0
-acquaint	fear	0
-acquaint	joy	0
-acquaint	negative	0
-acquaint	positive	0
-acquaint	sadness	0
-acquaint	surprise	0
-acquaint	trust	0
-acquaintance	anger	0
-acquaintance	anticipation	0
-acquaintance	disgust	0
-acquaintance	fear	0
-acquaintance	joy	0
-acquaintance	negative	0
-acquaintance	positive	0
-acquaintance	sadness	0
-acquaintance	surprise	0
-acquaintance	trust	0
-acquainted	anger	0
-acquainted	anticipation	0
-acquainted	disgust	0
-acquainted	fear	0
-acquainted	joy	0
-acquainted	negative	0
-acquainted	positive	0
-acquainted	sadness	0
-acquainted	surprise	0
-acquainted	trust	0
-acquiescence	anger	0
-acquiescence	anticipation	0
-acquiescence	disgust	0
-acquiescence	fear	0
-acquiescence	joy	0
-acquiescence	negative	0
-acquiescence	positive	0
-acquiescence	sadness	0
-acquiescence	surprise	0
-acquiescence	trust	0
-acquire	anger	0
-acquire	anticipation	0
-acquire	disgust	0
-acquire	fear	0
-acquire	joy	0
-acquire	negative	0
-acquire	positive	1
-acquire	sadness	0
-acquire	surprise	0
-acquire	trust	0
-acquiring	anger	0
-acquiring	anticipation	1
-acquiring	disgust	0
-acquiring	fear	0
-acquiring	joy	0
-acquiring	negative	0
-acquiring	positive	1
-acquiring	sadness	0
-acquiring	surprise	0
-acquiring	trust	0
-acquisition	anger	0
-acquisition	anticipation	0
-acquisition	disgust	0
-acquisition	fear	0
-acquisition	joy	0
-acquisition	negative	0
-acquisition	positive	0
-acquisition	sadness	0
-acquisition	surprise	0
-acquisition	trust	0
-acquisitions	anger	0
-acquisitions	anticipation	0
-acquisitions	disgust	0
-acquisitions	fear	0
-acquisitions	joy	0
-acquisitions	negative	0
-acquisitions	positive	0
-acquisitions	sadness	0
-acquisitions	surprise	0
-acquisitions	trust	0
-acreage	anger	0
-acreage	anticipation	0
-acreage	disgust	0
-acreage	fear	0
-acreage	joy	0
-acreage	negative	0
-acreage	positive	0
-acreage	sadness	0
-acreage	surprise	0
-acreage	trust	0
-acres	anger	0
-acres	anticipation	0
-acres	disgust	0
-acres	fear	0
-acres	joy	0
-acres	negative	0
-acres	positive	0
-acres	sadness	0
-acres	surprise	0
-acres	trust	0
-acrobat	anger	0
-acrobat	anticipation	0
-acrobat	disgust	0
-acrobat	fear	1
-acrobat	joy	1
-acrobat	negative	0
-acrobat	positive	1
-acrobat	sadness	0
-acrobat	surprise	0
-acrobat	trust	1
-act	anger	0
-act	anticipation	0
-act	disgust	0
-act	fear	0
-act	joy	0
-act	negative	0
-act	positive	0
-act	sadness	0
-act	surprise	0
-act	trust	0
-acting	anger	0
-acting	anticipation	0
-acting	disgust	0
-acting	fear	0
-acting	joy	0
-acting	negative	0
-acting	positive	0
-acting	sadness	0
-acting	surprise	0
-acting	trust	0
-action	anger	0
-action	anticipation	0
-action	disgust	0
-action	fear	0
-action	joy	0
-action	negative	0
-action	positive	1
-action	sadness	0
-action	surprise	0
-action	trust	0
-actionable	anger	1
-actionable	anticipation	0
-actionable	disgust	1
-actionable	fear	0
-actionable	joy	0
-actionable	negative	1
-actionable	positive	0
-actionable	sadness	0
-actionable	surprise	0
-actionable	trust	0
-active	anger	0
-active	anticipation	0
-active	disgust	0
-active	fear	0
-active	joy	0
-active	negative	0
-active	positive	0
-active	sadness	0
-active	surprise	0
-active	trust	0
-activity	anger	0
-activity	anticipation	0
-activity	disgust	0
-activity	fear	0
-activity	joy	0
-activity	negative	0
-activity	positive	0
-activity	sadness	0
-activity	surprise	0
-activity	trust	0
-actor	anger	0
-actor	anticipation	0
-actor	disgust	0
-actor	fear	0
-actor	joy	0
-actor	negative	0
-actor	positive	0
-actor	sadness	0
-actor	surprise	0
-actor	trust	0
-actual	anger	0
-actual	anticipation	0
-actual	disgust	0
-actual	fear	0
-actual	joy	0
-actual	negative	0
-actual	positive	1
-actual	sadness	0
-actual	surprise	0
-actual	trust	0
-actuality	anger	0
-actuality	anticipation	0
-actuality	disgust	0
-actuality	fear	0
-actuality	joy	0
-actuality	negative	0
-actuality	positive	0
-actuality	sadness	0
-actuality	surprise	0
-actuality	trust	0
-actuary	anger	0
-actuary	anticipation	0
-actuary	disgust	0
-actuary	fear	0
-actuary	joy	0
-actuary	negative	0
-actuary	positive	0
-actuary	sadness	0
-actuary	surprise	0
-actuary	trust	0
-acuity	anger	0
-acuity	anticipation	0
-acuity	disgust	0
-acuity	fear	0
-acuity	joy	0
-acuity	negative	0
-acuity	positive	1
-acuity	sadness	0
-acuity	surprise	0
-acuity	trust	0
-acumen	anger	0
-acumen	anticipation	0
-acumen	disgust	0
-acumen	fear	0
-acumen	joy	0
-acumen	negative	0
-acumen	positive	1
-acumen	sadness	0
-acumen	surprise	0
-acumen	trust	0
-acupuncture	anger	0
-acupuncture	anticipation	0
-acupuncture	disgust	0
-acupuncture	fear	0
-acupuncture	joy	0
-acupuncture	negative	0
-acupuncture	positive	0
-acupuncture	sadness	0
-acupuncture	surprise	0
-acupuncture	trust	0
-acutely	anger	0
-acutely	anticipation	0
-acutely	disgust	0
-acutely	fear	0
-acutely	joy	0
-acutely	negative	0
-acutely	positive	0
-acutely	sadness	0
-acutely	surprise	0
-acutely	trust	0
-adage	anger	0
-adage	anticipation	0
-adage	disgust	0
-adage	fear	0
-adage	joy	0
-adage	negative	0
-adage	positive	0
-adage	sadness	0
-adage	surprise	0
-adage	trust	0
-adamant	anger	0
-adamant	anticipation	0
-adamant	disgust	0
-adamant	fear	0
-adamant	joy	0
-adamant	negative	0
-adamant	positive	0
-adamant	sadness	0
-adamant	surprise	0
-adamant	trust	0
-adapt	anger	0
-adapt	anticipation	0
-adapt	disgust	0
-adapt	fear	0
-adapt	joy	0
-adapt	negative	0
-adapt	positive	1
-adapt	sadness	0
-adapt	surprise	0
-adapt	trust	0
-adaptable	anger	0
-adaptable	anticipation	0
-adaptable	disgust	0
-adaptable	fear	0
-adaptable	joy	0
-adaptable	negative	0
-adaptable	positive	1
-adaptable	sadness	0
-adaptable	surprise	0
-adaptable	trust	0
-add	anger	0
-add	anticipation	0
-add	disgust	0
-add	fear	0
-add	joy	0
-add	negative	0
-add	positive	0
-add	sadness	0
-add	surprise	0
-add	trust	0
-added	anger	0
-added	anticipation	0
-added	disgust	0
-added	fear	0
-added	joy	0
-added	negative	0
-added	positive	0
-added	sadness	0
-added	surprise	0
-added	trust	0
-addendum	anger	0
-addendum	anticipation	0
-addendum	disgust	0
-addendum	fear	0
-addendum	joy	0
-addendum	negative	0
-addendum	positive	0
-addendum	sadness	0
-addendum	surprise	0
-addendum	trust	0
-adder	anger	1
-adder	anticipation	0
-adder	disgust	1
-adder	fear	1
-adder	joy	0
-adder	negative	1
-adder	positive	0
-adder	sadness	1
-adder	surprise	0
-adder	trust	0
-addiction	anger	0
-addiction	anticipation	0
-addiction	disgust	0
-addiction	fear	0
-addiction	joy	0
-addiction	negative	1
-addiction	positive	0
-addiction	sadness	0
-addiction	surprise	0
-addiction	trust	0
-addition	anger	0
-addition	anticipation	0
-addition	disgust	0
-addition	fear	0
-addition	joy	0
-addition	negative	0
-addition	positive	0
-addition	sadness	0
-addition	surprise	0
-addition	trust	0
-additional	anger	0
-additional	anticipation	0
-additional	disgust	0
-additional	fear	0
-additional	joy	0
-additional	negative	0
-additional	positive	0
-additional	sadness	0
-additional	surprise	0
-additional	trust	0
-additive	anger	0
-additive	anticipation	0
-additive	disgust	0
-additive	fear	0
-additive	joy	0
-additive	negative	0
-additive	positive	0
-additive	sadness	0
-additive	surprise	0
-additive	trust	0
-address	anger	0
-address	anticipation	0
-address	disgust	0
-address	fear	0
-address	joy	0
-address	negative	0
-address	positive	0
-address	sadness	0
-address	surprise	0
-address	trust	0
-addressee	anger	0
-addressee	anticipation	0
-addressee	disgust	0
-addressee	fear	0
-addressee	joy	0
-addressee	negative	0
-addressee	positive	0
-addressee	sadness	0
-addressee	surprise	0
-addressee	trust	0
-addresses	anger	0
-addresses	anticipation	1
-addresses	disgust	0
-addresses	fear	0
-addresses	joy	0
-addresses	negative	0
-addresses	positive	1
-addresses	sadness	0
-addresses	surprise	0
-addresses	trust	0
-adept	anger	0
-adept	anticipation	0
-adept	disgust	0
-adept	fear	0
-adept	joy	0
-adept	negative	0
-adept	positive	1
-adept	sadness	0
-adept	surprise	0
-adept	trust	0
-adequacy	anger	0
-adequacy	anticipation	0
-adequacy	disgust	0
-adequacy	fear	0
-adequacy	joy	0
-adequacy	negative	0
-adequacy	positive	1
-adequacy	sadness	0
-adequacy	surprise	0
-adequacy	trust	0
-adequate	anger	0
-adequate	anticipation	0
-adequate	disgust	0
-adequate	fear	0
-adequate	joy	0
-adequate	negative	0
-adequate	positive	0
-adequate	sadness	0
-adequate	surprise	0
-adequate	trust	0
-adhere	anger	0
-adhere	anticipation	0
-adhere	disgust	0
-adhere	fear	0
-adhere	joy	0
-adhere	negative	0
-adhere	positive	0
-adhere	sadness	0
-adhere	surprise	0
-adhere	trust	0
-adherence	anger	0
-adherence	anticipation	0
-adherence	disgust	0
-adherence	fear	0
-adherence	joy	0
-adherence	negative	0
-adherence	positive	0
-adherence	sadness	0
-adherence	surprise	0
-adherence	trust	0
-adherent	anger	0
-adherent	anticipation	0
-adherent	disgust	0
-adherent	fear	0
-adherent	joy	0
-adherent	negative	0
-adherent	positive	0
-adherent	sadness	0
-adherent	surprise	0
-adherent	trust	0
-adhering	anger	0
-adhering	anticipation	0
-adhering	disgust	0
-adhering	fear	0
-adhering	joy	0
-adhering	negative	0
-adhering	positive	0
-adhering	sadness	0
-adhering	surprise	0
-adhering	trust	1
-adhesion	anger	0
-adhesion	anticipation	0
-adhesion	disgust	0
-adhesion	fear	0
-adhesion	joy	0
-adhesion	negative	0
-adhesion	positive	0
-adhesion	sadness	0
-adhesion	surprise	0
-adhesion	trust	0
-adhesive	anger	0
-adhesive	anticipation	0
-adhesive	disgust	0
-adhesive	fear	0
-adhesive	joy	0
-adhesive	negative	0
-adhesive	positive	0
-adhesive	sadness	0
-adhesive	surprise	0
-adhesive	trust	0
-adieu	anger	0
-adieu	anticipation	0
-adieu	disgust	0
-adieu	fear	0
-adieu	joy	0
-adieu	negative	0
-adieu	positive	0
-adieu	sadness	0
-adieu	surprise	0
-adieu	trust	0
-adipose	anger	0
-adipose	anticipation	0
-adipose	disgust	0
-adipose	fear	0
-adipose	joy	0
-adipose	negative	1
-adipose	positive	0
-adipose	sadness	0
-adipose	surprise	0
-adipose	trust	0
-adjacency	anger	0
-adjacency	anticipation	0
-adjacency	disgust	0
-adjacency	fear	0
-adjacency	joy	0
-adjacency	negative	0
-adjacency	positive	0
-adjacency	sadness	0
-adjacency	surprise	0
-adjacency	trust	0
-adjacent	anger	0
-adjacent	anticipation	0
-adjacent	disgust	0
-adjacent	fear	0
-adjacent	joy	0
-adjacent	negative	0
-adjacent	positive	0
-adjacent	sadness	0
-adjacent	surprise	0
-adjacent	trust	0
-adjective	anger	0
-adjective	anticipation	0
-adjective	disgust	0
-adjective	fear	0
-adjective	joy	0
-adjective	negative	0
-adjective	positive	0
-adjective	sadness	0
-adjective	surprise	0
-adjective	trust	0
-adjoining	anger	0
-adjoining	anticipation	0
-adjoining	disgust	0
-adjoining	fear	0
-adjoining	joy	0
-adjoining	negative	0
-adjoining	positive	0
-adjoining	sadness	0
-adjoining	surprise	0
-adjoining	trust	0
-adjourn	anger	0
-adjourn	anticipation	0
-adjourn	disgust	0
-adjourn	fear	0
-adjourn	joy	0
-adjourn	negative	0
-adjourn	positive	0
-adjourn	sadness	0
-adjourn	surprise	0
-adjourn	trust	0
-adjournment	anger	0
-adjournment	anticipation	0
-adjournment	disgust	0
-adjournment	fear	0
-adjournment	joy	0
-adjournment	negative	0
-adjournment	positive	0
-adjournment	sadness	0
-adjournment	surprise	0
-adjournment	trust	0
-adjudicate	anger	0
-adjudicate	anticipation	0
-adjudicate	disgust	0
-adjudicate	fear	1
-adjudicate	joy	0
-adjudicate	negative	1
-adjudicate	positive	0
-adjudicate	sadness	0
-adjudicate	surprise	0
-adjudicate	trust	0
-adjudication	anger	0
-adjudication	anticipation	0
-adjudication	disgust	0
-adjudication	fear	0
-adjudication	joy	0
-adjudication	negative	0
-adjudication	positive	0
-adjudication	sadness	0
-adjudication	surprise	0
-adjudication	trust	0
-adjunct	anger	0
-adjunct	anticipation	0
-adjunct	disgust	0
-adjunct	fear	0
-adjunct	joy	0
-adjunct	negative	0
-adjunct	positive	1
-adjunct	sadness	0
-adjunct	surprise	0
-adjunct	trust	0
-adjust	anger	0
-adjust	anticipation	0
-adjust	disgust	0
-adjust	fear	0
-adjust	joy	0
-adjust	negative	0
-adjust	positive	0
-adjust	sadness	0
-adjust	surprise	0
-adjust	trust	0
-adjustment	anger	0
-adjustment	anticipation	0
-adjustment	disgust	0
-adjustment	fear	0
-adjustment	joy	0
-adjustment	negative	0
-adjustment	positive	0
-adjustment	sadness	0
-adjustment	surprise	0
-adjustment	trust	0
-adjuvant	anger	0
-adjuvant	anticipation	0
-adjuvant	disgust	0
-adjuvant	fear	0
-adjuvant	joy	0
-adjuvant	negative	0
-adjuvant	positive	0
-adjuvant	sadness	0
-adjuvant	surprise	0
-adjuvant	trust	0
-administer	anger	0
-administer	anticipation	0
-administer	disgust	0
-administer	fear	0
-administer	joy	0
-administer	negative	0
-administer	positive	0
-administer	sadness	0
-administer	surprise	0
-administer	trust	0
-administration	anger	0
-administration	anticipation	0
-administration	disgust	0
-administration	fear	0
-administration	joy	0
-administration	negative	0
-administration	positive	0
-administration	sadness	0
-administration	surprise	0
-administration	trust	0
-administrative	anger	0
-administrative	anticipation	0
-administrative	disgust	0
-administrative	fear	0
-administrative	joy	0
-administrative	negative	0
-administrative	positive	0
-administrative	sadness	0
-administrative	surprise	0
-administrative	trust	1
-admirable	anger	0
-admirable	anticipation	0
-admirable	disgust	0
-admirable	fear	0
-admirable	joy	1
-admirable	negative	0
-admirable	positive	1
-admirable	sadness	0
-admirable	surprise	0
-admirable	trust	1
-admiral	anger	0
-admiral	anticipation	0
-admiral	disgust	0
-admiral	fear	0
-admiral	joy	0
-admiral	negative	0
-admiral	positive	1
-admiral	sadness	0
-admiral	surprise	0
-admiral	trust	1
-admiralty	anger	0
-admiralty	anticipation	0
-admiralty	disgust	0
-admiralty	fear	0
-admiralty	joy	0
-admiralty	negative	0
-admiralty	positive	0
-admiralty	sadness	0
-admiralty	surprise	0
-admiralty	trust	0
-admiration	anger	0
-admiration	anticipation	0
-admiration	disgust	0
-admiration	fear	0
-admiration	joy	1
-admiration	negative	0
-admiration	positive	1
-admiration	sadness	0
-admiration	surprise	0
-admiration	trust	1
-admire	anger	0
-admire	anticipation	0
-admire	disgust	0
-admire	fear	0
-admire	joy	0
-admire	negative	0
-admire	positive	1
-admire	sadness	0
-admire	surprise	0
-admire	trust	1
-admirer	anger	0
-admirer	anticipation	0
-admirer	disgust	0
-admirer	fear	0
-admirer	joy	0
-admirer	negative	0
-admirer	positive	1
-admirer	sadness	0
-admirer	surprise	0
-admirer	trust	0
-admissibility	anger	0
-admissibility	anticipation	0
-admissibility	disgust	0
-admissibility	fear	0
-admissibility	joy	0
-admissibility	negative	0
-admissibility	positive	0
-admissibility	sadness	0
-admissibility	surprise	0
-admissibility	trust	0
-admissible	anger	0
-admissible	anticipation	0
-admissible	disgust	0
-admissible	fear	0
-admissible	joy	0
-admissible	negative	0
-admissible	positive	1
-admissible	sadness	0
-admissible	surprise	0
-admissible	trust	1
-admission	anger	0
-admission	anticipation	0
-admission	disgust	0
-admission	fear	0
-admission	joy	0
-admission	negative	0
-admission	positive	0
-admission	sadness	0
-admission	surprise	0
-admission	trust	0
-admit	anger	0
-admit	anticipation	0
-admit	disgust	0
-admit	fear	0
-admit	joy	0
-admit	negative	0
-admit	positive	0
-admit	sadness	0
-admit	surprise	0
-admit	trust	0
-admittance	anger	0
-admittance	anticipation	0
-admittance	disgust	0
-admittance	fear	0
-admittance	joy	0
-admittance	negative	0
-admittance	positive	0
-admittance	sadness	0
-admittance	surprise	0
-admittance	trust	0
-admitted	anger	0
-admitted	anticipation	0
-admitted	disgust	0
-admitted	fear	0
-admitted	joy	0
-admitted	negative	0
-admitted	positive	0
-admitted	sadness	0
-admitted	surprise	0
-admitted	trust	0
-admitting	anger	0
-admitting	anticipation	0
-admitting	disgust	0
-admitting	fear	0
-admitting	joy	0
-admitting	negative	0
-admitting	positive	0
-admitting	sadness	0
-admitting	surprise	0
-admitting	trust	0
-admixture	anger	0
-admixture	anticipation	0
-admixture	disgust	0
-admixture	fear	0
-admixture	joy	0
-admixture	negative	0
-admixture	positive	0
-admixture	sadness	0
-admixture	surprise	0
-admixture	trust	0
-admonition	anger	0
-admonition	anticipation	0
-admonition	disgust	0
-admonition	fear	1
-admonition	joy	0
-admonition	negative	1
-admonition	positive	0
-admonition	sadness	0
-admonition	surprise	0
-admonition	trust	0
-ado	anger	0
-ado	anticipation	0
-ado	disgust	0
-ado	fear	0
-ado	joy	0
-ado	negative	0
-ado	positive	0
-ado	sadness	0
-ado	surprise	0
-ado	trust	0
-adobe	anger	0
-adobe	anticipation	0
-adobe	disgust	0
-adobe	fear	0
-adobe	joy	0
-adobe	negative	0
-adobe	positive	0
-adobe	sadness	0
-adobe	surprise	0
-adobe	trust	0
-adolescence	anger	0
-adolescence	anticipation	0
-adolescence	disgust	0
-adolescence	fear	0
-adolescence	joy	0
-adolescence	negative	0
-adolescence	positive	0
-adolescence	sadness	0
-adolescence	surprise	0
-adolescence	trust	0
-adolescent	anger	0
-adolescent	anticipation	0
-adolescent	disgust	0
-adolescent	fear	0
-adolescent	joy	0
-adolescent	negative	0
-adolescent	positive	0
-adolescent	sadness	0
-adolescent	surprise	0
-adolescent	trust	0
-adopt	anger	0
-adopt	anticipation	0
-adopt	disgust	0
-adopt	fear	0
-adopt	joy	0
-adopt	negative	0
-adopt	positive	0
-adopt	sadness	0
-adopt	surprise	0
-adopt	trust	0
-adoption	anger	0
-adoption	anticipation	0
-adoption	disgust	0
-adoption	fear	0
-adoption	joy	0
-adoption	negative	0
-adoption	positive	0
-adoption	sadness	0
-adoption	surprise	0
-adoption	trust	0
-adorable	anger	0
-adorable	anticipation	0
-adorable	disgust	0
-adorable	fear	0
-adorable	joy	1
-adorable	negative	0
-adorable	positive	1
-adorable	sadness	0
-adorable	surprise	0
-adorable	trust	0
-adoration	anger	0
-adoration	anticipation	0
-adoration	disgust	0
-adoration	fear	0
-adoration	joy	1
-adoration	negative	0
-adoration	positive	1
-adoration	sadness	0
-adoration	surprise	0
-adoration	trust	1
-adore	anger	0
-adore	anticipation	1
-adore	disgust	0
-adore	fear	0
-adore	joy	1
-adore	negative	0
-adore	positive	1
-adore	sadness	0
-adore	surprise	0
-adore	trust	1
-adorn	anger	0
-adorn	anticipation	0
-adorn	disgust	0
-adorn	fear	0
-adorn	joy	0
-adorn	negative	0
-adorn	positive	0
-adorn	sadness	0
-adorn	surprise	0
-adorn	trust	0
-adornment	anger	0
-adornment	anticipation	0
-adornment	disgust	0
-adornment	fear	0
-adornment	joy	0
-adornment	negative	0
-adornment	positive	0
-adornment	sadness	0
-adornment	surprise	0
-adornment	trust	0
-adrift	anger	0
-adrift	anticipation	1
-adrift	disgust	0
-adrift	fear	1
-adrift	joy	0
-adrift	negative	1
-adrift	positive	0
-adrift	sadness	1
-adrift	surprise	0
-adrift	trust	0
-adult	anger	0
-adult	anticipation	0
-adult	disgust	0
-adult	fear	0
-adult	joy	0
-adult	negative	0
-adult	positive	0
-adult	sadness	0
-adult	surprise	0
-adult	trust	0
-adulterated	anger	0
-adulterated	anticipation	0
-adulterated	disgust	0
-adulterated	fear	0
-adulterated	joy	0
-adulterated	negative	1
-adulterated	positive	0
-adulterated	sadness	0
-adulterated	surprise	0
-adulterated	trust	0
-adultery	anger	0
-adultery	anticipation	0
-adultery	disgust	1
-adultery	fear	0
-adultery	joy	0
-adultery	negative	1
-adultery	positive	0
-adultery	sadness	1
-adultery	surprise	0
-adultery	trust	0
-advance	anger	0
-advance	anticipation	1
-advance	disgust	0
-advance	fear	1
-advance	joy	1
-advance	negative	0
-advance	positive	1
-advance	sadness	0
-advance	surprise	1
-advance	trust	0
-advanced	anger	0
-advanced	anticipation	0
-advanced	disgust	0
-advanced	fear	0
-advanced	joy	0
-advanced	negative	0
-advanced	positive	1
-advanced	sadness	0
-advanced	surprise	0
-advanced	trust	0
-advancement	anger	0
-advancement	anticipation	0
-advancement	disgust	0
-advancement	fear	0
-advancement	joy	0
-advancement	negative	0
-advancement	positive	1
-advancement	sadness	0
-advancement	surprise	0
-advancement	trust	0
-advancing	anger	0
-advancing	anticipation	0
-advancing	disgust	0
-advancing	fear	0
-advancing	joy	0
-advancing	negative	0
-advancing	positive	0
-advancing	sadness	0
-advancing	surprise	0
-advancing	trust	0
-advantage	anger	0
-advantage	anticipation	0
-advantage	disgust	0
-advantage	fear	0
-advantage	joy	0
-advantage	negative	0
-advantage	positive	1
-advantage	sadness	0
-advantage	surprise	0
-advantage	trust	0
-advantageous	anger	0
-advantageous	anticipation	0
-advantageous	disgust	0
-advantageous	fear	0
-advantageous	joy	0
-advantageous	negative	0
-advantageous	positive	1
-advantageous	sadness	0
-advantageous	surprise	0
-advantageous	trust	0
-advent	anger	0
-advent	anticipation	1
-advent	disgust	0
-advent	fear	0
-advent	joy	1
-advent	negative	0
-advent	positive	1
-advent	sadness	0
-advent	surprise	0
-advent	trust	1
-adventure	anger	0
-adventure	anticipation	1
-adventure	disgust	0
-adventure	fear	0
-adventure	joy	0
-adventure	negative	0
-adventure	positive	1
-adventure	sadness	0
-adventure	surprise	0
-adventure	trust	0
-adventurer	anger	0
-adventurer	anticipation	0
-adventurer	disgust	0
-adventurer	fear	0
-adventurer	joy	0
-adventurer	negative	0
-adventurer	positive	0
-adventurer	sadness	0
-adventurer	surprise	0
-adventurer	trust	0
-adventurous	anger	0
-adventurous	anticipation	0
-adventurous	disgust	0
-adventurous	fear	0
-adventurous	joy	0
-adventurous	negative	0
-adventurous	positive	1
-adventurous	sadness	0
-adventurous	surprise	0
-adventurous	trust	0
-adversary	anger	1
-adversary	anticipation	0
-adversary	disgust	0
-adversary	fear	0
-adversary	joy	0
-adversary	negative	1
-adversary	positive	0
-adversary	sadness	0
-adversary	surprise	0
-adversary	trust	0
-adverse	anger	1
-adverse	anticipation	0
-adverse	disgust	1
-adverse	fear	1
-adverse	joy	0
-adverse	negative	1
-adverse	positive	0
-adverse	sadness	1
-adverse	surprise	0
-adverse	trust	0
-adversity	anger	1
-adversity	anticipation	0
-adversity	disgust	0
-adversity	fear	1
-adversity	joy	0
-adversity	negative	1
-adversity	positive	0
-adversity	sadness	1
-adversity	surprise	0
-adversity	trust	0
-advertise	anger	0
-advertise	anticipation	0
-advertise	disgust	0
-advertise	fear	0
-advertise	joy	0
-advertise	negative	0
-advertise	positive	0
-advertise	sadness	0
-advertise	surprise	0
-advertise	trust	0
-advertisement	anger	0
-advertisement	anticipation	0
-advertisement	disgust	0
-advertisement	fear	0
-advertisement	joy	0
-advertisement	negative	0
-advertisement	positive	0
-advertisement	sadness	0
-advertisement	surprise	0
-advertisement	trust	0
-advice	anger	0
-advice	anticipation	0
-advice	disgust	0
-advice	fear	0
-advice	joy	0
-advice	negative	0
-advice	positive	0
-advice	sadness	0
-advice	surprise	0
-advice	trust	1
-advisable	anger	0
-advisable	anticipation	0
-advisable	disgust	0
-advisable	fear	0
-advisable	joy	0
-advisable	negative	0
-advisable	positive	1
-advisable	sadness	0
-advisable	surprise	0
-advisable	trust	1
-advise	anger	0
-advise	anticipation	0
-advise	disgust	0
-advise	fear	0
-advise	joy	0
-advise	negative	0
-advise	positive	1
-advise	sadness	0
-advise	surprise	0
-advise	trust	1
-advised	anger	0
-advised	anticipation	0
-advised	disgust	0
-advised	fear	0
-advised	joy	0
-advised	negative	0
-advised	positive	0
-advised	sadness	0
-advised	surprise	0
-advised	trust	1
-advisement	anger	0
-advisement	anticipation	0
-advisement	disgust	0
-advisement	fear	0
-advisement	joy	0
-advisement	negative	0
-advisement	positive	0
-advisement	sadness	0
-advisement	surprise	0
-advisement	trust	0
-adviser	anger	0
-adviser	anticipation	0
-adviser	disgust	0
-adviser	fear	0
-adviser	joy	0
-adviser	negative	0
-adviser	positive	1
-adviser	sadness	0
-adviser	surprise	0
-adviser	trust	1
-advocacy	anger	1
-advocacy	anticipation	1
-advocacy	disgust	0
-advocacy	fear	0
-advocacy	joy	1
-advocacy	negative	0
-advocacy	positive	1
-advocacy	sadness	0
-advocacy	surprise	0
-advocacy	trust	1
-advocate	anger	0
-advocate	anticipation	0
-advocate	disgust	0
-advocate	fear	0
-advocate	joy	0
-advocate	negative	0
-advocate	positive	0
-advocate	sadness	0
-advocate	surprise	0
-advocate	trust	1
-aegis	anger	0
-aegis	anticipation	0
-aegis	disgust	0
-aegis	fear	0
-aegis	joy	0
-aegis	negative	0
-aegis	positive	0
-aegis	sadness	0
-aegis	surprise	0
-aegis	trust	0
-aeration	anger	0
-aeration	anticipation	0
-aeration	disgust	0
-aeration	fear	0
-aeration	joy	0
-aeration	negative	0
-aeration	positive	0
-aeration	sadness	0
-aeration	surprise	0
-aeration	trust	0
-aerial	anger	0
-aerial	anticipation	0
-aerial	disgust	0
-aerial	fear	0
-aerial	joy	0
-aerial	negative	0
-aerial	positive	0
-aerial	sadness	0
-aerial	surprise	0
-aerial	trust	0
-aerodrome	anger	0
-aerodrome	anticipation	0
-aerodrome	disgust	0
-aerodrome	fear	0
-aerodrome	joy	0
-aerodrome	negative	0
-aerodrome	positive	0
-aerodrome	sadness	0
-aerodrome	surprise	0
-aerodrome	trust	0
-aerodynamics	anger	0
-aerodynamics	anticipation	0
-aerodynamics	disgust	0
-aerodynamics	fear	0
-aerodynamics	joy	0
-aerodynamics	negative	0
-aerodynamics	positive	0
-aerodynamics	sadness	0
-aerodynamics	surprise	0
-aerodynamics	trust	0
-aeronautics	anger	0
-aeronautics	anticipation	0
-aeronautics	disgust	0
-aeronautics	fear	0
-aeronautics	joy	0
-aeronautics	negative	0
-aeronautics	positive	0
-aeronautics	sadness	0
-aeronautics	surprise	0
-aeronautics	trust	0
-aeroplane	anger	0
-aeroplane	anticipation	0
-aeroplane	disgust	0
-aeroplane	fear	0
-aeroplane	joy	0
-aeroplane	negative	0
-aeroplane	positive	0
-aeroplane	sadness	0
-aeroplane	surprise	0
-aeroplane	trust	0
-aesthetic	anger	0
-aesthetic	anticipation	0
-aesthetic	disgust	0
-aesthetic	fear	0
-aesthetic	joy	0
-aesthetic	negative	0
-aesthetic	positive	1
-aesthetic	sadness	0
-aesthetic	surprise	0
-aesthetic	trust	0
-aesthetics	anger	0
-aesthetics	anticipation	0
-aesthetics	disgust	0
-aesthetics	fear	0
-aesthetics	joy	1
-aesthetics	negative	0
-aesthetics	positive	1
-aesthetics	sadness	0
-aesthetics	surprise	0
-aesthetics	trust	0
-aetiology	anger	0
-aetiology	anticipation	0
-aetiology	disgust	0
-aetiology	fear	0
-aetiology	joy	0
-aetiology	negative	0
-aetiology	positive	0
-aetiology	sadness	0
-aetiology	surprise	0
-aetiology	trust	0
-afar	anger	0
-afar	anticipation	0
-afar	disgust	0
-afar	fear	0
-afar	joy	0
-afar	negative	0
-afar	positive	0
-afar	sadness	0
-afar	surprise	0
-afar	trust	0
-affable	anger	0
-affable	anticipation	0
-affable	disgust	0
-affable	fear	0
-affable	joy	0
-affable	negative	0
-affable	positive	1
-affable	sadness	0
-affable	surprise	0
-affable	trust	0
-affair	anger	0
-affair	anticipation	0
-affair	disgust	0
-affair	fear	0
-affair	joy	0
-affair	negative	0
-affair	positive	0
-affair	sadness	0
-affair	surprise	0
-affair	trust	0
-affecting	anger	0
-affecting	anticipation	0
-affecting	disgust	0
-affecting	fear	0
-affecting	joy	0
-affecting	negative	0
-affecting	positive	0
-affecting	sadness	0
-affecting	surprise	0
-affecting	trust	0
-affection	anger	0
-affection	anticipation	0
-affection	disgust	0
-affection	fear	0
-affection	joy	1
-affection	negative	0
-affection	positive	1
-affection	sadness	0
-affection	surprise	0
-affection	trust	1
-affections	anger	0
-affections	anticipation	0
-affections	disgust	0
-affections	fear	0
-affections	joy	0
-affections	negative	0
-affections	positive	0
-affections	sadness	0
-affections	surprise	0
-affections	trust	0
-affiche	anger	0
-affiche	anticipation	0
-affiche	disgust	0
-affiche	fear	0
-affiche	joy	0
-affiche	negative	0
-affiche	positive	0
-affiche	sadness	0
-affiche	surprise	0
-affiche	trust	0
-affidavit	anger	0
-affidavit	anticipation	0
-affidavit	disgust	0
-affidavit	fear	0
-affidavit	joy	0
-affidavit	negative	0
-affidavit	positive	0
-affidavit	sadness	0
-affidavit	surprise	0
-affidavit	trust	0
-affiliated	anger	0
-affiliated	anticipation	0
-affiliated	disgust	0
-affiliated	fear	0
-affiliated	joy	0
-affiliated	negative	0
-affiliated	positive	1
-affiliated	sadness	0
-affiliated	surprise	0
-affiliated	trust	0
-affiliation	anger	0
-affiliation	anticipation	0
-affiliation	disgust	0
-affiliation	fear	0
-affiliation	joy	0
-affiliation	negative	0
-affiliation	positive	0
-affiliation	sadness	0
-affiliation	surprise	0
-affiliation	trust	0
-affinity	anger	0
-affinity	anticipation	0
-affinity	disgust	0
-affinity	fear	0
-affinity	joy	0
-affinity	negative	0
-affinity	positive	0
-affinity	sadness	0
-affinity	surprise	0
-affinity	trust	0
-affirm	anger	0
-affirm	anticipation	0
-affirm	disgust	0
-affirm	fear	0
-affirm	joy	0
-affirm	negative	0
-affirm	positive	1
-affirm	sadness	0
-affirm	surprise	0
-affirm	trust	1
-affirmation	anger	0
-affirmation	anticipation	0
-affirmation	disgust	0
-affirmation	fear	0
-affirmation	joy	0
-affirmation	negative	0
-affirmation	positive	1
-affirmation	sadness	0
-affirmation	surprise	0
-affirmation	trust	0
-affirmative	anger	0
-affirmative	anticipation	0
-affirmative	disgust	0
-affirmative	fear	0
-affirmative	joy	0
-affirmative	negative	0
-affirmative	positive	1
-affirmative	sadness	0
-affirmative	surprise	0
-affirmative	trust	0
-affirmatively	anger	0
-affirmatively	anticipation	0
-affirmatively	disgust	0
-affirmatively	fear	0
-affirmatively	joy	0
-affirmatively	negative	0
-affirmatively	positive	1
-affirmatively	sadness	0
-affirmatively	surprise	0
-affirmatively	trust	1
-affix	anger	0
-affix	anticipation	0
-affix	disgust	0
-affix	fear	0
-affix	joy	0
-affix	negative	0
-affix	positive	0
-affix	sadness	0
-affix	surprise	0
-affix	trust	0
-afflict	anger	0
-afflict	anticipation	0
-afflict	disgust	0
-afflict	fear	1
-afflict	joy	0
-afflict	negative	1
-afflict	positive	0
-afflict	sadness	1
-afflict	surprise	0
-afflict	trust	0
-afflicted	anger	0
-afflicted	anticipation	0
-afflicted	disgust	0
-afflicted	fear	0
-afflicted	joy	0
-afflicted	negative	1
-afflicted	positive	0
-afflicted	sadness	0
-afflicted	surprise	0
-afflicted	trust	0
-affliction	anger	0
-affliction	anticipation	0
-affliction	disgust	1
-affliction	fear	1
-affliction	joy	0
-affliction	negative	1
-affliction	positive	0
-affliction	sadness	1
-affliction	surprise	0
-affliction	trust	0
-affluence	anger	0
-affluence	anticipation	0
-affluence	disgust	0
-affluence	fear	0
-affluence	joy	1
-affluence	negative	0
-affluence	positive	1
-affluence	sadness	0
-affluence	surprise	0
-affluence	trust	0
-affluent	anger	0
-affluent	anticipation	0
-affluent	disgust	0
-affluent	fear	0
-affluent	joy	0
-affluent	negative	0
-affluent	positive	1
-affluent	sadness	0
-affluent	surprise	0
-affluent	trust	0
-afford	anger	0
-afford	anticipation	0
-afford	disgust	0
-afford	fear	0
-afford	joy	0
-afford	negative	0
-afford	positive	1
-afford	sadness	0
-afford	surprise	0
-afford	trust	0
-affront	anger	1
-affront	anticipation	0
-affront	disgust	1
-affront	fear	1
-affront	joy	0
-affront	negative	1
-affront	positive	0
-affront	sadness	1
-affront	surprise	1
-affront	trust	0
-afield	anger	0
-afield	anticipation	0
-afield	disgust	0
-afield	fear	0
-afield	joy	0
-afield	negative	0
-afield	positive	0
-afield	sadness	0
-afield	surprise	0
-afield	trust	0
-afore	anger	0
-afore	anticipation	0
-afore	disgust	0
-afore	fear	0
-afore	joy	0
-afore	negative	0
-afore	positive	0
-afore	sadness	0
-afore	surprise	0
-afore	trust	0
-aforementioned	anger	0
-aforementioned	anticipation	0
-aforementioned	disgust	0
-aforementioned	fear	0
-aforementioned	joy	0
-aforementioned	negative	0
-aforementioned	positive	0
-aforementioned	sadness	0
-aforementioned	surprise	0
-aforementioned	trust	0
-aforesaid	anger	0
-aforesaid	anticipation	0
-aforesaid	disgust	0
-aforesaid	fear	0
-aforesaid	joy	0
-aforesaid	negative	0
-aforesaid	positive	0
-aforesaid	sadness	0
-aforesaid	surprise	0
-aforesaid	trust	0
-afraid	anger	0
-afraid	anticipation	0
-afraid	disgust	0
-afraid	fear	1
-afraid	joy	0
-afraid	negative	1
-afraid	positive	0
-afraid	sadness	0
-afraid	surprise	0
-afraid	trust	0
-afresh	anger	0
-afresh	anticipation	0
-afresh	disgust	0
-afresh	fear	0
-afresh	joy	0
-afresh	negative	0
-afresh	positive	0
-afresh	sadness	0
-afresh	surprise	0
-afresh	trust	0
-aft	anger	0
-aft	anticipation	0
-aft	disgust	0
-aft	fear	0
-aft	joy	0
-aft	negative	0
-aft	positive	0
-aft	sadness	0
-aft	surprise	0
-aft	trust	0
-aftermath	anger	1
-aftermath	anticipation	0
-aftermath	disgust	1
-aftermath	fear	1
-aftermath	joy	0
-aftermath	negative	1
-aftermath	positive	0
-aftermath	sadness	1
-aftermath	surprise	0
-aftermath	trust	0
-afternoon	anger	0
-afternoon	anticipation	0
-afternoon	disgust	0
-afternoon	fear	0
-afternoon	joy	0
-afternoon	negative	0
-afternoon	positive	0
-afternoon	sadness	0
-afternoon	surprise	0
-afternoon	trust	0
-aftertaste	anger	0
-aftertaste	anticipation	0
-aftertaste	disgust	0
-aftertaste	fear	0
-aftertaste	joy	0
-aftertaste	negative	1
-aftertaste	positive	0
-aftertaste	sadness	0
-aftertaste	surprise	0
-aftertaste	trust	0
-afterthought	anger	0
-afterthought	anticipation	0
-afterthought	disgust	0
-afterthought	fear	0
-afterthought	joy	0
-afterthought	negative	0
-afterthought	positive	0
-afterthought	sadness	0
-afterthought	surprise	0
-afterthought	trust	0
-aga	anger	0
-aga	anticipation	0
-aga	disgust	0
-aga	fear	1
-aga	joy	0
-aga	negative	0
-aga	positive	1
-aga	sadness	0
-aga	surprise	0
-aga	trust	1
-agate	anger	0
-agate	anticipation	0
-agate	disgust	0
-agate	fear	0
-agate	joy	0
-agate	negative	0
-agate	positive	0
-agate	sadness	0
-agate	surprise	0
-agate	trust	0
-age	anger	0
-age	anticipation	0
-age	disgust	0
-age	fear	0
-age	joy	0
-age	negative	0
-age	positive	0
-age	sadness	0
-age	surprise	0
-age	trust	0
-aged	anger	0
-aged	anticipation	0
-aged	disgust	0
-aged	fear	0
-aged	joy	0
-aged	negative	0
-aged	positive	0
-aged	sadness	0
-aged	surprise	0
-aged	trust	0
-agency	anger	0
-agency	anticipation	0
-agency	disgust	0
-agency	fear	0
-agency	joy	0
-agency	negative	0
-agency	positive	0
-agency	sadness	0
-agency	surprise	0
-agency	trust	0
-agent	anger	0
-agent	anticipation	0
-agent	disgust	0
-agent	fear	0
-agent	joy	0
-agent	negative	0
-agent	positive	0
-agent	sadness	0
-agent	surprise	0
-agent	trust	0
-agglomeration	anger	0
-agglomeration	anticipation	0
-agglomeration	disgust	0
-agglomeration	fear	0
-agglomeration	joy	0
-agglomeration	negative	0
-agglomeration	positive	0
-agglomeration	sadness	0
-agglomeration	surprise	0
-agglomeration	trust	0
-aggravated	anger	1
-aggravated	anticipation	0
-aggravated	disgust	0
-aggravated	fear	0
-aggravated	joy	0
-aggravated	negative	1
-aggravated	positive	0
-aggravated	sadness	0
-aggravated	surprise	0
-aggravated	trust	0
-aggravating	anger	1
-aggravating	anticipation	0
-aggravating	disgust	0
-aggravating	fear	0
-aggravating	joy	0
-aggravating	negative	1
-aggravating	positive	0
-aggravating	sadness	1
-aggravating	surprise	0
-aggravating	trust	0
-aggravation	anger	1
-aggravation	anticipation	0
-aggravation	disgust	1
-aggravation	fear	0
-aggravation	joy	0
-aggravation	negative	1
-aggravation	positive	0
-aggravation	sadness	0
-aggravation	surprise	0
-aggravation	trust	0
-aggregate	anger	0
-aggregate	anticipation	0
-aggregate	disgust	0
-aggregate	fear	0
-aggregate	joy	0
-aggregate	negative	0
-aggregate	positive	0
-aggregate	sadness	0
-aggregate	surprise	0
-aggregate	trust	0
-aggregation	anger	0
-aggregation	anticipation	0
-aggregation	disgust	0
-aggregation	fear	0
-aggregation	joy	0
-aggregation	negative	0
-aggregation	positive	0
-aggregation	sadness	0
-aggregation	surprise	0
-aggregation	trust	0
-aggression	anger	1
-aggression	anticipation	0
-aggression	disgust	0
-aggression	fear	1
-aggression	joy	0
-aggression	negative	1
-aggression	positive	0
-aggression	sadness	0
-aggression	surprise	0
-aggression	trust	0
-aggressive	anger	1
-aggressive	anticipation	0
-aggressive	disgust	0
-aggressive	fear	1
-aggressive	joy	0
-aggressive	negative	1
-aggressive	positive	0
-aggressive	sadness	0
-aggressive	surprise	0
-aggressive	trust	0
-aggressor	anger	1
-aggressor	anticipation	0
-aggressor	disgust	0
-aggressor	fear	1
-aggressor	joy	0
-aggressor	negative	1
-aggressor	positive	0
-aggressor	sadness	0
-aggressor	surprise	0
-aggressor	trust	0
-aghast	anger	0
-aghast	anticipation	0
-aghast	disgust	1
-aghast	fear	1
-aghast	joy	0
-aghast	negative	1
-aghast	positive	0
-aghast	sadness	0
-aghast	surprise	1
-aghast	trust	0
-agile	anger	0
-agile	anticipation	0
-agile	disgust	0
-agile	fear	0
-agile	joy	0
-agile	negative	0
-agile	positive	1
-agile	sadness	0
-agile	surprise	0
-agile	trust	0
-agility	anger	0
-agility	anticipation	0
-agility	disgust	0
-agility	fear	0
-agility	joy	0
-agility	negative	0
-agility	positive	1
-agility	sadness	0
-agility	surprise	0
-agility	trust	0
-agitated	anger	1
-agitated	anticipation	0
-agitated	disgust	0
-agitated	fear	0
-agitated	joy	0
-agitated	negative	1
-agitated	positive	0
-agitated	sadness	0
-agitated	surprise	0
-agitated	trust	0
-agitation	anger	1
-agitation	anticipation	0
-agitation	disgust	0
-agitation	fear	0
-agitation	joy	0
-agitation	negative	1
-agitation	positive	0
-agitation	sadness	0
-agitation	surprise	0
-agitation	trust	0
-agnostic	anger	0
-agnostic	anticipation	0
-agnostic	disgust	0
-agnostic	fear	0
-agnostic	joy	0
-agnostic	negative	0
-agnostic	positive	0
-agnostic	sadness	0
-agnostic	surprise	0
-agnostic	trust	0
-ago	anger	0
-ago	anticipation	0
-ago	disgust	0
-ago	fear	0
-ago	joy	0
-ago	negative	0
-ago	positive	0
-ago	sadness	0
-ago	surprise	0
-ago	trust	0
-agonizing	anger	0
-agonizing	anticipation	0
-agonizing	disgust	0
-agonizing	fear	1
-agonizing	joy	0
-agonizing	negative	1
-agonizing	positive	0
-agonizing	sadness	0
-agonizing	surprise	0
-agonizing	trust	0
-agony	anger	1
-agony	anticipation	0
-agony	disgust	0
-agony	fear	1
-agony	joy	0
-agony	negative	1
-agony	positive	0
-agony	sadness	1
-agony	surprise	0
-agony	trust	0
-agree	anger	0
-agree	anticipation	0
-agree	disgust	0
-agree	fear	0
-agree	joy	0
-agree	negative	0
-agree	positive	1
-agree	sadness	0
-agree	surprise	0
-agree	trust	0
-agreeable	anger	0
-agreeable	anticipation	0
-agreeable	disgust	0
-agreeable	fear	0
-agreeable	joy	0
-agreeable	negative	0
-agreeable	positive	1
-agreeable	sadness	0
-agreeable	surprise	0
-agreeable	trust	1
-agreed	anger	0
-agreed	anticipation	0
-agreed	disgust	0
-agreed	fear	0
-agreed	joy	0
-agreed	negative	0
-agreed	positive	1
-agreed	sadness	0
-agreed	surprise	0
-agreed	trust	1
-agreeing	anger	0
-agreeing	anticipation	0
-agreeing	disgust	0
-agreeing	fear	0
-agreeing	joy	0
-agreeing	negative	0
-agreeing	positive	1
-agreeing	sadness	0
-agreeing	surprise	0
-agreeing	trust	1
-agreement	anger	0
-agreement	anticipation	0
-agreement	disgust	0
-agreement	fear	0
-agreement	joy	0
-agreement	negative	0
-agreement	positive	1
-agreement	sadness	0
-agreement	surprise	0
-agreement	trust	1
-agricultural	anger	0
-agricultural	anticipation	0
-agricultural	disgust	0
-agricultural	fear	0
-agricultural	joy	0
-agricultural	negative	0
-agricultural	positive	0
-agricultural	sadness	0
-agricultural	surprise	0
-agricultural	trust	0
-agriculture	anger	0
-agriculture	anticipation	0
-agriculture	disgust	0
-agriculture	fear	0
-agriculture	joy	0
-agriculture	negative	0
-agriculture	positive	1
-agriculture	sadness	0
-agriculture	surprise	0
-agriculture	trust	0
-aground	anger	0
-aground	anticipation	0
-aground	disgust	0
-aground	fear	0
-aground	joy	0
-aground	negative	1
-aground	positive	0
-aground	sadness	0
-aground	surprise	0
-aground	trust	0
-agua	anger	0
-agua	anticipation	0
-agua	disgust	0
-agua	fear	0
-agua	joy	0
-agua	negative	0
-agua	positive	0
-agua	sadness	0
-agua	surprise	0
-agua	trust	0
-ahead	anger	0
-ahead	anticipation	0
-ahead	disgust	0
-ahead	fear	0
-ahead	joy	0
-ahead	negative	0
-ahead	positive	1
-ahead	sadness	0
-ahead	surprise	0
-ahead	trust	0
-aid	anger	0
-aid	anticipation	0
-aid	disgust	0
-aid	fear	0
-aid	joy	0
-aid	negative	0
-aid	positive	1
-aid	sadness	0
-aid	surprise	0
-aid	trust	0
-aiding	anger	0
-aiding	anticipation	0
-aiding	disgust	0
-aiding	fear	0
-aiding	joy	0
-aiding	negative	0
-aiding	positive	1
-aiding	sadness	0
-aiding	surprise	0
-aiding	trust	0
-ail	anger	0
-ail	anticipation	0
-ail	disgust	0
-ail	fear	0
-ail	joy	0
-ail	negative	1
-ail	positive	0
-ail	sadness	1
-ail	surprise	0
-ail	trust	0
-ailing	anger	0
-ailing	anticipation	0
-ailing	disgust	0
-ailing	fear	1
-ailing	joy	0
-ailing	negative	1
-ailing	positive	0
-ailing	sadness	1
-ailing	surprise	0
-ailing	trust	0
-ailment	anger	0
-ailment	anticipation	0
-ailment	disgust	0
-ailment	fear	0
-ailment	joy	0
-ailment	negative	0
-ailment	positive	0
-ailment	sadness	0
-ailment	surprise	0
-ailment	trust	0
-aim	anger	0
-aim	anticipation	0
-aim	disgust	0
-aim	fear	0
-aim	joy	0
-aim	negative	0
-aim	positive	0
-aim	sadness	0
-aim	surprise	0
-aim	trust	0
-aimless	anger	0
-aimless	anticipation	0
-aimless	disgust	0
-aimless	fear	0
-aimless	joy	0
-aimless	negative	1
-aimless	positive	0
-aimless	sadness	0
-aimless	surprise	0
-aimless	trust	0
-air	anger	0
-air	anticipation	0
-air	disgust	0
-air	fear	0
-air	joy	0
-air	negative	0
-air	positive	0
-air	sadness	0
-air	surprise	0
-air	trust	0
-airbag	anger	0
-airbag	anticipation	0
-airbag	disgust	0
-airbag	fear	0
-airbag	joy	0
-airbag	negative	0
-airbag	positive	0
-airbag	sadness	0
-airbag	surprise	0
-airbag	trust	0
-airlift	anger	0
-airlift	anticipation	0
-airlift	disgust	0
-airlift	fear	0
-airlift	joy	0
-airlift	negative	0
-airlift	positive	0
-airlift	sadness	0
-airlift	surprise	0
-airlift	trust	0
-airline	anger	0
-airline	anticipation	0
-airline	disgust	0
-airline	fear	0
-airline	joy	0
-airline	negative	0
-airline	positive	0
-airline	sadness	0
-airline	surprise	0
-airline	trust	0
-airman	anger	0
-airman	anticipation	0
-airman	disgust	0
-airman	fear	0
-airman	joy	0
-airman	negative	0
-airman	positive	0
-airman	sadness	0
-airman	surprise	0
-airman	trust	0
-airplane	anger	0
-airplane	anticipation	0
-airplane	disgust	0
-airplane	fear	0
-airplane	joy	0
-airplane	negative	0
-airplane	positive	0
-airplane	sadness	0
-airplane	surprise	0
-airplane	trust	0
-airport	anger	0
-airport	anticipation	1
-airport	disgust	0
-airport	fear	0
-airport	joy	0
-airport	negative	0
-airport	positive	0
-airport	sadness	0
-airport	surprise	0
-airport	trust	0
-airs	anger	0
-airs	anticipation	0
-airs	disgust	1
-airs	fear	0
-airs	joy	0
-airs	negative	1
-airs	positive	0
-airs	sadness	0
-airs	surprise	0
-airs	trust	0
-airship	anger	0
-airship	anticipation	0
-airship	disgust	0
-airship	fear	0
-airship	joy	0
-airship	negative	0
-airship	positive	0
-airship	sadness	0
-airship	surprise	0
-airship	trust	0
-aisle	anger	0
-aisle	anticipation	0
-aisle	disgust	0
-aisle	fear	0
-aisle	joy	0
-aisle	negative	0
-aisle	positive	0
-aisle	sadness	0
-aisle	surprise	0
-aisle	trust	0
-ait	anger	0
-ait	anticipation	0
-ait	disgust	0
-ait	fear	0
-ait	joy	0
-ait	negative	0
-ait	positive	0
-ait	sadness	0
-ait	surprise	0
-ait	trust	0
-ajar	anger	0
-ajar	anticipation	0
-ajar	disgust	0
-ajar	fear	0
-ajar	joy	0
-ajar	negative	0
-ajar	positive	0
-ajar	sadness	0
-ajar	surprise	0
-ajar	trust	0
-akin	anger	0
-akin	anticipation	0
-akin	disgust	0
-akin	fear	0
-akin	joy	0
-akin	negative	0
-akin	positive	0
-akin	sadness	0
-akin	surprise	0
-akin	trust	1
-alabaster	anger	0
-alabaster	anticipation	0
-alabaster	disgust	0
-alabaster	fear	0
-alabaster	joy	0
-alabaster	negative	0
-alabaster	positive	1
-alabaster	sadness	0
-alabaster	surprise	0
-alabaster	trust	0
-alarm	anger	0
-alarm	anticipation	0
-alarm	disgust	0
-alarm	fear	1
-alarm	joy	0
-alarm	negative	1
-alarm	positive	0
-alarm	sadness	0
-alarm	surprise	1
-alarm	trust	0
-alarming	anger	0
-alarming	anticipation	0
-alarming	disgust	0
-alarming	fear	1
-alarming	joy	0
-alarming	negative	1
-alarming	positive	0
-alarming	sadness	0
-alarming	surprise	1
-alarming	trust	0
-alb	anger	0
-alb	anticipation	0
-alb	disgust	0
-alb	fear	0
-alb	joy	0
-alb	negative	0
-alb	positive	0
-alb	sadness	0
-alb	surprise	0
-alb	trust	1
-album	anger	0
-album	anticipation	0
-album	disgust	0
-album	fear	0
-album	joy	0
-album	negative	0
-album	positive	0
-album	sadness	0
-album	surprise	0
-album	trust	0
-alchemy	anger	0
-alchemy	anticipation	0
-alchemy	disgust	0
-alchemy	fear	0
-alchemy	joy	0
-alchemy	negative	0
-alchemy	positive	0
-alchemy	sadness	0
-alchemy	surprise	0
-alchemy	trust	0
-alcohol	anger	0
-alcohol	anticipation	0
-alcohol	disgust	0
-alcohol	fear	0
-alcohol	joy	0
-alcohol	negative	0
-alcohol	positive	0
-alcohol	sadness	0
-alcohol	surprise	0
-alcohol	trust	0
-alcoholism	anger	1
-alcoholism	anticipation	0
-alcoholism	disgust	1
-alcoholism	fear	1
-alcoholism	joy	0
-alcoholism	negative	1
-alcoholism	positive	0
-alcoholism	sadness	1
-alcoholism	surprise	0
-alcoholism	trust	0
-alcove	anger	0
-alcove	anticipation	0
-alcove	disgust	0
-alcove	fear	0
-alcove	joy	0
-alcove	negative	0
-alcove	positive	0
-alcove	sadness	0
-alcove	surprise	0
-alcove	trust	0
-alert	anger	0
-alert	anticipation	0
-alert	disgust	0
-alert	fear	0
-alert	joy	0
-alert	negative	0
-alert	positive	0
-alert	sadness	0
-alert	surprise	0
-alert	trust	0
-alertness	anger	0
-alertness	anticipation	1
-alertness	disgust	0
-alertness	fear	1
-alertness	joy	0
-alertness	negative	0
-alertness	positive	1
-alertness	sadness	0
-alertness	surprise	1
-alertness	trust	0
-alerts	anger	0
-alerts	anticipation	1
-alerts	disgust	0
-alerts	fear	1
-alerts	joy	0
-alerts	negative	0
-alerts	positive	0
-alerts	sadness	0
-alerts	surprise	1
-alerts	trust	0
-alfalfa	anger	0
-alfalfa	anticipation	0
-alfalfa	disgust	0
-alfalfa	fear	0
-alfalfa	joy	0
-alfalfa	negative	0
-alfalfa	positive	0
-alfalfa	sadness	0
-alfalfa	surprise	0
-alfalfa	trust	0
-algebra	anger	0
-algebra	anticipation	0
-algebra	disgust	0
-algebra	fear	0
-algebra	joy	0
-algebra	negative	0
-algebra	positive	0
-algebra	sadness	0
-algebra	surprise	0
-algebra	trust	0
-algebraic	anger	0
-algebraic	anticipation	0
-algebraic	disgust	0
-algebraic	fear	0
-algebraic	joy	0
-algebraic	negative	0
-algebraic	positive	0
-algebraic	sadness	0
-algebraic	surprise	0
-algebraic	trust	0
-algorithm	anger	0
-algorithm	anticipation	0
-algorithm	disgust	0
-algorithm	fear	0
-algorithm	joy	0
-algorithm	negative	0
-algorithm	positive	0
-algorithm	sadness	0
-algorithm	surprise	0
-algorithm	trust	0
-alibi	anger	0
-alibi	anticipation	0
-alibi	disgust	0
-alibi	fear	0
-alibi	joy	0
-alibi	negative	0
-alibi	positive	0
-alibi	sadness	0
-alibi	surprise	0
-alibi	trust	0
-alien	anger	0
-alien	anticipation	0
-alien	disgust	1
-alien	fear	1
-alien	joy	0
-alien	negative	1
-alien	positive	0
-alien	sadness	0
-alien	surprise	0
-alien	trust	0
-alienate	anger	1
-alienate	anticipation	0
-alienate	disgust	1
-alienate	fear	0
-alienate	joy	0
-alienate	negative	1
-alienate	positive	0
-alienate	sadness	0
-alienate	surprise	0
-alienate	trust	0
-alienated	anger	0
-alienated	anticipation	0
-alienated	disgust	0
-alienated	fear	0
-alienated	joy	0
-alienated	negative	1
-alienated	positive	0
-alienated	sadness	1
-alienated	surprise	0
-alienated	trust	0
-alienation	anger	1
-alienation	anticipation	0
-alienation	disgust	1
-alienation	fear	1
-alienation	joy	0
-alienation	negative	1
-alienation	positive	0
-alienation	sadness	1
-alienation	surprise	0
-alienation	trust	0
-alight	anger	0
-alight	anticipation	0
-alight	disgust	0
-alight	fear	0
-alight	joy	0
-alight	negative	0
-alight	positive	0
-alight	sadness	0
-alight	surprise	0
-alight	trust	0
-aligned	anger	0
-aligned	anticipation	0
-aligned	disgust	0
-aligned	fear	0
-aligned	joy	0
-aligned	negative	0
-aligned	positive	0
-aligned	sadness	0
-aligned	surprise	0
-aligned	trust	0
-alignment	anger	0
-alignment	anticipation	0
-alignment	disgust	0
-alignment	fear	0
-alignment	joy	0
-alignment	negative	0
-alignment	positive	0
-alignment	sadness	0
-alignment	surprise	0
-alignment	trust	0
-alike	anger	0
-alike	anticipation	0
-alike	disgust	0
-alike	fear	0
-alike	joy	0
-alike	negative	0
-alike	positive	0
-alike	sadness	0
-alike	surprise	0
-alike	trust	0
-alimentation	anger	0
-alimentation	anticipation	0
-alimentation	disgust	0
-alimentation	fear	0
-alimentation	joy	0
-alimentation	negative	0
-alimentation	positive	1
-alimentation	sadness	0
-alimentation	surprise	0
-alimentation	trust	0
-alimony	anger	0
-alimony	anticipation	0
-alimony	disgust	0
-alimony	fear	0
-alimony	joy	0
-alimony	negative	1
-alimony	positive	0
-alimony	sadness	0
-alimony	surprise	0
-alimony	trust	0
-aliquot	anger	0
-aliquot	anticipation	0
-aliquot	disgust	0
-aliquot	fear	0
-aliquot	joy	0
-aliquot	negative	0
-aliquot	positive	0
-aliquot	sadness	0
-aliquot	surprise	0
-aliquot	trust	0
-alive	anger	0
-alive	anticipation	1
-alive	disgust	0
-alive	fear	0
-alive	joy	1
-alive	negative	0
-alive	positive	1
-alive	sadness	0
-alive	surprise	0
-alive	trust	1
-alkali	anger	0
-alkali	anticipation	0
-alkali	disgust	0
-alkali	fear	0
-alkali	joy	0
-alkali	negative	0
-alkali	positive	0
-alkali	sadness	0
-alkali	surprise	0
-alkali	trust	0
-alkaloids	anger	0
-alkaloids	anticipation	0
-alkaloids	disgust	0
-alkaloids	fear	0
-alkaloids	joy	0
-alkaloids	negative	0
-alkaloids	positive	0
-alkaloids	sadness	0
-alkaloids	surprise	0
-alkaloids	trust	0
-allay	anger	0
-allay	anticipation	0
-allay	disgust	0
-allay	fear	0
-allay	joy	0
-allay	negative	0
-allay	positive	1
-allay	sadness	0
-allay	surprise	0
-allay	trust	0
-allegation	anger	1
-allegation	anticipation	0
-allegation	disgust	0
-allegation	fear	0
-allegation	joy	0
-allegation	negative	1
-allegation	positive	0
-allegation	sadness	0
-allegation	surprise	0
-allegation	trust	0
-allege	anger	0
-allege	anticipation	0
-allege	disgust	0
-allege	fear	0
-allege	joy	0
-allege	negative	1
-allege	positive	0
-allege	sadness	0
-allege	surprise	0
-allege	trust	0
-alleged	anger	0
-alleged	anticipation	0
-alleged	disgust	0
-alleged	fear	0
-alleged	joy	0
-alleged	negative	0
-alleged	positive	0
-alleged	sadness	0
-alleged	surprise	0
-alleged	trust	0
-allegiance	anger	0
-allegiance	anticipation	0
-allegiance	disgust	0
-allegiance	fear	0
-allegiance	joy	0
-allegiance	negative	0
-allegiance	positive	1
-allegiance	sadness	0
-allegiance	surprise	0
-allegiance	trust	1
-allegorical	anger	0
-allegorical	anticipation	0
-allegorical	disgust	0
-allegorical	fear	0
-allegorical	joy	0
-allegorical	negative	0
-allegorical	positive	0
-allegorical	sadness	0
-allegorical	surprise	0
-allegorical	trust	0
-allegory	anger	0
-allegory	anticipation	0
-allegory	disgust	0
-allegory	fear	0
-allegory	joy	0
-allegory	negative	0
-allegory	positive	0
-allegory	sadness	0
-allegory	surprise	0
-allegory	trust	0
-allegro	anger	0
-allegro	anticipation	0
-allegro	disgust	0
-allegro	fear	0
-allegro	joy	0
-allegro	negative	0
-allegro	positive	1
-allegro	sadness	0
-allegro	surprise	0
-allegro	trust	0
-alleviate	anger	0
-alleviate	anticipation	0
-alleviate	disgust	0
-alleviate	fear	0
-alleviate	joy	0
-alleviate	negative	0
-alleviate	positive	1
-alleviate	sadness	0
-alleviate	surprise	0
-alleviate	trust	0
-alleviation	anger	0
-alleviation	anticipation	0
-alleviation	disgust	0
-alleviation	fear	0
-alleviation	joy	0
-alleviation	negative	0
-alleviation	positive	1
-alleviation	sadness	0
-alleviation	surprise	0
-alleviation	trust	0
-alley	anger	0
-alley	anticipation	0
-alley	disgust	0
-alley	fear	0
-alley	joy	0
-alley	negative	0
-alley	positive	0
-alley	sadness	0
-alley	surprise	0
-alley	trust	0
-alliance	anger	0
-alliance	anticipation	0
-alliance	disgust	0
-alliance	fear	0
-alliance	joy	0
-alliance	negative	0
-alliance	positive	0
-alliance	sadness	0
-alliance	surprise	0
-alliance	trust	1
-allied	anger	0
-allied	anticipation	0
-allied	disgust	0
-allied	fear	0
-allied	joy	0
-allied	negative	0
-allied	positive	1
-allied	sadness	0
-allied	surprise	0
-allied	trust	1
-alligator	anger	0
-alligator	anticipation	0
-alligator	disgust	0
-alligator	fear	0
-alligator	joy	0
-alligator	negative	0
-alligator	positive	0
-alligator	sadness	0
-alligator	surprise	0
-alligator	trust	0
-allocate	anger	0
-allocate	anticipation	0
-allocate	disgust	0
-allocate	fear	0
-allocate	joy	0
-allocate	negative	0
-allocate	positive	0
-allocate	sadness	0
-allocate	surprise	0
-allocate	trust	0
-allocation	anger	0
-allocation	anticipation	0
-allocation	disgust	0
-allocation	fear	0
-allocation	joy	0
-allocation	negative	0
-allocation	positive	0
-allocation	sadness	0
-allocation	surprise	0
-allocation	trust	0
-allot	anger	0
-allot	anticipation	0
-allot	disgust	0
-allot	fear	0
-allot	joy	0
-allot	negative	0
-allot	positive	0
-allot	sadness	0
-allot	surprise	0
-allot	trust	0
-allotment	anger	0
-allotment	anticipation	0
-allotment	disgust	0
-allotment	fear	0
-allotment	joy	0
-allotment	negative	0
-allotment	positive	0
-allotment	sadness	0
-allotment	surprise	0
-allotment	trust	0
-allowable	anger	0
-allowable	anticipation	0
-allowable	disgust	0
-allowable	fear	0
-allowable	joy	0
-allowable	negative	0
-allowable	positive	1
-allowable	sadness	0
-allowable	surprise	0
-allowable	trust	0
-allowance	anger	0
-allowance	anticipation	0
-allowance	disgust	0
-allowance	fear	0
-allowance	joy	0
-allowance	negative	0
-allowance	positive	0
-allowance	sadness	0
-allowance	surprise	0
-allowance	trust	0
-allowed	anger	0
-allowed	anticipation	0
-allowed	disgust	0
-allowed	fear	0
-allowed	joy	0
-allowed	negative	0
-allowed	positive	0
-allowed	sadness	0
-allowed	surprise	0
-allowed	trust	0
-alloy	anger	0
-alloy	anticipation	0
-alloy	disgust	0
-alloy	fear	0
-alloy	joy	0
-alloy	negative	0
-alloy	positive	0
-alloy	sadness	0
-alloy	surprise	0
-alloy	trust	0
-allure	anger	0
-allure	anticipation	1
-allure	disgust	0
-allure	fear	0
-allure	joy	1
-allure	negative	0
-allure	positive	1
-allure	sadness	0
-allure	surprise	1
-allure	trust	0
-alluring	anger	0
-alluring	anticipation	0
-alluring	disgust	0
-alluring	fear	0
-alluring	joy	0
-alluring	negative	0
-alluring	positive	1
-alluring	sadness	0
-alluring	surprise	0
-alluring	trust	0
-allusion	anger	0
-allusion	anticipation	0
-allusion	disgust	0
-allusion	fear	0
-allusion	joy	0
-allusion	negative	0
-allusion	positive	0
-allusion	sadness	0
-allusion	surprise	0
-allusion	trust	0
-alluvial	anger	0
-alluvial	anticipation	0
-alluvial	disgust	0
-alluvial	fear	0
-alluvial	joy	0
-alluvial	negative	0
-alluvial	positive	0
-alluvial	sadness	0
-alluvial	surprise	0
-alluvial	trust	0
-ally	anger	0
-ally	anticipation	0
-ally	disgust	0
-ally	fear	0
-ally	joy	0
-ally	negative	0
-ally	positive	1
-ally	sadness	0
-ally	surprise	0
-ally	trust	1
-almanac	anger	0
-almanac	anticipation	0
-almanac	disgust	0
-almanac	fear	0
-almanac	joy	0
-almanac	negative	0
-almanac	positive	0
-almanac	sadness	0
-almanac	surprise	0
-almanac	trust	0
-almighty	anger	0
-almighty	anticipation	0
-almighty	disgust	0
-almighty	fear	0
-almighty	joy	0
-almighty	negative	0
-almighty	positive	1
-almighty	sadness	0
-almighty	surprise	0
-almighty	trust	0
-aloft	anger	0
-aloft	anticipation	0
-aloft	disgust	0
-aloft	fear	0
-aloft	joy	0
-aloft	negative	0
-aloft	positive	0
-aloft	sadness	0
-aloft	surprise	0
-aloft	trust	0
-aloha	anger	0
-aloha	anticipation	1
-aloha	disgust	0
-aloha	fear	0
-aloha	joy	1
-aloha	negative	0
-aloha	positive	1
-aloha	sadness	0
-aloha	surprise	0
-aloha	trust	0
-alongside	anger	0
-alongside	anticipation	0
-alongside	disgust	0
-alongside	fear	0
-alongside	joy	0
-alongside	negative	0
-alongside	positive	0
-alongside	sadness	0
-alongside	surprise	0
-alongside	trust	0
-aloof	anger	0
-aloof	anticipation	0
-aloof	disgust	0
-aloof	fear	0
-aloof	joy	0
-aloof	negative	1
-aloof	positive	0
-aloof	sadness	0
-aloof	surprise	0
-aloof	trust	0
-aloud	anger	0
-aloud	anticipation	0
-aloud	disgust	0
-aloud	fear	0
-aloud	joy	0
-aloud	negative	0
-aloud	positive	0
-aloud	sadness	0
-aloud	surprise	0
-aloud	trust	0
-alphabet	anger	0
-alphabet	anticipation	0
-alphabet	disgust	0
-alphabet	fear	0
-alphabet	joy	0
-alphabet	negative	0
-alphabet	positive	0
-alphabet	sadness	0
-alphabet	surprise	0
-alphabet	trust	0
-alphabetical	anger	0
-alphabetical	anticipation	0
-alphabetical	disgust	0
-alphabetical	fear	0
-alphabetical	joy	0
-alphabetical	negative	0
-alphabetical	positive	0
-alphabetical	sadness	0
-alphabetical	surprise	0
-alphabetical	trust	0
-altar	anger	0
-altar	anticipation	0
-altar	disgust	0
-altar	fear	0
-altar	joy	0
-altar	negative	0
-altar	positive	0
-altar	sadness	0
-altar	surprise	0
-altar	trust	0
-alter	anger	0
-alter	anticipation	0
-alter	disgust	0
-alter	fear	0
-alter	joy	0
-alter	negative	0
-alter	positive	0
-alter	sadness	0
-alter	surprise	0
-alter	trust	0
-alteration	anger	0
-alteration	anticipation	0
-alteration	disgust	0
-alteration	fear	0
-alteration	joy	0
-alteration	negative	0
-alteration	positive	0
-alteration	sadness	0
-alteration	surprise	0
-alteration	trust	0
-altercation	anger	1
-altercation	anticipation	0
-altercation	disgust	0
-altercation	fear	0
-altercation	joy	0
-altercation	negative	1
-altercation	positive	0
-altercation	sadness	0
-altercation	surprise	0
-altercation	trust	0
-altered	anger	0
-altered	anticipation	0
-altered	disgust	0
-altered	fear	0
-altered	joy	0
-altered	negative	0
-altered	positive	0
-altered	sadness	0
-altered	surprise	0
-altered	trust	0
-alternate	anger	0
-alternate	anticipation	0
-alternate	disgust	0
-alternate	fear	0
-alternate	joy	0
-alternate	negative	0
-alternate	positive	0
-alternate	sadness	0
-alternate	surprise	0
-alternate	trust	0
-alternative	anger	0
-alternative	anticipation	0
-alternative	disgust	0
-alternative	fear	0
-alternative	joy	0
-alternative	negative	0
-alternative	positive	0
-alternative	sadness	0
-alternative	surprise	0
-alternative	trust	0
-altitude	anger	0
-altitude	anticipation	0
-altitude	disgust	0
-altitude	fear	0
-altitude	joy	0
-altitude	negative	0
-altitude	positive	0
-altitude	sadness	0
-altitude	surprise	0
-altitude	trust	0
-alto	anger	0
-alto	anticipation	0
-alto	disgust	0
-alto	fear	0
-alto	joy	0
-alto	negative	0
-alto	positive	0
-alto	sadness	0
-alto	surprise	0
-alto	trust	0
-altogether	anger	0
-altogether	anticipation	0
-altogether	disgust	0
-altogether	fear	0
-altogether	joy	0
-altogether	negative	0
-altogether	positive	0
-altogether	sadness	0
-altogether	surprise	0
-altogether	trust	0
-alumnus	anger	0
-alumnus	anticipation	0
-alumnus	disgust	0
-alumnus	fear	0
-alumnus	joy	0
-alumnus	negative	0
-alumnus	positive	0
-alumnus	sadness	0
-alumnus	surprise	0
-alumnus	trust	0
-alveolar	anger	0
-alveolar	anticipation	0
-alveolar	disgust	0
-alveolar	fear	0
-alveolar	joy	0
-alveolar	negative	0
-alveolar	positive	0
-alveolar	sadness	0
-alveolar	surprise	0
-alveolar	trust	0
-amalgam	anger	0
-amalgam	anticipation	0
-amalgam	disgust	0
-amalgam	fear	0
-amalgam	joy	0
-amalgam	negative	0
-amalgam	positive	0
-amalgam	sadness	0
-amalgam	surprise	0
-amalgam	trust	0
-amalgamation	anger	0
-amalgamation	anticipation	0
-amalgamation	disgust	0
-amalgamation	fear	0
-amalgamation	joy	0
-amalgamation	negative	0
-amalgamation	positive	0
-amalgamation	sadness	0
-amalgamation	surprise	0
-amalgamation	trust	0
-amass	anger	0
-amass	anticipation	0
-amass	disgust	0
-amass	fear	0
-amass	joy	0
-amass	negative	0
-amass	positive	0
-amass	sadness	0
-amass	surprise	0
-amass	trust	0
-amateur	anger	0
-amateur	anticipation	0
-amateur	disgust	0
-amateur	fear	0
-amateur	joy	0
-amateur	negative	0
-amateur	positive	0
-amateur	sadness	0
-amateur	surprise	0
-amateur	trust	0
-amaze	anger	0
-amaze	anticipation	0
-amaze	disgust	0
-amaze	fear	0
-amaze	joy	0
-amaze	negative	0
-amaze	positive	0
-amaze	sadness	0
-amaze	surprise	1
-amaze	trust	0
-amazement	anger	0
-amazement	anticipation	0
-amazement	disgust	0
-amazement	fear	0
-amazement	joy	0
-amazement	negative	0
-amazement	positive	0
-amazement	sadness	0
-amazement	surprise	0
-amazement	trust	0
-amazingly	anger	0
-amazingly	anticipation	0
-amazingly	disgust	0
-amazingly	fear	0
-amazingly	joy	1
-amazingly	negative	0
-amazingly	positive	1
-amazingly	sadness	0
-amazingly	surprise	1
-amazingly	trust	0
-ambassador	anger	0
-ambassador	anticipation	0
-ambassador	disgust	0
-ambassador	fear	0
-ambassador	joy	0
-ambassador	negative	0
-ambassador	positive	1
-ambassador	sadness	0
-ambassador	surprise	0
-ambassador	trust	1
-amber	anger	0
-amber	anticipation	0
-amber	disgust	0
-amber	fear	0
-amber	joy	0
-amber	negative	0
-amber	positive	0
-amber	sadness	0
-amber	surprise	0
-amber	trust	0
-ambient	anger	0
-ambient	anticipation	0
-ambient	disgust	0
-ambient	fear	0
-ambient	joy	0
-ambient	negative	0
-ambient	positive	0
-ambient	sadness	0
-ambient	surprise	0
-ambient	trust	0
-ambiguity	anger	0
-ambiguity	anticipation	0
-ambiguity	disgust	0
-ambiguity	fear	0
-ambiguity	joy	0
-ambiguity	negative	0
-ambiguity	positive	0
-ambiguity	sadness	0
-ambiguity	surprise	0
-ambiguity	trust	0
-ambiguous	anger	0
-ambiguous	anticipation	0
-ambiguous	disgust	0
-ambiguous	fear	0
-ambiguous	joy	0
-ambiguous	negative	1
-ambiguous	positive	0
-ambiguous	sadness	0
-ambiguous	surprise	0
-ambiguous	trust	0
-ambit	anger	0
-ambit	anticipation	0
-ambit	disgust	0
-ambit	fear	0
-ambit	joy	0
-ambit	negative	0
-ambit	positive	0
-ambit	sadness	0
-ambit	surprise	0
-ambit	trust	0
-ambition	anger	0
-ambition	anticipation	1
-ambition	disgust	0
-ambition	fear	0
-ambition	joy	1
-ambition	negative	0
-ambition	positive	1
-ambition	sadness	0
-ambition	surprise	0
-ambition	trust	1
-ambitious	anger	0
-ambitious	anticipation	0
-ambitious	disgust	0
-ambitious	fear	0
-ambitious	joy	0
-ambitious	negative	0
-ambitious	positive	0
-ambitious	sadness	0
-ambitious	surprise	0
-ambitious	trust	0
-ambulance	anger	0
-ambulance	anticipation	0
-ambulance	disgust	0
-ambulance	fear	1
-ambulance	joy	0
-ambulance	negative	0
-ambulance	positive	0
-ambulance	sadness	0
-ambulance	surprise	0
-ambulance	trust	1
-ambush	anger	1
-ambush	anticipation	0
-ambush	disgust	0
-ambush	fear	1
-ambush	joy	0
-ambush	negative	1
-ambush	positive	0
-ambush	sadness	0
-ambush	surprise	1
-ambush	trust	0
-ameliorate	anger	0
-ameliorate	anticipation	0
-ameliorate	disgust	0
-ameliorate	fear	0
-ameliorate	joy	0
-ameliorate	negative	0
-ameliorate	positive	1
-ameliorate	sadness	0
-ameliorate	surprise	0
-ameliorate	trust	0
-amen	anger	0
-amen	anticipation	0
-amen	disgust	0
-amen	fear	0
-amen	joy	1
-amen	negative	0
-amen	positive	1
-amen	sadness	0
-amen	surprise	0
-amen	trust	1
-amenable	anger	0
-amenable	anticipation	0
-amenable	disgust	0
-amenable	fear	0
-amenable	joy	0
-amenable	negative	0
-amenable	positive	1
-amenable	sadness	0
-amenable	surprise	0
-amenable	trust	0
-amend	anger	0
-amend	anticipation	0
-amend	disgust	0
-amend	fear	0
-amend	joy	0
-amend	negative	0
-amend	positive	1
-amend	sadness	0
-amend	surprise	0
-amend	trust	0
-amendment	anger	0
-amendment	anticipation	0
-amendment	disgust	0
-amendment	fear	0
-amendment	joy	0
-amendment	negative	0
-amendment	positive	0
-amendment	sadness	0
-amendment	surprise	0
-amendment	trust	0
-amends	anger	0
-amends	anticipation	0
-amends	disgust	0
-amends	fear	0
-amends	joy	0
-amends	negative	0
-amends	positive	1
-amends	sadness	0
-amends	surprise	0
-amends	trust	0
-amenity	anger	0
-amenity	anticipation	0
-amenity	disgust	0
-amenity	fear	0
-amenity	joy	0
-amenity	negative	0
-amenity	positive	1
-amenity	sadness	0
-amenity	surprise	0
-amenity	trust	0
-amethyst	anger	0
-amethyst	anticipation	0
-amethyst	disgust	0
-amethyst	fear	0
-amethyst	joy	0
-amethyst	negative	0
-amethyst	positive	0
-amethyst	sadness	0
-amethyst	surprise	0
-amethyst	trust	0
-amiable	anger	0
-amiable	anticipation	0
-amiable	disgust	0
-amiable	fear	0
-amiable	joy	0
-amiable	negative	0
-amiable	positive	1
-amiable	sadness	0
-amiable	surprise	0
-amiable	trust	0
-amicable	anger	0
-amicable	anticipation	0
-amicable	disgust	0
-amicable	fear	0
-amicable	joy	1
-amicable	negative	0
-amicable	positive	1
-amicable	sadness	0
-amicable	surprise	0
-amicable	trust	0
-amid	anger	0
-amid	anticipation	0
-amid	disgust	0
-amid	fear	0
-amid	joy	0
-amid	negative	0
-amid	positive	0
-amid	sadness	0
-amid	surprise	0
-amid	trust	0
-amidst	anger	0
-amidst	anticipation	0
-amidst	disgust	0
-amidst	fear	0
-amidst	joy	0
-amidst	negative	0
-amidst	positive	0
-amidst	sadness	0
-amidst	surprise	0
-amidst	trust	0
-ammonia	anger	0
-ammonia	anticipation	0
-ammonia	disgust	1
-ammonia	fear	0
-ammonia	joy	0
-ammonia	negative	0
-ammonia	positive	0
-ammonia	sadness	0
-ammonia	surprise	0
-ammonia	trust	0
-ammunition	anger	0
-ammunition	anticipation	0
-ammunition	disgust	0
-ammunition	fear	0
-ammunition	joy	0
-ammunition	negative	0
-ammunition	positive	0
-ammunition	sadness	0
-ammunition	surprise	0
-ammunition	trust	0
-amnesia	anger	0
-amnesia	anticipation	0
-amnesia	disgust	0
-amnesia	fear	0
-amnesia	joy	0
-amnesia	negative	1
-amnesia	positive	0
-amnesia	sadness	0
-amnesia	surprise	0
-amnesia	trust	0
-amnesty	anger	0
-amnesty	anticipation	0
-amnesty	disgust	0
-amnesty	fear	0
-amnesty	joy	1
-amnesty	negative	0
-amnesty	positive	1
-amnesty	sadness	0
-amnesty	surprise	0
-amnesty	trust	0
-amorphous	anger	0
-amorphous	anticipation	0
-amorphous	disgust	0
-amorphous	fear	0
-amorphous	joy	0
-amorphous	negative	0
-amorphous	positive	0
-amorphous	sadness	0
-amorphous	surprise	0
-amorphous	trust	0
-amortization	anger	0
-amortization	anticipation	0
-amortization	disgust	0
-amortization	fear	0
-amortization	joy	0
-amortization	negative	0
-amortization	positive	0
-amortization	sadness	0
-amortization	surprise	0
-amortization	trust	1
-amount	anger	0
-amount	anticipation	0
-amount	disgust	0
-amount	fear	0
-amount	joy	0
-amount	negative	0
-amount	positive	0
-amount	sadness	0
-amount	surprise	0
-amount	trust	0
-amour	anger	0
-amour	anticipation	1
-amour	disgust	0
-amour	fear	0
-amour	joy	1
-amour	negative	0
-amour	positive	1
-amour	sadness	0
-amour	surprise	0
-amour	trust	1
-ampersand	anger	0
-ampersand	anticipation	0
-ampersand	disgust	0
-ampersand	fear	0
-ampersand	joy	0
-ampersand	negative	0
-ampersand	positive	0
-ampersand	sadness	0
-ampersand	surprise	0
-ampersand	trust	0
-amphetamines	anger	0
-amphetamines	anticipation	0
-amphetamines	disgust	1
-amphetamines	fear	0
-amphetamines	joy	0
-amphetamines	negative	1
-amphetamines	positive	0
-amphetamines	sadness	0
-amphetamines	surprise	0
-amphetamines	trust	0
-amphibian	anger	0
-amphibian	anticipation	0
-amphibian	disgust	0
-amphibian	fear	0
-amphibian	joy	0
-amphibian	negative	0
-amphibian	positive	0
-amphibian	sadness	0
-amphibian	surprise	0
-amphibian	trust	0
-amphibious	anger	0
-amphibious	anticipation	0
-amphibious	disgust	0
-amphibious	fear	0
-amphibious	joy	0
-amphibious	negative	0
-amphibious	positive	0
-amphibious	sadness	0
-amphibious	surprise	0
-amphibious	trust	0
-amphitheater	anger	0
-amphitheater	anticipation	0
-amphitheater	disgust	0
-amphitheater	fear	0
-amphitheater	joy	0
-amphitheater	negative	0
-amphitheater	positive	0
-amphitheater	sadness	0
-amphitheater	surprise	0
-amphitheater	trust	0
-amplification	anger	0
-amplification	anticipation	0
-amplification	disgust	0
-amplification	fear	0
-amplification	joy	0
-amplification	negative	0
-amplification	positive	0
-amplification	sadness	0
-amplification	surprise	0
-amplification	trust	0
-amplify	anger	0
-amplify	anticipation	0
-amplify	disgust	0
-amplify	fear	0
-amplify	joy	0
-amplify	negative	0
-amplify	positive	0
-amplify	sadness	0
-amplify	surprise	0
-amplify	trust	0
-amplitude	anger	0
-amplitude	anticipation	0
-amplitude	disgust	0
-amplitude	fear	0
-amplitude	joy	0
-amplitude	negative	0
-amplitude	positive	0
-amplitude	sadness	0
-amplitude	surprise	0
-amplitude	trust	0
-amply	anger	0
-amply	anticipation	0
-amply	disgust	0
-amply	fear	0
-amply	joy	0
-amply	negative	0
-amply	positive	0
-amply	sadness	0
-amply	surprise	0
-amply	trust	0
-amputation	anger	0
-amputation	anticipation	0
-amputation	disgust	0
-amputation	fear	0
-amputation	joy	0
-amputation	negative	0
-amputation	positive	0
-amputation	sadness	0
-amputation	surprise	0
-amputation	trust	0
-amulet	anger	0
-amulet	anticipation	0
-amulet	disgust	0
-amulet	fear	0
-amulet	joy	0
-amulet	negative	0
-amulet	positive	0
-amulet	sadness	0
-amulet	surprise	0
-amulet	trust	0
-amuse	anger	0
-amuse	anticipation	0
-amuse	disgust	0
-amuse	fear	0
-amuse	joy	1
-amuse	negative	0
-amuse	positive	1
-amuse	sadness	0
-amuse	surprise	0
-amuse	trust	0
-amused	anger	0
-amused	anticipation	0
-amused	disgust	0
-amused	fear	0
-amused	joy	1
-amused	negative	0
-amused	positive	1
-amused	sadness	0
-amused	surprise	0
-amused	trust	0
-amusement	anger	0
-amusement	anticipation	0
-amusement	disgust	0
-amusement	fear	0
-amusement	joy	1
-amusement	negative	0
-amusement	positive	1
-amusement	sadness	0
-amusement	surprise	0
-amusement	trust	0
-amusing	anger	0
-amusing	anticipation	0
-amusing	disgust	0
-amusing	fear	0
-amusing	joy	1
-amusing	negative	0
-amusing	positive	1
-amusing	sadness	0
-amusing	surprise	0
-amusing	trust	0
-ana	anger	0
-ana	anticipation	0
-ana	disgust	0
-ana	fear	0
-ana	joy	0
-ana	negative	0
-ana	positive	0
-ana	sadness	0
-ana	surprise	0
-ana	trust	0
-anaconda	anger	0
-anaconda	anticipation	0
-anaconda	disgust	1
-anaconda	fear	1
-anaconda	joy	0
-anaconda	negative	1
-anaconda	positive	0
-anaconda	sadness	0
-anaconda	surprise	0
-anaconda	trust	0
-anaesthesia	anger	0
-anaesthesia	anticipation	0
-anaesthesia	disgust	0
-anaesthesia	fear	0
-anaesthesia	joy	0
-anaesthesia	negative	0
-anaesthesia	positive	0
-anaesthesia	sadness	0
-anaesthesia	surprise	0
-anaesthesia	trust	0
-anaesthetic	anger	0
-anaesthetic	anticipation	0
-anaesthetic	disgust	0
-anaesthetic	fear	0
-anaesthetic	joy	0
-anaesthetic	negative	0
-anaesthetic	positive	0
-anaesthetic	sadness	0
-anaesthetic	surprise	0
-anaesthetic	trust	0
-anal	anger	0
-anal	anticipation	0
-anal	disgust	0
-anal	fear	0
-anal	joy	0
-anal	negative	1
-anal	positive	0
-anal	sadness	0
-anal	surprise	0
-anal	trust	0
-analgesic	anger	0
-analgesic	anticipation	0
-analgesic	disgust	0
-analgesic	fear	0
-analgesic	joy	0
-analgesic	negative	0
-analgesic	positive	0
-analgesic	sadness	0
-analgesic	surprise	0
-analgesic	trust	0
-analogous	anger	0
-analogous	anticipation	0
-analogous	disgust	0
-analogous	fear	0
-analogous	joy	0
-analogous	negative	0
-analogous	positive	0
-analogous	sadness	0
-analogous	surprise	0
-analogous	trust	0
-analogue	anger	0
-analogue	anticipation	0
-analogue	disgust	0
-analogue	fear	0
-analogue	joy	0
-analogue	negative	0
-analogue	positive	0
-analogue	sadness	0
-analogue	surprise	0
-analogue	trust	0
-analogy	anger	0
-analogy	anticipation	0
-analogy	disgust	0
-analogy	fear	0
-analogy	joy	0
-analogy	negative	0
-analogy	positive	0
-analogy	sadness	0
-analogy	surprise	0
-analogy	trust	0
-analysis	anger	0
-analysis	anticipation	0
-analysis	disgust	0
-analysis	fear	0
-analysis	joy	0
-analysis	negative	0
-analysis	positive	0
-analysis	sadness	0
-analysis	surprise	0
-analysis	trust	0
-analyst	anger	0
-analyst	anticipation	1
-analyst	disgust	0
-analyst	fear	0
-analyst	joy	0
-analyst	negative	0
-analyst	positive	1
-analyst	sadness	0
-analyst	surprise	0
-analyst	trust	1
-analytic	anger	0
-analytic	anticipation	0
-analytic	disgust	0
-analytic	fear	0
-analytic	joy	0
-analytic	negative	0
-analytic	positive	0
-analytic	sadness	0
-analytic	surprise	0
-analytic	trust	0
-analyze	anger	0
-analyze	anticipation	0
-analyze	disgust	0
-analyze	fear	0
-analyze	joy	0
-analyze	negative	0
-analyze	positive	0
-analyze	sadness	0
-analyze	surprise	0
-analyze	trust	0
-analyzer	anger	0
-analyzer	anticipation	0
-analyzer	disgust	0
-analyzer	fear	0
-analyzer	joy	0
-analyzer	negative	0
-analyzer	positive	0
-analyzer	sadness	0
-analyzer	surprise	0
-analyzer	trust	0
-anarchism	anger	1
-anarchism	anticipation	0
-anarchism	disgust	0
-anarchism	fear	1
-anarchism	joy	0
-anarchism	negative	1
-anarchism	positive	0
-anarchism	sadness	0
-anarchism	surprise	0
-anarchism	trust	0
-anarchist	anger	1
-anarchist	anticipation	0
-anarchist	disgust	0
-anarchist	fear	1
-anarchist	joy	0
-anarchist	negative	1
-anarchist	positive	0
-anarchist	sadness	0
-anarchist	surprise	0
-anarchist	trust	0
-anarchy	anger	1
-anarchy	anticipation	0
-anarchy	disgust	0
-anarchy	fear	1
-anarchy	joy	0
-anarchy	negative	1
-anarchy	positive	0
-anarchy	sadness	0
-anarchy	surprise	0
-anarchy	trust	0
-anastomosis	anger	0
-anastomosis	anticipation	0
-anastomosis	disgust	0
-anastomosis	fear	0
-anastomosis	joy	0
-anastomosis	negative	0
-anastomosis	positive	0
-anastomosis	sadness	0
-anastomosis	surprise	0
-anastomosis	trust	0
-anathema	anger	1
-anathema	anticipation	0
-anathema	disgust	1
-anathema	fear	1
-anathema	joy	0
-anathema	negative	1
-anathema	positive	0
-anathema	sadness	1
-anathema	surprise	0
-anathema	trust	0
-anatomic	anger	0
-anatomic	anticipation	0
-anatomic	disgust	0
-anatomic	fear	0
-anatomic	joy	0
-anatomic	negative	0
-anatomic	positive	0
-anatomic	sadness	0
-anatomic	surprise	0
-anatomic	trust	0
-anatomy	anger	0
-anatomy	anticipation	0
-anatomy	disgust	0
-anatomy	fear	0
-anatomy	joy	0
-anatomy	negative	0
-anatomy	positive	0
-anatomy	sadness	0
-anatomy	surprise	0
-anatomy	trust	0
-ancestor	anger	0
-ancestor	anticipation	0
-ancestor	disgust	0
-ancestor	fear	0
-ancestor	joy	0
-ancestor	negative	0
-ancestor	positive	0
-ancestor	sadness	0
-ancestor	surprise	0
-ancestor	trust	0
-ancestral	anger	0
-ancestral	anticipation	0
-ancestral	disgust	0
-ancestral	fear	0
-ancestral	joy	0
-ancestral	negative	0
-ancestral	positive	0
-ancestral	sadness	0
-ancestral	surprise	0
-ancestral	trust	1
-ancestry	anger	0
-ancestry	anticipation	0
-ancestry	disgust	0
-ancestry	fear	0
-ancestry	joy	0
-ancestry	negative	0
-ancestry	positive	0
-ancestry	sadness	0
-ancestry	surprise	0
-ancestry	trust	0
-anchor	anger	0
-anchor	anticipation	0
-anchor	disgust	0
-anchor	fear	0
-anchor	joy	0
-anchor	negative	0
-anchor	positive	1
-anchor	sadness	0
-anchor	surprise	0
-anchor	trust	0
-anchorage	anger	0
-anchorage	anticipation	0
-anchorage	disgust	0
-anchorage	fear	0
-anchorage	joy	0
-anchorage	negative	0
-anchorage	positive	1
-anchorage	sadness	1
-anchorage	surprise	0
-anchorage	trust	0
-ancient	anger	0
-ancient	anticipation	0
-ancient	disgust	0
-ancient	fear	0
-ancient	joy	0
-ancient	negative	1
-ancient	positive	0
-ancient	sadness	0
-ancient	surprise	0
-ancient	trust	0
-ancillary	anger	0
-ancillary	anticipation	0
-ancillary	disgust	0
-ancillary	fear	0
-ancillary	joy	0
-ancillary	negative	0
-ancillary	positive	0
-ancillary	sadness	0
-ancillary	surprise	0
-ancillary	trust	0
-androgen	anger	0
-androgen	anticipation	0
-androgen	disgust	0
-androgen	fear	0
-androgen	joy	0
-androgen	negative	0
-androgen	positive	0
-androgen	sadness	0
-androgen	surprise	0
-androgen	trust	0
-anemone	anger	0
-anemone	anticipation	0
-anemone	disgust	0
-anemone	fear	0
-anemone	joy	0
-anemone	negative	0
-anemone	positive	0
-anemone	sadness	0
-anemone	surprise	0
-anemone	trust	0
-anew	anger	0
-anew	anticipation	0
-anew	disgust	0
-anew	fear	0
-anew	joy	0
-anew	negative	0
-anew	positive	0
-anew	sadness	0
-anew	surprise	0
-anew	trust	0
-angel	anger	0
-angel	anticipation	1
-angel	disgust	0
-angel	fear	0
-angel	joy	1
-angel	negative	0
-angel	positive	1
-angel	sadness	0
-angel	surprise	1
-angel	trust	1
-angelic	anger	0
-angelic	anticipation	0
-angelic	disgust	0
-angelic	fear	0
-angelic	joy	1
-angelic	negative	0
-angelic	positive	1
-angelic	sadness	0
-angelic	surprise	0
-angelic	trust	1
-anger	anger	1
-anger	anticipation	0
-anger	disgust	0
-anger	fear	0
-anger	joy	0
-anger	negative	1
-anger	positive	0
-anger	sadness	0
-anger	surprise	0
-anger	trust	0
-angina	anger	0
-angina	anticipation	0
-angina	disgust	0
-angina	fear	1
-angina	joy	0
-angina	negative	1
-angina	positive	0
-angina	sadness	0
-angina	surprise	0
-angina	trust	0
-angiography	anger	0
-angiography	anticipation	0
-angiography	disgust	0
-angiography	fear	0
-angiography	joy	0
-angiography	negative	0
-angiography	positive	0
-angiography	sadness	0
-angiography	surprise	0
-angiography	trust	0
-angle	anger	0
-angle	anticipation	0
-angle	disgust	0
-angle	fear	0
-angle	joy	0
-angle	negative	0
-angle	positive	0
-angle	sadness	0
-angle	surprise	0
-angle	trust	0
-angling	anger	0
-angling	anticipation	1
-angling	disgust	0
-angling	fear	0
-angling	joy	0
-angling	negative	1
-angling	positive	0
-angling	sadness	0
-angling	surprise	0
-angling	trust	0
-angry	anger	1
-angry	anticipation	0
-angry	disgust	1
-angry	fear	0
-angry	joy	0
-angry	negative	1
-angry	positive	0
-angry	sadness	0
-angry	surprise	0
-angry	trust	0
-anguish	anger	1
-anguish	anticipation	0
-anguish	disgust	0
-anguish	fear	1
-anguish	joy	0
-anguish	negative	1
-anguish	positive	0
-anguish	sadness	1
-anguish	surprise	0
-anguish	trust	0
-angular	anger	0
-angular	anticipation	0
-angular	disgust	0
-angular	fear	0
-angular	joy	0
-angular	negative	0
-angular	positive	0
-angular	sadness	0
-angular	surprise	0
-angular	trust	0
-anhydrous	anger	0
-anhydrous	anticipation	0
-anhydrous	disgust	0
-anhydrous	fear	0
-anhydrous	joy	0
-anhydrous	negative	0
-anhydrous	positive	0
-anhydrous	sadness	0
-anhydrous	surprise	0
-anhydrous	trust	0
-animal	anger	0
-animal	anticipation	0
-animal	disgust	0
-animal	fear	0
-animal	joy	0
-animal	negative	0
-animal	positive	0
-animal	sadness	0
-animal	surprise	0
-animal	trust	0
-animate	anger	0
-animate	anticipation	0
-animate	disgust	0
-animate	fear	0
-animate	joy	0
-animate	negative	0
-animate	positive	1
-animate	sadness	0
-animate	surprise	0
-animate	trust	0
-animated	anger	0
-animated	anticipation	0
-animated	disgust	0
-animated	fear	0
-animated	joy	1
-animated	negative	0
-animated	positive	1
-animated	sadness	0
-animated	surprise	0
-animated	trust	0
-animation	anger	0
-animation	anticipation	0
-animation	disgust	0
-animation	fear	0
-animation	joy	0
-animation	negative	0
-animation	positive	0
-animation	sadness	0
-animation	surprise	0
-animation	trust	0
-animosity	anger	1
-animosity	anticipation	0
-animosity	disgust	1
-animosity	fear	1
-animosity	joy	0
-animosity	negative	1
-animosity	positive	0
-animosity	sadness	1
-animosity	surprise	0
-animosity	trust	0
-animus	anger	1
-animus	anticipation	0
-animus	disgust	0
-animus	fear	0
-animus	joy	0
-animus	negative	1
-animus	positive	0
-animus	sadness	0
-animus	surprise	0
-animus	trust	0
-ankle	anger	0
-ankle	anticipation	0
-ankle	disgust	0
-ankle	fear	0
-ankle	joy	0
-ankle	negative	0
-ankle	positive	0
-ankle	sadness	0
-ankle	surprise	0
-ankle	trust	0
-annals	anger	0
-annals	anticipation	0
-annals	disgust	0
-annals	fear	0
-annals	joy	0
-annals	negative	0
-annals	positive	0
-annals	sadness	0
-annals	surprise	0
-annals	trust	0
-annex	anger	0
-annex	anticipation	0
-annex	disgust	0
-annex	fear	0
-annex	joy	0
-annex	negative	0
-annex	positive	0
-annex	sadness	0
-annex	surprise	0
-annex	trust	0
-annexation	anger	0
-annexation	anticipation	0
-annexation	disgust	0
-annexation	fear	0
-annexation	joy	0
-annexation	negative	0
-annexation	positive	0
-annexation	sadness	0
-annexation	surprise	0
-annexation	trust	0
-annexe	anger	0
-annexe	anticipation	0
-annexe	disgust	0
-annexe	fear	0
-annexe	joy	0
-annexe	negative	0
-annexe	positive	0
-annexe	sadness	0
-annexe	surprise	0
-annexe	trust	0
-annihilate	anger	1
-annihilate	anticipation	0
-annihilate	disgust	0
-annihilate	fear	1
-annihilate	joy	0
-annihilate	negative	1
-annihilate	positive	0
-annihilate	sadness	0
-annihilate	surprise	0
-annihilate	trust	0
-annihilated	anger	1
-annihilated	anticipation	0
-annihilated	disgust	0
-annihilated	fear	1
-annihilated	joy	0
-annihilated	negative	1
-annihilated	positive	0
-annihilated	sadness	1
-annihilated	surprise	0
-annihilated	trust	0
-annihilation	anger	1
-annihilation	anticipation	0
-annihilation	disgust	0
-annihilation	fear	1
-annihilation	joy	0
-annihilation	negative	1
-annihilation	positive	0
-annihilation	sadness	1
-annihilation	surprise	0
-annihilation	trust	0
-annotate	anger	0
-annotate	anticipation	0
-annotate	disgust	0
-annotate	fear	0
-annotate	joy	0
-annotate	negative	0
-annotate	positive	0
-annotate	sadness	0
-annotate	surprise	0
-annotate	trust	0
-annotation	anger	0
-annotation	anticipation	0
-annotation	disgust	0
-annotation	fear	0
-annotation	joy	0
-annotation	negative	0
-annotation	positive	0
-annotation	sadness	0
-annotation	surprise	0
-annotation	trust	0
-announce	anger	0
-announce	anticipation	0
-announce	disgust	0
-announce	fear	0
-announce	joy	0
-announce	negative	0
-announce	positive	0
-announce	sadness	0
-announce	surprise	0
-announce	trust	0
-announcement	anger	0
-announcement	anticipation	1
-announcement	disgust	0
-announcement	fear	0
-announcement	joy	0
-announcement	negative	0
-announcement	positive	0
-announcement	sadness	0
-announcement	surprise	0
-announcement	trust	0
-annoy	anger	1
-annoy	anticipation	0
-annoy	disgust	1
-annoy	fear	0
-annoy	joy	0
-annoy	negative	1
-annoy	positive	0
-annoy	sadness	0
-annoy	surprise	0
-annoy	trust	0
-annoyance	anger	1
-annoyance	anticipation	0
-annoyance	disgust	1
-annoyance	fear	0
-annoyance	joy	0
-annoyance	negative	1
-annoyance	positive	0
-annoyance	sadness	0
-annoyance	surprise	0
-annoyance	trust	0
-annoying	anger	1
-annoying	anticipation	0
-annoying	disgust	0
-annoying	fear	0
-annoying	joy	0
-annoying	negative	1
-annoying	positive	0
-annoying	sadness	0
-annoying	surprise	0
-annoying	trust	0
-annuity	anger	0
-annuity	anticipation	0
-annuity	disgust	0
-annuity	fear	0
-annuity	joy	0
-annuity	negative	0
-annuity	positive	0
-annuity	sadness	0
-annuity	surprise	0
-annuity	trust	0
-annul	anger	0
-annul	anticipation	0
-annul	disgust	0
-annul	fear	0
-annul	joy	0
-annul	negative	1
-annul	positive	0
-annul	sadness	0
-annul	surprise	0
-annul	trust	0
-annular	anger	0
-annular	anticipation	0
-annular	disgust	0
-annular	fear	0
-annular	joy	0
-annular	negative	0
-annular	positive	0
-annular	sadness	0
-annular	surprise	0
-annular	trust	0
-annulment	anger	0
-annulment	anticipation	0
-annulment	disgust	0
-annulment	fear	0
-annulment	joy	0
-annulment	negative	1
-annulment	positive	0
-annulment	sadness	1
-annulment	surprise	0
-annulment	trust	0
-annulus	anger	0
-annulus	anticipation	0
-annulus	disgust	0
-annulus	fear	0
-annulus	joy	0
-annulus	negative	0
-annulus	positive	0
-annulus	sadness	0
-annulus	surprise	0
-annulus	trust	0
-anointing	anger	0
-anointing	anticipation	0
-anointing	disgust	0
-anointing	fear	0
-anointing	joy	0
-anointing	negative	0
-anointing	positive	0
-anointing	sadness	0
-anointing	surprise	0
-anointing	trust	0
-anomalous	anger	0
-anomalous	anticipation	0
-anomalous	disgust	0
-anomalous	fear	0
-anomalous	joy	0
-anomalous	negative	0
-anomalous	positive	0
-anomalous	sadness	0
-anomalous	surprise	0
-anomalous	trust	0
-anomaly	anger	0
-anomaly	anticipation	0
-anomaly	disgust	0
-anomaly	fear	1
-anomaly	joy	0
-anomaly	negative	1
-anomaly	positive	0
-anomaly	sadness	0
-anomaly	surprise	1
-anomaly	trust	0
-anon	anger	0
-anon	anticipation	0
-anon	disgust	0
-anon	fear	0
-anon	joy	0
-anon	negative	0
-anon	positive	0
-anon	sadness	0
-anon	surprise	0
-anon	trust	0
-anonymous	anger	0
-anonymous	anticipation	0
-anonymous	disgust	0
-anonymous	fear	0
-anonymous	joy	0
-anonymous	negative	1
-anonymous	positive	0
-anonymous	sadness	0
-anonymous	surprise	0
-anonymous	trust	0
-answer	anger	0
-answer	anticipation	0
-answer	disgust	0
-answer	fear	0
-answer	joy	0
-answer	negative	0
-answer	positive	0
-answer	sadness	0
-answer	surprise	0
-answer	trust	0
-answerable	anger	0
-answerable	anticipation	0
-answerable	disgust	0
-answerable	fear	0
-answerable	joy	0
-answerable	negative	0
-answerable	positive	0
-answerable	sadness	0
-answerable	surprise	0
-answerable	trust	1
-answering	anger	0
-answering	anticipation	0
-answering	disgust	0
-answering	fear	0
-answering	joy	0
-answering	negative	0
-answering	positive	0
-answering	sadness	0
-answering	surprise	0
-answering	trust	0
-ant	anger	0
-ant	anticipation	0
-ant	disgust	0
-ant	fear	0
-ant	joy	0
-ant	negative	0
-ant	positive	0
-ant	sadness	0
-ant	surprise	0
-ant	trust	0
-antagonism	anger	1
-antagonism	anticipation	0
-antagonism	disgust	0
-antagonism	fear	0
-antagonism	joy	0
-antagonism	negative	1
-antagonism	positive	0
-antagonism	sadness	0
-antagonism	surprise	0
-antagonism	trust	0
-antagonist	anger	1
-antagonist	anticipation	0
-antagonist	disgust	0
-antagonist	fear	0
-antagonist	joy	0
-antagonist	negative	1
-antagonist	positive	0
-antagonist	sadness	0
-antagonist	surprise	0
-antagonist	trust	0
-antagonistic	anger	1
-antagonistic	anticipation	0
-antagonistic	disgust	1
-antagonistic	fear	0
-antagonistic	joy	0
-antagonistic	negative	1
-antagonistic	positive	0
-antagonistic	sadness	0
-antagonistic	surprise	0
-antagonistic	trust	0
-ante	anger	0
-ante	anticipation	0
-ante	disgust	0
-ante	fear	0
-ante	joy	0
-ante	negative	0
-ante	positive	0
-ante	sadness	0
-ante	surprise	0
-ante	trust	0
-antecedent	anger	0
-antecedent	anticipation	0
-antecedent	disgust	0
-antecedent	fear	0
-antecedent	joy	0
-antecedent	negative	0
-antecedent	positive	0
-antecedent	sadness	0
-antecedent	surprise	0
-antecedent	trust	0
-antelope	anger	0
-antelope	anticipation	0
-antelope	disgust	0
-antelope	fear	0
-antelope	joy	0
-antelope	negative	0
-antelope	positive	0
-antelope	sadness	0
-antelope	surprise	0
-antelope	trust	0
-antenna	anger	0
-antenna	anticipation	0
-antenna	disgust	0
-antenna	fear	0
-antenna	joy	0
-antenna	negative	0
-antenna	positive	0
-antenna	sadness	0
-antenna	surprise	0
-antenna	trust	0
-anterior	anger	0
-anterior	anticipation	0
-anterior	disgust	0
-anterior	fear	0
-anterior	joy	0
-anterior	negative	0
-anterior	positive	0
-anterior	sadness	0
-anterior	surprise	0
-anterior	trust	0
-anthem	anger	0
-anthem	anticipation	0
-anthem	disgust	0
-anthem	fear	0
-anthem	joy	0
-anthem	negative	0
-anthem	positive	0
-anthem	sadness	0
-anthem	surprise	0
-anthem	trust	0
-anthology	anger	0
-anthology	anticipation	0
-anthology	disgust	0
-anthology	fear	0
-anthology	joy	0
-anthology	negative	0
-anthology	positive	0
-anthology	sadness	0
-anthology	surprise	0
-anthology	trust	0
-anthrax	anger	0
-anthrax	anticipation	0
-anthrax	disgust	1
-anthrax	fear	1
-anthrax	joy	0
-anthrax	negative	1
-anthrax	positive	0
-anthrax	sadness	1
-anthrax	surprise	0
-anthrax	trust	0
-anthropology	anger	0
-anthropology	anticipation	0
-anthropology	disgust	0
-anthropology	fear	0
-anthropology	joy	0
-anthropology	negative	0
-anthropology	positive	0
-anthropology	sadness	0
-anthropology	surprise	0
-anthropology	trust	0
-antibiotic	anger	0
-antibiotic	anticipation	0
-antibiotic	disgust	0
-antibiotic	fear	0
-antibiotic	joy	0
-antibiotic	negative	0
-antibiotic	positive	0
-antibiotic	sadness	0
-antibiotic	surprise	0
-antibiotic	trust	0
-antibiotics	anger	0
-antibiotics	anticipation	0
-antibiotics	disgust	0
-antibiotics	fear	0
-antibiotics	joy	0
-antibiotics	negative	0
-antibiotics	positive	1
-antibiotics	sadness	0
-antibiotics	surprise	0
-antibiotics	trust	0
-antichrist	anger	1
-antichrist	anticipation	0
-antichrist	disgust	1
-antichrist	fear	1
-antichrist	joy	0
-antichrist	negative	1
-antichrist	positive	0
-antichrist	sadness	0
-antichrist	surprise	0
-antichrist	trust	0
-anticipation	anger	0
-anticipation	anticipation	1
-anticipation	disgust	0
-anticipation	fear	0
-anticipation	joy	0
-anticipation	negative	0
-anticipation	positive	0
-anticipation	sadness	0
-anticipation	surprise	0
-anticipation	trust	0
-anticipatory	anger	0
-anticipatory	anticipation	1
-anticipatory	disgust	0
-anticipatory	fear	0
-anticipatory	joy	0
-anticipatory	negative	0
-anticipatory	positive	0
-anticipatory	sadness	0
-anticipatory	surprise	0
-anticipatory	trust	0
-antidote	anger	0
-antidote	anticipation	1
-antidote	disgust	0
-antidote	fear	0
-antidote	joy	0
-antidote	negative	0
-antidote	positive	1
-antidote	sadness	0
-antidote	surprise	0
-antidote	trust	1
-antifungal	anger	0
-antifungal	anticipation	0
-antifungal	disgust	0
-antifungal	fear	0
-antifungal	joy	0
-antifungal	negative	0
-antifungal	positive	1
-antifungal	sadness	0
-antifungal	surprise	0
-antifungal	trust	1
-antimony	anger	0
-antimony	anticipation	0
-antimony	disgust	0
-antimony	fear	0
-antimony	joy	0
-antimony	negative	0
-antimony	positive	0
-antimony	sadness	0
-antimony	surprise	0
-antimony	trust	0
-antipathy	anger	1
-antipathy	anticipation	0
-antipathy	disgust	1
-antipathy	fear	0
-antipathy	joy	0
-antipathy	negative	1
-antipathy	positive	0
-antipathy	sadness	0
-antipathy	surprise	0
-antipathy	trust	0
-antiquarian	anger	0
-antiquarian	anticipation	0
-antiquarian	disgust	0
-antiquarian	fear	0
-antiquarian	joy	0
-antiquarian	negative	0
-antiquarian	positive	0
-antiquarian	sadness	0
-antiquarian	surprise	0
-antiquarian	trust	0
-antiquated	anger	0
-antiquated	anticipation	0
-antiquated	disgust	0
-antiquated	fear	0
-antiquated	joy	0
-antiquated	negative	1
-antiquated	positive	0
-antiquated	sadness	0
-antiquated	surprise	0
-antiquated	trust	0
-antique	anger	0
-antique	anticipation	0
-antique	disgust	0
-antique	fear	0
-antique	joy	0
-antique	negative	0
-antique	positive	1
-antique	sadness	0
-antique	surprise	0
-antique	trust	0
-antiquity	anger	0
-antiquity	anticipation	0
-antiquity	disgust	0
-antiquity	fear	0
-antiquity	joy	0
-antiquity	negative	0
-antiquity	positive	0
-antiquity	sadness	0
-antiquity	surprise	0
-antiquity	trust	0
-antiseptic	anger	0
-antiseptic	anticipation	0
-antiseptic	disgust	0
-antiseptic	fear	0
-antiseptic	joy	0
-antiseptic	negative	0
-antiseptic	positive	1
-antiseptic	sadness	0
-antiseptic	surprise	0
-antiseptic	trust	1
-antisocial	anger	1
-antisocial	anticipation	0
-antisocial	disgust	1
-antisocial	fear	1
-antisocial	joy	0
-antisocial	negative	1
-antisocial	positive	0
-antisocial	sadness	1
-antisocial	surprise	0
-antisocial	trust	0
-antithesis	anger	1
-antithesis	anticipation	0
-antithesis	disgust	0
-antithesis	fear	0
-antithesis	joy	0
-antithesis	negative	1
-antithesis	positive	0
-antithesis	sadness	0
-antithesis	surprise	0
-antithesis	trust	0
-antithetical	anger	0
-antithetical	anticipation	0
-antithetical	disgust	0
-antithetical	fear	0
-antithetical	joy	0
-antithetical	negative	0
-antithetical	positive	0
-antithetical	sadness	0
-antithetical	surprise	0
-antithetical	trust	0
-antiviral	anger	0
-antiviral	anticipation	0
-antiviral	disgust	0
-antiviral	fear	0
-antiviral	joy	0
-antiviral	negative	0
-antiviral	positive	0
-antiviral	sadness	0
-antiviral	surprise	0
-antiviral	trust	0
-antler	anger	0
-antler	anticipation	0
-antler	disgust	0
-antler	fear	0
-antler	joy	0
-antler	negative	0
-antler	positive	0
-antler	sadness	0
-antler	surprise	0
-antler	trust	0
-anvil	anger	0
-anvil	anticipation	0
-anvil	disgust	0
-anvil	fear	0
-anvil	joy	0
-anvil	negative	0
-anvil	positive	0
-anvil	sadness	0
-anvil	surprise	0
-anvil	trust	0
-anxiety	anger	1
-anxiety	anticipation	1
-anxiety	disgust	0
-anxiety	fear	1
-anxiety	joy	0
-anxiety	negative	1
-anxiety	positive	0
-anxiety	sadness	1
-anxiety	surprise	0
-anxiety	trust	0
-anxious	anger	0
-anxious	anticipation	1
-anxious	disgust	0
-anxious	fear	1
-anxious	joy	0
-anxious	negative	1
-anxious	positive	0
-anxious	sadness	0
-anxious	surprise	0
-anxious	trust	0
-aorta	anger	0
-aorta	anticipation	0
-aorta	disgust	0
-aorta	fear	0
-aorta	joy	0
-aorta	negative	0
-aorta	positive	0
-aorta	sadness	0
-aorta	surprise	0
-aorta	trust	0
-apace	anger	0
-apace	anticipation	0
-apace	disgust	0
-apace	fear	0
-apace	joy	0
-apace	negative	0
-apace	positive	0
-apace	sadness	0
-apace	surprise	0
-apace	trust	0
-apache	anger	0
-apache	anticipation	0
-apache	disgust	0
-apache	fear	1
-apache	joy	0
-apache	negative	1
-apache	positive	0
-apache	sadness	0
-apache	surprise	0
-apache	trust	0
-apartment	anger	0
-apartment	anticipation	0
-apartment	disgust	0
-apartment	fear	0
-apartment	joy	0
-apartment	negative	0
-apartment	positive	0
-apartment	sadness	0
-apartment	surprise	0
-apartment	trust	0
-apathetic	anger	0
-apathetic	anticipation	0
-apathetic	disgust	0
-apathetic	fear	0
-apathetic	joy	0
-apathetic	negative	1
-apathetic	positive	0
-apathetic	sadness	1
-apathetic	surprise	0
-apathetic	trust	0
-apathy	anger	0
-apathy	anticipation	0
-apathy	disgust	0
-apathy	fear	0
-apathy	joy	0
-apathy	negative	1
-apathy	positive	0
-apathy	sadness	1
-apathy	surprise	0
-apathy	trust	0
-ape	anger	0
-ape	anticipation	0
-ape	disgust	0
-ape	fear	0
-ape	joy	0
-ape	negative	0
-ape	positive	0
-ape	sadness	0
-ape	surprise	0
-ape	trust	0
-aperture	anger	0
-aperture	anticipation	0
-aperture	disgust	0
-aperture	fear	0
-aperture	joy	0
-aperture	negative	0
-aperture	positive	0
-aperture	sadness	0
-aperture	surprise	0
-aperture	trust	0
-apex	anger	0
-apex	anticipation	0
-apex	disgust	0
-apex	fear	0
-apex	joy	0
-apex	negative	0
-apex	positive	0
-apex	sadness	0
-apex	surprise	0
-apex	trust	0
-aphid	anger	0
-aphid	anticipation	0
-aphid	disgust	1
-aphid	fear	0
-aphid	joy	0
-aphid	negative	1
-aphid	positive	0
-aphid	sadness	0
-aphid	surprise	0
-aphid	trust	0
-apiece	anger	0
-apiece	anticipation	0
-apiece	disgust	0
-apiece	fear	0
-apiece	joy	0
-apiece	negative	0
-apiece	positive	0
-apiece	sadness	0
-apiece	surprise	0
-apiece	trust	0
-aplomb	anger	0
-aplomb	anticipation	0
-aplomb	disgust	0
-aplomb	fear	0
-aplomb	joy	0
-aplomb	negative	0
-aplomb	positive	1
-aplomb	sadness	0
-aplomb	surprise	0
-aplomb	trust	0
-apocalyptic	anger	0
-apocalyptic	anticipation	0
-apocalyptic	disgust	0
-apocalyptic	fear	0
-apocalyptic	joy	0
-apocalyptic	negative	0
-apocalyptic	positive	0
-apocalyptic	sadness	0
-apocalyptic	surprise	0
-apocalyptic	trust	0
-apologetic	anger	0
-apologetic	anticipation	0
-apologetic	disgust	0
-apologetic	fear	0
-apologetic	joy	0
-apologetic	negative	0
-apologetic	positive	1
-apologetic	sadness	0
-apologetic	surprise	0
-apologetic	trust	1
-apologist	anger	0
-apologist	anticipation	0
-apologist	disgust	0
-apologist	fear	0
-apologist	joy	0
-apologist	negative	0
-apologist	positive	0
-apologist	sadness	0
-apologist	surprise	0
-apologist	trust	0
-apologize	anger	0
-apologize	anticipation	0
-apologize	disgust	0
-apologize	fear	0
-apologize	joy	0
-apologize	negative	0
-apologize	positive	1
-apologize	sadness	1
-apologize	surprise	0
-apologize	trust	1
-apology	anger	0
-apology	anticipation	0
-apology	disgust	0
-apology	fear	0
-apology	joy	0
-apology	negative	0
-apology	positive	1
-apology	sadness	0
-apology	surprise	0
-apology	trust	0
-apostasy	anger	0
-apostasy	anticipation	0
-apostasy	disgust	0
-apostasy	fear	0
-apostasy	joy	0
-apostasy	negative	0
-apostasy	positive	0
-apostasy	sadness	0
-apostasy	surprise	0
-apostasy	trust	0
-apostate	anger	0
-apostate	anticipation	0
-apostate	disgust	0
-apostate	fear	0
-apostate	joy	0
-apostate	negative	0
-apostate	positive	0
-apostate	sadness	0
-apostate	surprise	0
-apostate	trust	0
-apostle	anger	0
-apostle	anticipation	0
-apostle	disgust	0
-apostle	fear	0
-apostle	joy	0
-apostle	negative	0
-apostle	positive	1
-apostle	sadness	0
-apostle	surprise	0
-apostle	trust	1
-apostolic	anger	0
-apostolic	anticipation	0
-apostolic	disgust	0
-apostolic	fear	0
-apostolic	joy	0
-apostolic	negative	0
-apostolic	positive	0
-apostolic	sadness	0
-apostolic	surprise	0
-apostolic	trust	1
-apostrophe	anger	0
-apostrophe	anticipation	0
-apostrophe	disgust	0
-apostrophe	fear	0
-apostrophe	joy	0
-apostrophe	negative	0
-apostrophe	positive	0
-apostrophe	sadness	0
-apostrophe	surprise	0
-apostrophe	trust	0
-appalling	anger	0
-appalling	anticipation	0
-appalling	disgust	1
-appalling	fear	1
-appalling	joy	0
-appalling	negative	1
-appalling	positive	0
-appalling	sadness	0
-appalling	surprise	0
-appalling	trust	0
-apparatus	anger	0
-apparatus	anticipation	0
-apparatus	disgust	0
-apparatus	fear	0
-apparatus	joy	0
-apparatus	negative	0
-apparatus	positive	0
-apparatus	sadness	0
-apparatus	surprise	0
-apparatus	trust	0
-apparel	anger	0
-apparel	anticipation	0
-apparel	disgust	0
-apparel	fear	0
-apparel	joy	0
-apparel	negative	0
-apparel	positive	0
-apparel	sadness	0
-apparel	surprise	0
-apparel	trust	0
-apparently	anger	0
-apparently	anticipation	0
-apparently	disgust	0
-apparently	fear	0
-apparently	joy	0
-apparently	negative	0
-apparently	positive	0
-apparently	sadness	0
-apparently	surprise	0
-apparently	trust	0
-apparition	anger	0
-apparition	anticipation	0
-apparition	disgust	0
-apparition	fear	1
-apparition	joy	0
-apparition	negative	0
-apparition	positive	0
-apparition	sadness	0
-apparition	surprise	1
-apparition	trust	0
-appeal	anger	0
-appeal	anticipation	1
-appeal	disgust	0
-appeal	fear	0
-appeal	joy	0
-appeal	negative	0
-appeal	positive	0
-appeal	sadness	0
-appeal	surprise	0
-appeal	trust	0
-appearance	anger	0
-appearance	anticipation	0
-appearance	disgust	0
-appearance	fear	0
-appearance	joy	0
-appearance	negative	0
-appearance	positive	0
-appearance	sadness	0
-appearance	surprise	0
-appearance	trust	0
-appease	anger	0
-appease	anticipation	0
-appease	disgust	0
-appease	fear	0
-appease	joy	0
-appease	negative	0
-appease	positive	0
-appease	sadness	0
-appease	surprise	0
-appease	trust	0
-appellant	anger	0
-appellant	anticipation	0
-appellant	disgust	0
-appellant	fear	0
-appellant	joy	0
-appellant	negative	0
-appellant	positive	0
-appellant	sadness	0
-appellant	surprise	0
-appellant	trust	0
-append	anger	0
-append	anticipation	0
-append	disgust	0
-append	fear	0
-append	joy	0
-append	negative	0
-append	positive	0
-append	sadness	0
-append	surprise	0
-append	trust	0
-appendage	anger	0
-appendage	anticipation	0
-appendage	disgust	0
-appendage	fear	0
-appendage	joy	0
-appendage	negative	0
-appendage	positive	0
-appendage	sadness	0
-appendage	surprise	0
-appendage	trust	0
-appendicitis	anger	0
-appendicitis	anticipation	0
-appendicitis	disgust	0
-appendicitis	fear	1
-appendicitis	joy	0
-appendicitis	negative	1
-appendicitis	positive	0
-appendicitis	sadness	1
-appendicitis	surprise	0
-appendicitis	trust	0
-appendix	anger	0
-appendix	anticipation	0
-appendix	disgust	0
-appendix	fear	0
-appendix	joy	0
-appendix	negative	0
-appendix	positive	0
-appendix	sadness	0
-appendix	surprise	0
-appendix	trust	0
-appetite	anger	0
-appetite	anticipation	0
-appetite	disgust	0
-appetite	fear	0
-appetite	joy	0
-appetite	negative	0
-appetite	positive	0
-appetite	sadness	0
-appetite	surprise	0
-appetite	trust	0
-appetizer	anger	0
-appetizer	anticipation	0
-appetizer	disgust	0
-appetizer	fear	0
-appetizer	joy	0
-appetizer	negative	0
-appetizer	positive	0
-appetizer	sadness	0
-appetizer	surprise	0
-appetizer	trust	0
-applause	anger	0
-applause	anticipation	0
-applause	disgust	0
-applause	fear	0
-applause	joy	1
-applause	negative	0
-applause	positive	1
-applause	sadness	0
-applause	surprise	1
-applause	trust	1
-apple	anger	0
-apple	anticipation	0
-apple	disgust	0
-apple	fear	0
-apple	joy	0
-apple	negative	0
-apple	positive	0
-apple	sadness	0
-apple	surprise	0
-apple	trust	0
-appliance	anger	0
-appliance	anticipation	0
-appliance	disgust	0
-appliance	fear	0
-appliance	joy	0
-appliance	negative	0
-appliance	positive	0
-appliance	sadness	0
-appliance	surprise	0
-appliance	trust	0
-appliances	anger	0
-appliances	anticipation	0
-appliances	disgust	0
-appliances	fear	0
-appliances	joy	0
-appliances	negative	0
-appliances	positive	0
-appliances	sadness	0
-appliances	surprise	0
-appliances	trust	0
-applicability	anger	0
-applicability	anticipation	0
-applicability	disgust	0
-applicability	fear	0
-applicability	joy	0
-applicability	negative	0
-applicability	positive	0
-applicability	sadness	0
-applicability	surprise	0
-applicability	trust	0
-applicable	anger	0
-applicable	anticipation	0
-applicable	disgust	0
-applicable	fear	0
-applicable	joy	0
-applicable	negative	0
-applicable	positive	0
-applicable	sadness	0
-applicable	surprise	0
-applicable	trust	0
-applicant	anger	0
-applicant	anticipation	1
-applicant	disgust	0
-applicant	fear	0
-applicant	joy	0
-applicant	negative	0
-applicant	positive	0
-applicant	sadness	0
-applicant	surprise	0
-applicant	trust	0
-application	anger	0
-application	anticipation	0
-application	disgust	0
-application	fear	0
-application	joy	0
-application	negative	0
-application	positive	0
-application	sadness	0
-application	surprise	0
-application	trust	0
-apply	anger	0
-apply	anticipation	0
-apply	disgust	0
-apply	fear	0
-apply	joy	0
-apply	negative	0
-apply	positive	0
-apply	sadness	0
-apply	surprise	0
-apply	trust	0
-appoint	anger	0
-appoint	anticipation	0
-appoint	disgust	0
-appoint	fear	0
-appoint	joy	0
-appoint	negative	0
-appoint	positive	0
-appoint	sadness	0
-appoint	surprise	0
-appoint	trust	0
-appointment	anger	0
-appointment	anticipation	0
-appointment	disgust	0
-appointment	fear	0
-appointment	joy	0
-appointment	negative	0
-appointment	positive	0
-appointment	sadness	0
-appointment	surprise	0
-appointment	trust	0
-appointments	anger	0
-appointments	anticipation	0
-appointments	disgust	0
-appointments	fear	0
-appointments	joy	0
-appointments	negative	0
-appointments	positive	0
-appointments	sadness	0
-appointments	surprise	0
-appointments	trust	0
-apportion	anger	0
-apportion	anticipation	0
-apportion	disgust	0
-apportion	fear	0
-apportion	joy	0
-apportion	negative	0
-apportion	positive	0
-apportion	sadness	0
-apportion	surprise	0
-apportion	trust	0
-apportionment	anger	0
-apportionment	anticipation	0
-apportionment	disgust	0
-apportionment	fear	0
-apportionment	joy	0
-apportionment	negative	0
-apportionment	positive	0
-apportionment	sadness	0
-apportionment	surprise	0
-apportionment	trust	0
-appraise	anger	0
-appraise	anticipation	0
-appraise	disgust	0
-appraise	fear	0
-appraise	joy	0
-appraise	negative	0
-appraise	positive	0
-appraise	sadness	0
-appraise	surprise	0
-appraise	trust	0
-appreciable	anger	0
-appreciable	anticipation	0
-appreciable	disgust	0
-appreciable	fear	0
-appreciable	joy	0
-appreciable	negative	0
-appreciable	positive	0
-appreciable	sadness	0
-appreciable	surprise	0
-appreciable	trust	0
-appreciation	anger	0
-appreciation	anticipation	0
-appreciation	disgust	0
-appreciation	fear	0
-appreciation	joy	1
-appreciation	negative	0
-appreciation	positive	1
-appreciation	sadness	0
-appreciation	surprise	0
-appreciation	trust	1
-apprehend	anger	0
-apprehend	anticipation	0
-apprehend	disgust	0
-apprehend	fear	1
-apprehend	joy	0
-apprehend	negative	0
-apprehend	positive	0
-apprehend	sadness	0
-apprehend	surprise	0
-apprehend	trust	0
-apprehension	anger	0
-apprehension	anticipation	0
-apprehension	disgust	0
-apprehension	fear	1
-apprehension	joy	0
-apprehension	negative	1
-apprehension	positive	0
-apprehension	sadness	0
-apprehension	surprise	0
-apprehension	trust	0
-apprehensive	anger	0
-apprehensive	anticipation	1
-apprehensive	disgust	0
-apprehensive	fear	1
-apprehensive	joy	0
-apprehensive	negative	1
-apprehensive	positive	0
-apprehensive	sadness	0
-apprehensive	surprise	0
-apprehensive	trust	0
-apprentice	anger	0
-apprentice	anticipation	0
-apprentice	disgust	0
-apprentice	fear	0
-apprentice	joy	0
-apprentice	negative	0
-apprentice	positive	0
-apprentice	sadness	0
-apprentice	surprise	0
-apprentice	trust	1
-apprenticeship	anger	0
-apprenticeship	anticipation	0
-apprenticeship	disgust	0
-apprenticeship	fear	0
-apprenticeship	joy	0
-apprenticeship	negative	0
-apprenticeship	positive	0
-apprenticeship	sadness	0
-apprenticeship	surprise	0
-apprenticeship	trust	0
-approach	anger	0
-approach	anticipation	0
-approach	disgust	0
-approach	fear	0
-approach	joy	0
-approach	negative	0
-approach	positive	0
-approach	sadness	0
-approach	surprise	0
-approach	trust	0
-approaching	anger	0
-approaching	anticipation	1
-approaching	disgust	0
-approaching	fear	0
-approaching	joy	0
-approaching	negative	0
-approaching	positive	0
-approaching	sadness	0
-approaching	surprise	0
-approaching	trust	0
-approbation	anger	0
-approbation	anticipation	0
-approbation	disgust	0
-approbation	fear	0
-approbation	joy	0
-approbation	negative	0
-approbation	positive	1
-approbation	sadness	0
-approbation	surprise	0
-approbation	trust	1
-appropriation	anger	0
-appropriation	anticipation	0
-appropriation	disgust	0
-appropriation	fear	0
-appropriation	joy	0
-appropriation	negative	1
-appropriation	positive	0
-appropriation	sadness	0
-appropriation	surprise	0
-appropriation	trust	0
-approval	anger	0
-approval	anticipation	0
-approval	disgust	0
-approval	fear	0
-approval	joy	0
-approval	negative	0
-approval	positive	1
-approval	sadness	0
-approval	surprise	0
-approval	trust	0
-approve	anger	0
-approve	anticipation	0
-approve	disgust	0
-approve	fear	0
-approve	joy	1
-approve	negative	0
-approve	positive	1
-approve	sadness	0
-approve	surprise	0
-approve	trust	1
-approving	anger	0
-approving	anticipation	0
-approving	disgust	0
-approving	fear	0
-approving	joy	0
-approving	negative	0
-approving	positive	1
-approving	sadness	0
-approving	surprise	0
-approving	trust	0
-approximate	anger	0
-approximate	anticipation	0
-approximate	disgust	0
-approximate	fear	0
-approximate	joy	0
-approximate	negative	0
-approximate	positive	0
-approximate	sadness	0
-approximate	surprise	0
-approximate	trust	0
-approximately	anger	0
-approximately	anticipation	0
-approximately	disgust	0
-approximately	fear	0
-approximately	joy	0
-approximately	negative	0
-approximately	positive	0
-approximately	sadness	0
-approximately	surprise	0
-approximately	trust	0
-approximating	anger	0
-approximating	anticipation	0
-approximating	disgust	0
-approximating	fear	0
-approximating	joy	0
-approximating	negative	0
-approximating	positive	0
-approximating	sadness	0
-approximating	surprise	0
-approximating	trust	0
-approximation	anger	0
-approximation	anticipation	0
-approximation	disgust	0
-approximation	fear	0
-approximation	joy	0
-approximation	negative	0
-approximation	positive	0
-approximation	sadness	0
-approximation	surprise	0
-approximation	trust	0
-appurtenances	anger	0
-appurtenances	anticipation	0
-appurtenances	disgust	0
-appurtenances	fear	0
-appurtenances	joy	0
-appurtenances	negative	0
-appurtenances	positive	0
-appurtenances	sadness	0
-appurtenances	surprise	0
-appurtenances	trust	0
-apron	anger	0
-apron	anticipation	0
-apron	disgust	0
-apron	fear	0
-apron	joy	0
-apron	negative	0
-apron	positive	0
-apron	sadness	0
-apron	surprise	0
-apron	trust	0
-apt	anger	0
-apt	anticipation	0
-apt	disgust	0
-apt	fear	0
-apt	joy	0
-apt	negative	0
-apt	positive	1
-apt	sadness	0
-apt	surprise	0
-apt	trust	0
-aptitude	anger	0
-aptitude	anticipation	0
-aptitude	disgust	0
-aptitude	fear	0
-aptitude	joy	0
-aptitude	negative	0
-aptitude	positive	1
-aptitude	sadness	0
-aptitude	surprise	0
-aptitude	trust	0
-aqua	anger	0
-aqua	anticipation	0
-aqua	disgust	0
-aqua	fear	0
-aqua	joy	0
-aqua	negative	0
-aqua	positive	0
-aqua	sadness	0
-aqua	surprise	0
-aqua	trust	0
-aquamarine	anger	0
-aquamarine	anticipation	0
-aquamarine	disgust	0
-aquamarine	fear	0
-aquamarine	joy	0
-aquamarine	negative	0
-aquamarine	positive	0
-aquamarine	sadness	0
-aquamarine	surprise	0
-aquamarine	trust	0
-aquarium	anger	0
-aquarium	anticipation	0
-aquarium	disgust	0
-aquarium	fear	0
-aquarium	joy	0
-aquarium	negative	0
-aquarium	positive	0
-aquarium	sadness	0
-aquarium	surprise	0
-aquarium	trust	0
-aquatic	anger	0
-aquatic	anticipation	0
-aquatic	disgust	0
-aquatic	fear	0
-aquatic	joy	0
-aquatic	negative	0
-aquatic	positive	0
-aquatic	sadness	0
-aquatic	surprise	0
-aquatic	trust	0
-aqueduct	anger	0
-aqueduct	anticipation	0
-aqueduct	disgust	0
-aqueduct	fear	0
-aqueduct	joy	0
-aqueduct	negative	0
-aqueduct	positive	0
-aqueduct	sadness	0
-aqueduct	surprise	0
-aqueduct	trust	0
-aqueous	anger	0
-aqueous	anticipation	0
-aqueous	disgust	0
-aqueous	fear	0
-aqueous	joy	0
-aqueous	negative	0
-aqueous	positive	0
-aqueous	sadness	0
-aqueous	surprise	0
-aqueous	trust	0
-arable	anger	0
-arable	anticipation	0
-arable	disgust	0
-arable	fear	0
-arable	joy	0
-arable	negative	0
-arable	positive	0
-arable	sadness	0
-arable	surprise	0
-arable	trust	0
-arbiter	anger	0
-arbiter	anticipation	0
-arbiter	disgust	0
-arbiter	fear	0
-arbiter	joy	0
-arbiter	negative	0
-arbiter	positive	0
-arbiter	sadness	0
-arbiter	surprise	0
-arbiter	trust	1
-arbitrate	anger	0
-arbitrate	anticipation	0
-arbitrate	disgust	0
-arbitrate	fear	0
-arbitrate	joy	0
-arbitrate	negative	0
-arbitrate	positive	0
-arbitrate	sadness	0
-arbitrate	surprise	0
-arbitrate	trust	0
-arbitration	anger	0
-arbitration	anticipation	1
-arbitration	disgust	0
-arbitration	fear	0
-arbitration	joy	0
-arbitration	negative	0
-arbitration	positive	0
-arbitration	sadness	0
-arbitration	surprise	0
-arbitration	trust	0
-arbitrator	anger	0
-arbitrator	anticipation	0
-arbitrator	disgust	0
-arbitrator	fear	0
-arbitrator	joy	0
-arbitrator	negative	0
-arbitrator	positive	0
-arbitrator	sadness	0
-arbitrator	surprise	0
-arbitrator	trust	1
-arbor	anger	0
-arbor	anticipation	0
-arbor	disgust	0
-arbor	fear	0
-arbor	joy	0
-arbor	negative	0
-arbor	positive	0
-arbor	sadness	0
-arbor	surprise	0
-arbor	trust	0
-arc	anger	0
-arc	anticipation	0
-arc	disgust	0
-arc	fear	0
-arc	joy	0
-arc	negative	0
-arc	positive	0
-arc	sadness	0
-arc	surprise	0
-arc	trust	0
-arcade	anger	0
-arcade	anticipation	0
-arcade	disgust	0
-arcade	fear	0
-arcade	joy	0
-arcade	negative	0
-arcade	positive	0
-arcade	sadness	0
-arcade	surprise	0
-arcade	trust	0
-arch	anger	0
-arch	anticipation	0
-arch	disgust	0
-arch	fear	0
-arch	joy	0
-arch	negative	0
-arch	positive	0
-arch	sadness	0
-arch	surprise	0
-arch	trust	0
-archaeological	anger	0
-archaeological	anticipation	0
-archaeological	disgust	0
-archaeological	fear	0
-archaeological	joy	0
-archaeological	negative	0
-archaeological	positive	0
-archaeological	sadness	0
-archaeological	surprise	0
-archaeological	trust	0
-archaeologist	anger	0
-archaeologist	anticipation	0
-archaeologist	disgust	0
-archaeologist	fear	0
-archaeologist	joy	0
-archaeologist	negative	0
-archaeologist	positive	0
-archaeologist	sadness	0
-archaeologist	surprise	0
-archaeologist	trust	0
-archaeology	anger	0
-archaeology	anticipation	1
-archaeology	disgust	0
-archaeology	fear	0
-archaeology	joy	0
-archaeology	negative	0
-archaeology	positive	1
-archaeology	sadness	0
-archaeology	surprise	0
-archaeology	trust	0
-archaic	anger	0
-archaic	anticipation	0
-archaic	disgust	0
-archaic	fear	0
-archaic	joy	0
-archaic	negative	1
-archaic	positive	0
-archaic	sadness	0
-archaic	surprise	0
-archaic	trust	0
-archbishop	anger	0
-archbishop	anticipation	0
-archbishop	disgust	0
-archbishop	fear	0
-archbishop	joy	0
-archbishop	negative	0
-archbishop	positive	0
-archbishop	sadness	0
-archbishop	surprise	0
-archbishop	trust	0
-arched	anger	0
-arched	anticipation	0
-arched	disgust	0
-arched	fear	0
-arched	joy	0
-arched	negative	0
-arched	positive	0
-arched	sadness	0
-arched	surprise	0
-arched	trust	0
-archer	anger	0
-archer	anticipation	0
-archer	disgust	0
-archer	fear	0
-archer	joy	0
-archer	negative	0
-archer	positive	0
-archer	sadness	0
-archer	surprise	0
-archer	trust	0
-archery	anger	0
-archery	anticipation	0
-archery	disgust	0
-archery	fear	0
-archery	joy	0
-archery	negative	0
-archery	positive	0
-archery	sadness	0
-archery	surprise	0
-archery	trust	0
-archetype	anger	0
-archetype	anticipation	0
-archetype	disgust	0
-archetype	fear	0
-archetype	joy	0
-archetype	negative	0
-archetype	positive	0
-archetype	sadness	0
-archetype	surprise	0
-archetype	trust	0
-archipelago	anger	0
-archipelago	anticipation	0
-archipelago	disgust	0
-archipelago	fear	0
-archipelago	joy	0
-archipelago	negative	0
-archipelago	positive	0
-archipelago	sadness	0
-archipelago	surprise	0
-archipelago	trust	0
-architect	anger	0
-architect	anticipation	0
-architect	disgust	0
-architect	fear	0
-architect	joy	0
-architect	negative	0
-architect	positive	0
-architect	sadness	0
-architect	surprise	0
-architect	trust	0
-architecture	anger	0
-architecture	anticipation	0
-architecture	disgust	0
-architecture	fear	0
-architecture	joy	0
-architecture	negative	0
-architecture	positive	0
-architecture	sadness	0
-architecture	surprise	0
-architecture	trust	1
-archive	anger	0
-archive	anticipation	0
-archive	disgust	0
-archive	fear	0
-archive	joy	0
-archive	negative	0
-archive	positive	0
-archive	sadness	0
-archive	surprise	0
-archive	trust	0
-arctic	anger	0
-arctic	anticipation	0
-arctic	disgust	0
-arctic	fear	0
-arctic	joy	0
-arctic	negative	0
-arctic	positive	0
-arctic	sadness	0
-arctic	surprise	0
-arctic	trust	0
-ardent	anger	0
-ardent	anticipation	1
-ardent	disgust	0
-ardent	fear	0
-ardent	joy	1
-ardent	negative	0
-ardent	positive	1
-ardent	sadness	0
-ardent	surprise	0
-ardent	trust	0
-ardor	anger	0
-ardor	anticipation	0
-ardor	disgust	0
-ardor	fear	0
-ardor	joy	0
-ardor	negative	0
-ardor	positive	1
-ardor	sadness	0
-ardor	surprise	0
-ardor	trust	0
-arduous	anger	0
-arduous	anticipation	0
-arduous	disgust	0
-arduous	fear	0
-arduous	joy	0
-arduous	negative	1
-arduous	positive	0
-arduous	sadness	0
-arduous	surprise	0
-arduous	trust	0
-area	anger	0
-area	anticipation	0
-area	disgust	0
-area	fear	0
-area	joy	0
-area	negative	0
-area	positive	0
-area	sadness	0
-area	surprise	0
-area	trust	0
-arena	anger	0
-arena	anticipation	0
-arena	disgust	0
-arena	fear	0
-arena	joy	0
-arena	negative	0
-arena	positive	0
-arena	sadness	0
-arena	surprise	0
-arena	trust	0
-areola	anger	0
-areola	anticipation	0
-areola	disgust	0
-areola	fear	0
-areola	joy	0
-areola	negative	0
-areola	positive	0
-areola	sadness	0
-areola	surprise	0
-areola	trust	0
-argent	anger	0
-argent	anticipation	0
-argent	disgust	0
-argent	fear	0
-argent	joy	0
-argent	negative	0
-argent	positive	0
-argent	sadness	0
-argent	surprise	0
-argent	trust	0
-argue	anger	1
-argue	anticipation	0
-argue	disgust	0
-argue	fear	0
-argue	joy	0
-argue	negative	1
-argue	positive	0
-argue	sadness	0
-argue	surprise	0
-argue	trust	0
-argument	anger	1
-argument	anticipation	0
-argument	disgust	0
-argument	fear	0
-argument	joy	0
-argument	negative	1
-argument	positive	0
-argument	sadness	0
-argument	surprise	0
-argument	trust	0
-argumentation	anger	1
-argumentation	anticipation	0
-argumentation	disgust	0
-argumentation	fear	0
-argumentation	joy	0
-argumentation	negative	0
-argumentation	positive	0
-argumentation	sadness	0
-argumentation	surprise	0
-argumentation	trust	0
-argumentative	anger	0
-argumentative	anticipation	0
-argumentative	disgust	0
-argumentative	fear	0
-argumentative	joy	0
-argumentative	negative	1
-argumentative	positive	0
-argumentative	sadness	0
-argumentative	surprise	0
-argumentative	trust	0
-arguments	anger	1
-arguments	anticipation	0
-arguments	disgust	0
-arguments	fear	0
-arguments	joy	0
-arguments	negative	0
-arguments	positive	0
-arguments	sadness	0
-arguments	surprise	0
-arguments	trust	0
-arid	anger	0
-arid	anticipation	0
-arid	disgust	0
-arid	fear	0
-arid	joy	0
-arid	negative	1
-arid	positive	0
-arid	sadness	1
-arid	surprise	0
-arid	trust	0
-aristocracy	anger	0
-aristocracy	anticipation	0
-aristocracy	disgust	0
-aristocracy	fear	0
-aristocracy	joy	0
-aristocracy	negative	0
-aristocracy	positive	1
-aristocracy	sadness	0
-aristocracy	surprise	0
-aristocracy	trust	0
-aristocrat	anger	0
-aristocrat	anticipation	0
-aristocrat	disgust	0
-aristocrat	fear	0
-aristocrat	joy	0
-aristocrat	negative	0
-aristocrat	positive	0
-aristocrat	sadness	0
-aristocrat	surprise	0
-aristocrat	trust	0
-aristocratic	anger	0
-aristocratic	anticipation	0
-aristocratic	disgust	0
-aristocratic	fear	0
-aristocratic	joy	0
-aristocratic	negative	0
-aristocratic	positive	1
-aristocratic	sadness	0
-aristocratic	surprise	0
-aristocratic	trust	0
-arithmetic	anger	0
-arithmetic	anticipation	0
-arithmetic	disgust	0
-arithmetic	fear	0
-arithmetic	joy	0
-arithmetic	negative	0
-arithmetic	positive	0
-arithmetic	sadness	0
-arithmetic	surprise	0
-arithmetic	trust	0
-ark	anger	0
-ark	anticipation	0
-ark	disgust	0
-ark	fear	0
-ark	joy	0
-ark	negative	0
-ark	positive	0
-ark	sadness	0
-ark	surprise	0
-ark	trust	0
-arm	anger	0
-arm	anticipation	0
-arm	disgust	0
-arm	fear	0
-arm	joy	0
-arm	negative	0
-arm	positive	0
-arm	sadness	0
-arm	surprise	0
-arm	trust	0
-armada	anger	0
-armada	anticipation	0
-armada	disgust	0
-armada	fear	0
-armada	joy	0
-armada	negative	0
-armada	positive	0
-armada	sadness	0
-armada	surprise	0
-armada	trust	0
-armament	anger	1
-armament	anticipation	0
-armament	disgust	0
-armament	fear	1
-armament	joy	0
-armament	negative	0
-armament	positive	0
-armament	sadness	0
-armament	surprise	0
-armament	trust	0
-armaments	anger	0
-armaments	anticipation	0
-armaments	disgust	0
-armaments	fear	1
-armaments	joy	0
-armaments	negative	1
-armaments	positive	0
-armaments	sadness	0
-armaments	surprise	0
-armaments	trust	0
-armature	anger	0
-armature	anticipation	0
-armature	disgust	0
-armature	fear	0
-armature	joy	0
-armature	negative	0
-armature	positive	0
-armature	sadness	0
-armature	surprise	0
-armature	trust	0
-armed	anger	1
-armed	anticipation	0
-armed	disgust	0
-armed	fear	1
-armed	joy	0
-armed	negative	1
-armed	positive	1
-armed	sadness	0
-armed	surprise	0
-armed	trust	0
-armor	anger	0
-armor	anticipation	0
-armor	disgust	0
-armor	fear	1
-armor	joy	0
-armor	negative	0
-armor	positive	1
-armor	sadness	0
-armor	surprise	0
-armor	trust	1
-armored	anger	0
-armored	anticipation	0
-armored	disgust	0
-armored	fear	1
-armored	joy	0
-armored	negative	0
-armored	positive	0
-armored	sadness	0
-armored	surprise	0
-armored	trust	0
-armory	anger	0
-armory	anticipation	0
-armory	disgust	0
-armory	fear	0
-armory	joy	0
-armory	negative	0
-armory	positive	0
-armory	sadness	0
-armory	surprise	0
-armory	trust	1
-arms	anger	0
-arms	anticipation	0
-arms	disgust	0
-arms	fear	0
-arms	joy	0
-arms	negative	0
-arms	positive	0
-arms	sadness	0
-arms	surprise	0
-arms	trust	0
-army	anger	0
-army	anticipation	0
-army	disgust	0
-army	fear	0
-army	joy	0
-army	negative	0
-army	positive	0
-army	sadness	0
-army	surprise	0
-army	trust	0
-aroma	anger	0
-aroma	anticipation	0
-aroma	disgust	0
-aroma	fear	0
-aroma	joy	0
-aroma	negative	0
-aroma	positive	1
-aroma	sadness	0
-aroma	surprise	0
-aroma	trust	0
-arousal	anger	0
-arousal	anticipation	0
-arousal	disgust	0
-arousal	fear	0
-arousal	joy	0
-arousal	negative	0
-arousal	positive	0
-arousal	sadness	0
-arousal	surprise	0
-arousal	trust	0
-arouse	anger	0
-arouse	anticipation	1
-arouse	disgust	0
-arouse	fear	0
-arouse	joy	0
-arouse	negative	0
-arouse	positive	1
-arouse	sadness	0
-arouse	surprise	0
-arouse	trust	0
-arraignment	anger	1
-arraignment	anticipation	0
-arraignment	disgust	0
-arraignment	fear	1
-arraignment	joy	0
-arraignment	negative	1
-arraignment	positive	0
-arraignment	sadness	1
-arraignment	surprise	0
-arraignment	trust	0
-arrange	anger	0
-arrange	anticipation	0
-arrange	disgust	0
-arrange	fear	0
-arrange	joy	0
-arrange	negative	0
-arrange	positive	0
-arrange	sadness	0
-arrange	surprise	0
-arrange	trust	0
-arranged	anger	0
-arranged	anticipation	0
-arranged	disgust	0
-arranged	fear	0
-arranged	joy	0
-arranged	negative	0
-arranged	positive	0
-arranged	sadness	0
-arranged	surprise	0
-arranged	trust	0
-arrangement	anger	0
-arrangement	anticipation	0
-arrangement	disgust	0
-arrangement	fear	0
-arrangement	joy	0
-arrangement	negative	0
-arrangement	positive	0
-arrangement	sadness	0
-arrangement	surprise	0
-arrangement	trust	0
-array	anger	0
-array	anticipation	0
-array	disgust	0
-array	fear	0
-array	joy	0
-array	negative	0
-array	positive	1
-array	sadness	0
-array	surprise	0
-array	trust	0
-arrears	anger	0
-arrears	anticipation	0
-arrears	disgust	0
-arrears	fear	0
-arrears	joy	0
-arrears	negative	1
-arrears	positive	0
-arrears	sadness	0
-arrears	surprise	0
-arrears	trust	0
-arrest	anger	0
-arrest	anticipation	0
-arrest	disgust	0
-arrest	fear	0
-arrest	joy	0
-arrest	negative	1
-arrest	positive	0
-arrest	sadness	0
-arrest	surprise	0
-arrest	trust	0
-arrival	anger	0
-arrival	anticipation	1
-arrival	disgust	0
-arrival	fear	0
-arrival	joy	0
-arrival	negative	0
-arrival	positive	0
-arrival	sadness	0
-arrival	surprise	0
-arrival	trust	0
-arrive	anger	0
-arrive	anticipation	1
-arrive	disgust	0
-arrive	fear	0
-arrive	joy	0
-arrive	negative	0
-arrive	positive	0
-arrive	sadness	0
-arrive	surprise	0
-arrive	trust	0
-arrogance	anger	0
-arrogance	anticipation	0
-arrogance	disgust	0
-arrogance	fear	0
-arrogance	joy	0
-arrogance	negative	1
-arrogance	positive	0
-arrogance	sadness	0
-arrogance	surprise	0
-arrogance	trust	0
-arrogant	anger	1
-arrogant	anticipation	0
-arrogant	disgust	1
-arrogant	fear	0
-arrogant	joy	0
-arrogant	negative	1
-arrogant	positive	0
-arrogant	sadness	0
-arrogant	surprise	0
-arrogant	trust	0
-arrow	anger	0
-arrow	anticipation	0
-arrow	disgust	0
-arrow	fear	0
-arrow	joy	0
-arrow	negative	0
-arrow	positive	0
-arrow	sadness	0
-arrow	surprise	0
-arrow	trust	0
-arsenal	anger	0
-arsenal	anticipation	0
-arsenal	disgust	0
-arsenal	fear	0
-arsenal	joy	0
-arsenal	negative	0
-arsenal	positive	0
-arsenal	sadness	0
-arsenal	surprise	0
-arsenal	trust	0
-arsenic	anger	0
-arsenic	anticipation	0
-arsenic	disgust	1
-arsenic	fear	1
-arsenic	joy	0
-arsenic	negative	1
-arsenic	positive	0
-arsenic	sadness	1
-arsenic	surprise	0
-arsenic	trust	0
-arson	anger	1
-arson	anticipation	0
-arson	disgust	0
-arson	fear	1
-arson	joy	0
-arson	negative	1
-arson	positive	0
-arson	sadness	0
-arson	surprise	0
-arson	trust	0
-art	anger	0
-art	anticipation	1
-art	disgust	0
-art	fear	0
-art	joy	1
-art	negative	0
-art	positive	1
-art	sadness	1
-art	surprise	1
-art	trust	0
-artery	anger	0
-artery	anticipation	0
-artery	disgust	0
-artery	fear	0
-artery	joy	0
-artery	negative	0
-artery	positive	0
-artery	sadness	0
-artery	surprise	0
-artery	trust	0
-artful	anger	0
-artful	anticipation	0
-artful	disgust	0
-artful	fear	0
-artful	joy	0
-artful	negative	0
-artful	positive	0
-artful	sadness	0
-artful	surprise	0
-artful	trust	0
-arthropod	anger	0
-arthropod	anticipation	0
-arthropod	disgust	0
-arthropod	fear	0
-arthropod	joy	0
-arthropod	negative	0
-arthropod	positive	0
-arthropod	sadness	0
-arthropod	surprise	0
-arthropod	trust	0
-artichoke	anger	0
-artichoke	anticipation	0
-artichoke	disgust	0
-artichoke	fear	0
-artichoke	joy	0
-artichoke	negative	0
-artichoke	positive	0
-artichoke	sadness	0
-artichoke	surprise	0
-artichoke	trust	0
-article	anger	0
-article	anticipation	0
-article	disgust	0
-article	fear	0
-article	joy	0
-article	negative	0
-article	positive	0
-article	sadness	0
-article	surprise	0
-article	trust	0
-articles	anger	0
-articles	anticipation	0
-articles	disgust	0
-articles	fear	0
-articles	joy	0
-articles	negative	0
-articles	positive	0
-articles	sadness	0
-articles	surprise	0
-articles	trust	0
-articulate	anger	0
-articulate	anticipation	0
-articulate	disgust	0
-articulate	fear	0
-articulate	joy	0
-articulate	negative	0
-articulate	positive	1
-articulate	sadness	0
-articulate	surprise	0
-articulate	trust	0
-articulation	anger	0
-articulation	anticipation	0
-articulation	disgust	0
-articulation	fear	0
-articulation	joy	0
-articulation	negative	0
-articulation	positive	1
-articulation	sadness	0
-articulation	surprise	0
-articulation	trust	0
-artifice	anger	0
-artifice	anticipation	0
-artifice	disgust	0
-artifice	fear	0
-artifice	joy	0
-artifice	negative	0
-artifice	positive	0
-artifice	sadness	0
-artifice	surprise	0
-artifice	trust	0
-artillery	anger	0
-artillery	anticipation	0
-artillery	disgust	0
-artillery	fear	1
-artillery	joy	0
-artillery	negative	1
-artillery	positive	0
-artillery	sadness	0
-artillery	surprise	0
-artillery	trust	0
-artisan	anger	0
-artisan	anticipation	0
-artisan	disgust	0
-artisan	fear	0
-artisan	joy	0
-artisan	negative	0
-artisan	positive	1
-artisan	sadness	0
-artisan	surprise	0
-artisan	trust	0
-artist	anger	0
-artist	anticipation	0
-artist	disgust	0
-artist	fear	0
-artist	joy	0
-artist	negative	0
-artist	positive	0
-artist	sadness	0
-artist	surprise	0
-artist	trust	0
-artiste	anger	0
-artiste	anticipation	0
-artiste	disgust	0
-artiste	fear	0
-artiste	joy	0
-artiste	negative	0
-artiste	positive	1
-artiste	sadness	0
-artiste	surprise	0
-artiste	trust	0
-artistic	anger	0
-artistic	anticipation	0
-artistic	disgust	0
-artistic	fear	0
-artistic	joy	0
-artistic	negative	0
-artistic	positive	1
-artistic	sadness	0
-artistic	surprise	0
-artistic	trust	0
-artists	anger	0
-artists	anticipation	0
-artists	disgust	0
-artists	fear	0
-artists	joy	0
-artists	negative	0
-artists	positive	0
-artists	sadness	0
-artists	surprise	0
-artists	trust	0
-ascend	anger	0
-ascend	anticipation	0
-ascend	disgust	0
-ascend	fear	0
-ascend	joy	0
-ascend	negative	0
-ascend	positive	0
-ascend	sadness	0
-ascend	surprise	0
-ascend	trust	0
-ascendancy	anger	0
-ascendancy	anticipation	0
-ascendancy	disgust	0
-ascendancy	fear	0
-ascendancy	joy	0
-ascendancy	negative	0
-ascendancy	positive	1
-ascendancy	sadness	0
-ascendancy	surprise	0
-ascendancy	trust	0
-ascension	anger	0
-ascension	anticipation	0
-ascension	disgust	0
-ascension	fear	0
-ascension	joy	0
-ascension	negative	0
-ascension	positive	0
-ascension	sadness	0
-ascension	surprise	0
-ascension	trust	0
-ascent	anger	0
-ascent	anticipation	0
-ascent	disgust	0
-ascent	fear	0
-ascent	joy	0
-ascent	negative	0
-ascent	positive	1
-ascent	sadness	0
-ascent	surprise	0
-ascent	trust	0
-ascertain	anger	0
-ascertain	anticipation	0
-ascertain	disgust	0
-ascertain	fear	0
-ascertain	joy	0
-ascertain	negative	0
-ascertain	positive	0
-ascertain	sadness	0
-ascertain	surprise	0
-ascertain	trust	0
-ascertained	anger	0
-ascertained	anticipation	0
-ascertained	disgust	0
-ascertained	fear	0
-ascertained	joy	0
-ascertained	negative	0
-ascertained	positive	0
-ascertained	sadness	0
-ascertained	surprise	0
-ascertained	trust	0
-ascetic	anger	0
-ascetic	anticipation	0
-ascetic	disgust	0
-ascetic	fear	0
-ascetic	joy	0
-ascetic	negative	0
-ascetic	positive	0
-ascetic	sadness	0
-ascetic	surprise	0
-ascetic	trust	0
-ash	anger	0
-ash	anticipation	0
-ash	disgust	0
-ash	fear	0
-ash	joy	0
-ash	negative	1
-ash	positive	0
-ash	sadness	0
-ash	surprise	0
-ash	trust	0
-ashamed	anger	0
-ashamed	anticipation	0
-ashamed	disgust	1
-ashamed	fear	0
-ashamed	joy	0
-ashamed	negative	1
-ashamed	positive	0
-ashamed	sadness	1
-ashamed	surprise	0
-ashamed	trust	0
-ashes	anger	0
-ashes	anticipation	0
-ashes	disgust	0
-ashes	fear	0
-ashes	joy	0
-ashes	negative	1
-ashes	positive	0
-ashes	sadness	1
-ashes	surprise	0
-ashes	trust	0
-asleep	anger	0
-asleep	anticipation	0
-asleep	disgust	0
-asleep	fear	0
-asleep	joy	0
-asleep	negative	0
-asleep	positive	0
-asleep	sadness	0
-asleep	surprise	0
-asleep	trust	0
-asp	anger	0
-asp	anticipation	0
-asp	disgust	0
-asp	fear	1
-asp	joy	0
-asp	negative	0
-asp	positive	0
-asp	sadness	0
-asp	surprise	0
-asp	trust	0
-aspartame	anger	0
-aspartame	anticipation	0
-aspartame	disgust	0
-aspartame	fear	0
-aspartame	joy	0
-aspartame	negative	0
-aspartame	positive	0
-aspartame	sadness	0
-aspartame	surprise	0
-aspartame	trust	0
-aspect	anger	0
-aspect	anticipation	0
-aspect	disgust	0
-aspect	fear	0
-aspect	joy	0
-aspect	negative	0
-aspect	positive	0
-aspect	sadness	0
-aspect	surprise	0
-aspect	trust	0
-aspects	anger	0
-aspects	anticipation	0
-aspects	disgust	0
-aspects	fear	0
-aspects	joy	0
-aspects	negative	0
-aspects	positive	0
-aspects	sadness	0
-aspects	surprise	0
-aspects	trust	0
-asphalt	anger	0
-asphalt	anticipation	0
-asphalt	disgust	0
-asphalt	fear	0
-asphalt	joy	0
-asphalt	negative	0
-asphalt	positive	0
-asphalt	sadness	0
-asphalt	surprise	0
-asphalt	trust	0
-aspiration	anger	0
-aspiration	anticipation	1
-aspiration	disgust	0
-aspiration	fear	0
-aspiration	joy	1
-aspiration	negative	0
-aspiration	positive	1
-aspiration	sadness	0
-aspiration	surprise	1
-aspiration	trust	1
-aspire	anger	0
-aspire	anticipation	1
-aspire	disgust	0
-aspire	fear	0
-aspire	joy	1
-aspire	negative	0
-aspire	positive	1
-aspire	sadness	0
-aspire	surprise	0
-aspire	trust	0
-aspiring	anger	0
-aspiring	anticipation	1
-aspiring	disgust	0
-aspiring	fear	0
-aspiring	joy	1
-aspiring	negative	0
-aspiring	positive	1
-aspiring	sadness	0
-aspiring	surprise	0
-aspiring	trust	1
-ass	anger	0
-ass	anticipation	0
-ass	disgust	0
-ass	fear	0
-ass	joy	0
-ass	negative	1
-ass	positive	0
-ass	sadness	0
-ass	surprise	0
-ass	trust	0
-assail	anger	1
-assail	anticipation	0
-assail	disgust	0
-assail	fear	1
-assail	joy	0
-assail	negative	1
-assail	positive	0
-assail	sadness	0
-assail	surprise	1
-assail	trust	0
-assailant	anger	1
-assailant	anticipation	0
-assailant	disgust	0
-assailant	fear	1
-assailant	joy	0
-assailant	negative	1
-assailant	positive	0
-assailant	sadness	1
-assailant	surprise	0
-assailant	trust	0
-assassin	anger	1
-assassin	anticipation	0
-assassin	disgust	0
-assassin	fear	1
-assassin	joy	0
-assassin	negative	1
-assassin	positive	0
-assassin	sadness	1
-assassin	surprise	0
-assassin	trust	0
-assassinate	anger	1
-assassinate	anticipation	0
-assassinate	disgust	0
-assassinate	fear	1
-assassinate	joy	0
-assassinate	negative	1
-assassinate	positive	0
-assassinate	sadness	0
-assassinate	surprise	0
-assassinate	trust	0
-assassination	anger	1
-assassination	anticipation	0
-assassination	disgust	0
-assassination	fear	1
-assassination	joy	0
-assassination	negative	1
-assassination	positive	0
-assassination	sadness	1
-assassination	surprise	0
-assassination	trust	0
-assault	anger	1
-assault	anticipation	0
-assault	disgust	0
-assault	fear	1
-assault	joy	0
-assault	negative	1
-assault	positive	0
-assault	sadness	0
-assault	surprise	0
-assault	trust	0
-assay	anger	0
-assay	anticipation	0
-assay	disgust	0
-assay	fear	0
-assay	joy	0
-assay	negative	0
-assay	positive	0
-assay	sadness	0
-assay	surprise	0
-assay	trust	0
-assemblage	anger	0
-assemblage	anticipation	0
-assemblage	disgust	0
-assemblage	fear	0
-assemblage	joy	0
-assemblage	negative	0
-assemblage	positive	0
-assemblage	sadness	0
-assemblage	surprise	0
-assemblage	trust	0
-assemble	anger	0
-assemble	anticipation	0
-assemble	disgust	0
-assemble	fear	0
-assemble	joy	0
-assemble	negative	0
-assemble	positive	0
-assemble	sadness	0
-assemble	surprise	0
-assemble	trust	0
-assembled	anger	0
-assembled	anticipation	0
-assembled	disgust	0
-assembled	fear	0
-assembled	joy	0
-assembled	negative	0
-assembled	positive	0
-assembled	sadness	0
-assembled	surprise	0
-assembled	trust	0
-assembly	anger	0
-assembly	anticipation	0
-assembly	disgust	0
-assembly	fear	0
-assembly	joy	0
-assembly	negative	0
-assembly	positive	1
-assembly	sadness	0
-assembly	surprise	0
-assembly	trust	1
-assent	anger	0
-assent	anticipation	0
-assent	disgust	0
-assent	fear	0
-assent	joy	0
-assent	negative	0
-assent	positive	1
-assent	sadness	0
-assent	surprise	0
-assent	trust	0
-assert	anger	0
-assert	anticipation	0
-assert	disgust	0
-assert	fear	0
-assert	joy	0
-assert	negative	0
-assert	positive	0
-assert	sadness	0
-assert	surprise	0
-assert	trust	0
-asserting	anger	0
-asserting	anticipation	0
-asserting	disgust	0
-asserting	fear	0
-asserting	joy	0
-asserting	negative	0
-asserting	positive	1
-asserting	sadness	0
-asserting	surprise	0
-asserting	trust	1
-assertion	anger	0
-assertion	anticipation	0
-assertion	disgust	0
-assertion	fear	0
-assertion	joy	0
-assertion	negative	0
-assertion	positive	0
-assertion	sadness	0
-assertion	surprise	0
-assertion	trust	0
-assess	anger	0
-assess	anticipation	0
-assess	disgust	0
-assess	fear	0
-assess	joy	0
-assess	negative	0
-assess	positive	0
-assess	sadness	0
-assess	surprise	0
-assess	trust	0
-assessment	anger	0
-assessment	anticipation	0
-assessment	disgust	0
-assessment	fear	0
-assessment	joy	0
-assessment	negative	0
-assessment	positive	0
-assessment	sadness	0
-assessment	surprise	1
-assessment	trust	1
-assessor	anger	0
-assessor	anticipation	0
-assessor	disgust	0
-assessor	fear	0
-assessor	joy	0
-assessor	negative	0
-assessor	positive	0
-assessor	sadness	0
-assessor	surprise	0
-assessor	trust	1
-assets	anger	0
-assets	anticipation	0
-assets	disgust	0
-assets	fear	0
-assets	joy	0
-assets	negative	0
-assets	positive	1
-assets	sadness	0
-assets	surprise	0
-assets	trust	0
-asshole	anger	1
-asshole	anticipation	0
-asshole	disgust	1
-asshole	fear	0
-asshole	joy	0
-asshole	negative	1
-asshole	positive	0
-asshole	sadness	0
-asshole	surprise	0
-asshole	trust	0
-assign	anger	0
-assign	anticipation	0
-assign	disgust	0
-assign	fear	0
-assign	joy	0
-assign	negative	0
-assign	positive	0
-assign	sadness	0
-assign	surprise	0
-assign	trust	0
-assignee	anger	0
-assignee	anticipation	0
-assignee	disgust	0
-assignee	fear	0
-assignee	joy	0
-assignee	negative	0
-assignee	positive	0
-assignee	sadness	0
-assignee	surprise	0
-assignee	trust	1
-assignment	anger	0
-assignment	anticipation	0
-assignment	disgust	0
-assignment	fear	0
-assignment	joy	0
-assignment	negative	0
-assignment	positive	0
-assignment	sadness	0
-assignment	surprise	0
-assignment	trust	0
-assimilate	anger	0
-assimilate	anticipation	0
-assimilate	disgust	0
-assimilate	fear	0
-assimilate	joy	0
-assimilate	negative	0
-assimilate	positive	0
-assimilate	sadness	0
-assimilate	surprise	0
-assimilate	trust	0
-assimilation	anger	0
-assimilation	anticipation	0
-assimilation	disgust	0
-assimilation	fear	0
-assimilation	joy	0
-assimilation	negative	0
-assimilation	positive	0
-assimilation	sadness	0
-assimilation	surprise	0
-assimilation	trust	0
-assist	anger	0
-assist	anticipation	0
-assist	disgust	0
-assist	fear	0
-assist	joy	0
-assist	negative	0
-assist	positive	1
-assist	sadness	0
-assist	surprise	0
-assist	trust	1
-assistance	anger	0
-assistance	anticipation	0
-assistance	disgust	0
-assistance	fear	0
-assistance	joy	0
-assistance	negative	0
-assistance	positive	1
-assistance	sadness	0
-assistance	surprise	0
-assistance	trust	0
-assistant	anger	0
-assistant	anticipation	0
-assistant	disgust	0
-assistant	fear	0
-assistant	joy	0
-assistant	negative	0
-assistant	positive	0
-assistant	sadness	0
-assistant	surprise	0
-assistant	trust	0
-associate	anger	0
-associate	anticipation	0
-associate	disgust	0
-associate	fear	0
-associate	joy	0
-associate	negative	0
-associate	positive	1
-associate	sadness	0
-associate	surprise	0
-associate	trust	1
-association	anger	0
-association	anticipation	0
-association	disgust	0
-association	fear	0
-association	joy	0
-association	negative	0
-association	positive	0
-association	sadness	0
-association	surprise	0
-association	trust	1
-assorted	anger	0
-assorted	anticipation	0
-assorted	disgust	0
-assorted	fear	0
-assorted	joy	0
-assorted	negative	0
-assorted	positive	0
-assorted	sadness	0
-assorted	surprise	0
-assorted	trust	0
-assortment	anger	0
-assortment	anticipation	0
-assortment	disgust	0
-assortment	fear	0
-assortment	joy	0
-assortment	negative	0
-assortment	positive	0
-assortment	sadness	0
-assortment	surprise	0
-assortment	trust	0
-assuage	anger	0
-assuage	anticipation	0
-assuage	disgust	0
-assuage	fear	0
-assuage	joy	0
-assuage	negative	0
-assuage	positive	1
-assuage	sadness	0
-assuage	surprise	0
-assuage	trust	0
-assumed	anger	0
-assumed	anticipation	0
-assumed	disgust	0
-assumed	fear	0
-assumed	joy	0
-assumed	negative	0
-assumed	positive	0
-assumed	sadness	0
-assumed	surprise	0
-assumed	trust	0
-assuming	anger	0
-assuming	anticipation	0
-assuming	disgust	0
-assuming	fear	0
-assuming	joy	0
-assuming	negative	0
-assuming	positive	0
-assuming	sadness	0
-assuming	surprise	0
-assuming	trust	0
-assumption	anger	0
-assumption	anticipation	0
-assumption	disgust	0
-assumption	fear	0
-assumption	joy	0
-assumption	negative	0
-assumption	positive	0
-assumption	sadness	0
-assumption	surprise	0
-assumption	trust	0
-assurance	anger	0
-assurance	anticipation	0
-assurance	disgust	0
-assurance	fear	0
-assurance	joy	0
-assurance	negative	0
-assurance	positive	1
-assurance	sadness	0
-assurance	surprise	0
-assurance	trust	1
-assure	anger	0
-assure	anticipation	0
-assure	disgust	0
-assure	fear	0
-assure	joy	0
-assure	negative	0
-assure	positive	0
-assure	sadness	0
-assure	surprise	0
-assure	trust	1
-assured	anger	0
-assured	anticipation	0
-assured	disgust	0
-assured	fear	0
-assured	joy	0
-assured	negative	0
-assured	positive	1
-assured	sadness	0
-assured	surprise	0
-assured	trust	1
-assuredly	anger	0
-assuredly	anticipation	0
-assuredly	disgust	0
-assuredly	fear	0
-assuredly	joy	0
-assuredly	negative	0
-assuredly	positive	0
-assuredly	sadness	0
-assuredly	surprise	0
-assuredly	trust	1
-asterisk	anger	0
-asterisk	anticipation	0
-asterisk	disgust	0
-asterisk	fear	0
-asterisk	joy	0
-asterisk	negative	0
-asterisk	positive	0
-asterisk	sadness	0
-asterisk	surprise	0
-asterisk	trust	0
-asteroids	anger	0
-asteroids	anticipation	0
-asteroids	disgust	0
-asteroids	fear	0
-asteroids	joy	0
-asteroids	negative	0
-asteroids	positive	0
-asteroids	sadness	0
-asteroids	surprise	0
-asteroids	trust	0
-astigmatism	anger	0
-astigmatism	anticipation	0
-astigmatism	disgust	0
-astigmatism	fear	0
-astigmatism	joy	0
-astigmatism	negative	0
-astigmatism	positive	0
-astigmatism	sadness	0
-astigmatism	surprise	0
-astigmatism	trust	0
-astonishingly	anger	0
-astonishingly	anticipation	0
-astonishingly	disgust	0
-astonishingly	fear	0
-astonishingly	joy	0
-astonishingly	negative	0
-astonishingly	positive	1
-astonishingly	sadness	0
-astonishingly	surprise	1
-astonishingly	trust	0
-astonishment	anger	0
-astonishment	anticipation	0
-astonishment	disgust	0
-astonishment	fear	0
-astonishment	joy	1
-astonishment	negative	0
-astonishment	positive	1
-astonishment	sadness	0
-astonishment	surprise	1
-astonishment	trust	0
-astral	anger	0
-astral	anticipation	0
-astral	disgust	0
-astral	fear	0
-astral	joy	0
-astral	negative	0
-astral	positive	0
-astral	sadness	0
-astral	surprise	0
-astral	trust	0
-astray	anger	0
-astray	anticipation	0
-astray	disgust	0
-astray	fear	1
-astray	joy	0
-astray	negative	1
-astray	positive	0
-astray	sadness	0
-astray	surprise	0
-astray	trust	0
-astringent	anger	0
-astringent	anticipation	0
-astringent	disgust	0
-astringent	fear	0
-astringent	joy	0
-astringent	negative	1
-astringent	positive	0
-astringent	sadness	0
-astringent	surprise	0
-astringent	trust	0
-astrologer	anger	0
-astrologer	anticipation	1
-astrologer	disgust	0
-astrologer	fear	0
-astrologer	joy	0
-astrologer	negative	0
-astrologer	positive	1
-astrologer	sadness	0
-astrologer	surprise	0
-astrologer	trust	0
-astrology	anger	0
-astrology	anticipation	0
-astrology	disgust	0
-astrology	fear	0
-astrology	joy	0
-astrology	negative	0
-astrology	positive	0
-astrology	sadness	0
-astrology	surprise	0
-astrology	trust	0
-astronaut	anger	0
-astronaut	anticipation	0
-astronaut	disgust	0
-astronaut	fear	0
-astronaut	joy	0
-astronaut	negative	0
-astronaut	positive	1
-astronaut	sadness	0
-astronaut	surprise	0
-astronaut	trust	0
-astronomer	anger	0
-astronomer	anticipation	1
-astronomer	disgust	0
-astronomer	fear	0
-astronomer	joy	0
-astronomer	negative	0
-astronomer	positive	1
-astronomer	sadness	0
-astronomer	surprise	0
-astronomer	trust	0
-astronomy	anger	0
-astronomy	anticipation	0
-astronomy	disgust	0
-astronomy	fear	0
-astronomy	joy	0
-astronomy	negative	0
-astronomy	positive	0
-astronomy	sadness	0
-astronomy	surprise	0
-astronomy	trust	0
-astute	anger	0
-astute	anticipation	0
-astute	disgust	0
-astute	fear	0
-astute	joy	0
-astute	negative	0
-astute	positive	1
-astute	sadness	0
-astute	surprise	0
-astute	trust	0
-asunder	anger	0
-asunder	anticipation	0
-asunder	disgust	0
-asunder	fear	0
-asunder	joy	0
-asunder	negative	0
-asunder	positive	0
-asunder	sadness	0
-asunder	surprise	0
-asunder	trust	0
-asylum	anger	0
-asylum	anticipation	0
-asylum	disgust	0
-asylum	fear	1
-asylum	joy	0
-asylum	negative	1
-asylum	positive	0
-asylum	sadness	0
-asylum	surprise	0
-asylum	trust	0
-asymmetric	anger	0
-asymmetric	anticipation	0
-asymmetric	disgust	0
-asymmetric	fear	0
-asymmetric	joy	0
-asymmetric	negative	0
-asymmetric	positive	0
-asymmetric	sadness	0
-asymmetric	surprise	0
-asymmetric	trust	0
-asymmetry	anger	0
-asymmetry	anticipation	0
-asymmetry	disgust	1
-asymmetry	fear	0
-asymmetry	joy	0
-asymmetry	negative	0
-asymmetry	positive	0
-asymmetry	sadness	0
-asymmetry	surprise	0
-asymmetry	trust	0
-asymptotic	anger	0
-asymptotic	anticipation	0
-asymptotic	disgust	0
-asymptotic	fear	0
-asymptotic	joy	0
-asymptotic	negative	0
-asymptotic	positive	0
-asymptotic	sadness	0
-asymptotic	surprise	0
-asymptotic	trust	0
-atelier	anger	0
-atelier	anticipation	0
-atelier	disgust	0
-atelier	fear	0
-atelier	joy	0
-atelier	negative	0
-atelier	positive	0
-atelier	sadness	0
-atelier	surprise	0
-atelier	trust	0
-atheism	anger	0
-atheism	anticipation	0
-atheism	disgust	0
-atheism	fear	0
-atheism	joy	0
-atheism	negative	1
-atheism	positive	0
-atheism	sadness	0
-atheism	surprise	0
-atheism	trust	0
-atheist	anger	0
-atheist	anticipation	0
-atheist	disgust	0
-atheist	fear	0
-atheist	joy	0
-atheist	negative	0
-atheist	positive	0
-atheist	sadness	0
-atheist	surprise	0
-atheist	trust	0
-atheistic	anger	0
-atheistic	anticipation	0
-atheistic	disgust	0
-atheistic	fear	0
-atheistic	joy	0
-atheistic	negative	0
-atheistic	positive	0
-atheistic	sadness	0
-atheistic	surprise	0
-atheistic	trust	0
-atherosclerosis	anger	0
-atherosclerosis	anticipation	0
-atherosclerosis	disgust	0
-atherosclerosis	fear	1
-atherosclerosis	joy	0
-atherosclerosis	negative	1
-atherosclerosis	positive	0
-atherosclerosis	sadness	1
-atherosclerosis	surprise	0
-atherosclerosis	trust	0
-athlete	anger	0
-athlete	anticipation	0
-athlete	disgust	0
-athlete	fear	0
-athlete	joy	0
-athlete	negative	0
-athlete	positive	1
-athlete	sadness	0
-athlete	surprise	0
-athlete	trust	0
-athletic	anger	0
-athletic	anticipation	0
-athletic	disgust	0
-athletic	fear	0
-athletic	joy	0
-athletic	negative	0
-athletic	positive	1
-athletic	sadness	0
-athletic	surprise	0
-athletic	trust	0
-athleticism	anger	0
-athleticism	anticipation	0
-athleticism	disgust	0
-athleticism	fear	0
-athleticism	joy	0
-athleticism	negative	0
-athleticism	positive	0
-athleticism	sadness	0
-athleticism	surprise	0
-athleticism	trust	0
-athletics	anger	0
-athletics	anticipation	0
-athletics	disgust	0
-athletics	fear	0
-athletics	joy	0
-athletics	negative	0
-athletics	positive	0
-athletics	sadness	0
-athletics	surprise	0
-athletics	trust	0
-atlas	anger	0
-atlas	anticipation	0
-atlas	disgust	0
-atlas	fear	0
-atlas	joy	0
-atlas	negative	0
-atlas	positive	0
-atlas	sadness	0
-atlas	surprise	0
-atlas	trust	0
-atmosphere	anger	0
-atmosphere	anticipation	0
-atmosphere	disgust	0
-atmosphere	fear	0
-atmosphere	joy	0
-atmosphere	negative	0
-atmosphere	positive	0
-atmosphere	sadness	0
-atmosphere	surprise	0
-atmosphere	trust	0
-atmospheric	anger	0
-atmospheric	anticipation	0
-atmospheric	disgust	0
-atmospheric	fear	0
-atmospheric	joy	0
-atmospheric	negative	0
-atmospheric	positive	0
-atmospheric	sadness	0
-atmospheric	surprise	0
-atmospheric	trust	0
-atoll	anger	0
-atoll	anticipation	0
-atoll	disgust	0
-atoll	fear	0
-atoll	joy	0
-atoll	negative	0
-atoll	positive	0
-atoll	sadness	0
-atoll	surprise	0
-atoll	trust	0
-atom	anger	0
-atom	anticipation	0
-atom	disgust	0
-atom	fear	0
-atom	joy	0
-atom	negative	0
-atom	positive	1
-atom	sadness	0
-atom	surprise	0
-atom	trust	0
-atomic	anger	0
-atomic	anticipation	0
-atomic	disgust	0
-atomic	fear	0
-atomic	joy	0
-atomic	negative	0
-atomic	positive	0
-atomic	sadness	0
-atomic	surprise	0
-atomic	trust	0
-atone	anger	0
-atone	anticipation	1
-atone	disgust	0
-atone	fear	0
-atone	joy	1
-atone	negative	0
-atone	positive	1
-atone	sadness	0
-atone	surprise	0
-atone	trust	1
-atonement	anger	0
-atonement	anticipation	0
-atonement	disgust	0
-atonement	fear	0
-atonement	joy	0
-atonement	negative	0
-atonement	positive	1
-atonement	sadness	0
-atonement	surprise	0
-atonement	trust	0
-atrium	anger	0
-atrium	anticipation	0
-atrium	disgust	0
-atrium	fear	0
-atrium	joy	0
-atrium	negative	0
-atrium	positive	0
-atrium	sadness	0
-atrium	surprise	0
-atrium	trust	0
-atrocious	anger	1
-atrocious	anticipation	0
-atrocious	disgust	1
-atrocious	fear	0
-atrocious	joy	0
-atrocious	negative	1
-atrocious	positive	0
-atrocious	sadness	0
-atrocious	surprise	0
-atrocious	trust	0
-atrocity	anger	1
-atrocity	anticipation	0
-atrocity	disgust	1
-atrocity	fear	1
-atrocity	joy	0
-atrocity	negative	1
-atrocity	positive	0
-atrocity	sadness	1
-atrocity	surprise	0
-atrocity	trust	0
-atrophy	anger	0
-atrophy	anticipation	0
-atrophy	disgust	1
-atrophy	fear	1
-atrophy	joy	0
-atrophy	negative	1
-atrophy	positive	0
-atrophy	sadness	1
-atrophy	surprise	0
-atrophy	trust	0
-attach	anger	0
-attach	anticipation	0
-attach	disgust	0
-attach	fear	0
-attach	joy	0
-attach	negative	0
-attach	positive	0
-attach	sadness	0
-attach	surprise	0
-attach	trust	0
-attachment	anger	0
-attachment	anticipation	0
-attachment	disgust	0
-attachment	fear	0
-attachment	joy	0
-attachment	negative	0
-attachment	positive	1
-attachment	sadness	0
-attachment	surprise	0
-attachment	trust	0
-attack	anger	1
-attack	anticipation	0
-attack	disgust	0
-attack	fear	1
-attack	joy	0
-attack	negative	1
-attack	positive	0
-attack	sadness	0
-attack	surprise	0
-attack	trust	0
-attacking	anger	1
-attacking	anticipation	0
-attacking	disgust	1
-attacking	fear	1
-attacking	joy	0
-attacking	negative	1
-attacking	positive	0
-attacking	sadness	1
-attacking	surprise	1
-attacking	trust	0
-attain	anger	0
-attain	anticipation	0
-attain	disgust	0
-attain	fear	0
-attain	joy	0
-attain	negative	0
-attain	positive	0
-attain	sadness	0
-attain	surprise	0
-attain	trust	0
-attainable	anger	0
-attainable	anticipation	1
-attainable	disgust	0
-attainable	fear	0
-attainable	joy	0
-attainable	negative	0
-attainable	positive	1
-attainable	sadness	0
-attainable	surprise	0
-attainable	trust	0
-attainment	anger	0
-attainment	anticipation	0
-attainment	disgust	0
-attainment	fear	0
-attainment	joy	0
-attainment	negative	0
-attainment	positive	1
-attainment	sadness	0
-attainment	surprise	0
-attainment	trust	0
-attempt	anger	0
-attempt	anticipation	1
-attempt	disgust	0
-attempt	fear	0
-attempt	joy	0
-attempt	negative	0
-attempt	positive	0
-attempt	sadness	0
-attempt	surprise	0
-attempt	trust	0
-attendance	anger	0
-attendance	anticipation	1
-attendance	disgust	0
-attendance	fear	0
-attendance	joy	0
-attendance	negative	0
-attendance	positive	0
-attendance	sadness	0
-attendance	surprise	0
-attendance	trust	0
-attendant	anger	0
-attendant	anticipation	0
-attendant	disgust	0
-attendant	fear	0
-attendant	joy	0
-attendant	negative	0
-attendant	positive	1
-attendant	sadness	0
-attendant	surprise	0
-attendant	trust	1
-attention	anger	0
-attention	anticipation	0
-attention	disgust	0
-attention	fear	0
-attention	joy	0
-attention	negative	0
-attention	positive	1
-attention	sadness	0
-attention	surprise	0
-attention	trust	0
-attentive	anger	0
-attentive	anticipation	0
-attentive	disgust	0
-attentive	fear	0
-attentive	joy	0
-attentive	negative	0
-attentive	positive	1
-attentive	sadness	0
-attentive	surprise	0
-attentive	trust	1
-attenuate	anger	0
-attenuate	anticipation	0
-attenuate	disgust	0
-attenuate	fear	0
-attenuate	joy	0
-attenuate	negative	0
-attenuate	positive	0
-attenuate	sadness	0
-attenuate	surprise	0
-attenuate	trust	0
-attenuated	anger	0
-attenuated	anticipation	0
-attenuated	disgust	0
-attenuated	fear	0
-attenuated	joy	0
-attenuated	negative	1
-attenuated	positive	0
-attenuated	sadness	0
-attenuated	surprise	0
-attenuated	trust	0
-attenuation	anger	0
-attenuation	anticipation	0
-attenuation	disgust	0
-attenuation	fear	0
-attenuation	joy	0
-attenuation	negative	1
-attenuation	positive	0
-attenuation	sadness	1
-attenuation	surprise	0
-attenuation	trust	0
-attest	anger	0
-attest	anticipation	0
-attest	disgust	0
-attest	fear	0
-attest	joy	0
-attest	negative	0
-attest	positive	1
-attest	sadness	0
-attest	surprise	0
-attest	trust	1
-attestation	anger	0
-attestation	anticipation	0
-attestation	disgust	0
-attestation	fear	0
-attestation	joy	0
-attestation	negative	0
-attestation	positive	0
-attestation	sadness	0
-attestation	surprise	0
-attestation	trust	1
-attic	anger	0
-attic	anticipation	0
-attic	disgust	0
-attic	fear	0
-attic	joy	0
-attic	negative	0
-attic	positive	0
-attic	sadness	0
-attic	surprise	0
-attic	trust	0
-attire	anger	0
-attire	anticipation	0
-attire	disgust	0
-attire	fear	0
-attire	joy	0
-attire	negative	0
-attire	positive	0
-attire	sadness	0
-attire	surprise	0
-attire	trust	0
-attitude	anger	0
-attitude	anticipation	0
-attitude	disgust	0
-attitude	fear	0
-attitude	joy	0
-attitude	negative	0
-attitude	positive	0
-attitude	sadness	0
-attitude	surprise	0
-attitude	trust	0
-attorney	anger	1
-attorney	anticipation	0
-attorney	disgust	0
-attorney	fear	1
-attorney	joy	0
-attorney	negative	0
-attorney	positive	1
-attorney	sadness	0
-attorney	surprise	0
-attorney	trust	1
-attraction	anger	0
-attraction	anticipation	0
-attraction	disgust	0
-attraction	fear	0
-attraction	joy	0
-attraction	negative	0
-attraction	positive	1
-attraction	sadness	0
-attraction	surprise	0
-attraction	trust	0
-attractiveness	anger	0
-attractiveness	anticipation	0
-attractiveness	disgust	0
-attractiveness	fear	0
-attractiveness	joy	0
-attractiveness	negative	0
-attractiveness	positive	1
-attractiveness	sadness	0
-attractiveness	surprise	0
-attractiveness	trust	0
-attributable	anger	0
-attributable	anticipation	0
-attributable	disgust	0
-attributable	fear	0
-attributable	joy	0
-attributable	negative	0
-attributable	positive	0
-attributable	sadness	0
-attributable	surprise	0
-attributable	trust	0
-attribute	anger	0
-attribute	anticipation	0
-attribute	disgust	0
-attribute	fear	0
-attribute	joy	0
-attribute	negative	0
-attribute	positive	0
-attribute	sadness	0
-attribute	surprise	0
-attribute	trust	0
-attribution	anger	0
-attribution	anticipation	0
-attribution	disgust	0
-attribution	fear	0
-attribution	joy	0
-attribution	negative	0
-attribution	positive	0
-attribution	sadness	0
-attribution	surprise	0
-attribution	trust	0
-attrition	anger	0
-attrition	anticipation	0
-attrition	disgust	0
-attrition	fear	0
-attrition	joy	0
-attrition	negative	0
-attrition	positive	0
-attrition	sadness	0
-attrition	surprise	0
-attrition	trust	0
-auburn	anger	0
-auburn	anticipation	0
-auburn	disgust	0
-auburn	fear	0
-auburn	joy	0
-auburn	negative	0
-auburn	positive	0
-auburn	sadness	0
-auburn	surprise	0
-auburn	trust	0
-auction	anger	0
-auction	anticipation	1
-auction	disgust	0
-auction	fear	0
-auction	joy	0
-auction	negative	0
-auction	positive	0
-auction	sadness	0
-auction	surprise	0
-auction	trust	0
-auctioneer	anger	0
-auctioneer	anticipation	0
-auctioneer	disgust	0
-auctioneer	fear	0
-auctioneer	joy	0
-auctioneer	negative	0
-auctioneer	positive	0
-auctioneer	sadness	0
-auctioneer	surprise	0
-auctioneer	trust	0
-audacious	anger	0
-audacious	anticipation	0
-audacious	disgust	0
-audacious	fear	0
-audacious	joy	0
-audacious	negative	0
-audacious	positive	0
-audacious	sadness	0
-audacious	surprise	0
-audacious	trust	0
-audacity	anger	0
-audacity	anticipation	0
-audacity	disgust	0
-audacity	fear	0
-audacity	joy	0
-audacity	negative	1
-audacity	positive	0
-audacity	sadness	0
-audacity	surprise	0
-audacity	trust	0
-audible	anger	0
-audible	anticipation	0
-audible	disgust	0
-audible	fear	0
-audible	joy	0
-audible	negative	0
-audible	positive	0
-audible	sadness	0
-audible	surprise	0
-audible	trust	0
-audience	anger	0
-audience	anticipation	1
-audience	disgust	0
-audience	fear	0
-audience	joy	0
-audience	negative	0
-audience	positive	0
-audience	sadness	0
-audience	surprise	0
-audience	trust	0
-audit	anger	0
-audit	anticipation	0
-audit	disgust	0
-audit	fear	0
-audit	joy	0
-audit	negative	0
-audit	positive	0
-audit	sadness	0
-audit	surprise	0
-audit	trust	0
-audition	anger	0
-audition	anticipation	0
-audition	disgust	0
-audition	fear	0
-audition	joy	0
-audition	negative	0
-audition	positive	0
-audition	sadness	0
-audition	surprise	0
-audition	trust	0
-auditor	anger	0
-auditor	anticipation	0
-auditor	disgust	0
-auditor	fear	1
-auditor	joy	0
-auditor	negative	0
-auditor	positive	0
-auditor	sadness	0
-auditor	surprise	0
-auditor	trust	1
-auditorium	anger	0
-auditorium	anticipation	0
-auditorium	disgust	0
-auditorium	fear	0
-auditorium	joy	0
-auditorium	negative	0
-auditorium	positive	0
-auditorium	sadness	0
-auditorium	surprise	0
-auditorium	trust	0
-auditory	anger	0
-auditory	anticipation	0
-auditory	disgust	0
-auditory	fear	0
-auditory	joy	0
-auditory	negative	0
-auditory	positive	0
-auditory	sadness	0
-auditory	surprise	0
-auditory	trust	0
-aught	anger	0
-aught	anticipation	0
-aught	disgust	0
-aught	fear	0
-aught	joy	0
-aught	negative	0
-aught	positive	0
-aught	sadness	0
-aught	surprise	0
-aught	trust	0
-augment	anger	0
-augment	anticipation	0
-augment	disgust	0
-augment	fear	0
-augment	joy	0
-augment	negative	0
-augment	positive	1
-augment	sadness	0
-augment	surprise	0
-augment	trust	0
-augmentation	anger	0
-augmentation	anticipation	0
-augmentation	disgust	0
-augmentation	fear	0
-augmentation	joy	0
-augmentation	negative	0
-augmentation	positive	0
-augmentation	sadness	0
-augmentation	surprise	0
-augmentation	trust	0
-august	anger	0
-august	anticipation	0
-august	disgust	0
-august	fear	0
-august	joy	0
-august	negative	0
-august	positive	1
-august	sadness	0
-august	surprise	0
-august	trust	0
-aunt	anger	0
-aunt	anticipation	0
-aunt	disgust	0
-aunt	fear	0
-aunt	joy	0
-aunt	negative	0
-aunt	positive	1
-aunt	sadness	0
-aunt	surprise	0
-aunt	trust	1
-aura	anger	0
-aura	anticipation	0
-aura	disgust	0
-aura	fear	0
-aura	joy	0
-aura	negative	0
-aura	positive	1
-aura	sadness	0
-aura	surprise	0
-aura	trust	0
-aurora	anger	0
-aurora	anticipation	0
-aurora	disgust	0
-aurora	fear	0
-aurora	joy	0
-aurora	negative	0
-aurora	positive	0
-aurora	sadness	0
-aurora	surprise	0
-aurora	trust	0
-auspices	anger	0
-auspices	anticipation	0
-auspices	disgust	0
-auspices	fear	0
-auspices	joy	0
-auspices	negative	0
-auspices	positive	0
-auspices	sadness	0
-auspices	surprise	0
-auspices	trust	0
-auspicious	anger	0
-auspicious	anticipation	1
-auspicious	disgust	0
-auspicious	fear	0
-auspicious	joy	1
-auspicious	negative	0
-auspicious	positive	1
-auspicious	sadness	0
-auspicious	surprise	0
-auspicious	trust	0
-austere	anger	0
-austere	anticipation	0
-austere	disgust	0
-austere	fear	1
-austere	joy	0
-austere	negative	1
-austere	positive	0
-austere	sadness	1
-austere	surprise	0
-austere	trust	0
-austerity	anger	0
-austerity	anticipation	0
-austerity	disgust	0
-austerity	fear	0
-austerity	joy	0
-austerity	negative	1
-austerity	positive	0
-austerity	sadness	0
-austerity	surprise	0
-austerity	trust	0
-authentic	anger	0
-authentic	anticipation	0
-authentic	disgust	0
-authentic	fear	0
-authentic	joy	1
-authentic	negative	0
-authentic	positive	1
-authentic	sadness	0
-authentic	surprise	0
-authentic	trust	1
-authenticate	anger	0
-authenticate	anticipation	0
-authenticate	disgust	0
-authenticate	fear	0
-authenticate	joy	0
-authenticate	negative	0
-authenticate	positive	0
-authenticate	sadness	0
-authenticate	surprise	0
-authenticate	trust	1
-authentication	anger	0
-authentication	anticipation	0
-authentication	disgust	0
-authentication	fear	0
-authentication	joy	0
-authentication	negative	0
-authentication	positive	0
-authentication	sadness	0
-authentication	surprise	0
-authentication	trust	1
-authenticity	anger	0
-authenticity	anticipation	0
-authenticity	disgust	0
-authenticity	fear	0
-authenticity	joy	0
-authenticity	negative	0
-authenticity	positive	1
-authenticity	sadness	0
-authenticity	surprise	0
-authenticity	trust	1
-author	anger	0
-author	anticipation	0
-author	disgust	0
-author	fear	0
-author	joy	0
-author	negative	0
-author	positive	1
-author	sadness	0
-author	surprise	0
-author	trust	1
-authoritative	anger	0
-authoritative	anticipation	0
-authoritative	disgust	0
-authoritative	fear	0
-authoritative	joy	0
-authoritative	negative	0
-authoritative	positive	1
-authoritative	sadness	0
-authoritative	surprise	0
-authoritative	trust	1
-authority	anger	0
-authority	anticipation	0
-authority	disgust	0
-authority	fear	0
-authority	joy	0
-authority	negative	0
-authority	positive	1
-authority	sadness	0
-authority	surprise	0
-authority	trust	1
-authorization	anger	0
-authorization	anticipation	0
-authorization	disgust	0
-authorization	fear	0
-authorization	joy	0
-authorization	negative	0
-authorization	positive	1
-authorization	sadness	0
-authorization	surprise	0
-authorization	trust	1
-authorize	anger	0
-authorize	anticipation	0
-authorize	disgust	0
-authorize	fear	0
-authorize	joy	0
-authorize	negative	0
-authorize	positive	0
-authorize	sadness	0
-authorize	surprise	0
-authorize	trust	1
-authorized	anger	0
-authorized	anticipation	0
-authorized	disgust	0
-authorized	fear	0
-authorized	joy	0
-authorized	negative	0
-authorized	positive	1
-authorized	sadness	0
-authorized	surprise	0
-authorized	trust	0
-authorship	anger	0
-authorship	anticipation	0
-authorship	disgust	0
-authorship	fear	0
-authorship	joy	0
-authorship	negative	0
-authorship	positive	0
-authorship	sadness	0
-authorship	surprise	0
-authorship	trust	0
-auto	anger	0
-auto	anticipation	0
-auto	disgust	0
-auto	fear	0
-auto	joy	0
-auto	negative	0
-auto	positive	0
-auto	sadness	0
-auto	surprise	0
-auto	trust	0
-autobiography	anger	0
-autobiography	anticipation	0
-autobiography	disgust	0
-autobiography	fear	0
-autobiography	joy	0
-autobiography	negative	0
-autobiography	positive	0
-autobiography	sadness	0
-autobiography	surprise	0
-autobiography	trust	0
-autocratic	anger	0
-autocratic	anticipation	0
-autocratic	disgust	0
-autocratic	fear	0
-autocratic	joy	0
-autocratic	negative	1
-autocratic	positive	0
-autocratic	sadness	0
-autocratic	surprise	0
-autocratic	trust	0
-autograph	anger	0
-autograph	anticipation	0
-autograph	disgust	0
-autograph	fear	0
-autograph	joy	0
-autograph	negative	0
-autograph	positive	0
-autograph	sadness	0
-autograph	surprise	0
-autograph	trust	0
-automatic	anger	0
-automatic	anticipation	0
-automatic	disgust	0
-automatic	fear	0
-automatic	joy	0
-automatic	negative	0
-automatic	positive	0
-automatic	sadness	0
-automatic	surprise	0
-automatic	trust	1
-automobile	anger	0
-automobile	anticipation	0
-automobile	disgust	0
-automobile	fear	0
-automobile	joy	0
-automobile	negative	0
-automobile	positive	0
-automobile	sadness	0
-automobile	surprise	0
-automobile	trust	0
-autonomy	anger	0
-autonomy	anticipation	0
-autonomy	disgust	0
-autonomy	fear	0
-autonomy	joy	0
-autonomy	negative	0
-autonomy	positive	0
-autonomy	sadness	0
-autonomy	surprise	0
-autonomy	trust	0
-autopsy	anger	0
-autopsy	anticipation	0
-autopsy	disgust	1
-autopsy	fear	1
-autopsy	joy	0
-autopsy	negative	1
-autopsy	positive	0
-autopsy	sadness	1
-autopsy	surprise	0
-autopsy	trust	0
-autumn	anger	0
-autumn	anticipation	0
-autumn	disgust	0
-autumn	fear	0
-autumn	joy	0
-autumn	negative	0
-autumn	positive	0
-autumn	sadness	0
-autumn	surprise	0
-autumn	trust	0
-auxiliary	anger	0
-auxiliary	anticipation	0
-auxiliary	disgust	0
-auxiliary	fear	0
-auxiliary	joy	0
-auxiliary	negative	0
-auxiliary	positive	0
-auxiliary	sadness	0
-auxiliary	surprise	0
-auxiliary	trust	0
-avail	anger	0
-avail	anticipation	0
-avail	disgust	0
-avail	fear	0
-avail	joy	0
-avail	negative	0
-avail	positive	0
-avail	sadness	0
-avail	surprise	0
-avail	trust	0
-avalanche	anger	0
-avalanche	anticipation	0
-avalanche	disgust	0
-avalanche	fear	1
-avalanche	joy	0
-avalanche	negative	1
-avalanche	positive	0
-avalanche	sadness	1
-avalanche	surprise	1
-avalanche	trust	0
-avarice	anger	1
-avarice	anticipation	0
-avarice	disgust	1
-avarice	fear	0
-avarice	joy	0
-avarice	negative	1
-avarice	positive	0
-avarice	sadness	0
-avarice	surprise	0
-avarice	trust	0
-avatar	anger	0
-avatar	anticipation	0
-avatar	disgust	0
-avatar	fear	0
-avatar	joy	0
-avatar	negative	0
-avatar	positive	1
-avatar	sadness	0
-avatar	surprise	0
-avatar	trust	0
-avenger	anger	1
-avenger	anticipation	0
-avenger	disgust	0
-avenger	fear	0
-avenger	joy	0
-avenger	negative	1
-avenger	positive	0
-avenger	sadness	0
-avenger	surprise	0
-avenger	trust	0
-avenue	anger	0
-avenue	anticipation	0
-avenue	disgust	0
-avenue	fear	0
-avenue	joy	0
-avenue	negative	0
-avenue	positive	0
-avenue	sadness	0
-avenue	surprise	0
-avenue	trust	0
-aver	anger	0
-aver	anticipation	0
-aver	disgust	0
-aver	fear	0
-aver	joy	0
-aver	negative	0
-aver	positive	0
-aver	sadness	0
-aver	surprise	0
-aver	trust	0
-average	anger	0
-average	anticipation	0
-average	disgust	0
-average	fear	0
-average	joy	0
-average	negative	0
-average	positive	0
-average	sadness	0
-average	surprise	0
-average	trust	0
-averse	anger	1
-averse	anticipation	0
-averse	disgust	1
-averse	fear	1
-averse	joy	0
-averse	negative	1
-averse	positive	0
-averse	sadness	0
-averse	surprise	0
-averse	trust	0
-aversion	anger	1
-aversion	anticipation	0
-aversion	disgust	1
-aversion	fear	1
-aversion	joy	0
-aversion	negative	1
-aversion	positive	0
-aversion	sadness	0
-aversion	surprise	0
-aversion	trust	0
-avert	anger	0
-avert	anticipation	0
-avert	disgust	0
-avert	fear	0
-avert	joy	0
-avert	negative	0
-avert	positive	0
-avert	sadness	0
-avert	surprise	0
-avert	trust	0
-aviary	anger	0
-aviary	anticipation	0
-aviary	disgust	0
-aviary	fear	0
-aviary	joy	0
-aviary	negative	0
-aviary	positive	0
-aviary	sadness	0
-aviary	surprise	0
-aviary	trust	0
-aviation	anger	0
-aviation	anticipation	0
-aviation	disgust	0
-aviation	fear	0
-aviation	joy	0
-aviation	negative	0
-aviation	positive	0
-aviation	sadness	0
-aviation	surprise	0
-aviation	trust	0
-aviator	anger	0
-aviator	anticipation	0
-aviator	disgust	0
-aviator	fear	0
-aviator	joy	0
-aviator	negative	0
-aviator	positive	0
-aviator	sadness	0
-aviator	surprise	0
-aviator	trust	0
-avid	anger	0
-avid	anticipation	0
-avid	disgust	0
-avid	fear	0
-avid	joy	0
-avid	negative	0
-avid	positive	0
-avid	sadness	0
-avid	surprise	0
-avid	trust	0
-avocado	anger	0
-avocado	anticipation	0
-avocado	disgust	0
-avocado	fear	0
-avocado	joy	0
-avocado	negative	0
-avocado	positive	0
-avocado	sadness	0
-avocado	surprise	0
-avocado	trust	0
-avoid	anger	0
-avoid	anticipation	0
-avoid	disgust	0
-avoid	fear	1
-avoid	joy	0
-avoid	negative	1
-avoid	positive	0
-avoid	sadness	0
-avoid	surprise	0
-avoid	trust	0
-avoidance	anger	0
-avoidance	anticipation	0
-avoidance	disgust	0
-avoidance	fear	1
-avoidance	joy	0
-avoidance	negative	1
-avoidance	positive	0
-avoidance	sadness	0
-avoidance	surprise	0
-avoidance	trust	0
-avoiding	anger	0
-avoiding	anticipation	0
-avoiding	disgust	0
-avoiding	fear	1
-avoiding	joy	0
-avoiding	negative	0
-avoiding	positive	0
-avoiding	sadness	0
-avoiding	surprise	0
-avoiding	trust	0
-await	anger	0
-await	anticipation	1
-await	disgust	0
-await	fear	0
-await	joy	0
-await	negative	0
-await	positive	0
-await	sadness	0
-await	surprise	0
-await	trust	0
-awake	anger	0
-awake	anticipation	0
-awake	disgust	0
-awake	fear	0
-awake	joy	0
-awake	negative	0
-awake	positive	0
-awake	sadness	0
-awake	surprise	0
-awake	trust	0
-awaken	anger	0
-awaken	anticipation	0
-awaken	disgust	0
-awaken	fear	0
-awaken	joy	0
-awaken	negative	0
-awaken	positive	0
-awaken	sadness	0
-awaken	surprise	0
-awaken	trust	0
-award	anger	0
-award	anticipation	1
-award	disgust	0
-award	fear	0
-award	joy	1
-award	negative	0
-award	positive	1
-award	sadness	0
-award	surprise	1
-award	trust	1
-awe	anger	0
-awe	anticipation	0
-awe	disgust	0
-awe	fear	0
-awe	joy	0
-awe	negative	0
-awe	positive	0
-awe	sadness	0
-awe	surprise	0
-awe	trust	0
-awful	anger	1
-awful	anticipation	0
-awful	disgust	1
-awful	fear	1
-awful	joy	0
-awful	negative	1
-awful	positive	0
-awful	sadness	1
-awful	surprise	0
-awful	trust	0
-awkwardness	anger	0
-awkwardness	anticipation	0
-awkwardness	disgust	1
-awkwardness	fear	0
-awkwardness	joy	0
-awkwardness	negative	1
-awkwardness	positive	0
-awkwardness	sadness	0
-awkwardness	surprise	0
-awkwardness	trust	0
-awning	anger	0
-awning	anticipation	0
-awning	disgust	0
-awning	fear	0
-awning	joy	0
-awning	negative	0
-awning	positive	0
-awning	sadness	0
-awning	surprise	0
-awning	trust	0
-awry	anger	0
-awry	anticipation	0
-awry	disgust	0
-awry	fear	0
-awry	joy	0
-awry	negative	1
-awry	positive	0
-awry	sadness	0
-awry	surprise	0
-awry	trust	0
-axial	anger	0
-axial	anticipation	0
-axial	disgust	0
-axial	fear	0
-axial	joy	0
-axial	negative	0
-axial	positive	0
-axial	sadness	0
-axial	surprise	0
-axial	trust	0
-axiom	anger	0
-axiom	anticipation	0
-axiom	disgust	0
-axiom	fear	0
-axiom	joy	0
-axiom	negative	0
-axiom	positive	0
-axiom	sadness	0
-axiom	surprise	0
-axiom	trust	1
-axiomatic	anger	0
-axiomatic	anticipation	0
-axiomatic	disgust	0
-axiomatic	fear	0
-axiomatic	joy	0
-axiomatic	negative	0
-axiomatic	positive	0
-axiomatic	sadness	0
-axiomatic	surprise	0
-axiomatic	trust	1
-axis	anger	0
-axis	anticipation	0
-axis	disgust	0
-axis	fear	0
-axis	joy	0
-axis	negative	0
-axis	positive	0
-axis	sadness	0
-axis	surprise	0
-axis	trust	0
-axle	anger	0
-axle	anticipation	0
-axle	disgust	0
-axle	fear	0
-axle	joy	0
-axle	negative	0
-axle	positive	0
-axle	sadness	0
-axle	surprise	0
-axle	trust	0
-ay	anger	0
-ay	anticipation	0
-ay	disgust	0
-ay	fear	0
-ay	joy	0
-ay	negative	0
-ay	positive	1
-ay	sadness	0
-ay	surprise	0
-ay	trust	0
-aye	anger	0
-aye	anticipation	0
-aye	disgust	0
-aye	fear	0
-aye	joy	0
-aye	negative	0
-aye	positive	1
-aye	sadness	0
-aye	surprise	0
-aye	trust	0
-azimuth	anger	0
-azimuth	anticipation	0
-azimuth	disgust	0
-azimuth	fear	0
-azimuth	joy	0
-azimuth	negative	0
-azimuth	positive	0
-azimuth	sadness	0
-azimuth	surprise	0
-azimuth	trust	0
-azure	anger	0
-azure	anticipation	0
-azure	disgust	0
-azure	fear	0
-azure	joy	0
-azure	negative	0
-azure	positive	0
-azure	sadness	0
-azure	surprise	0
-azure	trust	0
-babble	anger	0
-babble	anticipation	0
-babble	disgust	0
-babble	fear	0
-babble	joy	0
-babble	negative	1
-babble	positive	0
-babble	sadness	0
-babble	surprise	0
-babble	trust	0
-babbling	anger	0
-babbling	anticipation	0
-babbling	disgust	0
-babbling	fear	0
-babbling	joy	0
-babbling	negative	1
-babbling	positive	0
-babbling	sadness	0
-babbling	surprise	0
-babbling	trust	0
-baboon	anger	0
-baboon	anticipation	0
-baboon	disgust	1
-baboon	fear	0
-baboon	joy	0
-baboon	negative	1
-baboon	positive	0
-baboon	sadness	0
-baboon	surprise	0
-baboon	trust	0
-baby	anger	0
-baby	anticipation	0
-baby	disgust	0
-baby	fear	0
-baby	joy	1
-baby	negative	0
-baby	positive	1
-baby	sadness	0
-baby	surprise	0
-baby	trust	0
-babysitter	anger	0
-babysitter	anticipation	0
-babysitter	disgust	0
-babysitter	fear	0
-babysitter	joy	0
-babysitter	negative	0
-babysitter	positive	0
-babysitter	sadness	0
-babysitter	surprise	0
-babysitter	trust	1
-baccalaureate	anger	0
-baccalaureate	anticipation	0
-baccalaureate	disgust	0
-baccalaureate	fear	0
-baccalaureate	joy	0
-baccalaureate	negative	0
-baccalaureate	positive	1
-baccalaureate	sadness	0
-baccalaureate	surprise	0
-baccalaureate	trust	0
-baccarat	anger	0
-baccarat	anticipation	0
-baccarat	disgust	0
-baccarat	fear	0
-baccarat	joy	0
-baccarat	negative	0
-baccarat	positive	0
-baccarat	sadness	0
-baccarat	surprise	0
-baccarat	trust	0
-bachelor	anger	0
-bachelor	anticipation	0
-bachelor	disgust	0
-bachelor	fear	0
-bachelor	joy	0
-bachelor	negative	0
-bachelor	positive	0
-bachelor	sadness	0
-bachelor	surprise	0
-bachelor	trust	0
-back	anger	0
-back	anticipation	0
-back	disgust	0
-back	fear	0
-back	joy	0
-back	negative	0
-back	positive	0
-back	sadness	0
-back	surprise	0
-back	trust	0
-backbone	anger	1
-backbone	anticipation	0
-backbone	disgust	0
-backbone	fear	0
-backbone	joy	0
-backbone	negative	0
-backbone	positive	1
-backbone	sadness	0
-backbone	surprise	0
-backbone	trust	1
-backer	anger	0
-backer	anticipation	0
-backer	disgust	0
-backer	fear	0
-backer	joy	0
-backer	negative	0
-backer	positive	0
-backer	sadness	0
-backer	surprise	0
-backer	trust	1
-backfire	anger	0
-backfire	anticipation	0
-backfire	disgust	0
-backfire	fear	0
-backfire	joy	0
-backfire	negative	0
-backfire	positive	0
-backfire	sadness	0
-backfire	surprise	0
-backfire	trust	0
-backgammon	anger	0
-backgammon	anticipation	0
-backgammon	disgust	0
-backgammon	fear	0
-backgammon	joy	0
-backgammon	negative	0
-backgammon	positive	0
-backgammon	sadness	0
-backgammon	surprise	0
-backgammon	trust	0
-background	anger	0
-background	anticipation	0
-background	disgust	0
-background	fear	0
-background	joy	0
-background	negative	0
-background	positive	0
-background	sadness	0
-background	surprise	0
-background	trust	0
-backhoe	anger	0
-backhoe	anticipation	0
-backhoe	disgust	0
-backhoe	fear	0
-backhoe	joy	0
-backhoe	negative	0
-backhoe	positive	0
-backhoe	sadness	0
-backhoe	surprise	0
-backhoe	trust	0
-backpacker	anger	0
-backpacker	anticipation	0
-backpacker	disgust	0
-backpacker	fear	0
-backpacker	joy	0
-backpacker	negative	0
-backpacker	positive	0
-backpacker	sadness	0
-backpacker	surprise	0
-backpacker	trust	0
-backtrack	anger	0
-backtrack	anticipation	0
-backtrack	disgust	0
-backtrack	fear	0
-backtrack	joy	0
-backtrack	negative	0
-backtrack	positive	0
-backtrack	sadness	0
-backtrack	surprise	0
-backtrack	trust	0
-backward	anger	0
-backward	anticipation	0
-backward	disgust	0
-backward	fear	0
-backward	joy	0
-backward	negative	1
-backward	positive	0
-backward	sadness	0
-backward	surprise	0
-backward	trust	0
-backwards	anger	0
-backwards	anticipation	0
-backwards	disgust	1
-backwards	fear	0
-backwards	joy	0
-backwards	negative	1
-backwards	positive	0
-backwards	sadness	0
-backwards	surprise	0
-backwards	trust	0
-backwater	anger	0
-backwater	anticipation	0
-backwater	disgust	0
-backwater	fear	0
-backwater	joy	0
-backwater	negative	1
-backwater	positive	0
-backwater	sadness	1
-backwater	surprise	0
-backwater	trust	0
-bacteria	anger	0
-bacteria	anticipation	0
-bacteria	disgust	1
-bacteria	fear	1
-bacteria	joy	0
-bacteria	negative	1
-bacteria	positive	0
-bacteria	sadness	1
-bacteria	surprise	0
-bacteria	trust	0
-bacterium	anger	0
-bacterium	anticipation	0
-bacterium	disgust	1
-bacterium	fear	1
-bacterium	joy	0
-bacterium	negative	1
-bacterium	positive	0
-bacterium	sadness	0
-bacterium	surprise	0
-bacterium	trust	0
-bad	anger	1
-bad	anticipation	0
-bad	disgust	1
-bad	fear	1
-bad	joy	0
-bad	negative	1
-bad	positive	0
-bad	sadness	1
-bad	surprise	0
-bad	trust	0
-badge	anger	0
-badge	anticipation	0
-badge	disgust	0
-badge	fear	0
-badge	joy	0
-badge	negative	0
-badge	positive	0
-badge	sadness	0
-badge	surprise	0
-badge	trust	1
-badger	anger	1
-badger	anticipation	0
-badger	disgust	0
-badger	fear	0
-badger	joy	0
-badger	negative	1
-badger	positive	0
-badger	sadness	0
-badger	surprise	0
-badger	trust	0
-badly	anger	0
-badly	anticipation	0
-badly	disgust	0
-badly	fear	0
-badly	joy	0
-badly	negative	1
-badly	positive	0
-badly	sadness	1
-badly	surprise	0
-badly	trust	0
-badness	anger	1
-badness	anticipation	0
-badness	disgust	1
-badness	fear	1
-badness	joy	0
-badness	negative	1
-badness	positive	0
-badness	sadness	0
-badness	surprise	0
-badness	trust	0
-baffle	anger	0
-baffle	anticipation	0
-baffle	disgust	0
-baffle	fear	0
-baffle	joy	0
-baffle	negative	0
-baffle	positive	0
-baffle	sadness	0
-baffle	surprise	0
-baffle	trust	0
-bag	anger	0
-bag	anticipation	0
-bag	disgust	0
-bag	fear	0
-bag	joy	0
-bag	negative	0
-bag	positive	0
-bag	sadness	0
-bag	surprise	0
-bag	trust	0
-baggage	anger	0
-baggage	anticipation	0
-baggage	disgust	0
-baggage	fear	0
-baggage	joy	0
-baggage	negative	0
-baggage	positive	0
-baggage	sadness	0
-baggage	surprise	0
-baggage	trust	0
-baggy	anger	0
-baggy	anticipation	0
-baggy	disgust	0
-baggy	fear	0
-baggy	joy	0
-baggy	negative	0
-baggy	positive	0
-baggy	sadness	0
-baggy	surprise	0
-baggy	trust	0
-bagpipes	anger	0
-bagpipes	anticipation	0
-bagpipes	disgust	0
-bagpipes	fear	0
-bagpipes	joy	0
-bagpipes	negative	0
-bagpipes	positive	0
-bagpipes	sadness	0
-bagpipes	surprise	0
-bagpipes	trust	0
-bail	anger	0
-bail	anticipation	0
-bail	disgust	0
-bail	fear	0
-bail	joy	0
-bail	negative	0
-bail	positive	0
-bail	sadness	0
-bail	surprise	0
-bail	trust	0
-bailiff	anger	0
-bailiff	anticipation	0
-bailiff	disgust	0
-bailiff	fear	1
-bailiff	joy	0
-bailiff	negative	1
-bailiff	positive	0
-bailiff	sadness	0
-bailiff	surprise	0
-bailiff	trust	1
-bait	anger	0
-bait	anticipation	0
-bait	disgust	0
-bait	fear	1
-bait	joy	0
-bait	negative	1
-bait	positive	0
-bait	sadness	0
-bait	surprise	0
-bait	trust	1
-bake	anger	0
-bake	anticipation	0
-bake	disgust	0
-bake	fear	0
-bake	joy	0
-bake	negative	0
-bake	positive	0
-bake	sadness	0
-bake	surprise	0
-bake	trust	0
-bakery	anger	0
-bakery	anticipation	0
-bakery	disgust	0
-bakery	fear	0
-bakery	joy	0
-bakery	negative	0
-bakery	positive	0
-bakery	sadness	0
-bakery	surprise	0
-bakery	trust	0
-baking	anger	0
-baking	anticipation	0
-baking	disgust	0
-baking	fear	0
-baking	joy	0
-baking	negative	0
-baking	positive	0
-baking	sadness	0
-baking	surprise	0
-baking	trust	0
-bal	anger	0
-bal	anticipation	0
-bal	disgust	0
-bal	fear	0
-bal	joy	0
-bal	negative	0
-bal	positive	0
-bal	sadness	0
-bal	surprise	0
-bal	trust	0
-balance	anger	0
-balance	anticipation	0
-balance	disgust	0
-balance	fear	0
-balance	joy	0
-balance	negative	0
-balance	positive	1
-balance	sadness	0
-balance	surprise	0
-balance	trust	0
-balanced	anger	0
-balanced	anticipation	0
-balanced	disgust	0
-balanced	fear	0
-balanced	joy	0
-balanced	negative	0
-balanced	positive	1
-balanced	sadness	0
-balanced	surprise	0
-balanced	trust	0
-balcony	anger	0
-balcony	anticipation	0
-balcony	disgust	0
-balcony	fear	0
-balcony	joy	0
-balcony	negative	0
-balcony	positive	0
-balcony	sadness	0
-balcony	surprise	0
-balcony	trust	0
-bald	anger	0
-bald	anticipation	0
-bald	disgust	0
-bald	fear	0
-bald	joy	0
-bald	negative	0
-bald	positive	0
-bald	sadness	0
-bald	surprise	0
-bald	trust	0
-bale	anger	0
-bale	anticipation	0
-bale	disgust	0
-bale	fear	1
-bale	joy	0
-bale	negative	1
-bale	positive	0
-bale	sadness	0
-bale	surprise	0
-bale	trust	0
-balk	anger	0
-balk	anticipation	0
-balk	disgust	0
-balk	fear	0
-balk	joy	0
-balk	negative	1
-balk	positive	0
-balk	sadness	0
-balk	surprise	0
-balk	trust	0
-ball	anger	0
-ball	anticipation	0
-ball	disgust	0
-ball	fear	0
-ball	joy	0
-ball	negative	0
-ball	positive	0
-ball	sadness	0
-ball	surprise	0
-ball	trust	0
-ballad	anger	0
-ballad	anticipation	0
-ballad	disgust	0
-ballad	fear	0
-ballad	joy	0
-ballad	negative	0
-ballad	positive	1
-ballad	sadness	0
-ballad	surprise	0
-ballad	trust	0
-ballast	anger	0
-ballast	anticipation	0
-ballast	disgust	0
-ballast	fear	0
-ballast	joy	0
-ballast	negative	0
-ballast	positive	0
-ballast	sadness	0
-ballast	surprise	0
-ballast	trust	0
-ballet	anger	0
-ballet	anticipation	0
-ballet	disgust	0
-ballet	fear	0
-ballet	joy	0
-ballet	negative	0
-ballet	positive	1
-ballet	sadness	0
-ballet	surprise	0
-ballet	trust	0
-balloon	anger	0
-balloon	anticipation	0
-balloon	disgust	0
-balloon	fear	0
-balloon	joy	0
-balloon	negative	0
-balloon	positive	0
-balloon	sadness	0
-balloon	surprise	0
-balloon	trust	0
-ballot	anger	0
-ballot	anticipation	1
-ballot	disgust	0
-ballot	fear	0
-ballot	joy	0
-ballot	negative	0
-ballot	positive	1
-ballot	sadness	0
-ballot	surprise	0
-ballot	trust	1
-ballroom	anger	0
-ballroom	anticipation	0
-ballroom	disgust	0
-ballroom	fear	0
-ballroom	joy	0
-ballroom	negative	0
-ballroom	positive	0
-ballroom	sadness	0
-ballroom	surprise	0
-ballroom	trust	0
-balm	anger	0
-balm	anticipation	1
-balm	disgust	0
-balm	fear	0
-balm	joy	1
-balm	negative	1
-balm	positive	1
-balm	sadness	0
-balm	surprise	0
-balm	trust	0
-balmy	anger	0
-balmy	anticipation	0
-balmy	disgust	0
-balmy	fear	0
-balmy	joy	0
-balmy	negative	0
-balmy	positive	0
-balmy	sadness	0
-balmy	surprise	0
-balmy	trust	0
-balsam	anger	0
-balsam	anticipation	0
-balsam	disgust	0
-balsam	fear	0
-balsam	joy	0
-balsam	negative	0
-balsam	positive	1
-balsam	sadness	0
-balsam	surprise	0
-balsam	trust	0
-balsamic	anger	0
-balsamic	anticipation	0
-balsamic	disgust	0
-balsamic	fear	0
-balsamic	joy	0
-balsamic	negative	0
-balsamic	positive	0
-balsamic	sadness	0
-balsamic	surprise	0
-balsamic	trust	0
-ban	anger	0
-ban	anticipation	0
-ban	disgust	0
-ban	fear	0
-ban	joy	0
-ban	negative	1
-ban	positive	0
-ban	sadness	0
-ban	surprise	0
-ban	trust	0
-banana	anger	0
-banana	anticipation	0
-banana	disgust	0
-banana	fear	0
-banana	joy	0
-banana	negative	0
-banana	positive	0
-banana	sadness	0
-banana	surprise	0
-banana	trust	0
-band	anger	0
-band	anticipation	0
-band	disgust	0
-band	fear	0
-band	joy	0
-band	negative	0
-band	positive	0
-band	sadness	0
-band	surprise	0
-band	trust	0
-bandage	anger	0
-bandage	anticipation	0
-bandage	disgust	0
-bandage	fear	0
-bandage	joy	0
-bandage	negative	0
-bandage	positive	0
-bandage	sadness	0
-bandage	surprise	0
-bandage	trust	0
-bandit	anger	0
-bandit	anticipation	0
-bandit	disgust	0
-bandit	fear	0
-bandit	joy	0
-bandit	negative	1
-bandit	positive	0
-bandit	sadness	0
-bandit	surprise	0
-bandit	trust	0
-bandwagon	anger	0
-bandwagon	anticipation	0
-bandwagon	disgust	0
-bandwagon	fear	0
-bandwagon	joy	0
-bandwagon	negative	0
-bandwagon	positive	0
-bandwagon	sadness	0
-bandwagon	surprise	0
-bandwagon	trust	0
-bane	anger	1
-bane	anticipation	0
-bane	disgust	1
-bane	fear	1
-bane	joy	0
-bane	negative	1
-bane	positive	0
-bane	sadness	0
-bane	surprise	0
-bane	trust	0
-bang	anger	1
-bang	anticipation	0
-bang	disgust	1
-bang	fear	1
-bang	joy	0
-bang	negative	1
-bang	positive	0
-bang	sadness	1
-bang	surprise	1
-bang	trust	0
-banger	anger	1
-banger	anticipation	1
-banger	disgust	0
-banger	fear	1
-banger	joy	0
-banger	negative	1
-banger	positive	0
-banger	sadness	0
-banger	surprise	1
-banger	trust	0
-banish	anger	1
-banish	anticipation	0
-banish	disgust	1
-banish	fear	1
-banish	joy	0
-banish	negative	1
-banish	positive	0
-banish	sadness	1
-banish	surprise	0
-banish	trust	0
-banished	anger	1
-banished	anticipation	0
-banished	disgust	0
-banished	fear	1
-banished	joy	0
-banished	negative	1
-banished	positive	0
-banished	sadness	1
-banished	surprise	0
-banished	trust	0
-banishment	anger	1
-banishment	anticipation	0
-banishment	disgust	1
-banishment	fear	0
-banishment	joy	0
-banishment	negative	1
-banishment	positive	0
-banishment	sadness	1
-banishment	surprise	0
-banishment	trust	0
-banjo	anger	0
-banjo	anticipation	0
-banjo	disgust	0
-banjo	fear	0
-banjo	joy	0
-banjo	negative	0
-banjo	positive	0
-banjo	sadness	0
-banjo	surprise	0
-banjo	trust	0
-bank	anger	0
-bank	anticipation	0
-bank	disgust	0
-bank	fear	0
-bank	joy	0
-bank	negative	0
-bank	positive	0
-bank	sadness	0
-bank	surprise	0
-bank	trust	1
-banker	anger	0
-banker	anticipation	0
-banker	disgust	0
-banker	fear	0
-banker	joy	0
-banker	negative	0
-banker	positive	0
-banker	sadness	0
-banker	surprise	0
-banker	trust	1
-bankrupt	anger	0
-bankrupt	anticipation	0
-bankrupt	disgust	0
-bankrupt	fear	1
-bankrupt	joy	0
-bankrupt	negative	1
-bankrupt	positive	0
-bankrupt	sadness	1
-bankrupt	surprise	0
-bankrupt	trust	0
-bankruptcy	anger	1
-bankruptcy	anticipation	0
-bankruptcy	disgust	1
-bankruptcy	fear	1
-bankruptcy	joy	0
-bankruptcy	negative	1
-bankruptcy	positive	0
-bankruptcy	sadness	1
-bankruptcy	surprise	0
-bankruptcy	trust	0
-banner	anger	0
-banner	anticipation	0
-banner	disgust	0
-banner	fear	0
-banner	joy	0
-banner	negative	0
-banner	positive	0
-banner	sadness	0
-banner	surprise	0
-banner	trust	0
-banquet	anger	0
-banquet	anticipation	1
-banquet	disgust	0
-banquet	fear	0
-banquet	joy	1
-banquet	negative	0
-banquet	positive	1
-banquet	sadness	0
-banquet	surprise	0
-banquet	trust	0
-banshee	anger	1
-banshee	anticipation	0
-banshee	disgust	1
-banshee	fear	1
-banshee	joy	0
-banshee	negative	1
-banshee	positive	0
-banshee	sadness	1
-banshee	surprise	0
-banshee	trust	0
-banter	anger	0
-banter	anticipation	0
-banter	disgust	0
-banter	fear	0
-banter	joy	0
-banter	negative	0
-banter	positive	0
-banter	sadness	0
-banter	surprise	0
-banter	trust	0
-baptism	anger	0
-baptism	anticipation	0
-baptism	disgust	0
-baptism	fear	0
-baptism	joy	0
-baptism	negative	0
-baptism	positive	1
-baptism	sadness	0
-baptism	surprise	0
-baptism	trust	0
-baptismal	anger	0
-baptismal	anticipation	0
-baptismal	disgust	0
-baptismal	fear	0
-baptismal	joy	1
-baptismal	negative	0
-baptismal	positive	1
-baptismal	sadness	0
-baptismal	surprise	0
-baptismal	trust	0
-bar	anger	0
-bar	anticipation	0
-bar	disgust	0
-bar	fear	0
-bar	joy	0
-bar	negative	0
-bar	positive	0
-bar	sadness	0
-bar	surprise	0
-bar	trust	0
-barb	anger	1
-barb	anticipation	0
-barb	disgust	0
-barb	fear	0
-barb	joy	0
-barb	negative	1
-barb	positive	0
-barb	sadness	0
-barb	surprise	0
-barb	trust	0
-barbarian	anger	0
-barbarian	anticipation	0
-barbarian	disgust	0
-barbarian	fear	1
-barbarian	joy	0
-barbarian	negative	1
-barbarian	positive	0
-barbarian	sadness	0
-barbarian	surprise	0
-barbarian	trust	0
-barbaric	anger	1
-barbaric	anticipation	0
-barbaric	disgust	1
-barbaric	fear	1
-barbaric	joy	0
-barbaric	negative	1
-barbaric	positive	0
-barbaric	sadness	0
-barbaric	surprise	0
-barbaric	trust	0
-barbarism	anger	0
-barbarism	anticipation	0
-barbarism	disgust	0
-barbarism	fear	0
-barbarism	joy	0
-barbarism	negative	1
-barbarism	positive	0
-barbarism	sadness	0
-barbarism	surprise	0
-barbarism	trust	0
-barbecue	anger	0
-barbecue	anticipation	0
-barbecue	disgust	0
-barbecue	fear	0
-barbecue	joy	0
-barbecue	negative	0
-barbecue	positive	0
-barbecue	sadness	0
-barbecue	surprise	0
-barbecue	trust	0
-barbed	anger	0
-barbed	anticipation	0
-barbed	disgust	0
-barbed	fear	0
-barbed	joy	0
-barbed	negative	0
-barbed	positive	0
-barbed	sadness	0
-barbed	surprise	0
-barbed	trust	0
-bard	anger	0
-bard	anticipation	0
-bard	disgust	0
-bard	fear	0
-bard	joy	0
-bard	negative	0
-bard	positive	1
-bard	sadness	0
-bard	surprise	0
-bard	trust	0
-bareback	anger	0
-bareback	anticipation	0
-bareback	disgust	0
-bareback	fear	0
-bareback	joy	0
-bareback	negative	0
-bareback	positive	0
-bareback	sadness	0
-bareback	surprise	0
-bareback	trust	0
-barefoot	anger	0
-barefoot	anticipation	0
-barefoot	disgust	0
-barefoot	fear	0
-barefoot	joy	0
-barefoot	negative	0
-barefoot	positive	0
-barefoot	sadness	0
-barefoot	surprise	0
-barefoot	trust	0
-barely	anger	0
-barely	anticipation	0
-barely	disgust	0
-barely	fear	0
-barely	joy	0
-barely	negative	0
-barely	positive	0
-barely	sadness	0
-barely	surprise	0
-barely	trust	0
-barf	anger	0
-barf	anticipation	0
-barf	disgust	1
-barf	fear	0
-barf	joy	0
-barf	negative	0
-barf	positive	0
-barf	sadness	0
-barf	surprise	0
-barf	trust	0
-bargain	anger	0
-bargain	anticipation	0
-bargain	disgust	0
-bargain	fear	0
-bargain	joy	0
-bargain	negative	0
-bargain	positive	1
-bargain	sadness	0
-bargain	surprise	0
-bargain	trust	1
-barge	anger	0
-barge	anticipation	0
-barge	disgust	0
-barge	fear	0
-barge	joy	0
-barge	negative	0
-barge	positive	0
-barge	sadness	0
-barge	surprise	0
-barge	trust	0
-baritone	anger	0
-baritone	anticipation	0
-baritone	disgust	0
-baritone	fear	0
-baritone	joy	0
-baritone	negative	0
-baritone	positive	0
-baritone	sadness	0
-baritone	surprise	0
-baritone	trust	0
-bark	anger	1
-bark	anticipation	0
-bark	disgust	0
-bark	fear	0
-bark	joy	0
-bark	negative	1
-bark	positive	0
-bark	sadness	0
-bark	surprise	0
-bark	trust	0
-barn	anger	0
-barn	anticipation	0
-barn	disgust	0
-barn	fear	0
-barn	joy	0
-barn	negative	0
-barn	positive	0
-barn	sadness	0
-barn	surprise	0
-barn	trust	0
-barney	anger	0
-barney	anticipation	0
-barney	disgust	0
-barney	fear	0
-barney	joy	0
-barney	negative	0
-barney	positive	0
-barney	sadness	0
-barney	surprise	0
-barney	trust	0
-barometer	anger	0
-barometer	anticipation	0
-barometer	disgust	0
-barometer	fear	0
-barometer	joy	0
-barometer	negative	0
-barometer	positive	0
-barometer	sadness	0
-barometer	surprise	0
-barometer	trust	0
-baron	anger	0
-baron	anticipation	0
-baron	disgust	0
-baron	fear	0
-baron	joy	0
-baron	negative	0
-baron	positive	0
-baron	sadness	0
-baron	surprise	0
-baron	trust	0
-baroque	anger	0
-baroque	anticipation	0
-baroque	disgust	0
-baroque	fear	0
-baroque	joy	0
-baroque	negative	0
-baroque	positive	0
-baroque	sadness	0
-baroque	surprise	0
-baroque	trust	0
-barrack	anger	0
-barrack	anticipation	0
-barrack	disgust	0
-barrack	fear	0
-barrack	joy	0
-barrack	negative	0
-barrack	positive	0
-barrack	sadness	0
-barrack	surprise	0
-barrack	trust	0
-barred	anger	0
-barred	anticipation	0
-barred	disgust	0
-barred	fear	0
-barred	joy	0
-barred	negative	1
-barred	positive	0
-barred	sadness	0
-barred	surprise	0
-barred	trust	0
-barrel	anger	0
-barrel	anticipation	0
-barrel	disgust	0
-barrel	fear	0
-barrel	joy	0
-barrel	negative	0
-barrel	positive	0
-barrel	sadness	0
-barrel	surprise	0
-barrel	trust	0
-barren	anger	0
-barren	anticipation	0
-barren	disgust	0
-barren	fear	0
-barren	joy	0
-barren	negative	1
-barren	positive	0
-barren	sadness	1
-barren	surprise	0
-barren	trust	0
-barricade	anger	0
-barricade	anticipation	0
-barricade	disgust	0
-barricade	fear	1
-barricade	joy	0
-barricade	negative	1
-barricade	positive	0
-barricade	sadness	0
-barricade	surprise	0
-barricade	trust	0
-barrier	anger	1
-barrier	anticipation	0
-barrier	disgust	0
-barrier	fear	0
-barrier	joy	0
-barrier	negative	1
-barrier	positive	0
-barrier	sadness	0
-barrier	surprise	0
-barrier	trust	0
-barring	anger	0
-barring	anticipation	0
-barring	disgust	0
-barring	fear	0
-barring	joy	0
-barring	negative	0
-barring	positive	0
-barring	sadness	0
-barring	surprise	0
-barring	trust	0
-barrister	anger	0
-barrister	anticipation	0
-barrister	disgust	0
-barrister	fear	0
-barrister	joy	0
-barrister	negative	0
-barrister	positive	0
-barrister	sadness	0
-barrister	surprise	0
-barrister	trust	0
-barrow	anger	0
-barrow	anticipation	0
-barrow	disgust	1
-barrow	fear	0
-barrow	joy	0
-barrow	negative	0
-barrow	positive	0
-barrow	sadness	0
-barrow	surprise	0
-barrow	trust	0
-bartender	anger	0
-bartender	anticipation	0
-bartender	disgust	0
-bartender	fear	0
-bartender	joy	0
-bartender	negative	0
-bartender	positive	0
-bartender	sadness	0
-bartender	surprise	0
-bartender	trust	1
-barter	anger	0
-barter	anticipation	0
-barter	disgust	0
-barter	fear	0
-barter	joy	0
-barter	negative	0
-barter	positive	0
-barter	sadness	0
-barter	surprise	0
-barter	trust	1
-base	anger	0
-base	anticipation	0
-base	disgust	0
-base	fear	0
-base	joy	0
-base	negative	0
-base	positive	0
-base	sadness	0
-base	surprise	0
-base	trust	1
-baseball	anger	0
-baseball	anticipation	0
-baseball	disgust	0
-baseball	fear	0
-baseball	joy	0
-baseball	negative	0
-baseball	positive	0
-baseball	sadness	0
-baseball	surprise	0
-baseball	trust	0
-baseboard	anger	0
-baseboard	anticipation	0
-baseboard	disgust	0
-baseboard	fear	0
-baseboard	joy	0
-baseboard	negative	0
-baseboard	positive	0
-baseboard	sadness	0
-baseboard	surprise	0
-baseboard	trust	0
-baseless	anger	0
-baseless	anticipation	0
-baseless	disgust	0
-baseless	fear	0
-baseless	joy	0
-baseless	negative	1
-baseless	positive	0
-baseless	sadness	0
-baseless	surprise	0
-baseless	trust	0
-basement	anger	0
-basement	anticipation	0
-basement	disgust	0
-basement	fear	0
-basement	joy	0
-basement	negative	0
-basement	positive	0
-basement	sadness	0
-basement	surprise	0
-basement	trust	0
-basilica	anger	0
-basilica	anticipation	0
-basilica	disgust	0
-basilica	fear	0
-basilica	joy	0
-basilica	negative	0
-basilica	positive	0
-basilica	sadness	0
-basilica	surprise	0
-basilica	trust	0
-basin	anger	0
-basin	anticipation	0
-basin	disgust	0
-basin	fear	0
-basin	joy	0
-basin	negative	0
-basin	positive	0
-basin	sadness	0
-basin	surprise	0
-basin	trust	0
-basis	anger	0
-basis	anticipation	0
-basis	disgust	0
-basis	fear	0
-basis	joy	0
-basis	negative	0
-basis	positive	0
-basis	sadness	0
-basis	surprise	0
-basis	trust	0
-bask	anger	0
-bask	anticipation	0
-bask	disgust	0
-bask	fear	0
-bask	joy	0
-bask	negative	0
-bask	positive	0
-bask	sadness	0
-bask	surprise	0
-bask	trust	0
-basket	anger	0
-basket	anticipation	0
-basket	disgust	0
-basket	fear	0
-basket	joy	0
-basket	negative	0
-basket	positive	0
-basket	sadness	0
-basket	surprise	0
-basket	trust	0
-basketball	anger	0
-basketball	anticipation	1
-basketball	disgust	0
-basketball	fear	0
-basketball	joy	1
-basketball	negative	0
-basketball	positive	1
-basketball	sadness	0
-basketball	surprise	0
-basketball	trust	0
-bass	anger	0
-bass	anticipation	0
-bass	disgust	0
-bass	fear	0
-bass	joy	0
-bass	negative	0
-bass	positive	0
-bass	sadness	0
-bass	surprise	0
-bass	trust	0
-basso	anger	0
-basso	anticipation	0
-basso	disgust	0
-basso	fear	0
-basso	joy	0
-basso	negative	0
-basso	positive	0
-basso	sadness	0
-basso	surprise	0
-basso	trust	0
-bassoon	anger	0
-bassoon	anticipation	0
-bassoon	disgust	0
-bassoon	fear	0
-bassoon	joy	0
-bassoon	negative	0
-bassoon	positive	0
-bassoon	sadness	0
-bassoon	surprise	0
-bassoon	trust	0
-bastard	anger	0
-bastard	anticipation	0
-bastard	disgust	1
-bastard	fear	0
-bastard	joy	0
-bastard	negative	1
-bastard	positive	0
-bastard	sadness	1
-bastard	surprise	0
-bastard	trust	0
-bastion	anger	1
-bastion	anticipation	0
-bastion	disgust	0
-bastion	fear	0
-bastion	joy	0
-bastion	negative	0
-bastion	positive	1
-bastion	sadness	0
-bastion	surprise	0
-bastion	trust	0
-bat	anger	0
-bat	anticipation	0
-bat	disgust	0
-bat	fear	0
-bat	joy	0
-bat	negative	0
-bat	positive	0
-bat	sadness	0
-bat	surprise	0
-bat	trust	0
-batch	anger	0
-batch	anticipation	0
-batch	disgust	0
-batch	fear	0
-batch	joy	0
-batch	negative	0
-batch	positive	0
-batch	sadness	0
-batch	surprise	0
-batch	trust	0
-batching	anger	0
-batching	anticipation	0
-batching	disgust	0
-batching	fear	0
-batching	joy	0
-batching	negative	0
-batching	positive	0
-batching	sadness	0
-batching	surprise	0
-batching	trust	0
-bate	anger	0
-bate	anticipation	0
-bate	disgust	0
-bate	fear	0
-bate	joy	0
-bate	negative	0
-bate	positive	0
-bate	sadness	0
-bate	surprise	0
-bate	trust	0
-bath	anger	0
-bath	anticipation	0
-bath	disgust	0
-bath	fear	0
-bath	joy	0
-bath	negative	0
-bath	positive	1
-bath	sadness	0
-bath	surprise	0
-bath	trust	0
-bathe	anger	0
-bathe	anticipation	0
-bathe	disgust	0
-bathe	fear	0
-bathe	joy	0
-bathe	negative	0
-bathe	positive	0
-bathe	sadness	0
-bathe	surprise	0
-bathe	trust	0
-bathroom	anger	0
-bathroom	anticipation	0
-bathroom	disgust	0
-bathroom	fear	0
-bathroom	joy	0
-bathroom	negative	0
-bathroom	positive	0
-bathroom	sadness	0
-bathroom	surprise	0
-bathroom	trust	0
-bathymetry	anger	0
-bathymetry	anticipation	0
-bathymetry	disgust	0
-bathymetry	fear	0
-bathymetry	joy	0
-bathymetry	negative	0
-bathymetry	positive	0
-bathymetry	sadness	0
-bathymetry	surprise	0
-bathymetry	trust	0
-baton	anger	0
-baton	anticipation	0
-baton	disgust	0
-baton	fear	0
-baton	joy	0
-baton	negative	0
-baton	positive	0
-baton	sadness	0
-baton	surprise	0
-baton	trust	0
-battalion	anger	1
-battalion	anticipation	0
-battalion	disgust	0
-battalion	fear	0
-battalion	joy	0
-battalion	negative	0
-battalion	positive	0
-battalion	sadness	0
-battalion	surprise	0
-battalion	trust	0
-batter	anger	1
-batter	anticipation	0
-batter	disgust	0
-batter	fear	1
-batter	joy	0
-batter	negative	1
-batter	positive	0
-batter	sadness	0
-batter	surprise	0
-batter	trust	0
-battered	anger	0
-battered	anticipation	0
-battered	disgust	0
-battered	fear	1
-battered	joy	0
-battered	negative	1
-battered	positive	0
-battered	sadness	1
-battered	surprise	0
-battered	trust	0
-battery	anger	1
-battery	anticipation	0
-battery	disgust	0
-battery	fear	0
-battery	joy	0
-battery	negative	1
-battery	positive	0
-battery	sadness	0
-battery	surprise	0
-battery	trust	0
-battle	anger	1
-battle	anticipation	0
-battle	disgust	0
-battle	fear	0
-battle	joy	0
-battle	negative	1
-battle	positive	0
-battle	sadness	0
-battle	surprise	0
-battle	trust	0
-battled	anger	1
-battled	anticipation	0
-battled	disgust	0
-battled	fear	1
-battled	joy	0
-battled	negative	1
-battled	positive	0
-battled	sadness	1
-battled	surprise	0
-battled	trust	0
-battlefield	anger	0
-battlefield	anticipation	0
-battlefield	disgust	0
-battlefield	fear	1
-battlefield	joy	0
-battlefield	negative	1
-battlefield	positive	0
-battlefield	sadness	0
-battlefield	surprise	0
-battlefield	trust	0
-bawdy	anger	0
-bawdy	anticipation	0
-bawdy	disgust	0
-bawdy	fear	0
-bawdy	joy	0
-bawdy	negative	1
-bawdy	positive	0
-bawdy	sadness	0
-bawdy	surprise	0
-bawdy	trust	0
-bay	anger	0
-bay	anticipation	0
-bay	disgust	0
-bay	fear	0
-bay	joy	0
-bay	negative	0
-bay	positive	0
-bay	sadness	0
-bay	surprise	0
-bay	trust	0
-bayonet	anger	1
-bayonet	anticipation	0
-bayonet	disgust	0
-bayonet	fear	1
-bayonet	joy	0
-bayonet	negative	1
-bayonet	positive	0
-bayonet	sadness	0
-bayonet	surprise	0
-bayonet	trust	0
-bayou	anger	0
-bayou	anticipation	0
-bayou	disgust	0
-bayou	fear	0
-bayou	joy	0
-bayou	negative	0
-bayou	positive	0
-bayou	sadness	0
-bayou	surprise	0
-bayou	trust	0
-bazaar	anger	0
-bazaar	anticipation	0
-bazaar	disgust	0
-bazaar	fear	0
-bazaar	joy	0
-bazaar	negative	0
-bazaar	positive	0
-bazaar	sadness	0
-bazaar	surprise	0
-bazaar	trust	0
-beach	anger	0
-beach	anticipation	0
-beach	disgust	0
-beach	fear	0
-beach	joy	1
-beach	negative	0
-beach	positive	0
-beach	sadness	0
-beach	surprise	0
-beach	trust	0
-beacon	anger	0
-beacon	anticipation	0
-beacon	disgust	0
-beacon	fear	0
-beacon	joy	0
-beacon	negative	0
-beacon	positive	0
-beacon	sadness	0
-beacon	surprise	0
-beacon	trust	0
-bead	anger	0
-bead	anticipation	0
-bead	disgust	0
-bead	fear	0
-bead	joy	0
-bead	negative	0
-bead	positive	0
-bead	sadness	0
-bead	surprise	0
-bead	trust	0
-beading	anger	0
-beading	anticipation	0
-beading	disgust	0
-beading	fear	0
-beading	joy	0
-beading	negative	0
-beading	positive	0
-beading	sadness	0
-beading	surprise	0
-beading	trust	0
-beads	anger	0
-beads	anticipation	0
-beads	disgust	0
-beads	fear	0
-beads	joy	0
-beads	negative	0
-beads	positive	0
-beads	sadness	0
-beads	surprise	0
-beads	trust	0
-beagle	anger	0
-beagle	anticipation	0
-beagle	disgust	0
-beagle	fear	0
-beagle	joy	0
-beagle	negative	0
-beagle	positive	0
-beagle	sadness	0
-beagle	surprise	0
-beagle	trust	0
-beak	anger	0
-beak	anticipation	0
-beak	disgust	0
-beak	fear	0
-beak	joy	0
-beak	negative	0
-beak	positive	0
-beak	sadness	0
-beak	surprise	0
-beak	trust	0
-beaker	anger	0
-beaker	anticipation	0
-beaker	disgust	0
-beaker	fear	0
-beaker	joy	0
-beaker	negative	0
-beaker	positive	0
-beaker	sadness	0
-beaker	surprise	0
-beaker	trust	0
-beam	anger	0
-beam	anticipation	0
-beam	disgust	0
-beam	fear	0
-beam	joy	1
-beam	negative	0
-beam	positive	1
-beam	sadness	0
-beam	surprise	0
-beam	trust	0
-beaming	anger	0
-beaming	anticipation	1
-beaming	disgust	0
-beaming	fear	0
-beaming	joy	1
-beaming	negative	0
-beaming	positive	1
-beaming	sadness	0
-beaming	surprise	0
-beaming	trust	0
-bear	anger	1
-bear	anticipation	0
-bear	disgust	0
-bear	fear	1
-bear	joy	0
-bear	negative	0
-bear	positive	0
-bear	sadness	0
-bear	surprise	0
-bear	trust	0
-beard	anger	0
-beard	anticipation	0
-beard	disgust	0
-beard	fear	0
-beard	joy	0
-beard	negative	0
-beard	positive	0
-beard	sadness	0
-beard	surprise	0
-beard	trust	0
-bearded	anger	0
-bearded	anticipation	0
-bearded	disgust	0
-bearded	fear	0
-bearded	joy	0
-bearded	negative	0
-bearded	positive	0
-bearded	sadness	0
-bearded	surprise	0
-bearded	trust	0
-bearer	anger	0
-bearer	anticipation	0
-bearer	disgust	0
-bearer	fear	0
-bearer	joy	0
-bearer	negative	1
-bearer	positive	0
-bearer	sadness	0
-bearer	surprise	0
-bearer	trust	0
-bearing	anger	0
-bearing	anticipation	0
-bearing	disgust	0
-bearing	fear	0
-bearing	joy	0
-bearing	negative	0
-bearing	positive	0
-bearing	sadness	0
-bearing	surprise	0
-bearing	trust	0
-bearings	anger	0
-bearings	anticipation	0
-bearings	disgust	0
-bearings	fear	0
-bearings	joy	0
-bearings	negative	0
-bearings	positive	0
-bearings	sadness	0
-bearings	surprise	0
-bearings	trust	0
-bearish	anger	1
-bearish	anticipation	0
-bearish	disgust	0
-bearish	fear	1
-bearish	joy	0
-bearish	negative	0
-bearish	positive	0
-bearish	sadness	0
-bearish	surprise	0
-bearish	trust	0
-beast	anger	1
-beast	anticipation	0
-beast	disgust	0
-beast	fear	1
-beast	joy	0
-beast	negative	1
-beast	positive	0
-beast	sadness	0
-beast	surprise	0
-beast	trust	0
-beastly	anger	0
-beastly	anticipation	0
-beastly	disgust	1
-beastly	fear	1
-beastly	joy	0
-beastly	negative	1
-beastly	positive	0
-beastly	sadness	0
-beastly	surprise	0
-beastly	trust	0
-beat	anger	0
-beat	anticipation	0
-beat	disgust	0
-beat	fear	0
-beat	joy	0
-beat	negative	0
-beat	positive	0
-beat	sadness	0
-beat	surprise	0
-beat	trust	0
-beating	anger	1
-beating	anticipation	0
-beating	disgust	0
-beating	fear	1
-beating	joy	0
-beating	negative	1
-beating	positive	0
-beating	sadness	1
-beating	surprise	0
-beating	trust	0
-beau	anger	0
-beau	anticipation	0
-beau	disgust	0
-beau	fear	0
-beau	joy	0
-beau	negative	0
-beau	positive	0
-beau	sadness	0
-beau	surprise	0
-beau	trust	0
-beautification	anger	0
-beautification	anticipation	0
-beautification	disgust	0
-beautification	fear	0
-beautification	joy	1
-beautification	negative	0
-beautification	positive	1
-beautification	sadness	0
-beautification	surprise	0
-beautification	trust	1
-beautiful	anger	0
-beautiful	anticipation	0
-beautiful	disgust	0
-beautiful	fear	0
-beautiful	joy	1
-beautiful	negative	0
-beautiful	positive	1
-beautiful	sadness	0
-beautiful	surprise	0
-beautiful	trust	0
-beautify	anger	0
-beautify	anticipation	0
-beautify	disgust	0
-beautify	fear	0
-beautify	joy	1
-beautify	negative	0
-beautify	positive	1
-beautify	sadness	0
-beautify	surprise	0
-beautify	trust	0
-beauty	anger	0
-beauty	anticipation	0
-beauty	disgust	0
-beauty	fear	0
-beauty	joy	1
-beauty	negative	0
-beauty	positive	1
-beauty	sadness	0
-beauty	surprise	0
-beauty	trust	0
-beck	anger	0
-beck	anticipation	0
-beck	disgust	0
-beck	fear	0
-beck	joy	0
-beck	negative	0
-beck	positive	0
-beck	sadness	0
-beck	surprise	0
-beck	trust	0
-beckon	anger	0
-beckon	anticipation	0
-beckon	disgust	0
-beckon	fear	0
-beckon	joy	0
-beckon	negative	0
-beckon	positive	0
-beckon	sadness	0
-beckon	surprise	0
-beckon	trust	0
-bed	anger	0
-bed	anticipation	0
-bed	disgust	0
-bed	fear	0
-bed	joy	0
-bed	negative	0
-bed	positive	0
-bed	sadness	0
-bed	surprise	0
-bed	trust	0
-bedding	anger	0
-bedding	anticipation	0
-bedding	disgust	0
-bedding	fear	0
-bedding	joy	0
-bedding	negative	0
-bedding	positive	0
-bedding	sadness	0
-bedding	surprise	0
-bedding	trust	0
-bedrock	anger	0
-bedrock	anticipation	0
-bedrock	disgust	0
-bedrock	fear	0
-bedrock	joy	0
-bedrock	negative	0
-bedrock	positive	1
-bedrock	sadness	0
-bedrock	surprise	0
-bedrock	trust	1
-bedroom	anger	0
-bedroom	anticipation	0
-bedroom	disgust	0
-bedroom	fear	0
-bedroom	joy	0
-bedroom	negative	0
-bedroom	positive	0
-bedroom	sadness	0
-bedroom	surprise	0
-bedroom	trust	0
-bedtime	anger	0
-bedtime	anticipation	0
-bedtime	disgust	0
-bedtime	fear	0
-bedtime	joy	0
-bedtime	negative	0
-bedtime	positive	0
-bedtime	sadness	0
-bedtime	surprise	0
-bedtime	trust	0
-bee	anger	1
-bee	anticipation	0
-bee	disgust	0
-bee	fear	1
-bee	joy	0
-bee	negative	0
-bee	positive	0
-bee	sadness	0
-bee	surprise	0
-bee	trust	0
-beef	anger	0
-beef	anticipation	0
-beef	disgust	0
-beef	fear	0
-beef	joy	0
-beef	negative	0
-beef	positive	0
-beef	sadness	0
-beef	surprise	0
-beef	trust	0
-beehive	anger	0
-beehive	anticipation	0
-beehive	disgust	0
-beehive	fear	0
-beehive	joy	0
-beehive	negative	0
-beehive	positive	0
-beehive	sadness	0
-beehive	surprise	0
-beehive	trust	0
-beer	anger	0
-beer	anticipation	0
-beer	disgust	0
-beer	fear	0
-beer	joy	1
-beer	negative	0
-beer	positive	1
-beer	sadness	0
-beer	surprise	0
-beer	trust	0
-beeswax	anger	0
-beeswax	anticipation	0
-beeswax	disgust	0
-beeswax	fear	0
-beeswax	joy	0
-beeswax	negative	0
-beeswax	positive	0
-beeswax	sadness	0
-beeswax	surprise	0
-beeswax	trust	0
-beetle	anger	0
-beetle	anticipation	0
-beetle	disgust	0
-beetle	fear	0
-beetle	joy	0
-beetle	negative	0
-beetle	positive	0
-beetle	sadness	0
-beetle	surprise	0
-beetle	trust	0
-befall	anger	0
-befall	anticipation	0
-befall	disgust	0
-befall	fear	0
-befall	joy	0
-befall	negative	1
-befall	positive	0
-befall	sadness	0
-befall	surprise	0
-befall	trust	0
-befitting	anger	0
-befitting	anticipation	0
-befitting	disgust	0
-befitting	fear	0
-befitting	joy	0
-befitting	negative	0
-befitting	positive	1
-befitting	sadness	0
-befitting	surprise	0
-befitting	trust	0
-befriend	anger	0
-befriend	anticipation	0
-befriend	disgust	0
-befriend	fear	0
-befriend	joy	1
-befriend	negative	0
-befriend	positive	1
-befriend	sadness	0
-befriend	surprise	0
-befriend	trust	1
-beg	anger	0
-beg	anticipation	0
-beg	disgust	0
-beg	fear	0
-beg	joy	0
-beg	negative	1
-beg	positive	0
-beg	sadness	1
-beg	surprise	0
-beg	trust	0
-beggar	anger	0
-beggar	anticipation	0
-beggar	disgust	0
-beggar	fear	0
-beggar	joy	0
-beggar	negative	1
-beggar	positive	0
-beggar	sadness	1
-beggar	surprise	0
-beggar	trust	0
-begging	anger	0
-begging	anticipation	0
-begging	disgust	0
-begging	fear	0
-begging	joy	0
-begging	negative	1
-begging	positive	0
-begging	sadness	0
-begging	surprise	0
-begging	trust	0
-begin	anger	0
-begin	anticipation	0
-begin	disgust	0
-begin	fear	0
-begin	joy	0
-begin	negative	0
-begin	positive	0
-begin	sadness	0
-begin	surprise	0
-begin	trust	0
-beginner	anger	0
-beginner	anticipation	0
-beginner	disgust	0
-beginner	fear	0
-beginner	joy	0
-beginner	negative	0
-beginner	positive	0
-beginner	sadness	0
-beginner	surprise	0
-beginner	trust	0
-beginning	anger	0
-beginning	anticipation	0
-beginning	disgust	0
-beginning	fear	0
-beginning	joy	0
-beginning	negative	0
-beginning	positive	0
-beginning	sadness	0
-beginning	surprise	0
-beginning	trust	0
-begun	anger	0
-begun	anticipation	1
-begun	disgust	0
-begun	fear	0
-begun	joy	0
-begun	negative	0
-begun	positive	0
-begun	sadness	0
-begun	surprise	0
-begun	trust	0
-behavior	anger	0
-behavior	anticipation	0
-behavior	disgust	0
-behavior	fear	0
-behavior	joy	0
-behavior	negative	0
-behavior	positive	0
-behavior	sadness	0
-behavior	surprise	0
-behavior	trust	0
-behemoth	anger	0
-behemoth	anticipation	0
-behemoth	disgust	0
-behemoth	fear	1
-behemoth	joy	0
-behemoth	negative	1
-behemoth	positive	0
-behemoth	sadness	0
-behemoth	surprise	0
-behemoth	trust	0
-behest	anger	0
-behest	anticipation	0
-behest	disgust	0
-behest	fear	0
-behest	joy	0
-behest	negative	0
-behest	positive	0
-behest	sadness	0
-behest	surprise	0
-behest	trust	0
-behold	anger	0
-behold	anticipation	0
-behold	disgust	0
-behold	fear	0
-behold	joy	0
-behold	negative	0
-behold	positive	0
-behold	sadness	0
-behold	surprise	0
-behold	trust	0
-beholden	anger	0
-beholden	anticipation	0
-beholden	disgust	0
-beholden	fear	0
-beholden	joy	0
-beholden	negative	1
-beholden	positive	0
-beholden	sadness	0
-beholden	surprise	0
-beholden	trust	0
-beholder	anger	0
-beholder	anticipation	0
-beholder	disgust	0
-beholder	fear	0
-beholder	joy	0
-beholder	negative	0
-beholder	positive	0
-beholder	sadness	0
-beholder	surprise	0
-beholder	trust	0
-belated	anger	0
-belated	anticipation	0
-belated	disgust	0
-belated	fear	0
-belated	joy	0
-belated	negative	1
-belated	positive	0
-belated	sadness	0
-belated	surprise	0
-belated	trust	0
-belay	anger	0
-belay	anticipation	0
-belay	disgust	0
-belay	fear	0
-belay	joy	0
-belay	negative	0
-belay	positive	0
-belay	sadness	0
-belay	surprise	0
-belay	trust	0
-belief	anger	0
-belief	anticipation	0
-belief	disgust	0
-belief	fear	0
-belief	joy	0
-belief	negative	0
-belief	positive	0
-belief	sadness	0
-belief	surprise	0
-belief	trust	0
-believed	anger	0
-believed	anticipation	0
-believed	disgust	0
-believed	fear	0
-believed	joy	0
-believed	negative	0
-believed	positive	0
-believed	sadness	0
-believed	surprise	0
-believed	trust	1
-believer	anger	0
-believer	anticipation	0
-believer	disgust	0
-believer	fear	0
-believer	joy	0
-believer	negative	0
-believer	positive	0
-believer	sadness	0
-believer	surprise	0
-believer	trust	1
-believing	anger	0
-believing	anticipation	0
-believing	disgust	0
-believing	fear	0
-believing	joy	0
-believing	negative	0
-believing	positive	1
-believing	sadness	0
-believing	surprise	0
-believing	trust	1
-belittle	anger	1
-belittle	anticipation	0
-belittle	disgust	1
-belittle	fear	1
-belittle	joy	0
-belittle	negative	1
-belittle	positive	0
-belittle	sadness	1
-belittle	surprise	0
-belittle	trust	0
-bell	anger	0
-bell	anticipation	0
-bell	disgust	0
-bell	fear	0
-bell	joy	0
-bell	negative	0
-bell	positive	0
-bell	sadness	0
-bell	surprise	0
-bell	trust	0
-belligerent	anger	1
-belligerent	anticipation	0
-belligerent	disgust	0
-belligerent	fear	1
-belligerent	joy	0
-belligerent	negative	1
-belligerent	positive	0
-belligerent	sadness	0
-belligerent	surprise	0
-belligerent	trust	0
-bellow	anger	0
-bellow	anticipation	0
-bellow	disgust	0
-bellow	fear	0
-bellow	joy	0
-bellow	negative	0
-bellow	positive	0
-bellow	sadness	0
-bellow	surprise	0
-bellow	trust	0
-bellows	anger	1
-bellows	anticipation	0
-bellows	disgust	0
-bellows	fear	0
-bellows	joy	0
-bellows	negative	0
-bellows	positive	0
-bellows	sadness	0
-bellows	surprise	0
-bellows	trust	0
-belly	anger	0
-belly	anticipation	0
-belly	disgust	0
-belly	fear	0
-belly	joy	0
-belly	negative	0
-belly	positive	0
-belly	sadness	0
-belly	surprise	0
-belly	trust	0
-belongings	anger	0
-belongings	anticipation	0
-belongings	disgust	0
-belongings	fear	0
-belongings	joy	0
-belongings	negative	0
-belongings	positive	0
-belongings	sadness	0
-belongings	surprise	0
-belongings	trust	0
-belt	anger	1
-belt	anticipation	0
-belt	disgust	0
-belt	fear	1
-belt	joy	0
-belt	negative	1
-belt	positive	0
-belt	sadness	0
-belt	surprise	0
-belt	trust	0
-bemused	anger	0
-bemused	anticipation	0
-bemused	disgust	0
-bemused	fear	0
-bemused	joy	0
-bemused	negative	0
-bemused	positive	0
-bemused	sadness	0
-bemused	surprise	0
-bemused	trust	0
-bench	anger	0
-bench	anticipation	0
-bench	disgust	0
-bench	fear	0
-bench	joy	0
-bench	negative	0
-bench	positive	0
-bench	sadness	0
-bench	surprise	0
-bench	trust	0
-bend	anger	0
-bend	anticipation	0
-bend	disgust	0
-bend	fear	0
-bend	joy	0
-bend	negative	0
-bend	positive	0
-bend	sadness	0
-bend	surprise	0
-bend	trust	0
-bender	anger	0
-bender	anticipation	0
-bender	disgust	0
-bender	fear	0
-bender	joy	0
-bender	negative	1
-bender	positive	0
-bender	sadness	0
-bender	surprise	0
-bender	trust	0
-bending	anger	0
-bending	anticipation	0
-bending	disgust	0
-bending	fear	0
-bending	joy	0
-bending	negative	0
-bending	positive	0
-bending	sadness	0
-bending	surprise	0
-bending	trust	0
-beneath	anger	0
-beneath	anticipation	0
-beneath	disgust	0
-beneath	fear	0
-beneath	joy	0
-beneath	negative	0
-beneath	positive	0
-beneath	sadness	0
-beneath	surprise	0
-beneath	trust	0
-benefactor	anger	0
-benefactor	anticipation	0
-benefactor	disgust	0
-benefactor	fear	0
-benefactor	joy	0
-benefactor	negative	0
-benefactor	positive	1
-benefactor	sadness	0
-benefactor	surprise	0
-benefactor	trust	1
-beneficial	anger	0
-beneficial	anticipation	0
-beneficial	disgust	0
-beneficial	fear	0
-beneficial	joy	0
-beneficial	negative	0
-beneficial	positive	1
-beneficial	sadness	0
-beneficial	surprise	0
-beneficial	trust	0
-beneficiary	anger	0
-beneficiary	anticipation	0
-beneficiary	disgust	0
-beneficiary	fear	0
-beneficiary	joy	0
-beneficiary	negative	0
-beneficiary	positive	0
-beneficiary	sadness	0
-beneficiary	surprise	0
-beneficiary	trust	0
-benefit	anger	0
-benefit	anticipation	0
-benefit	disgust	0
-benefit	fear	0
-benefit	joy	0
-benefit	negative	0
-benefit	positive	1
-benefit	sadness	0
-benefit	surprise	0
-benefit	trust	0
-benevolence	anger	0
-benevolence	anticipation	0
-benevolence	disgust	0
-benevolence	fear	0
-benevolence	joy	1
-benevolence	negative	0
-benevolence	positive	1
-benevolence	sadness	0
-benevolence	surprise	0
-benevolence	trust	1
-benign	anger	0
-benign	anticipation	0
-benign	disgust	0
-benign	fear	0
-benign	joy	1
-benign	negative	0
-benign	positive	1
-benign	sadness	0
-benign	surprise	0
-benign	trust	0
-bent	anger	0
-bent	anticipation	0
-bent	disgust	0
-bent	fear	0
-bent	joy	0
-bent	negative	0
-bent	positive	0
-bent	sadness	0
-bent	surprise	0
-bent	trust	0
-benzene	anger	0
-benzene	anticipation	0
-benzene	disgust	0
-benzene	fear	0
-benzene	joy	0
-benzene	negative	0
-benzene	positive	0
-benzene	sadness	0
-benzene	surprise	0
-benzene	trust	0
-bequeath	anger	0
-bequeath	anticipation	0
-bequeath	disgust	0
-bequeath	fear	0
-bequeath	joy	0
-bequeath	negative	0
-bequeath	positive	0
-bequeath	sadness	0
-bequeath	surprise	0
-bequeath	trust	0
-bequest	anger	0
-bequest	anticipation	0
-bequest	disgust	0
-bequest	fear	0
-bequest	joy	0
-bequest	negative	0
-bequest	positive	0
-bequest	sadness	0
-bequest	surprise	0
-bequest	trust	1
-bereaved	anger	0
-bereaved	anticipation	0
-bereaved	disgust	0
-bereaved	fear	0
-bereaved	joy	0
-bereaved	negative	1
-bereaved	positive	0
-bereaved	sadness	1
-bereaved	surprise	0
-bereaved	trust	0
-bereavement	anger	0
-bereavement	anticipation	0
-bereavement	disgust	0
-bereavement	fear	0
-bereavement	joy	0
-bereavement	negative	1
-bereavement	positive	0
-bereavement	sadness	1
-bereavement	surprise	0
-bereavement	trust	0
-bereft	anger	0
-bereft	anticipation	0
-bereft	disgust	0
-bereft	fear	0
-bereft	joy	0
-bereft	negative	1
-bereft	positive	0
-bereft	sadness	0
-bereft	surprise	0
-bereft	trust	0
-bergamot	anger	0
-bergamot	anticipation	0
-bergamot	disgust	0
-bergamot	fear	0
-bergamot	joy	0
-bergamot	negative	0
-bergamot	positive	0
-bergamot	sadness	0
-bergamot	surprise	0
-bergamot	trust	0
-berlin	anger	0
-berlin	anticipation	0
-berlin	disgust	0
-berlin	fear	0
-berlin	joy	0
-berlin	negative	0
-berlin	positive	0
-berlin	sadness	0
-berlin	surprise	0
-berlin	trust	0
-berserk	anger	1
-berserk	anticipation	0
-berserk	disgust	0
-berserk	fear	0
-berserk	joy	0
-berserk	negative	1
-berserk	positive	0
-berserk	sadness	0
-berserk	surprise	0
-berserk	trust	0
-berth	anger	0
-berth	anticipation	0
-berth	disgust	0
-berth	fear	0
-berth	joy	0
-berth	negative	0
-berth	positive	1
-berth	sadness	0
-berth	surprise	0
-berth	trust	0
-beseech	anger	0
-beseech	anticipation	0
-beseech	disgust	0
-beseech	fear	0
-beseech	joy	0
-beseech	negative	0
-beseech	positive	0
-beseech	sadness	0
-beseech	surprise	0
-beseech	trust	0
-beset	anger	0
-beset	anticipation	0
-beset	disgust	0
-beset	fear	0
-beset	joy	0
-beset	negative	0
-beset	positive	0
-beset	sadness	0
-beset	surprise	0
-beset	trust	0
-bestial	anger	0
-bestial	anticipation	0
-bestial	disgust	1
-bestial	fear	1
-bestial	joy	0
-bestial	negative	1
-bestial	positive	0
-bestial	sadness	0
-bestial	surprise	0
-bestial	trust	0
-bestow	anger	0
-bestow	anticipation	0
-bestow	disgust	0
-bestow	fear	0
-bestow	joy	0
-bestow	negative	0
-bestow	positive	0
-bestow	sadness	0
-bestow	surprise	0
-bestow	trust	0
-bet	anger	0
-bet	anticipation	0
-bet	disgust	0
-bet	fear	0
-bet	joy	0
-bet	negative	0
-bet	positive	0
-bet	sadness	0
-bet	surprise	0
-bet	trust	0
-betray	anger	1
-betray	anticipation	0
-betray	disgust	1
-betray	fear	0
-betray	joy	0
-betray	negative	1
-betray	positive	0
-betray	sadness	1
-betray	surprise	1
-betray	trust	0
-betrayal	anger	1
-betrayal	anticipation	0
-betrayal	disgust	1
-betrayal	fear	0
-betrayal	joy	0
-betrayal	negative	1
-betrayal	positive	0
-betrayal	sadness	1
-betrayal	surprise	0
-betrayal	trust	0
-betrothed	anger	0
-betrothed	anticipation	1
-betrothed	disgust	0
-betrothed	fear	0
-betrothed	joy	1
-betrothed	negative	0
-betrothed	positive	1
-betrothed	sadness	0
-betrothed	surprise	0
-betrothed	trust	1
-betterment	anger	0
-betterment	anticipation	0
-betterment	disgust	0
-betterment	fear	0
-betterment	joy	0
-betterment	negative	0
-betterment	positive	1
-betterment	sadness	0
-betterment	surprise	0
-betterment	trust	0
-betting	anger	0
-betting	anticipation	0
-betting	disgust	0
-betting	fear	0
-betting	joy	0
-betting	negative	0
-betting	positive	0
-betting	sadness	0
-betting	surprise	0
-betting	trust	0
-betty	anger	0
-betty	anticipation	0
-betty	disgust	0
-betty	fear	0
-betty	joy	0
-betty	negative	0
-betty	positive	0
-betty	sadness	0
-betty	surprise	0
-betty	trust	0
-bevel	anger	0
-bevel	anticipation	0
-bevel	disgust	0
-bevel	fear	0
-bevel	joy	0
-bevel	negative	0
-bevel	positive	0
-bevel	sadness	0
-bevel	surprise	0
-bevel	trust	0
-beverage	anger	0
-beverage	anticipation	0
-beverage	disgust	0
-beverage	fear	0
-beverage	joy	0
-beverage	negative	0
-beverage	positive	1
-beverage	sadness	0
-beverage	surprise	0
-beverage	trust	0
-bevy	anger	0
-bevy	anticipation	0
-bevy	disgust	0
-bevy	fear	0
-bevy	joy	0
-bevy	negative	0
-bevy	positive	0
-bevy	sadness	0
-bevy	surprise	0
-bevy	trust	0
-beware	anger	0
-beware	anticipation	1
-beware	disgust	0
-beware	fear	1
-beware	joy	0
-beware	negative	1
-beware	positive	0
-beware	sadness	0
-beware	surprise	0
-beware	trust	0
-bewildered	anger	0
-bewildered	anticipation	0
-bewildered	disgust	0
-bewildered	fear	1
-bewildered	joy	0
-bewildered	negative	1
-bewildered	positive	0
-bewildered	sadness	0
-bewildered	surprise	1
-bewildered	trust	0
-bewilderment	anger	0
-bewilderment	anticipation	0
-bewilderment	disgust	0
-bewilderment	fear	1
-bewilderment	joy	0
-bewilderment	negative	0
-bewilderment	positive	0
-bewilderment	sadness	0
-bewilderment	surprise	1
-bewilderment	trust	0
-bias	anger	1
-bias	anticipation	0
-bias	disgust	0
-bias	fear	0
-bias	joy	0
-bias	negative	1
-bias	positive	0
-bias	sadness	0
-bias	surprise	0
-bias	trust	0
-biased	anger	0
-biased	anticipation	0
-biased	disgust	0
-biased	fear	0
-biased	joy	0
-biased	negative	1
-biased	positive	0
-biased	sadness	0
-biased	surprise	0
-biased	trust	0
-bib	anger	0
-bib	anticipation	0
-bib	disgust	0
-bib	fear	0
-bib	joy	0
-bib	negative	0
-bib	positive	0
-bib	sadness	0
-bib	surprise	0
-bib	trust	0
-biblical	anger	0
-biblical	anticipation	0
-biblical	disgust	0
-biblical	fear	0
-biblical	joy	0
-biblical	negative	0
-biblical	positive	1
-biblical	sadness	0
-biblical	surprise	0
-biblical	trust	0
-bibliography	anger	0
-bibliography	anticipation	0
-bibliography	disgust	0
-bibliography	fear	0
-bibliography	joy	0
-bibliography	negative	0
-bibliography	positive	0
-bibliography	sadness	0
-bibliography	surprise	0
-bibliography	trust	0
-bickering	anger	1
-bickering	anticipation	0
-bickering	disgust	1
-bickering	fear	0
-bickering	joy	0
-bickering	negative	1
-bickering	positive	0
-bickering	sadness	0
-bickering	surprise	0
-bickering	trust	0
-bicolor	anger	0
-bicolor	anticipation	0
-bicolor	disgust	0
-bicolor	fear	0
-bicolor	joy	0
-bicolor	negative	0
-bicolor	positive	0
-bicolor	sadness	0
-bicolor	surprise	0
-bicolor	trust	0
-bicycle	anger	0
-bicycle	anticipation	0
-bicycle	disgust	0
-bicycle	fear	0
-bicycle	joy	0
-bicycle	negative	0
-bicycle	positive	0
-bicycle	sadness	0
-bicycle	surprise	0
-bicycle	trust	0
-bid	anger	0
-bid	anticipation	0
-bid	disgust	0
-bid	fear	0
-bid	joy	0
-bid	negative	0
-bid	positive	0
-bid	sadness	0
-bid	surprise	0
-bid	trust	0
-bidder	anger	0
-bidder	anticipation	0
-bidder	disgust	0
-bidder	fear	0
-bidder	joy	0
-bidder	negative	0
-bidder	positive	0
-bidder	sadness	0
-bidder	surprise	0
-bidder	trust	0
-bidding	anger	0
-bidding	anticipation	0
-bidding	disgust	0
-bidding	fear	0
-bidding	joy	0
-bidding	negative	0
-bidding	positive	0
-bidding	sadness	0
-bidding	surprise	0
-bidding	trust	0
-biennial	anger	0
-biennial	anticipation	1
-biennial	disgust	0
-biennial	fear	0
-biennial	joy	0
-biennial	negative	0
-biennial	positive	0
-biennial	sadness	0
-biennial	surprise	0
-biennial	trust	0
-bier	anger	0
-bier	anticipation	0
-bier	disgust	0
-bier	fear	1
-bier	joy	0
-bier	negative	1
-bier	positive	0
-bier	sadness	1
-bier	surprise	0
-bier	trust	0
-bifurcation	anger	0
-bifurcation	anticipation	0
-bifurcation	disgust	0
-bifurcation	fear	0
-bifurcation	joy	0
-bifurcation	negative	0
-bifurcation	positive	0
-bifurcation	sadness	0
-bifurcation	surprise	0
-bifurcation	trust	0
-big	anger	0
-big	anticipation	0
-big	disgust	0
-big	fear	0
-big	joy	0
-big	negative	0
-big	positive	0
-big	sadness	0
-big	surprise	0
-big	trust	0
-bigot	anger	1
-bigot	anticipation	0
-bigot	disgust	1
-bigot	fear	1
-bigot	joy	0
-bigot	negative	1
-bigot	positive	0
-bigot	sadness	0
-bigot	surprise	0
-bigot	trust	0
-bigoted	anger	1
-bigoted	anticipation	0
-bigoted	disgust	1
-bigoted	fear	1
-bigoted	joy	0
-bigoted	negative	1
-bigoted	positive	0
-bigoted	sadness	1
-bigoted	surprise	0
-bigoted	trust	0
-bike	anger	0
-bike	anticipation	0
-bike	disgust	0
-bike	fear	0
-bike	joy	0
-bike	negative	0
-bike	positive	0
-bike	sadness	0
-bike	surprise	0
-bike	trust	0
-bilateral	anger	0
-bilateral	anticipation	0
-bilateral	disgust	0
-bilateral	fear	0
-bilateral	joy	0
-bilateral	negative	0
-bilateral	positive	0
-bilateral	sadness	0
-bilateral	surprise	0
-bilateral	trust	0
-bilayer	anger	0
-bilayer	anticipation	0
-bilayer	disgust	0
-bilayer	fear	0
-bilayer	joy	0
-bilayer	negative	0
-bilayer	positive	0
-bilayer	sadness	0
-bilayer	surprise	0
-bilayer	trust	0
-bile	anger	1
-bile	anticipation	0
-bile	disgust	1
-bile	fear	0
-bile	joy	0
-bile	negative	1
-bile	positive	0
-bile	sadness	0
-bile	surprise	0
-bile	trust	0
-bilge	anger	0
-bilge	anticipation	0
-bilge	disgust	0
-bilge	fear	0
-bilge	joy	0
-bilge	negative	0
-bilge	positive	0
-bilge	sadness	0
-bilge	surprise	0
-bilge	trust	0
-bilingual	anger	0
-bilingual	anticipation	0
-bilingual	disgust	0
-bilingual	fear	0
-bilingual	joy	0
-bilingual	negative	0
-bilingual	positive	1
-bilingual	sadness	0
-bilingual	surprise	0
-bilingual	trust	0
-bill	anger	0
-bill	anticipation	0
-bill	disgust	0
-bill	fear	0
-bill	joy	0
-bill	negative	0
-bill	positive	0
-bill	sadness	0
-bill	surprise	0
-bill	trust	0
-billet	anger	0
-billet	anticipation	0
-billet	disgust	0
-billet	fear	0
-billet	joy	0
-billet	negative	0
-billet	positive	0
-billet	sadness	0
-billet	surprise	0
-billet	trust	0
-billiards	anger	0
-billiards	anticipation	0
-billiards	disgust	0
-billiards	fear	0
-billiards	joy	0
-billiards	negative	0
-billiards	positive	0
-billiards	sadness	0
-billiards	surprise	0
-billiards	trust	0
-billion	anger	0
-billion	anticipation	0
-billion	disgust	0
-billion	fear	0
-billion	joy	0
-billion	negative	0
-billion	positive	0
-billion	sadness	0
-billion	surprise	0
-billion	trust	0
-billy	anger	0
-billy	anticipation	0
-billy	disgust	0
-billy	fear	0
-billy	joy	0
-billy	negative	0
-billy	positive	0
-billy	sadness	0
-billy	surprise	0
-billy	trust	0
-bimonthly	anger	0
-bimonthly	anticipation	0
-bimonthly	disgust	0
-bimonthly	fear	0
-bimonthly	joy	0
-bimonthly	negative	0
-bimonthly	positive	0
-bimonthly	sadness	0
-bimonthly	surprise	0
-bimonthly	trust	0
-bin	anger	0
-bin	anticipation	0
-bin	disgust	0
-bin	fear	0
-bin	joy	0
-bin	negative	0
-bin	positive	0
-bin	sadness	0
-bin	surprise	0
-bin	trust	0
-binary	anger	0
-binary	anticipation	0
-binary	disgust	0
-binary	fear	0
-binary	joy	0
-binary	negative	0
-binary	positive	0
-binary	sadness	0
-binary	surprise	0
-binary	trust	0
-bind	anger	0
-bind	anticipation	0
-bind	disgust	0
-bind	fear	0
-bind	joy	0
-bind	negative	0
-bind	positive	0
-bind	sadness	0
-bind	surprise	0
-bind	trust	0
-bindery	anger	0
-bindery	anticipation	0
-bindery	disgust	0
-bindery	fear	0
-bindery	joy	0
-bindery	negative	0
-bindery	positive	0
-bindery	sadness	0
-bindery	surprise	0
-bindery	trust	0
-binding	anger	0
-binding	anticipation	0
-binding	disgust	0
-binding	fear	0
-binding	joy	0
-binding	negative	0
-binding	positive	0
-binding	sadness	0
-binding	surprise	0
-binding	trust	0
-bing	anger	0
-bing	anticipation	0
-bing	disgust	0
-bing	fear	0
-bing	joy	0
-bing	negative	0
-bing	positive	0
-bing	sadness	0
-bing	surprise	0
-bing	trust	0
-binocular	anger	0
-binocular	anticipation	0
-binocular	disgust	0
-binocular	fear	0
-binocular	joy	0
-binocular	negative	0
-binocular	positive	0
-binocular	sadness	0
-binocular	surprise	0
-binocular	trust	0
-binoculars	anger	0
-binoculars	anticipation	0
-binoculars	disgust	0
-binoculars	fear	0
-binoculars	joy	0
-binoculars	negative	0
-binoculars	positive	0
-binoculars	sadness	0
-binoculars	surprise	0
-binoculars	trust	0
-binomial	anger	0
-binomial	anticipation	0
-binomial	disgust	0
-binomial	fear	0
-binomial	joy	0
-binomial	negative	0
-binomial	positive	0
-binomial	sadness	0
-binomial	surprise	0
-binomial	trust	0
-biogenesis	anger	0
-biogenesis	anticipation	0
-biogenesis	disgust	0
-biogenesis	fear	0
-biogenesis	joy	0
-biogenesis	negative	0
-biogenesis	positive	0
-biogenesis	sadness	0
-biogenesis	surprise	0
-biogenesis	trust	0
-biographer	anger	0
-biographer	anticipation	0
-biographer	disgust	0
-biographer	fear	0
-biographer	joy	0
-biographer	negative	0
-biographer	positive	0
-biographer	sadness	0
-biographer	surprise	0
-biographer	trust	0
-biography	anger	0
-biography	anticipation	0
-biography	disgust	0
-biography	fear	0
-biography	joy	0
-biography	negative	0
-biography	positive	0
-biography	sadness	0
-biography	surprise	0
-biography	trust	0
-biology	anger	0
-biology	anticipation	0
-biology	disgust	0
-biology	fear	0
-biology	joy	0
-biology	negative	0
-biology	positive	0
-biology	sadness	0
-biology	surprise	0
-biology	trust	0
-biopsy	anger	0
-biopsy	anticipation	0
-biopsy	disgust	0
-biopsy	fear	1
-biopsy	joy	0
-biopsy	negative	1
-biopsy	positive	0
-biopsy	sadness	0
-biopsy	surprise	0
-biopsy	trust	0
-biosphere	anger	0
-biosphere	anticipation	0
-biosphere	disgust	0
-biosphere	fear	0
-biosphere	joy	0
-biosphere	negative	0
-biosphere	positive	0
-biosphere	sadness	0
-biosphere	surprise	0
-biosphere	trust	0
-bipartite	anger	0
-bipartite	anticipation	0
-bipartite	disgust	0
-bipartite	fear	0
-bipartite	joy	0
-bipartite	negative	0
-bipartite	positive	0
-bipartite	sadness	0
-bipartite	surprise	0
-bipartite	trust	0
-birch	anger	1
-birch	anticipation	0
-birch	disgust	1
-birch	fear	1
-birch	joy	0
-birch	negative	1
-birch	positive	0
-birch	sadness	0
-birch	surprise	0
-birch	trust	0
-bird	anger	0
-bird	anticipation	0
-bird	disgust	0
-bird	fear	0
-bird	joy	0
-bird	negative	0
-bird	positive	0
-bird	sadness	0
-bird	surprise	0
-bird	trust	0
-birth	anger	0
-birth	anticipation	1
-birth	disgust	0
-birth	fear	1
-birth	joy	1
-birth	negative	0
-birth	positive	1
-birth	sadness	0
-birth	surprise	0
-birth	trust	1
-birthday	anger	0
-birthday	anticipation	1
-birthday	disgust	0
-birthday	fear	0
-birthday	joy	1
-birthday	negative	0
-birthday	positive	1
-birthday	sadness	0
-birthday	surprise	1
-birthday	trust	0
-birthplace	anger	1
-birthplace	anticipation	0
-birthplace	disgust	0
-birthplace	fear	0
-birthplace	joy	0
-birthplace	negative	1
-birthplace	positive	0
-birthplace	sadness	0
-birthplace	surprise	0
-birthplace	trust	0
-birthright	anger	0
-birthright	anticipation	0
-birthright	disgust	0
-birthright	fear	0
-birthright	joy	0
-birthright	negative	0
-birthright	positive	0
-birthright	sadness	0
-birthright	surprise	0
-birthright	trust	0
-bis	anger	0
-bis	anticipation	0
-bis	disgust	0
-bis	fear	0
-bis	joy	0
-bis	negative	0
-bis	positive	0
-bis	sadness	0
-bis	surprise	0
-bis	trust	0
-bisexual	anger	0
-bisexual	anticipation	0
-bisexual	disgust	0
-bisexual	fear	0
-bisexual	joy	0
-bisexual	negative	0
-bisexual	positive	0
-bisexual	sadness	0
-bisexual	surprise	0
-bisexual	trust	0
-bishop	anger	0
-bishop	anticipation	0
-bishop	disgust	0
-bishop	fear	0
-bishop	joy	0
-bishop	negative	0
-bishop	positive	0
-bishop	sadness	0
-bishop	surprise	0
-bishop	trust	0
-bison	anger	0
-bison	anticipation	0
-bison	disgust	0
-bison	fear	0
-bison	joy	0
-bison	negative	0
-bison	positive	0
-bison	sadness	0
-bison	surprise	0
-bison	trust	0
-bit	anger	0
-bit	anticipation	0
-bit	disgust	0
-bit	fear	0
-bit	joy	0
-bit	negative	0
-bit	positive	0
-bit	sadness	0
-bit	surprise	0
-bit	trust	0
-bitch	anger	1
-bitch	anticipation	0
-bitch	disgust	1
-bitch	fear	1
-bitch	joy	0
-bitch	negative	1
-bitch	positive	0
-bitch	sadness	1
-bitch	surprise	0
-bitch	trust	0
-bite	anger	0
-bite	anticipation	0
-bite	disgust	0
-bite	fear	0
-bite	joy	0
-bite	negative	1
-bite	positive	0
-bite	sadness	0
-bite	surprise	0
-bite	trust	0
-bitterly	anger	1
-bitterly	anticipation	0
-bitterly	disgust	1
-bitterly	fear	0
-bitterly	joy	0
-bitterly	negative	1
-bitterly	positive	0
-bitterly	sadness	1
-bitterly	surprise	0
-bitterly	trust	0
-bitterness	anger	1
-bitterness	anticipation	0
-bitterness	disgust	1
-bitterness	fear	0
-bitterness	joy	0
-bitterness	negative	1
-bitterness	positive	0
-bitterness	sadness	1
-bitterness	surprise	0
-bitterness	trust	0
-bitumen	anger	0
-bitumen	anticipation	0
-bitumen	disgust	0
-bitumen	fear	0
-bitumen	joy	0
-bitumen	negative	0
-bitumen	positive	0
-bitumen	sadness	0
-bitumen	surprise	0
-bitumen	trust	0
-biweekly	anger	0
-biweekly	anticipation	0
-biweekly	disgust	0
-biweekly	fear	0
-biweekly	joy	0
-biweekly	negative	0
-biweekly	positive	0
-biweekly	sadness	0
-biweekly	surprise	0
-biweekly	trust	0
-bizarre	anger	0
-bizarre	anticipation	0
-bizarre	disgust	0
-bizarre	fear	0
-bizarre	joy	0
-bizarre	negative	1
-bizarre	positive	0
-bizarre	sadness	0
-bizarre	surprise	1
-bizarre	trust	0
-black	anger	0
-black	anticipation	0
-black	disgust	0
-black	fear	0
-black	joy	0
-black	negative	1
-black	positive	0
-black	sadness	1
-black	surprise	0
-black	trust	0
-blackberry	anger	0
-blackberry	anticipation	0
-blackberry	disgust	0
-blackberry	fear	0
-blackberry	joy	0
-blackberry	negative	0
-blackberry	positive	0
-blackberry	sadness	0
-blackberry	surprise	0
-blackberry	trust	0
-blackboard	anger	0
-blackboard	anticipation	0
-blackboard	disgust	0
-blackboard	fear	0
-blackboard	joy	0
-blackboard	negative	0
-blackboard	positive	0
-blackboard	sadness	0
-blackboard	surprise	0
-blackboard	trust	0
-blackjack	anger	0
-blackjack	anticipation	0
-blackjack	disgust	0
-blackjack	fear	0
-blackjack	joy	0
-blackjack	negative	1
-blackjack	positive	0
-blackjack	sadness	0
-blackjack	surprise	0
-blackjack	trust	0
-blackmail	anger	1
-blackmail	anticipation	0
-blackmail	disgust	0
-blackmail	fear	1
-blackmail	joy	0
-blackmail	negative	1
-blackmail	positive	0
-blackmail	sadness	0
-blackmail	surprise	0
-blackmail	trust	0
-blackness	anger	0
-blackness	anticipation	0
-blackness	disgust	0
-blackness	fear	1
-blackness	joy	0
-blackness	negative	1
-blackness	positive	0
-blackness	sadness	1
-blackness	surprise	0
-blackness	trust	0
-blacksmith	anger	0
-blacksmith	anticipation	0
-blacksmith	disgust	0
-blacksmith	fear	0
-blacksmith	joy	0
-blacksmith	negative	0
-blacksmith	positive	0
-blacksmith	sadness	0
-blacksmith	surprise	0
-blacksmith	trust	0
-bladder	anger	0
-bladder	anticipation	0
-bladder	disgust	0
-bladder	fear	0
-bladder	joy	0
-bladder	negative	0
-bladder	positive	0
-bladder	sadness	0
-bladder	surprise	0
-bladder	trust	0
-blade	anger	0
-blade	anticipation	0
-blade	disgust	0
-blade	fear	0
-blade	joy	0
-blade	negative	0
-blade	positive	0
-blade	sadness	0
-blade	surprise	0
-blade	trust	0
-blame	anger	1
-blame	anticipation	0
-blame	disgust	1
-blame	fear	0
-blame	joy	0
-blame	negative	1
-blame	positive	0
-blame	sadness	0
-blame	surprise	0
-blame	trust	0
-blameless	anger	0
-blameless	anticipation	0
-blameless	disgust	0
-blameless	fear	0
-blameless	joy	0
-blameless	negative	0
-blameless	positive	1
-blameless	sadness	0
-blameless	surprise	0
-blameless	trust	0
-bland	anger	0
-bland	anticipation	0
-bland	disgust	0
-bland	fear	0
-bland	joy	0
-bland	negative	1
-bland	positive	0
-bland	sadness	0
-bland	surprise	0
-bland	trust	0
-blank	anger	0
-blank	anticipation	0
-blank	disgust	0
-blank	fear	0
-blank	joy	0
-blank	negative	0
-blank	positive	0
-blank	sadness	0
-blank	surprise	0
-blank	trust	0
-blanket	anger	0
-blanket	anticipation	0
-blanket	disgust	0
-blanket	fear	0
-blanket	joy	0
-blanket	negative	0
-blanket	positive	0
-blanket	sadness	0
-blanket	surprise	0
-blanket	trust	1
-blasphemous	anger	1
-blasphemous	anticipation	0
-blasphemous	disgust	1
-blasphemous	fear	0
-blasphemous	joy	0
-blasphemous	negative	1
-blasphemous	positive	0
-blasphemous	sadness	0
-blasphemous	surprise	0
-blasphemous	trust	0
-blasphemy	anger	1
-blasphemy	anticipation	0
-blasphemy	disgust	0
-blasphemy	fear	0
-blasphemy	joy	0
-blasphemy	negative	1
-blasphemy	positive	0
-blasphemy	sadness	0
-blasphemy	surprise	0
-blasphemy	trust	0
-blast	anger	1
-blast	anticipation	0
-blast	disgust	0
-blast	fear	1
-blast	joy	0
-blast	negative	1
-blast	positive	0
-blast	sadness	0
-blast	surprise	1
-blast	trust	0
-blatant	anger	1
-blatant	anticipation	0
-blatant	disgust	1
-blatant	fear	0
-blatant	joy	0
-blatant	negative	1
-blatant	positive	0
-blatant	sadness	0
-blatant	surprise	0
-blatant	trust	0
-blather	anger	0
-blather	anticipation	0
-blather	disgust	0
-blather	fear	0
-blather	joy	0
-blather	negative	1
-blather	positive	0
-blather	sadness	0
-blather	surprise	0
-blather	trust	0
-blaze	anger	1
-blaze	anticipation	0
-blaze	disgust	0
-blaze	fear	0
-blaze	joy	0
-blaze	negative	1
-blaze	positive	0
-blaze	sadness	0
-blaze	surprise	0
-blaze	trust	0
-blazing	anger	0
-blazing	anticipation	0
-blazing	disgust	0
-blazing	fear	0
-blazing	joy	0
-blazing	negative	0
-blazing	positive	0
-blazing	sadness	0
-blazing	surprise	0
-blazing	trust	0
-bleach	anger	0
-bleach	anticipation	0
-bleach	disgust	0
-bleach	fear	0
-bleach	joy	0
-bleach	negative	0
-bleach	positive	0
-bleach	sadness	0
-bleach	surprise	0
-bleach	trust	0
-bleak	anger	0
-bleak	anticipation	0
-bleak	disgust	0
-bleak	fear	0
-bleak	joy	0
-bleak	negative	1
-bleak	positive	0
-bleak	sadness	1
-bleak	surprise	0
-bleak	trust	0
-bleeding	anger	0
-bleeding	anticipation	0
-bleeding	disgust	1
-bleeding	fear	1
-bleeding	joy	0
-bleeding	negative	1
-bleeding	positive	0
-bleeding	sadness	1
-bleeding	surprise	0
-bleeding	trust	0
-blemish	anger	1
-blemish	anticipation	0
-blemish	disgust	1
-blemish	fear	1
-blemish	joy	0
-blemish	negative	1
-blemish	positive	0
-blemish	sadness	1
-blemish	surprise	0
-blemish	trust	0
-blend	anger	0
-blend	anticipation	0
-blend	disgust	0
-blend	fear	0
-blend	joy	0
-blend	negative	0
-blend	positive	0
-blend	sadness	0
-blend	surprise	0
-blend	trust	0
-blending	anger	0
-blending	anticipation	0
-blending	disgust	0
-blending	fear	0
-blending	joy	0
-blending	negative	0
-blending	positive	0
-blending	sadness	0
-blending	surprise	0
-blending	trust	0
-bless	anger	0
-bless	anticipation	1
-bless	disgust	0
-bless	fear	0
-bless	joy	1
-bless	negative	0
-bless	positive	1
-bless	sadness	0
-bless	surprise	0
-bless	trust	1
-blessed	anger	0
-blessed	anticipation	0
-blessed	disgust	0
-blessed	fear	0
-blessed	joy	1
-blessed	negative	0
-blessed	positive	1
-blessed	sadness	0
-blessed	surprise	0
-blessed	trust	0
-blessing	anger	0
-blessing	anticipation	1
-blessing	disgust	0
-blessing	fear	0
-blessing	joy	1
-blessing	negative	0
-blessing	positive	1
-blessing	sadness	0
-blessing	surprise	0
-blessing	trust	1
-blessings	anger	0
-blessings	anticipation	1
-blessings	disgust	0
-blessings	fear	0
-blessings	joy	1
-blessings	negative	0
-blessings	positive	1
-blessings	sadness	0
-blessings	surprise	1
-blessings	trust	1
-blight	anger	0
-blight	anticipation	0
-blight	disgust	1
-blight	fear	1
-blight	joy	0
-blight	negative	1
-blight	positive	0
-blight	sadness	1
-blight	surprise	0
-blight	trust	0
-blighted	anger	0
-blighted	anticipation	0
-blighted	disgust	1
-blighted	fear	0
-blighted	joy	0
-blighted	negative	1
-blighted	positive	0
-blighted	sadness	1
-blighted	surprise	0
-blighted	trust	0
-blind	anger	0
-blind	anticipation	0
-blind	disgust	0
-blind	fear	0
-blind	joy	0
-blind	negative	1
-blind	positive	0
-blind	sadness	0
-blind	surprise	0
-blind	trust	0
-blinded	anger	0
-blinded	anticipation	0
-blinded	disgust	0
-blinded	fear	0
-blinded	joy	0
-blinded	negative	1
-blinded	positive	0
-blinded	sadness	0
-blinded	surprise	0
-blinded	trust	0
-blindfold	anger	0
-blindfold	anticipation	1
-blindfold	disgust	0
-blindfold	fear	1
-blindfold	joy	0
-blindfold	negative	0
-blindfold	positive	0
-blindfold	sadness	0
-blindfold	surprise	1
-blindfold	trust	0
-blindfolded	anger	0
-blindfolded	anticipation	0
-blindfolded	disgust	0
-blindfolded	fear	0
-blindfolded	joy	0
-blindfolded	negative	0
-blindfolded	positive	0
-blindfolded	sadness	0
-blindfolded	surprise	0
-blindfolded	trust	0
-blindly	anger	0
-blindly	anticipation	0
-blindly	disgust	0
-blindly	fear	0
-blindly	joy	0
-blindly	negative	1
-blindly	positive	0
-blindly	sadness	1
-blindly	surprise	0
-blindly	trust	0
-blindness	anger	0
-blindness	anticipation	0
-blindness	disgust	0
-blindness	fear	0
-blindness	joy	0
-blindness	negative	1
-blindness	positive	0
-blindness	sadness	1
-blindness	surprise	0
-blindness	trust	0
-blink	anger	0
-blink	anticipation	0
-blink	disgust	0
-blink	fear	0
-blink	joy	0
-blink	negative	0
-blink	positive	0
-blink	sadness	0
-blink	surprise	0
-blink	trust	0
-bliss	anger	0
-bliss	anticipation	0
-bliss	disgust	0
-bliss	fear	0
-bliss	joy	1
-bliss	negative	0
-bliss	positive	1
-bliss	sadness	0
-bliss	surprise	0
-bliss	trust	0
-blissful	anger	0
-blissful	anticipation	0
-blissful	disgust	0
-blissful	fear	0
-blissful	joy	1
-blissful	negative	0
-blissful	positive	1
-blissful	sadness	0
-blissful	surprise	0
-blissful	trust	0
-blister	anger	0
-blister	anticipation	0
-blister	disgust	1
-blister	fear	0
-blister	joy	0
-blister	negative	1
-blister	positive	0
-blister	sadness	0
-blister	surprise	0
-blister	trust	0
-blitz	anger	0
-blitz	anticipation	0
-blitz	disgust	0
-blitz	fear	0
-blitz	joy	0
-blitz	negative	0
-blitz	positive	0
-blitz	sadness	0
-blitz	surprise	1
-blitz	trust	0
-blizzard	anger	0
-blizzard	anticipation	0
-blizzard	disgust	0
-blizzard	fear	0
-blizzard	joy	0
-blizzard	negative	0
-blizzard	positive	0
-blizzard	sadness	0
-blizzard	surprise	0
-blizzard	trust	0
-bloated	anger	0
-bloated	anticipation	0
-bloated	disgust	1
-bloated	fear	0
-bloated	joy	0
-bloated	negative	1
-bloated	positive	0
-bloated	sadness	0
-bloated	surprise	0
-bloated	trust	0
-blob	anger	0
-blob	anticipation	0
-blob	disgust	1
-blob	fear	1
-blob	joy	0
-blob	negative	1
-blob	positive	0
-blob	sadness	0
-blob	surprise	0
-blob	trust	0
-block	anger	0
-block	anticipation	0
-block	disgust	0
-block	fear	0
-block	joy	0
-block	negative	0
-block	positive	0
-block	sadness	0
-block	surprise	0
-block	trust	0
-blockade	anger	1
-blockade	anticipation	0
-blockade	disgust	0
-blockade	fear	1
-blockade	joy	0
-blockade	negative	1
-blockade	positive	0
-blockade	sadness	1
-blockade	surprise	0
-blockade	trust	0
-blond	anger	0
-blond	anticipation	0
-blond	disgust	0
-blond	fear	0
-blond	joy	0
-blond	negative	0
-blond	positive	0
-blond	sadness	0
-blond	surprise	0
-blond	trust	0
-blood	anger	0
-blood	anticipation	0
-blood	disgust	0
-blood	fear	0
-blood	joy	0
-blood	negative	0
-blood	positive	0
-blood	sadness	0
-blood	surprise	0
-blood	trust	0
-bloodhound	anger	0
-bloodhound	anticipation	0
-bloodhound	disgust	0
-bloodhound	fear	0
-bloodhound	joy	0
-bloodhound	negative	0
-bloodhound	positive	0
-bloodhound	sadness	0
-bloodhound	surprise	0
-bloodhound	trust	0
-bloodless	anger	0
-bloodless	anticipation	0
-bloodless	disgust	0
-bloodless	fear	0
-bloodless	joy	0
-bloodless	negative	0
-bloodless	positive	1
-bloodless	sadness	0
-bloodless	surprise	0
-bloodless	trust	0
-bloodshed	anger	1
-bloodshed	anticipation	0
-bloodshed	disgust	1
-bloodshed	fear	1
-bloodshed	joy	0
-bloodshed	negative	1
-bloodshed	positive	0
-bloodshed	sadness	1
-bloodshed	surprise	1
-bloodshed	trust	0
-bloodthirsty	anger	1
-bloodthirsty	anticipation	0
-bloodthirsty	disgust	1
-bloodthirsty	fear	1
-bloodthirsty	joy	0
-bloodthirsty	negative	1
-bloodthirsty	positive	0
-bloodthirsty	sadness	0
-bloodthirsty	surprise	0
-bloodthirsty	trust	0
-bloody	anger	1
-bloody	anticipation	0
-bloody	disgust	1
-bloody	fear	1
-bloody	joy	0
-bloody	negative	1
-bloody	positive	0
-bloody	sadness	1
-bloody	surprise	0
-bloody	trust	0
-bloom	anger	0
-bloom	anticipation	1
-bloom	disgust	0
-bloom	fear	0
-bloom	joy	1
-bloom	negative	0
-bloom	positive	1
-bloom	sadness	0
-bloom	surprise	0
-bloom	trust	1
-blossom	anger	0
-blossom	anticipation	0
-blossom	disgust	0
-blossom	fear	0
-blossom	joy	1
-blossom	negative	0
-blossom	positive	1
-blossom	sadness	0
-blossom	surprise	0
-blossom	trust	0
-blot	anger	0
-blot	anticipation	0
-blot	disgust	0
-blot	fear	0
-blot	joy	0
-blot	negative	1
-blot	positive	0
-blot	sadness	0
-blot	surprise	0
-blot	trust	0
-blouse	anger	0
-blouse	anticipation	0
-blouse	disgust	0
-blouse	fear	0
-blouse	joy	0
-blouse	negative	0
-blouse	positive	0
-blouse	sadness	0
-blouse	surprise	0
-blouse	trust	0
-blower	anger	0
-blower	anticipation	0
-blower	disgust	0
-blower	fear	0
-blower	joy	0
-blower	negative	1
-blower	positive	0
-blower	sadness	0
-blower	surprise	0
-blower	trust	0
-blowing	anger	0
-blowing	anticipation	0
-blowing	disgust	0
-blowing	fear	0
-blowing	joy	0
-blowing	negative	0
-blowing	positive	0
-blowing	sadness	0
-blowing	surprise	0
-blowing	trust	0
-blown	anger	0
-blown	anticipation	0
-blown	disgust	0
-blown	fear	0
-blown	joy	0
-blown	negative	0
-blown	positive	0
-blown	sadness	0
-blown	surprise	0
-blown	trust	0
-blowout	anger	0
-blowout	anticipation	0
-blowout	disgust	0
-blowout	fear	0
-blowout	joy	0
-blowout	negative	1
-blowout	positive	0
-blowout	sadness	0
-blowout	surprise	0
-blowout	trust	0
-blue	anger	0
-blue	anticipation	0
-blue	disgust	0
-blue	fear	0
-blue	joy	0
-blue	negative	0
-blue	positive	0
-blue	sadness	1
-blue	surprise	0
-blue	trust	0
-blues	anger	0
-blues	anticipation	0
-blues	disgust	0
-blues	fear	1
-blues	joy	0
-blues	negative	1
-blues	positive	0
-blues	sadness	1
-blues	surprise	0
-blues	trust	0
-bluff	anger	0
-bluff	anticipation	0
-bluff	disgust	0
-bluff	fear	0
-bluff	joy	0
-bluff	negative	1
-bluff	positive	0
-bluff	sadness	0
-bluff	surprise	0
-bluff	trust	0
-bluish	anger	0
-bluish	anticipation	0
-bluish	disgust	0
-bluish	fear	0
-bluish	joy	0
-bluish	negative	0
-bluish	positive	0
-bluish	sadness	0
-bluish	surprise	0
-bluish	trust	0
-blunder	anger	0
-blunder	anticipation	0
-blunder	disgust	1
-blunder	fear	0
-blunder	joy	0
-blunder	negative	1
-blunder	positive	0
-blunder	sadness	1
-blunder	surprise	0
-blunder	trust	0
-blunt	anger	0
-blunt	anticipation	0
-blunt	disgust	0
-blunt	fear	0
-blunt	joy	0
-blunt	negative	0
-blunt	positive	0
-blunt	sadness	0
-blunt	surprise	0
-blunt	trust	0
-blur	anger	0
-blur	anticipation	0
-blur	disgust	0
-blur	fear	0
-blur	joy	0
-blur	negative	1
-blur	positive	0
-blur	sadness	0
-blur	surprise	0
-blur	trust	0
-blurred	anger	0
-blurred	anticipation	0
-blurred	disgust	0
-blurred	fear	0
-blurred	joy	0
-blurred	negative	1
-blurred	positive	0
-blurred	sadness	0
-blurred	surprise	0
-blurred	trust	0
-blush	anger	0
-blush	anticipation	0
-blush	disgust	0
-blush	fear	0
-blush	joy	0
-blush	negative	1
-blush	positive	0
-blush	sadness	0
-blush	surprise	0
-blush	trust	0
-blushing	anger	0
-blushing	anticipation	0
-blushing	disgust	0
-blushing	fear	0
-blushing	joy	0
-blushing	negative	0
-blushing	positive	0
-blushing	sadness	0
-blushing	surprise	0
-blushing	trust	0
-boa	anger	0
-boa	anticipation	0
-boa	disgust	0
-boa	fear	0
-boa	joy	0
-boa	negative	0
-boa	positive	0
-boa	sadness	0
-boa	surprise	0
-boa	trust	0
-boar	anger	0
-boar	anticipation	0
-boar	disgust	0
-boar	fear	0
-boar	joy	0
-boar	negative	0
-boar	positive	0
-boar	sadness	0
-boar	surprise	0
-boar	trust	0
-board	anger	0
-board	anticipation	1
-board	disgust	0
-board	fear	0
-board	joy	0
-board	negative	0
-board	positive	0
-board	sadness	0
-board	surprise	0
-board	trust	0
-boarder	anger	0
-boarder	anticipation	0
-boarder	disgust	0
-boarder	fear	0
-boarder	joy	0
-boarder	negative	0
-boarder	positive	0
-boarder	sadness	0
-boarder	surprise	0
-boarder	trust	0
-boarding	anger	0
-boarding	anticipation	0
-boarding	disgust	0
-boarding	fear	0
-boarding	joy	0
-boarding	negative	0
-boarding	positive	0
-boarding	sadness	0
-boarding	surprise	0
-boarding	trust	0
-boards	anger	0
-boards	anticipation	0
-boards	disgust	0
-boards	fear	0
-boards	joy	0
-boards	negative	0
-boards	positive	0
-boards	sadness	0
-boards	surprise	0
-boards	trust	0
-boast	anger	0
-boast	anticipation	0
-boast	disgust	0
-boast	fear	0
-boast	joy	0
-boast	negative	1
-boast	positive	1
-boast	sadness	0
-boast	surprise	0
-boast	trust	0
-boasting	anger	0
-boasting	anticipation	0
-boasting	disgust	0
-boasting	fear	0
-boasting	joy	0
-boasting	negative	1
-boasting	positive	0
-boasting	sadness	0
-boasting	surprise	0
-boasting	trust	0
-boat	anger	0
-boat	anticipation	0
-boat	disgust	0
-boat	fear	0
-boat	joy	0
-boat	negative	0
-boat	positive	0
-boat	sadness	0
-boat	surprise	0
-boat	trust	0
-boating	anger	0
-boating	anticipation	0
-boating	disgust	0
-boating	fear	0
-boating	joy	0
-boating	negative	0
-boating	positive	0
-boating	sadness	0
-boating	surprise	0
-boating	trust	0
-bobbin	anger	0
-bobbin	anticipation	0
-bobbin	disgust	0
-bobbin	fear	0
-bobbin	joy	0
-bobbin	negative	0
-bobbin	positive	0
-bobbin	sadness	0
-bobbin	surprise	0
-bobbin	trust	0
-bode	anger	0
-bode	anticipation	0
-bode	disgust	0
-bode	fear	0
-bode	joy	0
-bode	negative	0
-bode	positive	0
-bode	sadness	0
-bode	surprise	0
-bode	trust	0
-bodice	anger	0
-bodice	anticipation	0
-bodice	disgust	0
-bodice	fear	0
-bodice	joy	0
-bodice	negative	0
-bodice	positive	0
-bodice	sadness	0
-bodice	surprise	0
-bodice	trust	0
-bodily	anger	0
-bodily	anticipation	0
-bodily	disgust	0
-bodily	fear	0
-bodily	joy	0
-bodily	negative	0
-bodily	positive	0
-bodily	sadness	0
-bodily	surprise	0
-bodily	trust	0
-body	anger	0
-body	anticipation	0
-body	disgust	0
-body	fear	0
-body	joy	0
-body	negative	0
-body	positive	0
-body	sadness	0
-body	surprise	0
-body	trust	0
-bodyguard	anger	0
-bodyguard	anticipation	0
-bodyguard	disgust	0
-bodyguard	fear	0
-bodyguard	joy	0
-bodyguard	negative	0
-bodyguard	positive	1
-bodyguard	sadness	0
-bodyguard	surprise	0
-bodyguard	trust	1
-bog	anger	0
-bog	anticipation	0
-bog	disgust	0
-bog	fear	0
-bog	joy	0
-bog	negative	1
-bog	positive	0
-bog	sadness	0
-bog	surprise	0
-bog	trust	0
-bogus	anger	1
-bogus	anticipation	0
-bogus	disgust	1
-bogus	fear	0
-bogus	joy	0
-bogus	negative	1
-bogus	positive	0
-bogus	sadness	0
-bogus	surprise	0
-bogus	trust	0
-boil	anger	0
-boil	anticipation	0
-boil	disgust	1
-boil	fear	0
-boil	joy	0
-boil	negative	1
-boil	positive	0
-boil	sadness	0
-boil	surprise	0
-boil	trust	0
-boiler	anger	0
-boiler	anticipation	0
-boiler	disgust	0
-boiler	fear	0
-boiler	joy	0
-boiler	negative	0
-boiler	positive	0
-boiler	sadness	0
-boiler	surprise	0
-boiler	trust	0
-boilerplate	anger	0
-boilerplate	anticipation	0
-boilerplate	disgust	0
-boilerplate	fear	0
-boilerplate	joy	0
-boilerplate	negative	1
-boilerplate	positive	0
-boilerplate	sadness	0
-boilerplate	surprise	0
-boilerplate	trust	0
-boiling	anger	0
-boiling	anticipation	0
-boiling	disgust	0
-boiling	fear	0
-boiling	joy	0
-boiling	negative	0
-boiling	positive	0
-boiling	sadness	0
-boiling	surprise	0
-boiling	trust	0
-boisterous	anger	1
-boisterous	anticipation	1
-boisterous	disgust	0
-boisterous	fear	0
-boisterous	joy	1
-boisterous	negative	1
-boisterous	positive	1
-boisterous	sadness	0
-boisterous	surprise	0
-boisterous	trust	0
-bold	anger	0
-bold	anticipation	0
-bold	disgust	0
-bold	fear	0
-bold	joy	0
-bold	negative	0
-bold	positive	1
-bold	sadness	0
-bold	surprise	0
-bold	trust	0
-boldness	anger	0
-boldness	anticipation	0
-boldness	disgust	0
-boldness	fear	0
-boldness	joy	0
-boldness	negative	0
-boldness	positive	1
-boldness	sadness	0
-boldness	surprise	0
-boldness	trust	0
-bolster	anger	0
-bolster	anticipation	0
-bolster	disgust	0
-bolster	fear	0
-bolster	joy	0
-bolster	negative	0
-bolster	positive	1
-bolster	sadness	0
-bolster	surprise	0
-bolster	trust	0
-bolt	anger	0
-bolt	anticipation	0
-bolt	disgust	0
-bolt	fear	0
-bolt	joy	0
-bolt	negative	0
-bolt	positive	0
-bolt	sadness	0
-bolt	surprise	0
-bolt	trust	0
-bolus	anger	0
-bolus	anticipation	0
-bolus	disgust	0
-bolus	fear	0
-bolus	joy	0
-bolus	negative	0
-bolus	positive	0
-bolus	sadness	0
-bolus	surprise	0
-bolus	trust	0
-bomb	anger	1
-bomb	anticipation	0
-bomb	disgust	0
-bomb	fear	1
-bomb	joy	0
-bomb	negative	1
-bomb	positive	0
-bomb	sadness	1
-bomb	surprise	1
-bomb	trust	0
-bombard	anger	1
-bombard	anticipation	0
-bombard	disgust	0
-bombard	fear	1
-bombard	joy	0
-bombard	negative	1
-bombard	positive	0
-bombard	sadness	0
-bombard	surprise	0
-bombard	trust	0
-bombardment	anger	1
-bombardment	anticipation	0
-bombardment	disgust	0
-bombardment	fear	1
-bombardment	joy	0
-bombardment	negative	1
-bombardment	positive	0
-bombardment	sadness	0
-bombardment	surprise	0
-bombardment	trust	0
-bombed	anger	0
-bombed	anticipation	0
-bombed	disgust	1
-bombed	fear	0
-bombed	joy	0
-bombed	negative	1
-bombed	positive	0
-bombed	sadness	0
-bombed	surprise	0
-bombed	trust	0
-bomber	anger	0
-bomber	anticipation	0
-bomber	disgust	0
-bomber	fear	1
-bomber	joy	0
-bomber	negative	0
-bomber	positive	0
-bomber	sadness	1
-bomber	surprise	0
-bomber	trust	0
-bonanza	anger	0
-bonanza	anticipation	0
-bonanza	disgust	0
-bonanza	fear	0
-bonanza	joy	1
-bonanza	negative	0
-bonanza	positive	1
-bonanza	sadness	0
-bonanza	surprise	0
-bonanza	trust	0
-bond	anger	0
-bond	anticipation	0
-bond	disgust	0
-bond	fear	0
-bond	joy	0
-bond	negative	0
-bond	positive	0
-bond	sadness	0
-bond	surprise	0
-bond	trust	0
-bondage	anger	0
-bondage	anticipation	0
-bondage	disgust	0
-bondage	fear	1
-bondage	joy	0
-bondage	negative	1
-bondage	positive	0
-bondage	sadness	1
-bondage	surprise	0
-bondage	trust	0
-bonds	anger	0
-bonds	anticipation	0
-bonds	disgust	0
-bonds	fear	0
-bonds	joy	0
-bonds	negative	1
-bonds	positive	0
-bonds	sadness	0
-bonds	surprise	0
-bonds	trust	0
-bone	anger	0
-bone	anticipation	0
-bone	disgust	0
-bone	fear	0
-bone	joy	0
-bone	negative	0
-bone	positive	0
-bone	sadness	0
-bone	surprise	0
-bone	trust	0
-boner	anger	0
-boner	anticipation	0
-boner	disgust	0
-boner	fear	0
-boner	joy	0
-boner	negative	0
-boner	positive	0
-boner	sadness	0
-boner	surprise	0
-boner	trust	0
-bones	anger	0
-bones	anticipation	0
-bones	disgust	0
-bones	fear	0
-bones	joy	0
-bones	negative	0
-bones	positive	0
-bones	sadness	0
-bones	surprise	0
-bones	trust	0
-bonfire	anger	0
-bonfire	anticipation	0
-bonfire	disgust	0
-bonfire	fear	0
-bonfire	joy	0
-bonfire	negative	0
-bonfire	positive	0
-bonfire	sadness	0
-bonfire	surprise	0
-bonfire	trust	0
-bonne	anger	0
-bonne	anticipation	0
-bonne	disgust	0
-bonne	fear	0
-bonne	joy	0
-bonne	negative	0
-bonne	positive	1
-bonne	sadness	0
-bonne	surprise	0
-bonne	trust	0
-bonnet	anger	0
-bonnet	anticipation	0
-bonnet	disgust	0
-bonnet	fear	0
-bonnet	joy	0
-bonnet	negative	0
-bonnet	positive	0
-bonnet	sadness	0
-bonnet	surprise	0
-bonnet	trust	0
-bonus	anger	0
-bonus	anticipation	1
-bonus	disgust	0
-bonus	fear	0
-bonus	joy	1
-bonus	negative	0
-bonus	positive	1
-bonus	sadness	0
-bonus	surprise	1
-bonus	trust	0
-bony	anger	0
-bony	anticipation	0
-bony	disgust	0
-bony	fear	0
-bony	joy	0
-bony	negative	0
-bony	positive	0
-bony	sadness	0
-bony	surprise	0
-bony	trust	0
-boo	anger	0
-boo	anticipation	0
-boo	disgust	0
-boo	fear	0
-boo	joy	0
-boo	negative	1
-boo	positive	0
-boo	sadness	0
-boo	surprise	0
-boo	trust	0
-boob	anger	0
-boob	anticipation	0
-boob	disgust	0
-boob	fear	0
-boob	joy	0
-boob	negative	0
-boob	positive	0
-boob	sadness	0
-boob	surprise	0
-boob	trust	0
-booby	anger	0
-booby	anticipation	0
-booby	disgust	0
-booby	fear	0
-booby	joy	0
-booby	negative	1
-booby	positive	0
-booby	sadness	0
-booby	surprise	0
-booby	trust	0
-book	anger	0
-book	anticipation	0
-book	disgust	0
-book	fear	0
-book	joy	0
-book	negative	0
-book	positive	0
-book	sadness	0
-book	surprise	0
-book	trust	0
-bookcase	anger	0
-bookcase	anticipation	0
-bookcase	disgust	0
-bookcase	fear	0
-bookcase	joy	0
-bookcase	negative	0
-bookcase	positive	0
-bookcase	sadness	0
-bookcase	surprise	0
-bookcase	trust	0
-booking	anger	0
-booking	anticipation	0
-booking	disgust	0
-booking	fear	0
-booking	joy	0
-booking	negative	0
-booking	positive	0
-booking	sadness	0
-booking	surprise	0
-booking	trust	0
-bookish	anger	0
-bookish	anticipation	0
-bookish	disgust	0
-bookish	fear	0
-bookish	joy	0
-bookish	negative	0
-bookish	positive	1
-bookish	sadness	0
-bookish	surprise	0
-bookish	trust	0
-bookkeeper	anger	0
-bookkeeper	anticipation	0
-bookkeeper	disgust	0
-bookkeeper	fear	0
-bookkeeper	joy	0
-bookkeeper	negative	0
-bookkeeper	positive	0
-bookkeeper	sadness	0
-bookkeeper	surprise	0
-bookkeeper	trust	0
-bookkeeping	anger	0
-bookkeeping	anticipation	0
-bookkeeping	disgust	0
-bookkeeping	fear	0
-bookkeeping	joy	0
-bookkeeping	negative	0
-bookkeeping	positive	0
-bookkeeping	sadness	0
-bookkeeping	surprise	0
-bookkeeping	trust	0
-booklet	anger	0
-booklet	anticipation	0
-booklet	disgust	0
-booklet	fear	0
-booklet	joy	0
-booklet	negative	0
-booklet	positive	0
-booklet	sadness	0
-booklet	surprise	0
-booklet	trust	0
-books	anger	0
-books	anticipation	0
-books	disgust	0
-books	fear	0
-books	joy	0
-books	negative	0
-books	positive	0
-books	sadness	0
-books	surprise	0
-books	trust	0
-bookseller	anger	0
-bookseller	anticipation	0
-bookseller	disgust	0
-bookseller	fear	0
-bookseller	joy	0
-bookseller	negative	0
-bookseller	positive	0
-bookseller	sadness	0
-bookseller	surprise	0
-bookseller	trust	0
-bookshop	anger	0
-bookshop	anticipation	0
-bookshop	disgust	0
-bookshop	fear	0
-bookshop	joy	0
-bookshop	negative	0
-bookshop	positive	1
-bookshop	sadness	0
-bookshop	surprise	0
-bookshop	trust	0
-bookstore	anger	0
-bookstore	anticipation	0
-bookstore	disgust	0
-bookstore	fear	0
-bookstore	joy	0
-bookstore	negative	0
-bookstore	positive	0
-bookstore	sadness	0
-bookstore	surprise	0
-bookstore	trust	0
-bookworm	anger	0
-bookworm	anticipation	0
-bookworm	disgust	0
-bookworm	fear	0
-bookworm	joy	0
-bookworm	negative	1
-bookworm	positive	1
-bookworm	sadness	0
-bookworm	surprise	0
-bookworm	trust	0
-boomerang	anger	0
-boomerang	anticipation	1
-boomerang	disgust	0
-boomerang	fear	0
-boomerang	joy	0
-boomerang	negative	0
-boomerang	positive	0
-boomerang	sadness	0
-boomerang	surprise	0
-boomerang	trust	1
-booming	anger	0
-booming	anticipation	0
-booming	disgust	0
-booming	fear	0
-booming	joy	0
-booming	negative	0
-booming	positive	0
-booming	sadness	0
-booming	surprise	0
-booming	trust	0
-boon	anger	0
-boon	anticipation	0
-boon	disgust	0
-boon	fear	0
-boon	joy	0
-boon	negative	0
-boon	positive	1
-boon	sadness	0
-boon	surprise	0
-boon	trust	0
-boost	anger	0
-boost	anticipation	0
-boost	disgust	0
-boost	fear	0
-boost	joy	0
-boost	negative	0
-boost	positive	0
-boost	sadness	0
-boost	surprise	0
-boost	trust	0
-booster	anger	0
-booster	anticipation	0
-booster	disgust	0
-booster	fear	0
-booster	joy	0
-booster	negative	0
-booster	positive	0
-booster	sadness	0
-booster	surprise	0
-booster	trust	0
-boot	anger	0
-boot	anticipation	0
-boot	disgust	0
-boot	fear	0
-boot	joy	0
-boot	negative	0
-boot	positive	0
-boot	sadness	0
-boot	surprise	0
-boot	trust	0
-booth	anger	0
-booth	anticipation	0
-booth	disgust	0
-booth	fear	0
-booth	joy	0
-booth	negative	0
-booth	positive	0
-booth	sadness	0
-booth	surprise	0
-booth	trust	0
-boots	anger	0
-boots	anticipation	0
-boots	disgust	0
-boots	fear	0
-boots	joy	0
-boots	negative	0
-boots	positive	0
-boots	sadness	0
-boots	surprise	0
-boots	trust	0
-booty	anger	0
-booty	anticipation	0
-booty	disgust	0
-booty	fear	0
-booty	joy	0
-booty	negative	0
-booty	positive	0
-booty	sadness	0
-booty	surprise	0
-booty	trust	0
-booze	anger	0
-booze	anticipation	0
-booze	disgust	0
-booze	fear	0
-booze	joy	0
-booze	negative	1
-booze	positive	0
-booze	sadness	0
-booze	surprise	0
-booze	trust	0
-border	anger	0
-border	anticipation	0
-border	disgust	0
-border	fear	0
-border	joy	0
-border	negative	0
-border	positive	0
-border	sadness	0
-border	surprise	0
-border	trust	0
-bordering	anger	0
-bordering	anticipation	0
-bordering	disgust	0
-bordering	fear	0
-bordering	joy	0
-bordering	negative	0
-bordering	positive	0
-bordering	sadness	0
-bordering	surprise	0
-bordering	trust	0
-bore	anger	0
-bore	anticipation	0
-bore	disgust	0
-bore	fear	0
-bore	joy	0
-bore	negative	1
-bore	positive	0
-bore	sadness	0
-bore	surprise	0
-bore	trust	0
-boreal	anger	0
-boreal	anticipation	0
-boreal	disgust	0
-boreal	fear	0
-boreal	joy	0
-boreal	negative	0
-boreal	positive	0
-boreal	sadness	0
-boreal	surprise	0
-boreal	trust	0
-boredom	anger	0
-boredom	anticipation	0
-boredom	disgust	0
-boredom	fear	0
-boredom	joy	0
-boredom	negative	1
-boredom	positive	0
-boredom	sadness	1
-boredom	surprise	0
-boredom	trust	0
-borer	anger	0
-borer	anticipation	0
-borer	disgust	0
-borer	fear	0
-borer	joy	0
-borer	negative	0
-borer	positive	0
-borer	sadness	0
-borer	surprise	0
-borer	trust	0
-boring	anger	0
-boring	anticipation	0
-boring	disgust	0
-boring	fear	0
-boring	joy	0
-boring	negative	1
-boring	positive	0
-boring	sadness	0
-boring	surprise	0
-boring	trust	0
-borough	anger	0
-borough	anticipation	0
-borough	disgust	0
-borough	fear	0
-borough	joy	0
-borough	negative	0
-borough	positive	0
-borough	sadness	0
-borough	surprise	0
-borough	trust	0
-borrow	anger	0
-borrow	anticipation	0
-borrow	disgust	0
-borrow	fear	0
-borrow	joy	0
-borrow	negative	0
-borrow	positive	0
-borrow	sadness	0
-borrow	surprise	0
-borrow	trust	0
-borrower	anger	0
-borrower	anticipation	0
-borrower	disgust	0
-borrower	fear	0
-borrower	joy	0
-borrower	negative	1
-borrower	positive	0
-borrower	sadness	0
-borrower	surprise	0
-borrower	trust	0
-bosom	anger	0
-bosom	anticipation	0
-bosom	disgust	0
-bosom	fear	0
-bosom	joy	0
-bosom	negative	0
-bosom	positive	0
-bosom	sadness	0
-bosom	surprise	0
-bosom	trust	0
-boss	anger	0
-boss	anticipation	0
-boss	disgust	0
-boss	fear	0
-boss	joy	0
-boss	negative	0
-boss	positive	0
-boss	sadness	0
-boss	surprise	0
-boss	trust	0
-boston	anger	0
-boston	anticipation	0
-boston	disgust	0
-boston	fear	0
-boston	joy	0
-boston	negative	0
-boston	positive	0
-boston	sadness	0
-boston	surprise	0
-boston	trust	0
-botanical	anger	0
-botanical	anticipation	0
-botanical	disgust	0
-botanical	fear	0
-botanical	joy	0
-botanical	negative	0
-botanical	positive	0
-botanical	sadness	0
-botanical	surprise	0
-botanical	trust	0
-botanist	anger	0
-botanist	anticipation	0
-botanist	disgust	0
-botanist	fear	0
-botanist	joy	0
-botanist	negative	0
-botanist	positive	0
-botanist	sadness	0
-botanist	surprise	0
-botanist	trust	0
-botany	anger	0
-botany	anticipation	0
-botany	disgust	0
-botany	fear	0
-botany	joy	0
-botany	negative	0
-botany	positive	0
-botany	sadness	0
-botany	surprise	0
-botany	trust	0
-bother	anger	0
-bother	anticipation	0
-bother	disgust	0
-bother	fear	0
-bother	joy	0
-bother	negative	1
-bother	positive	0
-bother	sadness	0
-bother	surprise	0
-bother	trust	0
-bothering	anger	1
-bothering	anticipation	0
-bothering	disgust	0
-bothering	fear	0
-bothering	joy	0
-bothering	negative	1
-bothering	positive	0
-bothering	sadness	1
-bothering	surprise	0
-bothering	trust	0
-bottle	anger	0
-bottle	anticipation	0
-bottle	disgust	0
-bottle	fear	0
-bottle	joy	0
-bottle	negative	0
-bottle	positive	0
-bottle	sadness	0
-bottle	surprise	0
-bottle	trust	0
-bottom	anger	0
-bottom	anticipation	0
-bottom	disgust	0
-bottom	fear	0
-bottom	joy	0
-bottom	negative	1
-bottom	positive	0
-bottom	sadness	1
-bottom	surprise	0
-bottom	trust	0
-bottomless	anger	0
-bottomless	anticipation	0
-bottomless	disgust	0
-bottomless	fear	1
-bottomless	joy	0
-bottomless	negative	0
-bottomless	positive	0
-bottomless	sadness	0
-bottomless	surprise	0
-bottomless	trust	0
-boulder	anger	0
-boulder	anticipation	0
-boulder	disgust	0
-boulder	fear	0
-boulder	joy	0
-boulder	negative	0
-boulder	positive	0
-boulder	sadness	0
-boulder	surprise	0
-boulder	trust	0
-bounce	anger	0
-bounce	anticipation	0
-bounce	disgust	0
-bounce	fear	0
-bounce	joy	0
-bounce	negative	0
-bounce	positive	0
-bounce	sadness	0
-bounce	surprise	0
-bounce	trust	0
-bound	anger	0
-bound	anticipation	0
-bound	disgust	0
-bound	fear	0
-bound	joy	0
-bound	negative	1
-bound	positive	0
-bound	sadness	0
-bound	surprise	0
-bound	trust	0
-boundary	anger	0
-boundary	anticipation	0
-boundary	disgust	0
-boundary	fear	0
-boundary	joy	0
-boundary	negative	0
-boundary	positive	0
-boundary	sadness	0
-boundary	surprise	0
-boundary	trust	0
-boundless	anger	0
-boundless	anticipation	0
-boundless	disgust	0
-boundless	fear	0
-boundless	joy	0
-boundless	negative	0
-boundless	positive	0
-boundless	sadness	0
-boundless	surprise	0
-boundless	trust	0
-bounds	anger	0
-bounds	anticipation	0
-bounds	disgust	0
-bounds	fear	0
-bounds	joy	0
-bounds	negative	0
-bounds	positive	0
-bounds	sadness	0
-bounds	surprise	0
-bounds	trust	0
-bountiful	anger	0
-bountiful	anticipation	1
-bountiful	disgust	0
-bountiful	fear	0
-bountiful	joy	1
-bountiful	negative	0
-bountiful	positive	1
-bountiful	sadness	0
-bountiful	surprise	0
-bountiful	trust	0
-bounty	anger	0
-bounty	anticipation	1
-bounty	disgust	0
-bounty	fear	0
-bounty	joy	1
-bounty	negative	0
-bounty	positive	1
-bounty	sadness	0
-bounty	surprise	0
-bounty	trust	1
-bouquet	anger	0
-bouquet	anticipation	0
-bouquet	disgust	0
-bouquet	fear	0
-bouquet	joy	1
-bouquet	negative	0
-bouquet	positive	1
-bouquet	sadness	0
-bouquet	surprise	0
-bouquet	trust	1
-bourgeois	anger	0
-bourgeois	anticipation	0
-bourgeois	disgust	0
-bourgeois	fear	0
-bourgeois	joy	0
-bourgeois	negative	0
-bourgeois	positive	0
-bourgeois	sadness	0
-bourgeois	surprise	0
-bourgeois	trust	0
-bourgeoisie	anger	0
-bourgeoisie	anticipation	0
-bourgeoisie	disgust	0
-bourgeoisie	fear	0
-bourgeoisie	joy	0
-bourgeoisie	negative	0
-bourgeoisie	positive	0
-bourgeoisie	sadness	0
-bourgeoisie	surprise	0
-bourgeoisie	trust	0
-bourse	anger	0
-bourse	anticipation	0
-bourse	disgust	0
-bourse	fear	0
-bourse	joy	0
-bourse	negative	0
-bourse	positive	0
-bourse	sadness	0
-bourse	surprise	0
-bourse	trust	0
-bout	anger	1
-bout	anticipation	0
-bout	disgust	0
-bout	fear	0
-bout	joy	0
-bout	negative	1
-bout	positive	0
-bout	sadness	0
-bout	surprise	0
-bout	trust	0
-bovine	anger	0
-bovine	anticipation	0
-bovine	disgust	1
-bovine	fear	0
-bovine	joy	0
-bovine	negative	1
-bovine	positive	0
-bovine	sadness	0
-bovine	surprise	0
-bovine	trust	0
-bowed	anger	0
-bowed	anticipation	0
-bowed	disgust	0
-bowed	fear	0
-bowed	joy	0
-bowed	negative	0
-bowed	positive	0
-bowed	sadness	0
-bowed	surprise	0
-bowed	trust	0
-bowels	anger	0
-bowels	anticipation	0
-bowels	disgust	1
-bowels	fear	0
-bowels	joy	0
-bowels	negative	0
-bowels	positive	0
-bowels	sadness	0
-bowels	surprise	0
-bowels	trust	0
-bowl	anger	0
-bowl	anticipation	0
-bowl	disgust	0
-bowl	fear	0
-bowl	joy	0
-bowl	negative	0
-bowl	positive	0
-bowl	sadness	0
-bowl	surprise	0
-bowl	trust	0
-bowls	anger	0
-bowls	anticipation	0
-bowls	disgust	0
-bowls	fear	0
-bowls	joy	0
-bowls	negative	0
-bowls	positive	0
-bowls	sadness	0
-bowls	surprise	0
-bowls	trust	0
-box	anger	0
-box	anticipation	0
-box	disgust	0
-box	fear	0
-box	joy	0
-box	negative	0
-box	positive	0
-box	sadness	0
-box	surprise	0
-box	trust	0
-boxer	anger	0
-boxer	anticipation	0
-boxer	disgust	0
-boxer	fear	0
-boxer	joy	0
-boxer	negative	0
-boxer	positive	0
-boxer	sadness	0
-boxer	surprise	0
-boxer	trust	0
-boxing	anger	1
-boxing	anticipation	0
-boxing	disgust	0
-boxing	fear	0
-boxing	joy	0
-boxing	negative	0
-boxing	positive	0
-boxing	sadness	0
-boxing	surprise	0
-boxing	trust	0
-boy	anger	0
-boy	anticipation	0
-boy	disgust	1
-boy	fear	0
-boy	joy	0
-boy	negative	1
-boy	positive	0
-boy	sadness	0
-boy	surprise	0
-boy	trust	0
-boycott	anger	0
-boycott	anticipation	0
-boycott	disgust	0
-boycott	fear	0
-boycott	joy	0
-boycott	negative	1
-boycott	positive	0
-boycott	sadness	0
-boycott	surprise	0
-boycott	trust	0
-boyhood	anger	0
-boyhood	anticipation	0
-boyhood	disgust	0
-boyhood	fear	0
-boyhood	joy	0
-boyhood	negative	0
-boyhood	positive	0
-boyhood	sadness	0
-boyhood	surprise	0
-boyhood	trust	0
-boyish	anger	0
-boyish	anticipation	0
-boyish	disgust	0
-boyish	fear	0
-boyish	joy	0
-boyish	negative	0
-boyish	positive	0
-boyish	sadness	0
-boyish	surprise	0
-boyish	trust	0
-brace	anger	0
-brace	anticipation	0
-brace	disgust	0
-brace	fear	0
-brace	joy	0
-brace	negative	0
-brace	positive	0
-brace	sadness	0
-brace	surprise	0
-brace	trust	0
-bracelet	anger	0
-bracelet	anticipation	0
-bracelet	disgust	0
-bracelet	fear	0
-bracelet	joy	0
-bracelet	negative	0
-bracelet	positive	0
-bracelet	sadness	0
-bracelet	surprise	0
-bracelet	trust	0
-braces	anger	0
-braces	anticipation	0
-braces	disgust	0
-braces	fear	0
-braces	joy	0
-braces	negative	0
-braces	positive	0
-braces	sadness	0
-braces	surprise	0
-braces	trust	0
-brachial	anger	0
-brachial	anticipation	0
-brachial	disgust	0
-brachial	fear	0
-brachial	joy	0
-brachial	negative	0
-brachial	positive	0
-brachial	sadness	0
-brachial	surprise	0
-brachial	trust	0
-bracket	anger	0
-bracket	anticipation	0
-bracket	disgust	0
-bracket	fear	0
-bracket	joy	0
-bracket	negative	0
-bracket	positive	0
-bracket	sadness	0
-bracket	surprise	0
-bracket	trust	0
-brackets	anger	0
-brackets	anticipation	0
-brackets	disgust	0
-brackets	fear	0
-brackets	joy	0
-brackets	negative	0
-brackets	positive	0
-brackets	sadness	0
-brackets	surprise	0
-brackets	trust	0
-brackish	anger	0
-brackish	anticipation	0
-brackish	disgust	0
-brackish	fear	0
-brackish	joy	0
-brackish	negative	0
-brackish	positive	0
-brackish	sadness	0
-brackish	surprise	0
-brackish	trust	0
-brad	anger	0
-brad	anticipation	0
-brad	disgust	0
-brad	fear	0
-brad	joy	0
-brad	negative	0
-brad	positive	0
-brad	sadness	0
-brad	surprise	0
-brad	trust	0
-brag	anger	0
-brag	anticipation	0
-brag	disgust	0
-brag	fear	0
-brag	joy	0
-brag	negative	1
-brag	positive	0
-brag	sadness	0
-brag	surprise	0
-brag	trust	0
-braid	anger	0
-braid	anticipation	0
-braid	disgust	0
-braid	fear	0
-braid	joy	0
-braid	negative	0
-braid	positive	0
-braid	sadness	0
-braid	surprise	0
-braid	trust	0
-brain	anger	0
-brain	anticipation	0
-brain	disgust	0
-brain	fear	0
-brain	joy	0
-brain	negative	0
-brain	positive	0
-brain	sadness	0
-brain	surprise	0
-brain	trust	0
-brains	anger	0
-brains	anticipation	0
-brains	disgust	0
-brains	fear	0
-brains	joy	0
-brains	negative	0
-brains	positive	1
-brains	sadness	0
-brains	surprise	0
-brains	trust	0
-brainstorm	anger	0
-brainstorm	anticipation	0
-brainstorm	disgust	0
-brainstorm	fear	0
-brainstorm	joy	0
-brainstorm	negative	0
-brainstorm	positive	0
-brainstorm	sadness	0
-brainstorm	surprise	0
-brainstorm	trust	0
-brake	anger	0
-brake	anticipation	0
-brake	disgust	0
-brake	fear	0
-brake	joy	0
-brake	negative	0
-brake	positive	0
-brake	sadness	0
-brake	surprise	0
-brake	trust	0
-bran	anger	0
-bran	anticipation	0
-bran	disgust	1
-bran	fear	0
-bran	joy	0
-bran	negative	0
-bran	positive	0
-bran	sadness	0
-bran	surprise	0
-bran	trust	0
-branch	anger	0
-branch	anticipation	0
-branch	disgust	0
-branch	fear	0
-branch	joy	0
-branch	negative	0
-branch	positive	0
-branch	sadness	0
-branch	surprise	0
-branch	trust	0
-branching	anger	0
-branching	anticipation	0
-branching	disgust	0
-branching	fear	0
-branching	joy	0
-branching	negative	0
-branching	positive	0
-branching	sadness	0
-branching	surprise	0
-branching	trust	0
-brandy	anger	0
-brandy	anticipation	0
-brandy	disgust	0
-brandy	fear	0
-brandy	joy	0
-brandy	negative	1
-brandy	positive	0
-brandy	sadness	0
-brandy	surprise	0
-brandy	trust	0
-brass	anger	0
-brass	anticipation	0
-brass	disgust	0
-brass	fear	0
-brass	joy	0
-brass	negative	0
-brass	positive	0
-brass	sadness	0
-brass	surprise	0
-brass	trust	0
-brat	anger	0
-brat	anticipation	0
-brat	disgust	0
-brat	fear	0
-brat	joy	0
-brat	negative	0
-brat	positive	0
-brat	sadness	0
-brat	surprise	0
-brat	trust	0
-bravado	anger	0
-bravado	anticipation	0
-bravado	disgust	0
-bravado	fear	0
-bravado	joy	0
-bravado	negative	1
-bravado	positive	0
-bravado	sadness	0
-bravado	surprise	0
-bravado	trust	0
-bravery	anger	0
-bravery	anticipation	0
-bravery	disgust	0
-bravery	fear	0
-bravery	joy	0
-bravery	negative	0
-bravery	positive	1
-bravery	sadness	0
-bravery	surprise	0
-bravery	trust	0
-brawl	anger	1
-brawl	anticipation	0
-brawl	disgust	1
-brawl	fear	1
-brawl	joy	0
-brawl	negative	1
-brawl	positive	0
-brawl	sadness	0
-brawl	surprise	0
-brawl	trust	0
-brazen	anger	1
-brazen	anticipation	0
-brazen	disgust	0
-brazen	fear	0
-brazen	joy	0
-brazen	negative	1
-brazen	positive	0
-brazen	sadness	0
-brazen	surprise	0
-brazen	trust	0
-breach	anger	0
-breach	anticipation	0
-breach	disgust	0
-breach	fear	0
-breach	joy	0
-breach	negative	1
-breach	positive	0
-breach	sadness	0
-breach	surprise	0
-breach	trust	0
-bread	anger	0
-bread	anticipation	0
-bread	disgust	0
-bread	fear	0
-bread	joy	0
-bread	negative	0
-bread	positive	0
-bread	sadness	0
-bread	surprise	0
-bread	trust	0
-breadth	anger	0
-breadth	anticipation	0
-breadth	disgust	0
-breadth	fear	0
-breadth	joy	0
-breadth	negative	0
-breadth	positive	0
-breadth	sadness	0
-breadth	surprise	0
-breadth	trust	0
-break	anger	0
-break	anticipation	0
-break	disgust	0
-break	fear	0
-break	joy	0
-break	negative	0
-break	positive	0
-break	sadness	0
-break	surprise	1
-break	trust	0
-breakable	anger	0
-breakable	anticipation	0
-breakable	disgust	0
-breakable	fear	0
-breakable	joy	0
-breakable	negative	0
-breakable	positive	0
-breakable	sadness	0
-breakable	surprise	0
-breakable	trust	0
-breakdown	anger	0
-breakdown	anticipation	0
-breakdown	disgust	0
-breakdown	fear	0
-breakdown	joy	0
-breakdown	negative	1
-breakdown	positive	0
-breakdown	sadness	0
-breakdown	surprise	0
-breakdown	trust	0
-breaker	anger	0
-breaker	anticipation	0
-breaker	disgust	0
-breaker	fear	0
-breaker	joy	0
-breaker	negative	0
-breaker	positive	0
-breaker	sadness	0
-breaker	surprise	0
-breaker	trust	0
-breakers	anger	0
-breakers	anticipation	0
-breakers	disgust	0
-breakers	fear	0
-breakers	joy	0
-breakers	negative	0
-breakers	positive	0
-breakers	sadness	0
-breakers	surprise	0
-breakers	trust	0
-breakfast	anger	0
-breakfast	anticipation	0
-breakfast	disgust	0
-breakfast	fear	0
-breakfast	joy	0
-breakfast	negative	0
-breakfast	positive	1
-breakfast	sadness	0
-breakfast	surprise	0
-breakfast	trust	0
-breakneck	anger	0
-breakneck	anticipation	0
-breakneck	disgust	0
-breakneck	fear	0
-breakneck	joy	0
-breakneck	negative	1
-breakneck	positive	0
-breakneck	sadness	0
-breakneck	surprise	0
-breakneck	trust	0
-breakup	anger	0
-breakup	anticipation	0
-breakup	disgust	0
-breakup	fear	0
-breakup	joy	0
-breakup	negative	1
-breakup	positive	0
-breakup	sadness	1
-breakup	surprise	0
-breakup	trust	0
-breath	anger	0
-breath	anticipation	0
-breath	disgust	0
-breath	fear	0
-breath	joy	0
-breath	negative	0
-breath	positive	0
-breath	sadness	0
-breath	surprise	0
-breath	trust	0
-breech	anger	0
-breech	anticipation	0
-breech	disgust	0
-breech	fear	0
-breech	joy	0
-breech	negative	0
-breech	positive	0
-breech	sadness	0
-breech	surprise	0
-breech	trust	0
-breeches	anger	0
-breeches	anticipation	0
-breeches	disgust	0
-breeches	fear	0
-breeches	joy	0
-breeches	negative	0
-breeches	positive	0
-breeches	sadness	0
-breeches	surprise	0
-breeches	trust	0
-breed	anger	0
-breed	anticipation	0
-breed	disgust	0
-breed	fear	0
-breed	joy	0
-breed	negative	0
-breed	positive	0
-breed	sadness	0
-breed	surprise	0
-breed	trust	0
-breeder	anger	0
-breeder	anticipation	0
-breeder	disgust	0
-breeder	fear	0
-breeder	joy	0
-breeder	negative	0
-breeder	positive	0
-breeder	sadness	0
-breeder	surprise	0
-breeder	trust	0
-breeding	anger	0
-breeding	anticipation	0
-breeding	disgust	0
-breeding	fear	0
-breeding	joy	0
-breeding	negative	0
-breeding	positive	0
-breeding	sadness	0
-breeding	surprise	0
-breeding	trust	0
-breeze	anger	0
-breeze	anticipation	0
-breeze	disgust	0
-breeze	fear	0
-breeze	joy	0
-breeze	negative	0
-breeze	positive	0
-breeze	sadness	0
-breeze	surprise	0
-breeze	trust	0
-breezy	anger	0
-breezy	anticipation	0
-breezy	disgust	0
-breezy	fear	0
-breezy	joy	0
-breezy	negative	0
-breezy	positive	0
-breezy	sadness	0
-breezy	surprise	0
-breezy	trust	0
-brethren	anger	0
-brethren	anticipation	0
-brethren	disgust	0
-brethren	fear	0
-brethren	joy	0
-brethren	negative	0
-brethren	positive	0
-brethren	sadness	0
-brethren	surprise	0
-brethren	trust	0
-breve	anger	0
-breve	anticipation	0
-breve	disgust	0
-breve	fear	0
-breve	joy	0
-breve	negative	0
-breve	positive	0
-breve	sadness	0
-breve	surprise	0
-breve	trust	0
-brevity	anger	0
-brevity	anticipation	0
-brevity	disgust	0
-brevity	fear	0
-brevity	joy	0
-brevity	negative	0
-brevity	positive	0
-brevity	sadness	0
-brevity	surprise	0
-brevity	trust	0
-brew	anger	0
-brew	anticipation	0
-brew	disgust	0
-brew	fear	0
-brew	joy	0
-brew	negative	0
-brew	positive	0
-brew	sadness	0
-brew	surprise	0
-brew	trust	0
-brewing	anger	0
-brewing	anticipation	0
-brewing	disgust	0
-brewing	fear	0
-brewing	joy	0
-brewing	negative	0
-brewing	positive	0
-brewing	sadness	0
-brewing	surprise	0
-brewing	trust	0
-bribe	anger	0
-bribe	anticipation	0
-bribe	disgust	0
-bribe	fear	0
-bribe	joy	0
-bribe	negative	1
-bribe	positive	0
-bribe	sadness	0
-bribe	surprise	0
-bribe	trust	0
-bribery	anger	0
-bribery	anticipation	0
-bribery	disgust	1
-bribery	fear	0
-bribery	joy	0
-bribery	negative	1
-bribery	positive	0
-bribery	sadness	0
-bribery	surprise	0
-bribery	trust	0
-brick	anger	0
-brick	anticipation	0
-brick	disgust	0
-brick	fear	0
-brick	joy	0
-brick	negative	0
-brick	positive	0
-brick	sadness	0
-brick	surprise	0
-brick	trust	0
-bridal	anger	0
-bridal	anticipation	1
-bridal	disgust	0
-bridal	fear	0
-bridal	joy	1
-bridal	negative	0
-bridal	positive	1
-bridal	sadness	0
-bridal	surprise	0
-bridal	trust	1
-bride	anger	0
-bride	anticipation	1
-bride	disgust	0
-bride	fear	0
-bride	joy	1
-bride	negative	0
-bride	positive	1
-bride	sadness	0
-bride	surprise	0
-bride	trust	1
-bridegroom	anger	0
-bridegroom	anticipation	1
-bridegroom	disgust	0
-bridegroom	fear	0
-bridegroom	joy	1
-bridegroom	negative	0
-bridegroom	positive	1
-bridegroom	sadness	0
-bridegroom	surprise	0
-bridegroom	trust	1
-bridesmaid	anger	0
-bridesmaid	anticipation	0
-bridesmaid	disgust	0
-bridesmaid	fear	0
-bridesmaid	joy	1
-bridesmaid	negative	0
-bridesmaid	positive	1
-bridesmaid	sadness	0
-bridesmaid	surprise	0
-bridesmaid	trust	1
-bridge	anger	0
-bridge	anticipation	0
-bridge	disgust	0
-bridge	fear	0
-bridge	joy	0
-bridge	negative	0
-bridge	positive	0
-bridge	sadness	0
-bridge	surprise	0
-bridge	trust	0
-bridle	anger	0
-bridle	anticipation	0
-bridle	disgust	0
-bridle	fear	0
-bridle	joy	0
-bridle	negative	0
-bridle	positive	0
-bridle	sadness	0
-bridle	surprise	0
-bridle	trust	0
-briefly	anger	0
-briefly	anticipation	0
-briefly	disgust	0
-briefly	fear	0
-briefly	joy	0
-briefly	negative	0
-briefly	positive	0
-briefly	sadness	0
-briefly	surprise	0
-briefly	trust	0
-brig	anger	0
-brig	anticipation	0
-brig	disgust	0
-brig	fear	0
-brig	joy	0
-brig	negative	0
-brig	positive	0
-brig	sadness	0
-brig	surprise	0
-brig	trust	0
-brigade	anger	0
-brigade	anticipation	0
-brigade	disgust	0
-brigade	fear	1
-brigade	joy	0
-brigade	negative	1
-brigade	positive	0
-brigade	sadness	0
-brigade	surprise	0
-brigade	trust	0
-brighten	anger	0
-brighten	anticipation	0
-brighten	disgust	0
-brighten	fear	0
-brighten	joy	1
-brighten	negative	0
-brighten	positive	1
-brighten	sadness	0
-brighten	surprise	1
-brighten	trust	1
-brightness	anger	0
-brightness	anticipation	0
-brightness	disgust	0
-brightness	fear	0
-brightness	joy	0
-brightness	negative	0
-brightness	positive	1
-brightness	sadness	0
-brightness	surprise	0
-brightness	trust	0
-brilliant	anger	0
-brilliant	anticipation	1
-brilliant	disgust	0
-brilliant	fear	0
-brilliant	joy	1
-brilliant	negative	0
-brilliant	positive	1
-brilliant	sadness	0
-brilliant	surprise	0
-brilliant	trust	1
-brim	anger	0
-brim	anticipation	0
-brim	disgust	0
-brim	fear	0
-brim	joy	0
-brim	negative	0
-brim	positive	0
-brim	sadness	0
-brim	surprise	0
-brim	trust	0
-brimming	anger	0
-brimming	anticipation	0
-brimming	disgust	0
-brimming	fear	0
-brimming	joy	0
-brimming	negative	0
-brimming	positive	0
-brimming	sadness	0
-brimming	surprise	0
-brimming	trust	0
-brimstone	anger	1
-brimstone	anticipation	0
-brimstone	disgust	0
-brimstone	fear	1
-brimstone	joy	0
-brimstone	negative	1
-brimstone	positive	0
-brimstone	sadness	0
-brimstone	surprise	0
-brimstone	trust	0
-brine	anger	0
-brine	anticipation	0
-brine	disgust	0
-brine	fear	0
-brine	joy	0
-brine	negative	0
-brine	positive	0
-brine	sadness	0
-brine	surprise	0
-brine	trust	0
-bring	anger	0
-bring	anticipation	0
-bring	disgust	0
-bring	fear	0
-bring	joy	0
-bring	negative	0
-bring	positive	0
-bring	sadness	0
-bring	surprise	0
-bring	trust	0
-brink	anger	0
-brink	anticipation	0
-brink	disgust	0
-brink	fear	0
-brink	joy	0
-brink	negative	0
-brink	positive	0
-brink	sadness	0
-brink	surprise	0
-brink	trust	0
-brisk	anger	0
-brisk	anticipation	0
-brisk	disgust	0
-brisk	fear	0
-brisk	joy	0
-brisk	negative	0
-brisk	positive	0
-brisk	sadness	0
-brisk	surprise	0
-brisk	trust	0
-bristle	anger	0
-bristle	anticipation	0
-bristle	disgust	0
-bristle	fear	0
-bristle	joy	0
-bristle	negative	1
-bristle	positive	0
-bristle	sadness	0
-bristle	surprise	0
-bristle	trust	0
-brittle	anger	0
-brittle	anticipation	0
-brittle	disgust	0
-brittle	fear	0
-brittle	joy	0
-brittle	negative	0
-brittle	positive	0
-brittle	sadness	0
-brittle	surprise	0
-brittle	trust	0
-broadcast	anger	0
-broadcast	anticipation	0
-broadcast	disgust	0
-broadcast	fear	0
-broadcast	joy	0
-broadcast	negative	0
-broadcast	positive	0
-broadcast	sadness	0
-broadcast	surprise	0
-broadcast	trust	0
-broadside	anger	0
-broadside	anticipation	1
-broadside	disgust	0
-broadside	fear	0
-broadside	joy	0
-broadside	negative	1
-broadside	positive	0
-broadside	sadness	0
-broadside	surprise	0
-broadside	trust	0
-brocade	anger	0
-brocade	anticipation	0
-brocade	disgust	0
-brocade	fear	0
-brocade	joy	0
-brocade	negative	0
-brocade	positive	1
-brocade	sadness	0
-brocade	surprise	0
-brocade	trust	0
-brochure	anger	0
-brochure	anticipation	0
-brochure	disgust	0
-brochure	fear	0
-brochure	joy	0
-brochure	negative	0
-brochure	positive	0
-brochure	sadness	0
-brochure	surprise	0
-brochure	trust	0
-broil	anger	1
-broil	anticipation	0
-broil	disgust	0
-broil	fear	0
-broil	joy	0
-broil	negative	1
-broil	positive	0
-broil	sadness	0
-broil	surprise	0
-broil	trust	0
-broke	anger	0
-broke	anticipation	0
-broke	disgust	0
-broke	fear	1
-broke	joy	0
-broke	negative	1
-broke	positive	0
-broke	sadness	1
-broke	surprise	0
-broke	trust	0
-broken	anger	1
-broken	anticipation	0
-broken	disgust	0
-broken	fear	1
-broken	joy	0
-broken	negative	1
-broken	positive	0
-broken	sadness	1
-broken	surprise	0
-broken	trust	0
-broker	anger	0
-broker	anticipation	0
-broker	disgust	0
-broker	fear	0
-broker	joy	0
-broker	negative	0
-broker	positive	0
-broker	sadness	0
-broker	surprise	0
-broker	trust	0
-brokerage	anger	0
-brokerage	anticipation	0
-brokerage	disgust	0
-brokerage	fear	0
-brokerage	joy	0
-brokerage	negative	0
-brokerage	positive	0
-brokerage	sadness	0
-brokerage	surprise	0
-brokerage	trust	0
-bronco	anger	0
-bronco	anticipation	0
-bronco	disgust	0
-bronco	fear	0
-bronco	joy	0
-bronco	negative	0
-bronco	positive	0
-bronco	sadness	0
-bronco	surprise	0
-bronco	trust	0
-bronze	anger	0
-bronze	anticipation	0
-bronze	disgust	0
-bronze	fear	0
-bronze	joy	0
-bronze	negative	0
-bronze	positive	0
-bronze	sadness	0
-bronze	surprise	0
-bronze	trust	0
-brood	anger	0
-brood	anticipation	0
-brood	disgust	0
-brood	fear	0
-brood	joy	0
-brood	negative	0
-brood	positive	0
-brood	sadness	0
-brood	surprise	0
-brood	trust	0
-brooding	anger	0
-brooding	anticipation	0
-brooding	disgust	0
-brooding	fear	0
-brooding	joy	0
-brooding	negative	0
-brooding	positive	0
-brooding	sadness	0
-brooding	surprise	0
-brooding	trust	0
-brook	anger	0
-brook	anticipation	0
-brook	disgust	0
-brook	fear	0
-brook	joy	0
-brook	negative	0
-brook	positive	0
-brook	sadness	0
-brook	surprise	0
-brook	trust	0
-broom	anger	0
-broom	anticipation	0
-broom	disgust	0
-broom	fear	0
-broom	joy	0
-broom	negative	0
-broom	positive	0
-broom	sadness	0
-broom	surprise	0
-broom	trust	0
-broth	anger	0
-broth	anticipation	0
-broth	disgust	0
-broth	fear	0
-broth	joy	0
-broth	negative	0
-broth	positive	0
-broth	sadness	0
-broth	surprise	0
-broth	trust	0
-brothel	anger	0
-brothel	anticipation	0
-brothel	disgust	1
-brothel	fear	0
-brothel	joy	0
-brothel	negative	1
-brothel	positive	0
-brothel	sadness	0
-brothel	surprise	0
-brothel	trust	0
-brother	anger	0
-brother	anticipation	0
-brother	disgust	0
-brother	fear	0
-brother	joy	0
-brother	negative	0
-brother	positive	1
-brother	sadness	0
-brother	surprise	0
-brother	trust	1
-brotherhood	anger	0
-brotherhood	anticipation	0
-brotherhood	disgust	0
-brotherhood	fear	0
-brotherhood	joy	0
-brotherhood	negative	0
-brotherhood	positive	1
-brotherhood	sadness	0
-brotherhood	surprise	0
-brotherhood	trust	1
-brotherly	anger	0
-brotherly	anticipation	1
-brotherly	disgust	0
-brotherly	fear	0
-brotherly	joy	1
-brotherly	negative	0
-brotherly	positive	1
-brotherly	sadness	0
-brotherly	surprise	0
-brotherly	trust	1
-brow	anger	0
-brow	anticipation	0
-brow	disgust	0
-brow	fear	0
-brow	joy	0
-brow	negative	0
-brow	positive	0
-brow	sadness	0
-brow	surprise	0
-brow	trust	0
-brown	anger	0
-brown	anticipation	0
-brown	disgust	0
-brown	fear	0
-brown	joy	0
-brown	negative	0
-brown	positive	0
-brown	sadness	0
-brown	surprise	0
-brown	trust	0
-bruise	anger	0
-bruise	anticipation	1
-bruise	disgust	0
-bruise	fear	0
-bruise	joy	0
-bruise	negative	1
-bruise	positive	0
-bruise	sadness	0
-bruise	surprise	0
-bruise	trust	0
-brunette	anger	0
-brunette	anticipation	0
-brunette	disgust	0
-brunette	fear	0
-brunette	joy	0
-brunette	negative	0
-brunette	positive	0
-brunette	sadness	0
-brunette	surprise	0
-brunette	trust	0
-brunt	anger	1
-brunt	anticipation	0
-brunt	disgust	0
-brunt	fear	0
-brunt	joy	0
-brunt	negative	1
-brunt	positive	0
-brunt	sadness	0
-brunt	surprise	0
-brunt	trust	0
-brush	anger	0
-brush	anticipation	0
-brush	disgust	0
-brush	fear	0
-brush	joy	0
-brush	negative	0
-brush	positive	0
-brush	sadness	0
-brush	surprise	0
-brush	trust	0
-brutal	anger	1
-brutal	anticipation	0
-brutal	disgust	0
-brutal	fear	1
-brutal	joy	0
-brutal	negative	1
-brutal	positive	0
-brutal	sadness	0
-brutal	surprise	0
-brutal	trust	0
-brutality	anger	1
-brutality	anticipation	0
-brutality	disgust	0
-brutality	fear	1
-brutality	joy	0
-brutality	negative	1
-brutality	positive	0
-brutality	sadness	0
-brutality	surprise	0
-brutality	trust	0
-brute	anger	1
-brute	anticipation	0
-brute	disgust	0
-brute	fear	1
-brute	joy	0
-brute	negative	1
-brute	positive	0
-brute	sadness	1
-brute	surprise	0
-brute	trust	0
-bubble	anger	0
-bubble	anticipation	0
-bubble	disgust	0
-bubble	fear	0
-bubble	joy	0
-bubble	negative	0
-bubble	positive	0
-bubble	sadness	0
-bubble	surprise	0
-bubble	trust	0
-bubbling	anger	0
-bubbling	anticipation	0
-bubbling	disgust	0
-bubbling	fear	0
-bubbling	joy	0
-bubbling	negative	0
-bubbling	positive	0
-bubbling	sadness	0
-bubbling	surprise	0
-bubbling	trust	0
-buck	anger	0
-buck	anticipation	0
-buck	disgust	0
-buck	fear	1
-buck	joy	0
-buck	negative	1
-buck	positive	1
-buck	sadness	0
-buck	surprise	1
-buck	trust	0
-bucket	anger	0
-bucket	anticipation	0
-bucket	disgust	0
-bucket	fear	0
-bucket	joy	0
-bucket	negative	0
-bucket	positive	0
-bucket	sadness	0
-bucket	surprise	0
-bucket	trust	0
-buckle	anger	0
-buckle	anticipation	0
-buckle	disgust	0
-buckle	fear	0
-buckle	joy	0
-buckle	negative	0
-buckle	positive	0
-buckle	sadness	0
-buckle	surprise	0
-buckle	trust	0
-buckled	anger	0
-buckled	anticipation	0
-buckled	disgust	0
-buckled	fear	0
-buckled	joy	0
-buckled	negative	0
-buckled	positive	0
-buckled	sadness	0
-buckled	surprise	0
-buckled	trust	0
-bud	anger	0
-bud	anticipation	0
-bud	disgust	0
-bud	fear	0
-bud	joy	0
-bud	negative	0
-bud	positive	0
-bud	sadness	0
-bud	surprise	0
-bud	trust	0
-buddy	anger	0
-buddy	anticipation	1
-buddy	disgust	0
-buddy	fear	0
-buddy	joy	1
-buddy	negative	0
-buddy	positive	1
-buddy	sadness	0
-buddy	surprise	0
-buddy	trust	1
-budge	anger	0
-budge	anticipation	0
-budge	disgust	0
-budge	fear	0
-budge	joy	0
-budge	negative	0
-budge	positive	0
-budge	sadness	0
-budge	surprise	0
-budge	trust	0
-budget	anger	0
-budget	anticipation	0
-budget	disgust	0
-budget	fear	0
-budget	joy	0
-budget	negative	0
-budget	positive	0
-budget	sadness	0
-budget	surprise	0
-budget	trust	1
-buffalo	anger	0
-buffalo	anticipation	0
-buffalo	disgust	0
-buffalo	fear	0
-buffalo	joy	0
-buffalo	negative	0
-buffalo	positive	0
-buffalo	sadness	0
-buffalo	surprise	0
-buffalo	trust	0
-buffer	anger	0
-buffer	anticipation	0
-buffer	disgust	0
-buffer	fear	0
-buffer	joy	0
-buffer	negative	0
-buffer	positive	0
-buffer	sadness	0
-buffer	surprise	0
-buffer	trust	0
-buffet	anger	1
-buffet	anticipation	0
-buffet	disgust	0
-buffet	fear	0
-buffet	joy	0
-buffet	negative	1
-buffet	positive	0
-buffet	sadness	0
-buffet	surprise	0
-buffet	trust	0
-bug	anger	0
-bug	anticipation	0
-bug	disgust	1
-bug	fear	1
-bug	joy	0
-bug	negative	1
-bug	positive	0
-bug	sadness	0
-bug	surprise	0
-bug	trust	0
-bugaboo	anger	1
-bugaboo	anticipation	0
-bugaboo	disgust	0
-bugaboo	fear	1
-bugaboo	joy	0
-bugaboo	negative	1
-bugaboo	positive	0
-bugaboo	sadness	1
-bugaboo	surprise	0
-bugaboo	trust	0
-buggy	anger	0
-buggy	anticipation	0
-buggy	disgust	0
-buggy	fear	0
-buggy	joy	0
-buggy	negative	0
-buggy	positive	0
-buggy	sadness	0
-buggy	surprise	0
-buggy	trust	0
-bugle	anger	0
-bugle	anticipation	1
-bugle	disgust	0
-bugle	fear	0
-bugle	joy	0
-bugle	negative	0
-bugle	positive	0
-bugle	sadness	0
-bugle	surprise	0
-bugle	trust	0
-build	anger	0
-build	anticipation	0
-build	disgust	0
-build	fear	0
-build	joy	0
-build	negative	0
-build	positive	1
-build	sadness	0
-build	surprise	0
-build	trust	0
-builder	anger	0
-builder	anticipation	0
-builder	disgust	0
-builder	fear	0
-builder	joy	0
-builder	negative	0
-builder	positive	0
-builder	sadness	0
-builder	surprise	0
-builder	trust	0
-building	anger	0
-building	anticipation	0
-building	disgust	0
-building	fear	0
-building	joy	0
-building	negative	0
-building	positive	1
-building	sadness	0
-building	surprise	0
-building	trust	0
-buildings	anger	0
-buildings	anticipation	0
-buildings	disgust	0
-buildings	fear	0
-buildings	joy	0
-buildings	negative	0
-buildings	positive	0
-buildings	sadness	0
-buildings	surprise	0
-buildings	trust	0
-bulb	anger	0
-bulb	anticipation	0
-bulb	disgust	0
-bulb	fear	0
-bulb	joy	0
-bulb	negative	0
-bulb	positive	0
-bulb	sadness	0
-bulb	surprise	0
-bulb	trust	0
-bulbous	anger	0
-bulbous	anticipation	0
-bulbous	disgust	0
-bulbous	fear	0
-bulbous	joy	0
-bulbous	negative	1
-bulbous	positive	0
-bulbous	sadness	0
-bulbous	surprise	0
-bulbous	trust	0
-bulge	anger	0
-bulge	anticipation	0
-bulge	disgust	0
-bulge	fear	0
-bulge	joy	0
-bulge	negative	0
-bulge	positive	0
-bulge	sadness	0
-bulge	surprise	0
-bulge	trust	0
-bulk	anger	0
-bulk	anticipation	0
-bulk	disgust	0
-bulk	fear	0
-bulk	joy	0
-bulk	negative	0
-bulk	positive	0
-bulk	sadness	0
-bulk	surprise	0
-bulk	trust	0
-bulkhead	anger	0
-bulkhead	anticipation	0
-bulkhead	disgust	0
-bulkhead	fear	0
-bulkhead	joy	0
-bulkhead	negative	0
-bulkhead	positive	0
-bulkhead	sadness	0
-bulkhead	surprise	0
-bulkhead	trust	0
-bulky	anger	0
-bulky	anticipation	0
-bulky	disgust	0
-bulky	fear	0
-bulky	joy	0
-bulky	negative	0
-bulky	positive	0
-bulky	sadness	0
-bulky	surprise	0
-bulky	trust	0
-bull	anger	0
-bull	anticipation	0
-bull	disgust	0
-bull	fear	0
-bull	joy	0
-bull	negative	0
-bull	positive	0
-bull	sadness	0
-bull	surprise	0
-bull	trust	0
-bulldog	anger	0
-bulldog	anticipation	0
-bulldog	disgust	0
-bulldog	fear	0
-bulldog	joy	0
-bulldog	negative	0
-bulldog	positive	1
-bulldog	sadness	0
-bulldog	surprise	0
-bulldog	trust	0
-bulldozer	anger	0
-bulldozer	anticipation	0
-bulldozer	disgust	0
-bulldozer	fear	0
-bulldozer	joy	0
-bulldozer	negative	0
-bulldozer	positive	0
-bulldozer	sadness	0
-bulldozer	surprise	0
-bulldozer	trust	0
-bullet	anger	0
-bullet	anticipation	0
-bullet	disgust	0
-bullet	fear	0
-bullet	joy	0
-bullet	negative	0
-bullet	positive	0
-bullet	sadness	0
-bullet	surprise	0
-bullet	trust	0
-bulletin	anger	0
-bulletin	anticipation	0
-bulletin	disgust	0
-bulletin	fear	0
-bulletin	joy	0
-bulletin	negative	0
-bulletin	positive	0
-bulletin	sadness	0
-bulletin	surprise	0
-bulletin	trust	0
-bulletproof	anger	0
-bulletproof	anticipation	0
-bulletproof	disgust	0
-bulletproof	fear	0
-bulletproof	joy	0
-bulletproof	negative	0
-bulletproof	positive	1
-bulletproof	sadness	0
-bulletproof	surprise	0
-bulletproof	trust	0
-bullock	anger	0
-bullock	anticipation	0
-bullock	disgust	0
-bullock	fear	0
-bullock	joy	0
-bullock	negative	0
-bullock	positive	0
-bullock	sadness	0
-bullock	surprise	0
-bullock	trust	0
-bully	anger	1
-bully	anticipation	0
-bully	disgust	0
-bully	fear	1
-bully	joy	0
-bully	negative	1
-bully	positive	0
-bully	sadness	0
-bully	surprise	0
-bully	trust	0
-bulwark	anger	0
-bulwark	anticipation	0
-bulwark	disgust	0
-bulwark	fear	0
-bulwark	joy	0
-bulwark	negative	0
-bulwark	positive	0
-bulwark	sadness	0
-bulwark	surprise	0
-bulwark	trust	0
-bum	anger	0
-bum	anticipation	0
-bum	disgust	1
-bum	fear	0
-bum	joy	0
-bum	negative	1
-bum	positive	0
-bum	sadness	1
-bum	surprise	0
-bum	trust	0
-bummer	anger	1
-bummer	anticipation	0
-bummer	disgust	1
-bummer	fear	0
-bummer	joy	0
-bummer	negative	1
-bummer	positive	0
-bummer	sadness	0
-bummer	surprise	0
-bummer	trust	0
-bump	anger	0
-bump	anticipation	0
-bump	disgust	0
-bump	fear	0
-bump	joy	0
-bump	negative	0
-bump	positive	0
-bump	sadness	0
-bump	surprise	0
-bump	trust	0
-bun	anger	0
-bun	anticipation	0
-bun	disgust	0
-bun	fear	0
-bun	joy	0
-bun	negative	0
-bun	positive	0
-bun	sadness	0
-bun	surprise	0
-bun	trust	0
-bunch	anger	0
-bunch	anticipation	0
-bunch	disgust	0
-bunch	fear	0
-bunch	joy	0
-bunch	negative	0
-bunch	positive	0
-bunch	sadness	0
-bunch	surprise	0
-bunch	trust	0
-bundle	anger	0
-bundle	anticipation	0
-bundle	disgust	0
-bundle	fear	0
-bundle	joy	0
-bundle	negative	0
-bundle	positive	0
-bundle	sadness	0
-bundle	surprise	0
-bundle	trust	0
-bungalow	anger	0
-bungalow	anticipation	0
-bungalow	disgust	0
-bungalow	fear	0
-bungalow	joy	0
-bungalow	negative	0
-bungalow	positive	0
-bungalow	sadness	0
-bungalow	surprise	0
-bungalow	trust	0
-bunk	anger	0
-bunk	anticipation	0
-bunk	disgust	0
-bunk	fear	0
-bunk	joy	0
-bunk	negative	0
-bunk	positive	0
-bunk	sadness	0
-bunk	surprise	0
-bunk	trust	0
-bunker	anger	0
-bunker	anticipation	0
-bunker	disgust	0
-bunker	fear	1
-bunker	joy	0
-bunker	negative	0
-bunker	positive	0
-bunker	sadness	0
-bunker	surprise	0
-bunker	trust	0
-bunt	anger	0
-bunt	anticipation	0
-bunt	disgust	0
-bunt	fear	0
-bunt	joy	0
-bunt	negative	0
-bunt	positive	0
-bunt	sadness	0
-bunt	surprise	0
-bunt	trust	0
-buoy	anger	0
-buoy	anticipation	0
-buoy	disgust	0
-buoy	fear	0
-buoy	joy	0
-buoy	negative	0
-buoy	positive	1
-buoy	sadness	0
-buoy	surprise	0
-buoy	trust	0
-buoyancy	anger	0
-buoyancy	anticipation	0
-buoyancy	disgust	0
-buoyancy	fear	0
-buoyancy	joy	0
-buoyancy	negative	0
-buoyancy	positive	0
-buoyancy	sadness	0
-buoyancy	surprise	0
-buoyancy	trust	0
-bur	anger	0
-bur	anticipation	0
-bur	disgust	0
-bur	fear	0
-bur	joy	0
-bur	negative	0
-bur	positive	0
-bur	sadness	0
-bur	surprise	0
-bur	trust	0
-burden	anger	0
-burden	anticipation	0
-burden	disgust	0
-burden	fear	0
-burden	joy	0
-burden	negative	0
-burden	positive	0
-burden	sadness	0
-burden	surprise	0
-burden	trust	0
-burdensome	anger	0
-burdensome	anticipation	0
-burdensome	disgust	0
-burdensome	fear	1
-burdensome	joy	0
-burdensome	negative	1
-burdensome	positive	0
-burdensome	sadness	1
-burdensome	surprise	0
-burdensome	trust	0
-bureau	anger	0
-bureau	anticipation	0
-bureau	disgust	0
-bureau	fear	0
-bureau	joy	0
-bureau	negative	0
-bureau	positive	0
-bureau	sadness	0
-bureau	surprise	0
-bureau	trust	0
-bureaucracy	anger	0
-bureaucracy	anticipation	0
-bureaucracy	disgust	0
-bureaucracy	fear	0
-bureaucracy	joy	0
-bureaucracy	negative	1
-bureaucracy	positive	0
-bureaucracy	sadness	0
-bureaucracy	surprise	0
-bureaucracy	trust	1
-bureaucrat	anger	0
-bureaucrat	anticipation	0
-bureaucrat	disgust	1
-bureaucrat	fear	0
-bureaucrat	joy	0
-bureaucrat	negative	1
-bureaucrat	positive	0
-bureaucrat	sadness	0
-bureaucrat	surprise	0
-bureaucrat	trust	0
-burglar	anger	0
-burglar	anticipation	0
-burglar	disgust	1
-burglar	fear	1
-burglar	joy	0
-burglar	negative	1
-burglar	positive	0
-burglar	sadness	0
-burglar	surprise	0
-burglar	trust	0
-burglary	anger	0
-burglary	anticipation	0
-burglary	disgust	0
-burglary	fear	0
-burglary	joy	0
-burglary	negative	1
-burglary	positive	0
-burglary	sadness	0
-burglary	surprise	0
-burglary	trust	0
-burial	anger	1
-burial	anticipation	0
-burial	disgust	0
-burial	fear	1
-burial	joy	0
-burial	negative	1
-burial	positive	0
-burial	sadness	1
-burial	surprise	0
-burial	trust	0
-buried	anger	0
-buried	anticipation	0
-buried	disgust	0
-buried	fear	1
-buried	joy	0
-buried	negative	1
-buried	positive	0
-buried	sadness	1
-buried	surprise	0
-buried	trust	0
-burke	anger	1
-burke	anticipation	0
-burke	disgust	1
-burke	fear	1
-burke	joy	0
-burke	negative	1
-burke	positive	0
-burke	sadness	1
-burke	surprise	0
-burke	trust	0
-burlap	anger	0
-burlap	anticipation	0
-burlap	disgust	0
-burlap	fear	0
-burlap	joy	0
-burlap	negative	0
-burlap	positive	0
-burlap	sadness	0
-burlap	surprise	0
-burlap	trust	0
-burlesque	anger	0
-burlesque	anticipation	0
-burlesque	disgust	0
-burlesque	fear	0
-burlesque	joy	0
-burlesque	negative	0
-burlesque	positive	0
-burlesque	sadness	0
-burlesque	surprise	1
-burlesque	trust	0
-burly	anger	0
-burly	anticipation	0
-burly	disgust	0
-burly	fear	0
-burly	joy	0
-burly	negative	0
-burly	positive	0
-burly	sadness	0
-burly	surprise	0
-burly	trust	0
-burn	anger	0
-burn	anticipation	0
-burn	disgust	0
-burn	fear	0
-burn	joy	0
-burn	negative	0
-burn	positive	0
-burn	sadness	0
-burn	surprise	0
-burn	trust	0
-burner	anger	0
-burner	anticipation	0
-burner	disgust	0
-burner	fear	0
-burner	joy	0
-burner	negative	0
-burner	positive	0
-burner	sadness	0
-burner	surprise	0
-burner	trust	0
-burning	anger	0
-burning	anticipation	0
-burning	disgust	0
-burning	fear	0
-burning	joy	0
-burning	negative	0
-burning	positive	0
-burning	sadness	0
-burning	surprise	0
-burning	trust	0
-burnished	anger	0
-burnished	anticipation	0
-burnished	disgust	0
-burnished	fear	0
-burnished	joy	0
-burnished	negative	0
-burnished	positive	0
-burnished	sadness	0
-burnished	surprise	0
-burnished	trust	0
-burnout	anger	0
-burnout	anticipation	0
-burnout	disgust	0
-burnout	fear	0
-burnout	joy	0
-burnout	negative	0
-burnout	positive	0
-burnout	sadness	0
-burnout	surprise	0
-burnout	trust	0
-burnt	anger	0
-burnt	anticipation	0
-burnt	disgust	1
-burnt	fear	0
-burnt	joy	0
-burnt	negative	1
-burnt	positive	0
-burnt	sadness	0
-burnt	surprise	0
-burnt	trust	0
-burr	anger	0
-burr	anticipation	0
-burr	disgust	0
-burr	fear	0
-burr	joy	0
-burr	negative	0
-burr	positive	0
-burr	sadness	0
-burr	surprise	0
-burr	trust	0
-burrow	anger	0
-burrow	anticipation	0
-burrow	disgust	0
-burrow	fear	0
-burrow	joy	0
-burrow	negative	0
-burrow	positive	0
-burrow	sadness	0
-burrow	surprise	0
-burrow	trust	0
-bursary	anger	0
-bursary	anticipation	0
-bursary	disgust	0
-bursary	fear	0
-bursary	joy	0
-bursary	negative	0
-bursary	positive	0
-bursary	sadness	0
-bursary	surprise	0
-bursary	trust	1
-bury	anger	0
-bury	anticipation	0
-bury	disgust	0
-bury	fear	0
-bury	joy	0
-bury	negative	0
-bury	positive	0
-bury	sadness	1
-bury	surprise	0
-bury	trust	0
-bus	anger	0
-bus	anticipation	0
-bus	disgust	0
-bus	fear	0
-bus	joy	0
-bus	negative	0
-bus	positive	0
-bus	sadness	0
-bus	surprise	0
-bus	trust	0
-bush	anger	0
-bush	anticipation	0
-bush	disgust	0
-bush	fear	0
-bush	joy	0
-bush	negative	0
-bush	positive	0
-bush	sadness	0
-bush	surprise	0
-bush	trust	0
-bushel	anger	0
-bushel	anticipation	0
-bushel	disgust	0
-bushel	fear	0
-bushel	joy	0
-bushel	negative	0
-bushel	positive	0
-bushel	sadness	0
-bushel	surprise	0
-bushel	trust	0
-bushy	anger	0
-bushy	anticipation	0
-bushy	disgust	0
-bushy	fear	0
-bushy	joy	0
-bushy	negative	0
-bushy	positive	0
-bushy	sadness	0
-bushy	surprise	0
-bushy	trust	0
-business	anger	0
-business	anticipation	0
-business	disgust	0
-business	fear	0
-business	joy	0
-business	negative	0
-business	positive	0
-business	sadness	0
-business	surprise	0
-business	trust	0
-buss	anger	0
-buss	anticipation	0
-buss	disgust	0
-buss	fear	0
-buss	joy	1
-buss	negative	0
-buss	positive	1
-buss	sadness	0
-buss	surprise	0
-buss	trust	0
-bust	anger	0
-bust	anticipation	0
-bust	disgust	0
-bust	fear	0
-bust	joy	0
-bust	negative	0
-bust	positive	0
-bust	sadness	0
-bust	surprise	0
-bust	trust	0
-busted	anger	1
-busted	anticipation	0
-busted	disgust	0
-busted	fear	1
-busted	joy	0
-busted	negative	1
-busted	positive	0
-busted	sadness	0
-busted	surprise	0
-busted	trust	0
-bustle	anger	0
-bustle	anticipation	0
-bustle	disgust	0
-bustle	fear	0
-bustle	joy	0
-bustle	negative	0
-bustle	positive	0
-bustle	sadness	0
-bustle	surprise	0
-bustle	trust	0
-bustling	anger	0
-bustling	anticipation	0
-bustling	disgust	0
-bustling	fear	0
-bustling	joy	0
-bustling	negative	0
-bustling	positive	0
-bustling	sadness	0
-bustling	surprise	0
-bustling	trust	0
-busy	anger	0
-busy	anticipation	0
-busy	disgust	0
-busy	fear	0
-busy	joy	0
-busy	negative	0
-busy	positive	0
-busy	sadness	0
-busy	surprise	0
-busy	trust	0
-butane	anger	0
-butane	anticipation	0
-butane	disgust	0
-butane	fear	0
-butane	joy	0
-butane	negative	0
-butane	positive	0
-butane	sadness	0
-butane	surprise	0
-butane	trust	0
-butcher	anger	1
-butcher	anticipation	0
-butcher	disgust	1
-butcher	fear	1
-butcher	joy	0
-butcher	negative	1
-butcher	positive	0
-butcher	sadness	0
-butcher	surprise	0
-butcher	trust	0
-butler	anger	0
-butler	anticipation	0
-butler	disgust	0
-butler	fear	0
-butler	joy	0
-butler	negative	0
-butler	positive	1
-butler	sadness	0
-butler	surprise	0
-butler	trust	1
-butt	anger	0
-butt	anticipation	0
-butt	disgust	0
-butt	fear	0
-butt	joy	0
-butt	negative	1
-butt	positive	0
-butt	sadness	0
-butt	surprise	0
-butt	trust	0
-butter	anger	0
-butter	anticipation	0
-butter	disgust	0
-butter	fear	0
-butter	joy	0
-butter	negative	0
-butter	positive	0
-butter	sadness	0
-butter	surprise	0
-butter	trust	0
-butterfly	anger	0
-butterfly	anticipation	0
-butterfly	disgust	0
-butterfly	fear	0
-butterfly	joy	0
-butterfly	negative	0
-butterfly	positive	0
-butterfly	sadness	0
-butterfly	surprise	0
-butterfly	trust	0
-buttery	anger	0
-buttery	anticipation	0
-buttery	disgust	0
-buttery	fear	0
-buttery	joy	0
-buttery	negative	0
-buttery	positive	1
-buttery	sadness	0
-buttery	surprise	0
-buttery	trust	0
-buttock	anger	0
-buttock	anticipation	0
-buttock	disgust	0
-buttock	fear	0
-buttock	joy	0
-buttock	negative	0
-buttock	positive	0
-buttock	sadness	0
-buttock	surprise	0
-buttock	trust	0
-button	anger	0
-button	anticipation	0
-button	disgust	0
-button	fear	0
-button	joy	0
-button	negative	0
-button	positive	0
-button	sadness	0
-button	surprise	0
-button	trust	0
-buttress	anger	0
-buttress	anticipation	0
-buttress	disgust	0
-buttress	fear	0
-buttress	joy	0
-buttress	negative	0
-buttress	positive	0
-buttress	sadness	0
-buttress	surprise	0
-buttress	trust	0
-buxom	anger	0
-buxom	anticipation	0
-buxom	disgust	0
-buxom	fear	0
-buxom	joy	0
-buxom	negative	0
-buxom	positive	1
-buxom	sadness	0
-buxom	surprise	0
-buxom	trust	0
-buy	anger	0
-buy	anticipation	0
-buy	disgust	0
-buy	fear	0
-buy	joy	0
-buy	negative	0
-buy	positive	0
-buy	sadness	0
-buy	surprise	0
-buy	trust	0
-buyer	anger	0
-buyer	anticipation	0
-buyer	disgust	0
-buyer	fear	0
-buyer	joy	0
-buyer	negative	0
-buyer	positive	0
-buyer	sadness	0
-buyer	surprise	0
-buyer	trust	0
-buying	anger	0
-buying	anticipation	0
-buying	disgust	0
-buying	fear	0
-buying	joy	0
-buying	negative	0
-buying	positive	0
-buying	sadness	0
-buying	surprise	0
-buying	trust	0
-buzz	anger	0
-buzz	anticipation	1
-buzz	disgust	0
-buzz	fear	1
-buzz	joy	0
-buzz	negative	0
-buzz	positive	1
-buzz	sadness	0
-buzz	surprise	0
-buzz	trust	0
-buzzed	anger	0
-buzzed	anticipation	0
-buzzed	disgust	0
-buzzed	fear	0
-buzzed	joy	0
-buzzed	negative	1
-buzzed	positive	0
-buzzed	sadness	0
-buzzed	surprise	0
-buzzed	trust	0
-buzzer	anger	0
-buzzer	anticipation	0
-buzzer	disgust	0
-buzzer	fear	0
-buzzer	joy	0
-buzzer	negative	0
-buzzer	positive	0
-buzzer	sadness	0
-buzzer	surprise	0
-buzzer	trust	0
-bye	anger	0
-bye	anticipation	1
-bye	disgust	0
-bye	fear	0
-bye	joy	0
-bye	negative	0
-bye	positive	0
-bye	sadness	0
-bye	surprise	0
-bye	trust	0
-bygone	anger	0
-bygone	anticipation	0
-bygone	disgust	0
-bygone	fear	0
-bygone	joy	0
-bygone	negative	0
-bygone	positive	0
-bygone	sadness	0
-bygone	surprise	0
-bygone	trust	0
-bylaw	anger	0
-bylaw	anticipation	0
-bylaw	disgust	0
-bylaw	fear	0
-bylaw	joy	0
-bylaw	negative	0
-bylaw	positive	0
-bylaw	sadness	0
-bylaw	surprise	0
-bylaw	trust	1
-bystander	anger	0
-bystander	anticipation	0
-bystander	disgust	0
-bystander	fear	0
-bystander	joy	0
-bystander	negative	0
-bystander	positive	0
-bystander	sadness	0
-bystander	surprise	0
-bystander	trust	0
-byte	anger	0
-byte	anticipation	0
-byte	disgust	0
-byte	fear	0
-byte	joy	0
-byte	negative	0
-byte	positive	0
-byte	sadness	0
-byte	surprise	0
-byte	trust	0
-cab	anger	0
-cab	anticipation	0
-cab	disgust	0
-cab	fear	0
-cab	joy	0
-cab	negative	0
-cab	positive	1
-cab	sadness	0
-cab	surprise	0
-cab	trust	0
-cabal	anger	0
-cabal	anticipation	0
-cabal	disgust	0
-cabal	fear	1
-cabal	joy	0
-cabal	negative	1
-cabal	positive	0
-cabal	sadness	0
-cabal	surprise	0
-cabal	trust	0
-cabbage	anger	0
-cabbage	anticipation	0
-cabbage	disgust	0
-cabbage	fear	0
-cabbage	joy	0
-cabbage	negative	0
-cabbage	positive	0
-cabbage	sadness	0
-cabbage	surprise	0
-cabbage	trust	0
-cabin	anger	0
-cabin	anticipation	0
-cabin	disgust	0
-cabin	fear	0
-cabin	joy	0
-cabin	negative	0
-cabin	positive	0
-cabin	sadness	0
-cabin	surprise	0
-cabin	trust	0
-cabinet	anger	0
-cabinet	anticipation	0
-cabinet	disgust	0
-cabinet	fear	0
-cabinet	joy	0
-cabinet	negative	0
-cabinet	positive	1
-cabinet	sadness	0
-cabinet	surprise	0
-cabinet	trust	1
-cable	anger	0
-cable	anticipation	0
-cable	disgust	0
-cable	fear	0
-cable	joy	0
-cable	negative	0
-cable	positive	0
-cable	sadness	0
-cable	surprise	1
-cable	trust	0
-cabriolet	anger	0
-cabriolet	anticipation	0
-cabriolet	disgust	0
-cabriolet	fear	0
-cabriolet	joy	0
-cabriolet	negative	0
-cabriolet	positive	0
-cabriolet	sadness	0
-cabriolet	surprise	0
-cabriolet	trust	0
-cache	anger	0
-cache	anticipation	0
-cache	disgust	0
-cache	fear	0
-cache	joy	0
-cache	negative	0
-cache	positive	0
-cache	sadness	0
-cache	surprise	0
-cache	trust	0
-cacophony	anger	1
-cacophony	anticipation	0
-cacophony	disgust	1
-cacophony	fear	0
-cacophony	joy	0
-cacophony	negative	1
-cacophony	positive	0
-cacophony	sadness	0
-cacophony	surprise	0
-cacophony	trust	0
-cad	anger	1
-cad	anticipation	0
-cad	disgust	1
-cad	fear	0
-cad	joy	0
-cad	negative	1
-cad	positive	0
-cad	sadness	0
-cad	surprise	0
-cad	trust	0
-cadaver	anger	0
-cadaver	anticipation	0
-cadaver	disgust	1
-cadaver	fear	1
-cadaver	joy	0
-cadaver	negative	1
-cadaver	positive	0
-cadaver	sadness	1
-cadaver	surprise	1
-cadaver	trust	0
-caddy	anger	0
-caddy	anticipation	0
-caddy	disgust	0
-caddy	fear	0
-caddy	joy	0
-caddy	negative	0
-caddy	positive	0
-caddy	sadness	0
-caddy	surprise	0
-caddy	trust	0
-cadence	anger	0
-cadence	anticipation	0
-cadence	disgust	0
-cadence	fear	0
-cadence	joy	0
-cadence	negative	0
-cadence	positive	0
-cadence	sadness	0
-cadence	surprise	0
-cadence	trust	0
-cadet	anger	0
-cadet	anticipation	0
-cadet	disgust	0
-cadet	fear	0
-cadet	joy	0
-cadet	negative	0
-cadet	positive	0
-cadet	sadness	0
-cadet	surprise	0
-cadet	trust	0
-cafe	anger	0
-cafe	anticipation	0
-cafe	disgust	0
-cafe	fear	0
-cafe	joy	0
-cafe	negative	0
-cafe	positive	1
-cafe	sadness	0
-cafe	surprise	0
-cafe	trust	0
-cage	anger	0
-cage	anticipation	0
-cage	disgust	0
-cage	fear	0
-cage	joy	0
-cage	negative	1
-cage	positive	0
-cage	sadness	1
-cage	surprise	0
-cage	trust	0
-cairn	anger	0
-cairn	anticipation	0
-cairn	disgust	0
-cairn	fear	0
-cairn	joy	0
-cairn	negative	0
-cairn	positive	0
-cairn	sadness	0
-cairn	surprise	0
-cairn	trust	0
-cake	anger	0
-cake	anticipation	0
-cake	disgust	0
-cake	fear	0
-cake	joy	0
-cake	negative	0
-cake	positive	0
-cake	sadness	0
-cake	surprise	0
-cake	trust	0
-calamity	anger	0
-calamity	anticipation	0
-calamity	disgust	0
-calamity	fear	0
-calamity	joy	0
-calamity	negative	0
-calamity	positive	0
-calamity	sadness	1
-calamity	surprise	0
-calamity	trust	0
-calcareous	anger	0
-calcareous	anticipation	0
-calcareous	disgust	0
-calcareous	fear	0
-calcareous	joy	0
-calcareous	negative	0
-calcareous	positive	0
-calcareous	sadness	0
-calcareous	surprise	0
-calcareous	trust	0
-calculate	anger	0
-calculate	anticipation	0
-calculate	disgust	0
-calculate	fear	0
-calculate	joy	0
-calculate	negative	0
-calculate	positive	0
-calculate	sadness	0
-calculate	surprise	0
-calculate	trust	0
-calculated	anger	0
-calculated	anticipation	0
-calculated	disgust	0
-calculated	fear	0
-calculated	joy	0
-calculated	negative	0
-calculated	positive	0
-calculated	sadness	0
-calculated	surprise	0
-calculated	trust	0
-calculating	anger	0
-calculating	anticipation	0
-calculating	disgust	0
-calculating	fear	0
-calculating	joy	0
-calculating	negative	1
-calculating	positive	0
-calculating	sadness	0
-calculating	surprise	0
-calculating	trust	0
-calculation	anger	0
-calculation	anticipation	1
-calculation	disgust	0
-calculation	fear	0
-calculation	joy	0
-calculation	negative	0
-calculation	positive	0
-calculation	sadness	0
-calculation	surprise	0
-calculation	trust	0
-calculator	anger	0
-calculator	anticipation	0
-calculator	disgust	0
-calculator	fear	0
-calculator	joy	0
-calculator	negative	0
-calculator	positive	1
-calculator	sadness	0
-calculator	surprise	0
-calculator	trust	1
-calculus	anger	0
-calculus	anticipation	0
-calculus	disgust	0
-calculus	fear	0
-calculus	joy	0
-calculus	negative	0
-calculus	positive	0
-calculus	sadness	0
-calculus	surprise	0
-calculus	trust	0
-calendar	anger	0
-calendar	anticipation	0
-calendar	disgust	0
-calendar	fear	0
-calendar	joy	0
-calendar	negative	0
-calendar	positive	0
-calendar	sadness	0
-calendar	surprise	0
-calendar	trust	0
-calender	anger	0
-calender	anticipation	0
-calender	disgust	0
-calender	fear	0
-calender	joy	0
-calender	negative	0
-calender	positive	0
-calender	sadness	0
-calender	surprise	0
-calender	trust	0
-calf	anger	0
-calf	anticipation	0
-calf	disgust	0
-calf	fear	0
-calf	joy	1
-calf	negative	0
-calf	positive	1
-calf	sadness	0
-calf	surprise	0
-calf	trust	1
-caliber	anger	0
-caliber	anticipation	0
-caliber	disgust	0
-caliber	fear	0
-caliber	joy	0
-caliber	negative	0
-caliber	positive	0
-caliber	sadness	0
-caliber	surprise	0
-caliber	trust	0
-calibrate	anger	0
-calibrate	anticipation	0
-calibrate	disgust	0
-calibrate	fear	0
-calibrate	joy	0
-calibrate	negative	0
-calibrate	positive	0
-calibrate	sadness	0
-calibrate	surprise	0
-calibrate	trust	0
-calico	anger	0
-calico	anticipation	0
-calico	disgust	0
-calico	fear	0
-calico	joy	0
-calico	negative	0
-calico	positive	0
-calico	sadness	0
-calico	surprise	0
-calico	trust	0
-calipers	anger	0
-calipers	anticipation	0
-calipers	disgust	0
-calipers	fear	0
-calipers	joy	0
-calipers	negative	0
-calipers	positive	0
-calipers	sadness	0
-calipers	surprise	0
-calipers	trust	0
-call	anger	0
-call	anticipation	0
-call	disgust	0
-call	fear	0
-call	joy	0
-call	negative	0
-call	positive	0
-call	sadness	0
-call	surprise	0
-call	trust	0
-calligraphy	anger	0
-calligraphy	anticipation	0
-calligraphy	disgust	0
-calligraphy	fear	0
-calligraphy	joy	0
-calligraphy	negative	0
-calligraphy	positive	0
-calligraphy	sadness	0
-calligraphy	surprise	0
-calligraphy	trust	0
-calling	anger	0
-calling	anticipation	0
-calling	disgust	0
-calling	fear	0
-calling	joy	0
-calling	negative	0
-calling	positive	0
-calling	sadness	0
-calling	surprise	0
-calling	trust	0
-callous	anger	1
-callous	anticipation	0
-callous	disgust	1
-callous	fear	0
-callous	joy	0
-callous	negative	1
-callous	positive	0
-callous	sadness	0
-callous	surprise	0
-callous	trust	0
-calls	anger	0
-calls	anticipation	1
-calls	disgust	0
-calls	fear	0
-calls	joy	0
-calls	negative	1
-calls	positive	0
-calls	sadness	0
-calls	surprise	0
-calls	trust	1
-calm	anger	0
-calm	anticipation	0
-calm	disgust	0
-calm	fear	0
-calm	joy	0
-calm	negative	0
-calm	positive	1
-calm	sadness	0
-calm	surprise	0
-calm	trust	0
-calmness	anger	0
-calmness	anticipation	0
-calmness	disgust	0
-calmness	fear	0
-calmness	joy	0
-calmness	negative	0
-calmness	positive	0
-calmness	sadness	0
-calmness	surprise	0
-calmness	trust	0
-caloric	anger	0
-caloric	anticipation	0
-caloric	disgust	0
-caloric	fear	0
-caloric	joy	0
-caloric	negative	0
-caloric	positive	0
-caloric	sadness	0
-caloric	surprise	0
-caloric	trust	0
-calorie	anger	0
-calorie	anticipation	0
-calorie	disgust	0
-calorie	fear	0
-calorie	joy	0
-calorie	negative	0
-calorie	positive	0
-calorie	sadness	0
-calorie	surprise	0
-calorie	trust	0
-calorimeter	anger	0
-calorimeter	anticipation	0
-calorimeter	disgust	0
-calorimeter	fear	0
-calorimeter	joy	0
-calorimeter	negative	0
-calorimeter	positive	0
-calorimeter	sadness	0
-calorimeter	surprise	0
-calorimeter	trust	0
-cam	anger	0
-cam	anticipation	0
-cam	disgust	0
-cam	fear	0
-cam	joy	0
-cam	negative	0
-cam	positive	0
-cam	sadness	0
-cam	surprise	0
-cam	trust	0
-camber	anger	0
-camber	anticipation	0
-camber	disgust	0
-camber	fear	0
-camber	joy	0
-camber	negative	0
-camber	positive	0
-camber	sadness	0
-camber	surprise	0
-camber	trust	0
-camel	anger	0
-camel	anticipation	0
-camel	disgust	0
-camel	fear	0
-camel	joy	0
-camel	negative	0
-camel	positive	0
-camel	sadness	0
-camel	surprise	0
-camel	trust	0
-cameo	anger	0
-cameo	anticipation	0
-cameo	disgust	0
-cameo	fear	0
-cameo	joy	0
-cameo	negative	0
-cameo	positive	0
-cameo	sadness	0
-cameo	surprise	0
-cameo	trust	0
-cameraman	anger	0
-cameraman	anticipation	0
-cameraman	disgust	0
-cameraman	fear	0
-cameraman	joy	0
-cameraman	negative	0
-cameraman	positive	0
-cameraman	sadness	0
-cameraman	surprise	0
-cameraman	trust	0
-camisole	anger	0
-camisole	anticipation	0
-camisole	disgust	0
-camisole	fear	0
-camisole	joy	0
-camisole	negative	0
-camisole	positive	0
-camisole	sadness	0
-camisole	surprise	0
-camisole	trust	0
-camouflage	anger	0
-camouflage	anticipation	0
-camouflage	disgust	0
-camouflage	fear	0
-camouflage	joy	0
-camouflage	negative	0
-camouflage	positive	0
-camouflage	sadness	0
-camouflage	surprise	1
-camouflage	trust	0
-camouflaged	anger	0
-camouflaged	anticipation	0
-camouflaged	disgust	0
-camouflaged	fear	0
-camouflaged	joy	0
-camouflaged	negative	0
-camouflaged	positive	0
-camouflaged	sadness	0
-camouflaged	surprise	1
-camouflaged	trust	0
-camp	anger	0
-camp	anticipation	0
-camp	disgust	0
-camp	fear	0
-camp	joy	0
-camp	negative	0
-camp	positive	0
-camp	sadness	0
-camp	surprise	0
-camp	trust	0
-campaign	anger	0
-campaign	anticipation	0
-campaign	disgust	0
-campaign	fear	0
-campaign	joy	0
-campaign	negative	0
-campaign	positive	0
-campaign	sadness	0
-campaign	surprise	0
-campaign	trust	0
-campaigner	anger	0
-campaigner	anticipation	0
-campaigner	disgust	0
-campaigner	fear	0
-campaigner	joy	0
-campaigner	negative	0
-campaigner	positive	0
-campaigner	sadness	0
-campaigner	surprise	0
-campaigner	trust	0
-campaigning	anger	1
-campaigning	anticipation	0
-campaigning	disgust	0
-campaigning	fear	1
-campaigning	joy	0
-campaigning	negative	1
-campaigning	positive	0
-campaigning	sadness	0
-campaigning	surprise	0
-campaigning	trust	0
-campus	anger	0
-campus	anticipation	0
-campus	disgust	0
-campus	fear	0
-campus	joy	0
-campus	negative	0
-campus	positive	0
-campus	sadness	0
-campus	surprise	0
-campus	trust	0
-canal	anger	0
-canal	anticipation	0
-canal	disgust	0
-canal	fear	0
-canal	joy	0
-canal	negative	0
-canal	positive	0
-canal	sadness	0
-canal	surprise	0
-canal	trust	0
-canary	anger	0
-canary	anticipation	0
-canary	disgust	0
-canary	fear	0
-canary	joy	0
-canary	negative	0
-canary	positive	1
-canary	sadness	0
-canary	surprise	0
-canary	trust	0
-cancel	anger	0
-cancel	anticipation	0
-cancel	disgust	0
-cancel	fear	0
-cancel	joy	0
-cancel	negative	1
-cancel	positive	0
-cancel	sadness	1
-cancel	surprise	0
-cancel	trust	0
-canceling	anger	0
-canceling	anticipation	0
-canceling	disgust	0
-canceling	fear	0
-canceling	joy	0
-canceling	negative	0
-canceling	positive	0
-canceling	sadness	0
-canceling	surprise	0
-canceling	trust	0
-cancellation	anger	0
-cancellation	anticipation	0
-cancellation	disgust	0
-cancellation	fear	0
-cancellation	joy	0
-cancellation	negative	0
-cancellation	positive	0
-cancellation	sadness	0
-cancellation	surprise	0
-cancellation	trust	0
-cancer	anger	1
-cancer	anticipation	0
-cancer	disgust	1
-cancer	fear	1
-cancer	joy	0
-cancer	negative	1
-cancer	positive	0
-cancer	sadness	1
-cancer	surprise	0
-cancer	trust	0
-candid	anger	0
-candid	anticipation	1
-candid	disgust	0
-candid	fear	0
-candid	joy	1
-candid	negative	0
-candid	positive	1
-candid	sadness	0
-candid	surprise	1
-candid	trust	1
-candidacy	anger	0
-candidacy	anticipation	0
-candidacy	disgust	0
-candidacy	fear	0
-candidacy	joy	0
-candidacy	negative	0
-candidacy	positive	0
-candidacy	sadness	0
-candidacy	surprise	0
-candidacy	trust	0
-candidate	anger	0
-candidate	anticipation	0
-candidate	disgust	0
-candidate	fear	0
-candidate	joy	0
-candidate	negative	0
-candidate	positive	1
-candidate	sadness	0
-candidate	surprise	0
-candidate	trust	0
-candied	anger	0
-candied	anticipation	0
-candied	disgust	0
-candied	fear	0
-candied	joy	0
-candied	negative	0
-candied	positive	1
-candied	sadness	0
-candied	surprise	0
-candied	trust	0
-candle	anger	0
-candle	anticipation	0
-candle	disgust	0
-candle	fear	0
-candle	joy	0
-candle	negative	0
-candle	positive	0
-candle	sadness	0
-candle	surprise	0
-candle	trust	0
-candlelight	anger	0
-candlelight	anticipation	0
-candlelight	disgust	0
-candlelight	fear	0
-candlelight	joy	0
-candlelight	negative	0
-candlelight	positive	0
-candlelight	sadness	0
-candlelight	surprise	0
-candlelight	trust	0
-candlestick	anger	0
-candlestick	anticipation	0
-candlestick	disgust	0
-candlestick	fear	0
-candlestick	joy	0
-candlestick	negative	0
-candlestick	positive	0
-candlestick	sadness	0
-candlestick	surprise	0
-candlestick	trust	0
-candor	anger	0
-candor	anticipation	0
-candor	disgust	0
-candor	fear	0
-candor	joy	0
-candor	negative	0
-candor	positive	0
-candor	sadness	0
-candor	surprise	0
-candor	trust	0
-candy	anger	0
-candy	anticipation	0
-candy	disgust	0
-candy	fear	0
-candy	joy	0
-candy	negative	0
-candy	positive	0
-candy	sadness	0
-candy	surprise	0
-candy	trust	0
-cane	anger	1
-cane	anticipation	0
-cane	disgust	0
-cane	fear	1
-cane	joy	0
-cane	negative	0
-cane	positive	0
-cane	sadness	0
-cane	surprise	0
-cane	trust	0
-canine	anger	0
-canine	anticipation	0
-canine	disgust	0
-canine	fear	0
-canine	joy	0
-canine	negative	0
-canine	positive	0
-canine	sadness	0
-canine	surprise	0
-canine	trust	0
-canister	anger	0
-canister	anticipation	0
-canister	disgust	0
-canister	fear	0
-canister	joy	0
-canister	negative	0
-canister	positive	0
-canister	sadness	0
-canister	surprise	0
-canister	trust	0
-canker	anger	1
-canker	anticipation	0
-canker	disgust	1
-canker	fear	0
-canker	joy	0
-canker	negative	1
-canker	positive	0
-canker	sadness	0
-canker	surprise	0
-canker	trust	0
-cannibal	anger	0
-cannibal	anticipation	0
-cannibal	disgust	1
-cannibal	fear	1
-cannibal	joy	0
-cannibal	negative	1
-cannibal	positive	0
-cannibal	sadness	0
-cannibal	surprise	0
-cannibal	trust	0
-cannibalism	anger	0
-cannibalism	anticipation	0
-cannibalism	disgust	1
-cannibalism	fear	0
-cannibalism	joy	0
-cannibalism	negative	1
-cannibalism	positive	0
-cannibalism	sadness	0
-cannibalism	surprise	0
-cannibalism	trust	0
-canning	anger	0
-canning	anticipation	0
-canning	disgust	0
-canning	fear	0
-canning	joy	0
-canning	negative	0
-canning	positive	0
-canning	sadness	0
-canning	surprise	0
-canning	trust	0
-cannon	anger	1
-cannon	anticipation	0
-cannon	disgust	0
-cannon	fear	1
-cannon	joy	0
-cannon	negative	1
-cannon	positive	0
-cannon	sadness	0
-cannon	surprise	0
-cannon	trust	0
-canoe	anger	0
-canoe	anticipation	0
-canoe	disgust	0
-canoe	fear	0
-canoe	joy	0
-canoe	negative	0
-canoe	positive	0
-canoe	sadness	0
-canoe	surprise	0
-canoe	trust	0
-canon	anger	0
-canon	anticipation	0
-canon	disgust	0
-canon	fear	0
-canon	joy	0
-canon	negative	0
-canon	positive	0
-canon	sadness	0
-canon	surprise	0
-canon	trust	0
-canonical	anger	0
-canonical	anticipation	0
-canonical	disgust	0
-canonical	fear	0
-canonical	joy	0
-canonical	negative	0
-canonical	positive	0
-canonical	sadness	0
-canonical	surprise	0
-canonical	trust	0
-canons	anger	0
-canons	anticipation	0
-canons	disgust	0
-canons	fear	0
-canons	joy	0
-canons	negative	0
-canons	positive	0
-canons	sadness	0
-canons	surprise	0
-canons	trust	1
-canopy	anger	0
-canopy	anticipation	0
-canopy	disgust	0
-canopy	fear	0
-canopy	joy	0
-canopy	negative	0
-canopy	positive	0
-canopy	sadness	0
-canopy	surprise	0
-canopy	trust	0
-canteen	anger	0
-canteen	anticipation	0
-canteen	disgust	0
-canteen	fear	0
-canteen	joy	0
-canteen	negative	0
-canteen	positive	0
-canteen	sadness	0
-canteen	surprise	0
-canteen	trust	0
-canterbury	anger	0
-canterbury	anticipation	0
-canterbury	disgust	0
-canterbury	fear	0
-canterbury	joy	0
-canterbury	negative	0
-canterbury	positive	0
-canterbury	sadness	0
-canterbury	surprise	0
-canterbury	trust	0
-cantilever	anger	0
-cantilever	anticipation	0
-cantilever	disgust	0
-cantilever	fear	0
-cantilever	joy	0
-cantilever	negative	0
-cantilever	positive	0
-cantilever	sadness	0
-cantilever	surprise	0
-cantilever	trust	0
-canto	anger	0
-canto	anticipation	0
-canto	disgust	0
-canto	fear	0
-canto	joy	0
-canto	negative	0
-canto	positive	0
-canto	sadness	0
-canto	surprise	0
-canto	trust	0
-canton	anger	0
-canton	anticipation	0
-canton	disgust	0
-canton	fear	0
-canton	joy	0
-canton	negative	0
-canton	positive	0
-canton	sadness	0
-canton	surprise	0
-canton	trust	0
-canvas	anger	0
-canvas	anticipation	0
-canvas	disgust	0
-canvas	fear	0
-canvas	joy	0
-canvas	negative	0
-canvas	positive	0
-canvas	sadness	0
-canvas	surprise	0
-canvas	trust	0
-canvass	anger	0
-canvass	anticipation	0
-canvass	disgust	0
-canvass	fear	0
-canvass	joy	0
-canvass	negative	0
-canvass	positive	0
-canvass	sadness	0
-canvass	surprise	0
-canvass	trust	0
-cap	anger	0
-cap	anticipation	1
-cap	disgust	0
-cap	fear	0
-cap	joy	0
-cap	negative	0
-cap	positive	0
-cap	sadness	0
-cap	surprise	0
-cap	trust	1
-capability	anger	0
-capability	anticipation	0
-capability	disgust	0
-capability	fear	0
-capability	joy	0
-capability	negative	0
-capability	positive	0
-capability	sadness	0
-capability	surprise	0
-capability	trust	0
-capable	anger	0
-capable	anticipation	0
-capable	disgust	0
-capable	fear	0
-capable	joy	0
-capable	negative	0
-capable	positive	0
-capable	sadness	0
-capable	surprise	0
-capable	trust	0
-capacity	anger	0
-capacity	anticipation	0
-capacity	disgust	0
-capacity	fear	0
-capacity	joy	0
-capacity	negative	0
-capacity	positive	0
-capacity	sadness	0
-capacity	surprise	0
-capacity	trust	0
-cape	anger	0
-cape	anticipation	0
-cape	disgust	0
-cape	fear	0
-cape	joy	0
-cape	negative	0
-cape	positive	0
-cape	sadness	0
-cape	surprise	0
-cape	trust	0
-caper	anger	0
-caper	anticipation	0
-caper	disgust	0
-caper	fear	0
-caper	joy	0
-caper	negative	0
-caper	positive	0
-caper	sadness	0
-caper	surprise	0
-caper	trust	0
-capillary	anger	0
-capillary	anticipation	0
-capillary	disgust	0
-capillary	fear	0
-capillary	joy	0
-capillary	negative	0
-capillary	positive	0
-capillary	sadness	0
-capillary	surprise	0
-capillary	trust	0
-capital	anger	0
-capital	anticipation	0
-capital	disgust	0
-capital	fear	0
-capital	joy	0
-capital	negative	0
-capital	positive	0
-capital	sadness	0
-capital	surprise	0
-capital	trust	0
-capitalist	anger	0
-capitalist	anticipation	0
-capitalist	disgust	0
-capitalist	fear	0
-capitalist	joy	0
-capitalist	negative	0
-capitalist	positive	1
-capitalist	sadness	0
-capitalist	surprise	0
-capitalist	trust	0
-capitals	anger	0
-capitals	anticipation	0
-capitals	disgust	0
-capitals	fear	0
-capitals	joy	0
-capitals	negative	0
-capitals	positive	0
-capitals	sadness	0
-capitals	surprise	0
-capitals	trust	0
-capitation	anger	0
-capitation	anticipation	0
-capitation	disgust	0
-capitation	fear	0
-capitation	joy	0
-capitation	negative	0
-capitation	positive	0
-capitation	sadness	0
-capitation	surprise	0
-capitation	trust	0
-capitol	anger	0
-capitol	anticipation	0
-capitol	disgust	0
-capitol	fear	0
-capitol	joy	0
-capitol	negative	0
-capitol	positive	0
-capitol	sadness	0
-capitol	surprise	0
-capitol	trust	0
-capitulation	anger	0
-capitulation	anticipation	0
-capitulation	disgust	0
-capitulation	fear	0
-capitulation	joy	0
-capitulation	negative	0
-capitulation	positive	0
-capitulation	sadness	0
-capitulation	surprise	0
-capitulation	trust	0
-caprice	anger	0
-caprice	anticipation	0
-caprice	disgust	0
-caprice	fear	0
-caprice	joy	0
-caprice	negative	0
-caprice	positive	0
-caprice	sadness	0
-caprice	surprise	0
-caprice	trust	0
-capricious	anger	0
-capricious	anticipation	0
-capricious	disgust	0
-capricious	fear	0
-capricious	joy	0
-capricious	negative	0
-capricious	positive	0
-capricious	sadness	0
-capricious	surprise	0
-capricious	trust	0
-caps	anger	0
-caps	anticipation	0
-caps	disgust	0
-caps	fear	0
-caps	joy	0
-caps	negative	0
-caps	positive	0
-caps	sadness	0
-caps	surprise	0
-caps	trust	0
-capsule	anger	0
-capsule	anticipation	0
-capsule	disgust	0
-capsule	fear	0
-capsule	joy	0
-capsule	negative	0
-capsule	positive	0
-capsule	sadness	0
-capsule	surprise	0
-capsule	trust	0
-captain	anger	0
-captain	anticipation	0
-captain	disgust	0
-captain	fear	0
-captain	joy	0
-captain	negative	0
-captain	positive	1
-captain	sadness	0
-captain	surprise	0
-captain	trust	0
-caption	anger	0
-caption	anticipation	0
-caption	disgust	0
-caption	fear	0
-caption	joy	0
-caption	negative	0
-caption	positive	0
-caption	sadness	0
-caption	surprise	0
-caption	trust	0
-captivate	anger	0
-captivate	anticipation	1
-captivate	disgust	0
-captivate	fear	0
-captivate	joy	1
-captivate	negative	0
-captivate	positive	1
-captivate	sadness	0
-captivate	surprise	1
-captivate	trust	1
-captivating	anger	0
-captivating	anticipation	0
-captivating	disgust	0
-captivating	fear	0
-captivating	joy	0
-captivating	negative	0
-captivating	positive	1
-captivating	sadness	0
-captivating	surprise	0
-captivating	trust	0
-captive	anger	0
-captive	anticipation	0
-captive	disgust	0
-captive	fear	1
-captive	joy	0
-captive	negative	1
-captive	positive	0
-captive	sadness	1
-captive	surprise	0
-captive	trust	0
-captivity	anger	0
-captivity	anticipation	0
-captivity	disgust	0
-captivity	fear	0
-captivity	joy	0
-captivity	negative	1
-captivity	positive	0
-captivity	sadness	1
-captivity	surprise	0
-captivity	trust	0
-captor	anger	0
-captor	anticipation	0
-captor	disgust	0
-captor	fear	1
-captor	joy	0
-captor	negative	1
-captor	positive	0
-captor	sadness	0
-captor	surprise	0
-captor	trust	0
-capture	anger	0
-capture	anticipation	0
-capture	disgust	0
-capture	fear	0
-capture	joy	0
-capture	negative	1
-capture	positive	0
-capture	sadness	0
-capture	surprise	0
-capture	trust	0
-car	anger	0
-car	anticipation	0
-car	disgust	0
-car	fear	0
-car	joy	0
-car	negative	0
-car	positive	0
-car	sadness	0
-car	surprise	0
-car	trust	0
-caramel	anger	0
-caramel	anticipation	0
-caramel	disgust	0
-caramel	fear	0
-caramel	joy	0
-caramel	negative	0
-caramel	positive	0
-caramel	sadness	0
-caramel	surprise	0
-caramel	trust	0
-carat	anger	0
-carat	anticipation	0
-carat	disgust	0
-carat	fear	0
-carat	joy	0
-carat	negative	0
-carat	positive	0
-carat	sadness	0
-carat	surprise	0
-carat	trust	0
-caravan	anger	0
-caravan	anticipation	0
-caravan	disgust	0
-caravan	fear	0
-caravan	joy	0
-caravan	negative	0
-caravan	positive	0
-caravan	sadness	0
-caravan	surprise	0
-caravan	trust	0
-carbon	anger	0
-carbon	anticipation	0
-carbon	disgust	0
-carbon	fear	0
-carbon	joy	0
-carbon	negative	0
-carbon	positive	0
-carbon	sadness	0
-carbon	surprise	0
-carbon	trust	0
-carcass	anger	0
-carcass	anticipation	0
-carcass	disgust	1
-carcass	fear	1
-carcass	joy	0
-carcass	negative	1
-carcass	positive	0
-carcass	sadness	1
-carcass	surprise	0
-carcass	trust	0
-carcinoma	anger	0
-carcinoma	anticipation	0
-carcinoma	disgust	0
-carcinoma	fear	1
-carcinoma	joy	0
-carcinoma	negative	1
-carcinoma	positive	0
-carcinoma	sadness	1
-carcinoma	surprise	0
-carcinoma	trust	0
-card	anger	0
-card	anticipation	0
-card	disgust	0
-card	fear	0
-card	joy	0
-card	negative	0
-card	positive	0
-card	sadness	0
-card	surprise	0
-card	trust	0
-cardigan	anger	0
-cardigan	anticipation	0
-cardigan	disgust	0
-cardigan	fear	0
-cardigan	joy	0
-cardigan	negative	0
-cardigan	positive	0
-cardigan	sadness	0
-cardigan	surprise	0
-cardigan	trust	0
-cardinal	anger	0
-cardinal	anticipation	0
-cardinal	disgust	0
-cardinal	fear	0
-cardinal	joy	0
-cardinal	negative	0
-cardinal	positive	0
-cardinal	sadness	0
-cardinal	surprise	0
-cardinal	trust	0
-cardiomyopathy	anger	0
-cardiomyopathy	anticipation	0
-cardiomyopathy	disgust	0
-cardiomyopathy	fear	1
-cardiomyopathy	joy	0
-cardiomyopathy	negative	1
-cardiomyopathy	positive	0
-cardiomyopathy	sadness	1
-cardiomyopathy	surprise	0
-cardiomyopathy	trust	0
-cards	anger	0
-cards	anticipation	0
-cards	disgust	0
-cards	fear	0
-cards	joy	0
-cards	negative	0
-cards	positive	0
-cards	sadness	0
-cards	surprise	0
-cards	trust	0
-care	anger	0
-care	anticipation	0
-care	disgust	0
-care	fear	0
-care	joy	0
-care	negative	0
-care	positive	0
-care	sadness	0
-care	surprise	0
-care	trust	0
-career	anger	0
-career	anticipation	1
-career	disgust	0
-career	fear	0
-career	joy	0
-career	negative	0
-career	positive	1
-career	sadness	0
-career	surprise	0
-career	trust	0
-careful	anger	0
-careful	anticipation	0
-careful	disgust	0
-careful	fear	0
-careful	joy	0
-careful	negative	0
-careful	positive	1
-careful	sadness	0
-careful	surprise	0
-careful	trust	0
-carefully	anger	0
-carefully	anticipation	0
-carefully	disgust	0
-carefully	fear	0
-carefully	joy	0
-carefully	negative	0
-carefully	positive	1
-carefully	sadness	0
-carefully	surprise	0
-carefully	trust	0
-carelessness	anger	1
-carelessness	anticipation	0
-carelessness	disgust	1
-carelessness	fear	0
-carelessness	joy	0
-carelessness	negative	1
-carelessness	positive	0
-carelessness	sadness	0
-carelessness	surprise	0
-carelessness	trust	0
-caress	anger	0
-caress	anticipation	0
-caress	disgust	0
-caress	fear	0
-caress	joy	0
-caress	negative	0
-caress	positive	1
-caress	sadness	0
-caress	surprise	0
-caress	trust	0
-caret	anger	0
-caret	anticipation	0
-caret	disgust	0
-caret	fear	0
-caret	joy	0
-caret	negative	0
-caret	positive	0
-caret	sadness	0
-caret	surprise	0
-caret	trust	0
-caretaker	anger	0
-caretaker	anticipation	0
-caretaker	disgust	0
-caretaker	fear	0
-caretaker	joy	0
-caretaker	negative	0
-caretaker	positive	1
-caretaker	sadness	0
-caretaker	surprise	0
-caretaker	trust	1
-cargo	anger	0
-cargo	anticipation	0
-cargo	disgust	0
-cargo	fear	0
-cargo	joy	0
-cargo	negative	0
-cargo	positive	0
-cargo	sadness	0
-cargo	surprise	0
-cargo	trust	0
-caribou	anger	0
-caribou	anticipation	0
-caribou	disgust	0
-caribou	fear	0
-caribou	joy	0
-caribou	negative	0
-caribou	positive	0
-caribou	sadness	0
-caribou	surprise	0
-caribou	trust	0
-caricature	anger	0
-caricature	anticipation	0
-caricature	disgust	0
-caricature	fear	0
-caricature	joy	0
-caricature	negative	1
-caricature	positive	0
-caricature	sadness	0
-caricature	surprise	0
-caricature	trust	0
-caries	anger	0
-caries	anticipation	0
-caries	disgust	1
-caries	fear	0
-caries	joy	0
-caries	negative	1
-caries	positive	0
-caries	sadness	0
-caries	surprise	0
-caries	trust	0
-carnage	anger	1
-carnage	anticipation	0
-carnage	disgust	1
-carnage	fear	1
-carnage	joy	0
-carnage	negative	1
-carnage	positive	0
-carnage	sadness	1
-carnage	surprise	1
-carnage	trust	0
-carnal	anger	0
-carnal	anticipation	0
-carnal	disgust	0
-carnal	fear	0
-carnal	joy	0
-carnal	negative	1
-carnal	positive	0
-carnal	sadness	0
-carnal	surprise	0
-carnal	trust	0
-carnation	anger	0
-carnation	anticipation	0
-carnation	disgust	0
-carnation	fear	0
-carnation	joy	0
-carnation	negative	0
-carnation	positive	0
-carnation	sadness	0
-carnation	surprise	0
-carnation	trust	0
-carnivorous	anger	0
-carnivorous	anticipation	0
-carnivorous	disgust	0
-carnivorous	fear	1
-carnivorous	joy	0
-carnivorous	negative	1
-carnivorous	positive	0
-carnivorous	sadness	0
-carnivorous	surprise	0
-carnivorous	trust	0
-carol	anger	0
-carol	anticipation	0
-carol	disgust	0
-carol	fear	0
-carol	joy	1
-carol	negative	0
-carol	positive	1
-carol	sadness	0
-carol	surprise	0
-carol	trust	1
-carousel	anger	0
-carousel	anticipation	0
-carousel	disgust	0
-carousel	fear	0
-carousel	joy	0
-carousel	negative	0
-carousel	positive	0
-carousel	sadness	0
-carousel	surprise	0
-carousel	trust	0
-carpenter	anger	0
-carpenter	anticipation	0
-carpenter	disgust	0
-carpenter	fear	0
-carpenter	joy	0
-carpenter	negative	0
-carpenter	positive	0
-carpenter	sadness	0
-carpenter	surprise	0
-carpenter	trust	0
-carriage	anger	0
-carriage	anticipation	0
-carriage	disgust	0
-carriage	fear	0
-carriage	joy	0
-carriage	negative	0
-carriage	positive	0
-carriage	sadness	0
-carriage	surprise	0
-carriage	trust	0
-carried	anger	0
-carried	anticipation	0
-carried	disgust	0
-carried	fear	0
-carried	joy	0
-carried	negative	0
-carried	positive	0
-carried	sadness	0
-carried	surprise	0
-carried	trust	0
-carrier	anger	0
-carrier	anticipation	0
-carrier	disgust	0
-carrier	fear	0
-carrier	joy	0
-carrier	negative	0
-carrier	positive	0
-carrier	sadness	0
-carrier	surprise	0
-carrier	trust	0
-carry	anger	0
-carry	anticipation	0
-carry	disgust	0
-carry	fear	0
-carry	joy	0
-carry	negative	0
-carry	positive	0
-carry	sadness	0
-carry	surprise	0
-carry	trust	0
-carrying	anger	0
-carrying	anticipation	0
-carrying	disgust	0
-carrying	fear	0
-carrying	joy	0
-carrying	negative	0
-carrying	positive	0
-carrying	sadness	0
-carrying	surprise	0
-carrying	trust	0
-cart	anger	0
-cart	anticipation	0
-cart	disgust	0
-cart	fear	0
-cart	joy	0
-cart	negative	0
-cart	positive	0
-cart	sadness	0
-cart	surprise	0
-cart	trust	0
-cartel	anger	0
-cartel	anticipation	0
-cartel	disgust	0
-cartel	fear	0
-cartel	joy	0
-cartel	negative	1
-cartel	positive	0
-cartel	sadness	0
-cartel	surprise	0
-cartel	trust	0
-carter	anger	0
-carter	anticipation	0
-carter	disgust	0
-carter	fear	0
-carter	joy	0
-carter	negative	0
-carter	positive	0
-carter	sadness	0
-carter	surprise	0
-carter	trust	0
-cartilage	anger	0
-cartilage	anticipation	0
-cartilage	disgust	0
-cartilage	fear	0
-cartilage	joy	0
-cartilage	negative	0
-cartilage	positive	0
-cartilage	sadness	0
-cartilage	surprise	0
-cartilage	trust	0
-cartographic	anger	0
-cartographic	anticipation	0
-cartographic	disgust	0
-cartographic	fear	0
-cartographic	joy	0
-cartographic	negative	0
-cartographic	positive	0
-cartographic	sadness	0
-cartographic	surprise	0
-cartographic	trust	0
-cartography	anger	0
-cartography	anticipation	0
-cartography	disgust	0
-cartography	fear	0
-cartography	joy	0
-cartography	negative	0
-cartography	positive	0
-cartography	sadness	0
-cartography	surprise	0
-cartography	trust	0
-cartoon	anger	0
-cartoon	anticipation	0
-cartoon	disgust	0
-cartoon	fear	0
-cartoon	joy	0
-cartoon	negative	0
-cartoon	positive	0
-cartoon	sadness	0
-cartoon	surprise	0
-cartoon	trust	0
-cartouche	anger	0
-cartouche	anticipation	0
-cartouche	disgust	0
-cartouche	fear	0
-cartouche	joy	0
-cartouche	negative	0
-cartouche	positive	0
-cartouche	sadness	0
-cartouche	surprise	0
-cartouche	trust	0
-cartridge	anger	0
-cartridge	anticipation	0
-cartridge	disgust	0
-cartridge	fear	1
-cartridge	joy	0
-cartridge	negative	0
-cartridge	positive	0
-cartridge	sadness	0
-cartridge	surprise	0
-cartridge	trust	0
-carve	anger	0
-carve	anticipation	0
-carve	disgust	0
-carve	fear	0
-carve	joy	0
-carve	negative	0
-carve	positive	0
-carve	sadness	0
-carve	surprise	0
-carve	trust	0
-carver	anger	0
-carver	anticipation	0
-carver	disgust	0
-carver	fear	0
-carver	joy	0
-carver	negative	0
-carver	positive	0
-carver	sadness	0
-carver	surprise	0
-carver	trust	0
-carving	anger	0
-carving	anticipation	0
-carving	disgust	0
-carving	fear	0
-carving	joy	0
-carving	negative	0
-carving	positive	0
-carving	sadness	0
-carving	surprise	0
-carving	trust	0
-cascade	anger	0
-cascade	anticipation	0
-cascade	disgust	0
-cascade	fear	0
-cascade	joy	0
-cascade	negative	0
-cascade	positive	1
-cascade	sadness	0
-cascade	surprise	0
-cascade	trust	0
+package emotion
+func db() string {
+	return `aback	anger	0
+	aback	anticipation	0
+	aback	disgust	0
+	aback	fear	0
+	aback	joy	0
+	aback	negative	0
+	aback	positive	0
+	aback	sadness	0
+	aback	surprise	0
+	aback	trust	0
+	abacus	anger	0
+	abacus	anticipation	0
+	abacus	disgust	0
+	abacus	fear	0
+	abacus	joy	0
+	abacus	negative	0
+	abacus	positive	0
+	abacus	sadness	0
+	abacus	surprise	0
+	abacus	trust	1
+	abandon	anger	0
+	abandon	anticipation	0
+	abandon	disgust	0
+	abandon	fear	1
+	abandon	joy	0
+	abandon	negative	1
+	abandon	positive	0
+	abandon	sadness	1
+	abandon	surprise	0
+	abandon	trust	0
+	abandoned	anger	1
+	abandoned	anticipation	0
+	abandoned	disgust	0
+	abandoned	fear	1
+	abandoned	joy	0
+	abandoned	negative	1
+	abandoned	positive	0
+	abandoned	sadness	1
+	abandoned	surprise	0
+	abandoned	trust	0
+	abandonment	anger	1
+	abandonment	anticipation	0
+	abandonment	disgust	0
+	abandonment	fear	1
+	abandonment	joy	0
+	abandonment	negative	1
+	abandonment	positive	0
+	abandonment	sadness	1
+	abandonment	surprise	1
+	abandonment	trust	0
+	abate	anger	0
+	abate	anticipation	0
+	abate	disgust	0
+	abate	fear	0
+	abate	joy	0
+	abate	negative	0
+	abate	positive	0
+	abate	sadness	0
+	abate	surprise	0
+	abate	trust	0
+	abatement	anger	0
+	abatement	anticipation	0
+	abatement	disgust	0
+	abatement	fear	0
+	abatement	joy	0
+	abatement	negative	0
+	abatement	positive	0
+	abatement	sadness	0
+	abatement	surprise	0
+	abatement	trust	0
+	abba	anger	0
+	abba	anticipation	0
+	abba	disgust	0
+	abba	fear	0
+	abba	joy	0
+	abba	negative	0
+	abba	positive	1
+	abba	sadness	0
+	abba	surprise	0
+	abba	trust	0
+	abbot	anger	0
+	abbot	anticipation	0
+	abbot	disgust	0
+	abbot	fear	0
+	abbot	joy	0
+	abbot	negative	0
+	abbot	positive	0
+	abbot	sadness	0
+	abbot	surprise	0
+	abbot	trust	1
+	abbreviate	anger	0
+	abbreviate	anticipation	0
+	abbreviate	disgust	0
+	abbreviate	fear	0
+	abbreviate	joy	0
+	abbreviate	negative	0
+	abbreviate	positive	0
+	abbreviate	sadness	0
+	abbreviate	surprise	0
+	abbreviate	trust	0
+	abbreviation	anger	0
+	abbreviation	anticipation	0
+	abbreviation	disgust	0
+	abbreviation	fear	0
+	abbreviation	joy	0
+	abbreviation	negative	0
+	abbreviation	positive	0
+	abbreviation	sadness	0
+	abbreviation	surprise	0
+	abbreviation	trust	0
+	abdomen	anger	0
+	abdomen	anticipation	0
+	abdomen	disgust	0
+	abdomen	fear	0
+	abdomen	joy	0
+	abdomen	negative	0
+	abdomen	positive	0
+	abdomen	sadness	0
+	abdomen	surprise	0
+	abdomen	trust	0
+	abdominal	anger	0
+	abdominal	anticipation	0
+	abdominal	disgust	0
+	abdominal	fear	0
+	abdominal	joy	0
+	abdominal	negative	0
+	abdominal	positive	0
+	abdominal	sadness	0
+	abdominal	surprise	0
+	abdominal	trust	0
+	abduction	anger	0
+	abduction	anticipation	0
+	abduction	disgust	0
+	abduction	fear	1
+	abduction	joy	0
+	abduction	negative	1
+	abduction	positive	0
+	abduction	sadness	1
+	abduction	surprise	1
+	abduction	trust	0
+	aberrant	anger	0
+	aberrant	anticipation	0
+	aberrant	disgust	0
+	aberrant	fear	0
+	aberrant	joy	0
+	aberrant	negative	1
+	aberrant	positive	0
+	aberrant	sadness	0
+	aberrant	surprise	0
+	aberrant	trust	0
+	aberration	anger	0
+	aberration	anticipation	0
+	aberration	disgust	1
+	aberration	fear	0
+	aberration	joy	0
+	aberration	negative	1
+	aberration	positive	0
+	aberration	sadness	0
+	aberration	surprise	0
+	aberration	trust	0
+	abeyance	anger	0
+	abeyance	anticipation	0
+	abeyance	disgust	0
+	abeyance	fear	0
+	abeyance	joy	0
+	abeyance	negative	0
+	abeyance	positive	0
+	abeyance	sadness	0
+	abeyance	surprise	0
+	abeyance	trust	0
+	abhor	anger	1
+	abhor	anticipation	0
+	abhor	disgust	1
+	abhor	fear	1
+	abhor	joy	0
+	abhor	negative	1
+	abhor	positive	0
+	abhor	sadness	0
+	abhor	surprise	0
+	abhor	trust	0
+	abhorrent	anger	1
+	abhorrent	anticipation	0
+	abhorrent	disgust	1
+	abhorrent	fear	1
+	abhorrent	joy	0
+	abhorrent	negative	1
+	abhorrent	positive	0
+	abhorrent	sadness	0
+	abhorrent	surprise	0
+	abhorrent	trust	0
+	abide	anger	0
+	abide	anticipation	0
+	abide	disgust	0
+	abide	fear	0
+	abide	joy	0
+	abide	negative	0
+	abide	positive	0
+	abide	sadness	0
+	abide	surprise	0
+	abide	trust	0
+	ability	anger	0
+	ability	anticipation	0
+	ability	disgust	0
+	ability	fear	0
+	ability	joy	0
+	ability	negative	0
+	ability	positive	1
+	ability	sadness	0
+	ability	surprise	0
+	ability	trust	0
+	abject	anger	0
+	abject	anticipation	0
+	abject	disgust	1
+	abject	fear	0
+	abject	joy	0
+	abject	negative	1
+	abject	positive	0
+	abject	sadness	0
+	abject	surprise	0
+	abject	trust	0
+	ablation	anger	0
+	ablation	anticipation	0
+	ablation	disgust	0
+	ablation	fear	0
+	ablation	joy	0
+	ablation	negative	0
+	ablation	positive	0
+	ablation	sadness	0
+	ablation	surprise	0
+	ablation	trust	0
+	ablaze	anger	0
+	ablaze	anticipation	0
+	ablaze	disgust	0
+	ablaze	fear	0
+	ablaze	joy	0
+	ablaze	negative	0
+	ablaze	positive	0
+	ablaze	sadness	0
+	ablaze	surprise	0
+	ablaze	trust	0
+	abnormal	anger	0
+	abnormal	anticipation	0
+	abnormal	disgust	1
+	abnormal	fear	0
+	abnormal	joy	0
+	abnormal	negative	1
+	abnormal	positive	0
+	abnormal	sadness	0
+	abnormal	surprise	0
+	abnormal	trust	0
+	aboard	anger	0
+	aboard	anticipation	0
+	aboard	disgust	0
+	aboard	fear	0
+	aboard	joy	0
+	aboard	negative	0
+	aboard	positive	0
+	aboard	sadness	0
+	aboard	surprise	0
+	aboard	trust	0
+	abode	anger	0
+	abode	anticipation	0
+	abode	disgust	0
+	abode	fear	0
+	abode	joy	0
+	abode	negative	0
+	abode	positive	0
+	abode	sadness	0
+	abode	surprise	0
+	abode	trust	0
+	abolish	anger	1
+	abolish	anticipation	0
+	abolish	disgust	0
+	abolish	fear	0
+	abolish	joy	0
+	abolish	negative	1
+	abolish	positive	0
+	abolish	sadness	0
+	abolish	surprise	0
+	abolish	trust	0
+	abolition	anger	0
+	abolition	anticipation	0
+	abolition	disgust	0
+	abolition	fear	0
+	abolition	joy	0
+	abolition	negative	1
+	abolition	positive	0
+	abolition	sadness	0
+	abolition	surprise	0
+	abolition	trust	0
+	abominable	anger	0
+	abominable	anticipation	0
+	abominable	disgust	1
+	abominable	fear	1
+	abominable	joy	0
+	abominable	negative	1
+	abominable	positive	0
+	abominable	sadness	0
+	abominable	surprise	0
+	abominable	trust	0
+	abomination	anger	1
+	abomination	anticipation	0
+	abomination	disgust	1
+	abomination	fear	1
+	abomination	joy	0
+	abomination	negative	1
+	abomination	positive	0
+	abomination	sadness	0
+	abomination	surprise	0
+	abomination	trust	0
+	aboriginal	anger	0
+	aboriginal	anticipation	0
+	aboriginal	disgust	0
+	aboriginal	fear	0
+	aboriginal	joy	0
+	aboriginal	negative	0
+	aboriginal	positive	0
+	aboriginal	sadness	0
+	aboriginal	surprise	0
+	aboriginal	trust	0
+	abort	anger	0
+	abort	anticipation	0
+	abort	disgust	0
+	abort	fear	0
+	abort	joy	0
+	abort	negative	1
+	abort	positive	0
+	abort	sadness	0
+	abort	surprise	0
+	abort	trust	0
+	abortion	anger	0
+	abortion	anticipation	0
+	abortion	disgust	1
+	abortion	fear	1
+	abortion	joy	0
+	abortion	negative	1
+	abortion	positive	0
+	abortion	sadness	1
+	abortion	surprise	0
+	abortion	trust	0
+	abortive	anger	0
+	abortive	anticipation	0
+	abortive	disgust	0
+	abortive	fear	0
+	abortive	joy	0
+	abortive	negative	1
+	abortive	positive	0
+	abortive	sadness	1
+	abortive	surprise	0
+	abortive	trust	0
+	abound	anger	0
+	abound	anticipation	0
+	abound	disgust	0
+	abound	fear	0
+	abound	joy	0
+	abound	negative	0
+	abound	positive	0
+	abound	sadness	0
+	abound	surprise	0
+	abound	trust	0
+	abovementioned	anger	0
+	abovementioned	anticipation	0
+	abovementioned	disgust	0
+	abovementioned	fear	0
+	abovementioned	joy	0
+	abovementioned	negative	0
+	abovementioned	positive	1
+	abovementioned	sadness	0
+	abovementioned	surprise	0
+	abovementioned	trust	0
+	abrasion	anger	0
+	abrasion	anticipation	0
+	abrasion	disgust	0
+	abrasion	fear	0
+	abrasion	joy	0
+	abrasion	negative	1
+	abrasion	positive	0
+	abrasion	sadness	0
+	abrasion	surprise	0
+	abrasion	trust	0
+	abroad	anger	0
+	abroad	anticipation	0
+	abroad	disgust	0
+	abroad	fear	0
+	abroad	joy	0
+	abroad	negative	0
+	abroad	positive	0
+	abroad	sadness	0
+	abroad	surprise	0
+	abroad	trust	0
+	abrogate	anger	0
+	abrogate	anticipation	0
+	abrogate	disgust	0
+	abrogate	fear	0
+	abrogate	joy	0
+	abrogate	negative	1
+	abrogate	positive	0
+	abrogate	sadness	0
+	abrogate	surprise	0
+	abrogate	trust	0
+	abrupt	anger	0
+	abrupt	anticipation	0
+	abrupt	disgust	0
+	abrupt	fear	0
+	abrupt	joy	0
+	abrupt	negative	0
+	abrupt	positive	0
+	abrupt	sadness	0
+	abrupt	surprise	1
+	abrupt	trust	0
+	abruptly	anger	0
+	abruptly	anticipation	0
+	abruptly	disgust	0
+	abruptly	fear	0
+	abruptly	joy	0
+	abruptly	negative	0
+	abruptly	positive	0
+	abruptly	sadness	0
+	abruptly	surprise	0
+	abruptly	trust	0
+	abscess	anger	0
+	abscess	anticipation	0
+	abscess	disgust	0
+	abscess	fear	0
+	abscess	joy	0
+	abscess	negative	1
+	abscess	positive	0
+	abscess	sadness	1
+	abscess	surprise	0
+	abscess	trust	0
+	absence	anger	0
+	absence	anticipation	0
+	absence	disgust	0
+	absence	fear	1
+	absence	joy	0
+	absence	negative	1
+	absence	positive	0
+	absence	sadness	1
+	absence	surprise	0
+	absence	trust	0
+	absent	anger	0
+	absent	anticipation	0
+	absent	disgust	0
+	absent	fear	0
+	absent	joy	0
+	absent	negative	1
+	absent	positive	0
+	absent	sadness	1
+	absent	surprise	0
+	absent	trust	0
+	absentee	anger	0
+	absentee	anticipation	0
+	absentee	disgust	0
+	absentee	fear	0
+	absentee	joy	0
+	absentee	negative	1
+	absentee	positive	0
+	absentee	sadness	1
+	absentee	surprise	0
+	absentee	trust	0
+	absenteeism	anger	0
+	absenteeism	anticipation	0
+	absenteeism	disgust	0
+	absenteeism	fear	0
+	absenteeism	joy	0
+	absenteeism	negative	1
+	absenteeism	positive	0
+	absenteeism	sadness	0
+	absenteeism	surprise	0
+	absenteeism	trust	0
+	absinthe	anger	0
+	absinthe	anticipation	0
+	absinthe	disgust	0
+	absinthe	fear	0
+	absinthe	joy	0
+	absinthe	negative	0
+	absinthe	positive	0
+	absinthe	sadness	0
+	absinthe	surprise	0
+	absinthe	trust	0
+	absolute	anger	0
+	absolute	anticipation	0
+	absolute	disgust	0
+	absolute	fear	0
+	absolute	joy	0
+	absolute	negative	0
+	absolute	positive	1
+	absolute	sadness	0
+	absolute	surprise	0
+	absolute	trust	0
+	absolution	anger	0
+	absolution	anticipation	0
+	absolution	disgust	0
+	absolution	fear	0
+	absolution	joy	1
+	absolution	negative	0
+	absolution	positive	1
+	absolution	sadness	0
+	absolution	surprise	0
+	absolution	trust	1
+	absorbed	anger	0
+	absorbed	anticipation	0
+	absorbed	disgust	0
+	absorbed	fear	0
+	absorbed	joy	0
+	absorbed	negative	0
+	absorbed	positive	1
+	absorbed	sadness	0
+	absorbed	surprise	0
+	absorbed	trust	0
+	absorbent	anger	0
+	absorbent	anticipation	0
+	absorbent	disgust	0
+	absorbent	fear	0
+	absorbent	joy	0
+	absorbent	negative	0
+	absorbent	positive	0
+	absorbent	sadness	0
+	absorbent	surprise	0
+	absorbent	trust	0
+	absorbing	anger	0
+	absorbing	anticipation	0
+	absorbing	disgust	0
+	absorbing	fear	0
+	absorbing	joy	0
+	absorbing	negative	0
+	absorbing	positive	0
+	absorbing	sadness	0
+	absorbing	surprise	0
+	absorbing	trust	0
+	absorption	anger	0
+	absorption	anticipation	0
+	absorption	disgust	0
+	absorption	fear	0
+	absorption	joy	0
+	absorption	negative	0
+	absorption	positive	0
+	absorption	sadness	0
+	absorption	surprise	0
+	absorption	trust	0
+	abstain	anger	0
+	abstain	anticipation	0
+	abstain	disgust	0
+	abstain	fear	0
+	abstain	joy	0
+	abstain	negative	0
+	abstain	positive	0
+	abstain	sadness	0
+	abstain	surprise	0
+	abstain	trust	0
+	abstention	anger	0
+	abstention	anticipation	0
+	abstention	disgust	0
+	abstention	fear	0
+	abstention	joy	0
+	abstention	negative	0
+	abstention	positive	0
+	abstention	sadness	0
+	abstention	surprise	0
+	abstention	trust	0
+	abstinence	anger	0
+	abstinence	anticipation	0
+	abstinence	disgust	0
+	abstinence	fear	0
+	abstinence	joy	0
+	abstinence	negative	0
+	abstinence	positive	0
+	abstinence	sadness	0
+	abstinence	surprise	0
+	abstinence	trust	0
+	abstract	anger	0
+	abstract	anticipation	0
+	abstract	disgust	0
+	abstract	fear	0
+	abstract	joy	0
+	abstract	negative	0
+	abstract	positive	0
+	abstract	sadness	0
+	abstract	surprise	0
+	abstract	trust	0
+	abstraction	anger	0
+	abstraction	anticipation	0
+	abstraction	disgust	0
+	abstraction	fear	0
+	abstraction	joy	0
+	abstraction	negative	0
+	abstraction	positive	0
+	abstraction	sadness	0
+	abstraction	surprise	0
+	abstraction	trust	0
+	absurd	anger	0
+	absurd	anticipation	0
+	absurd	disgust	0
+	absurd	fear	0
+	absurd	joy	0
+	absurd	negative	1
+	absurd	positive	0
+	absurd	sadness	0
+	absurd	surprise	0
+	absurd	trust	0
+	absurdity	anger	0
+	absurdity	anticipation	0
+	absurdity	disgust	0
+	absurdity	fear	0
+	absurdity	joy	0
+	absurdity	negative	1
+	absurdity	positive	0
+	absurdity	sadness	0
+	absurdity	surprise	0
+	absurdity	trust	0
+	abundance	anger	0
+	abundance	anticipation	1
+	abundance	disgust	1
+	abundance	fear	0
+	abundance	joy	1
+	abundance	negative	1
+	abundance	positive	1
+	abundance	sadness	0
+	abundance	surprise	0
+	abundance	trust	1
+	abundant	anger	0
+	abundant	anticipation	0
+	abundant	disgust	0
+	abundant	fear	0
+	abundant	joy	1
+	abundant	negative	0
+	abundant	positive	1
+	abundant	sadness	0
+	abundant	surprise	0
+	abundant	trust	0
+	abuse	anger	1
+	abuse	anticipation	0
+	abuse	disgust	1
+	abuse	fear	1
+	abuse	joy	0
+	abuse	negative	1
+	abuse	positive	0
+	abuse	sadness	1
+	abuse	surprise	0
+	abuse	trust	0
+	abutment	anger	0
+	abutment	anticipation	0
+	abutment	disgust	0
+	abutment	fear	0
+	abutment	joy	0
+	abutment	negative	0
+	abutment	positive	0
+	abutment	sadness	0
+	abutment	surprise	0
+	abutment	trust	0
+	aby	anger	0
+	aby	anticipation	0
+	aby	disgust	0
+	aby	fear	0
+	aby	joy	0
+	aby	negative	0
+	aby	positive	0
+	aby	sadness	0
+	aby	surprise	0
+	aby	trust	0
+	abysmal	anger	0
+	abysmal	anticipation	0
+	abysmal	disgust	0
+	abysmal	fear	0
+	abysmal	joy	0
+	abysmal	negative	1
+	abysmal	positive	0
+	abysmal	sadness	1
+	abysmal	surprise	0
+	abysmal	trust	0
+	abyss	anger	0
+	abyss	anticipation	0
+	abyss	disgust	0
+	abyss	fear	1
+	abyss	joy	0
+	abyss	negative	1
+	abyss	positive	0
+	abyss	sadness	1
+	abyss	surprise	0
+	abyss	trust	0
+	academic	anger	0
+	academic	anticipation	0
+	academic	disgust	0
+	academic	fear	0
+	academic	joy	0
+	academic	negative	0
+	academic	positive	1
+	academic	sadness	0
+	academic	surprise	0
+	academic	trust	1
+	academy	anger	0
+	academy	anticipation	0
+	academy	disgust	0
+	academy	fear	0
+	academy	joy	0
+	academy	negative	0
+	academy	positive	1
+	academy	sadness	0
+	academy	surprise	0
+	academy	trust	0
+	accede	anger	0
+	accede	anticipation	0
+	accede	disgust	0
+	accede	fear	0
+	accede	joy	0
+	accede	negative	0
+	accede	positive	0
+	accede	sadness	0
+	accede	surprise	0
+	accede	trust	0
+	accelerate	anger	0
+	accelerate	anticipation	1
+	accelerate	disgust	0
+	accelerate	fear	0
+	accelerate	joy	0
+	accelerate	negative	0
+	accelerate	positive	0
+	accelerate	sadness	0
+	accelerate	surprise	0
+	accelerate	trust	0
+	acceleration	anger	0
+	acceleration	anticipation	0
+	acceleration	disgust	0
+	acceleration	fear	0
+	acceleration	joy	0
+	acceleration	negative	0
+	acceleration	positive	0
+	acceleration	sadness	0
+	acceleration	surprise	0
+	acceleration	trust	0
+	accent	anger	0
+	accent	anticipation	0
+	accent	disgust	0
+	accent	fear	0
+	accent	joy	0
+	accent	negative	0
+	accent	positive	0
+	accent	sadness	0
+	accent	surprise	0
+	accent	trust	0
+	accentuate	anger	0
+	accentuate	anticipation	0
+	accentuate	disgust	0
+	accentuate	fear	0
+	accentuate	joy	0
+	accentuate	negative	0
+	accentuate	positive	0
+	accentuate	sadness	0
+	accentuate	surprise	0
+	accentuate	trust	0
+	accept	anger	0
+	accept	anticipation	0
+	accept	disgust	0
+	accept	fear	0
+	accept	joy	0
+	accept	negative	0
+	accept	positive	0
+	accept	sadness	0
+	accept	surprise	0
+	accept	trust	0
+	acceptable	anger	0
+	acceptable	anticipation	0
+	acceptable	disgust	0
+	acceptable	fear	0
+	acceptable	joy	0
+	acceptable	negative	0
+	acceptable	positive	1
+	acceptable	sadness	0
+	acceptable	surprise	0
+	acceptable	trust	0
+	acceptance	anger	0
+	acceptance	anticipation	0
+	acceptance	disgust	0
+	acceptance	fear	0
+	acceptance	joy	0
+	acceptance	negative	0
+	acceptance	positive	1
+	acceptance	sadness	0
+	acceptance	surprise	0
+	acceptance	trust	0
+	access	anger	0
+	access	anticipation	0
+	access	disgust	0
+	access	fear	0
+	access	joy	0
+	access	negative	0
+	access	positive	0
+	access	sadness	0
+	access	surprise	0
+	access	trust	0
+	accessible	anger	0
+	accessible	anticipation	0
+	accessible	disgust	0
+	accessible	fear	0
+	accessible	joy	0
+	accessible	negative	0
+	accessible	positive	1
+	accessible	sadness	0
+	accessible	surprise	0
+	accessible	trust	0
+	accession	anger	0
+	accession	anticipation	0
+	accession	disgust	0
+	accession	fear	0
+	accession	joy	0
+	accession	negative	0
+	accession	positive	0
+	accession	sadness	0
+	accession	surprise	0
+	accession	trust	0
+	accessory	anger	0
+	accessory	anticipation	0
+	accessory	disgust	0
+	accessory	fear	0
+	accessory	joy	0
+	accessory	negative	0
+	accessory	positive	0
+	accessory	sadness	0
+	accessory	surprise	0
+	accessory	trust	0
+	accident	anger	0
+	accident	anticipation	0
+	accident	disgust	0
+	accident	fear	1
+	accident	joy	0
+	accident	negative	1
+	accident	positive	0
+	accident	sadness	1
+	accident	surprise	1
+	accident	trust	0
+	accidental	anger	0
+	accidental	anticipation	0
+	accidental	disgust	0
+	accidental	fear	1
+	accidental	joy	0
+	accidental	negative	1
+	accidental	positive	0
+	accidental	sadness	0
+	accidental	surprise	1
+	accidental	trust	0
+	accidentally	anger	0
+	accidentally	anticipation	0
+	accidentally	disgust	0
+	accidentally	fear	0
+	accidentally	joy	0
+	accidentally	negative	0
+	accidentally	positive	0
+	accidentally	sadness	0
+	accidentally	surprise	1
+	accidentally	trust	0
+	accolade	anger	0
+	accolade	anticipation	1
+	accolade	disgust	0
+	accolade	fear	0
+	accolade	joy	1
+	accolade	negative	0
+	accolade	positive	1
+	accolade	sadness	0
+	accolade	surprise	1
+	accolade	trust	1
+	accommodate	anger	0
+	accommodate	anticipation	0
+	accommodate	disgust	0
+	accommodate	fear	0
+	accommodate	joy	0
+	accommodate	negative	0
+	accommodate	positive	0
+	accommodate	sadness	0
+	accommodate	surprise	0
+	accommodate	trust	0
+	accommodation	anger	0
+	accommodation	anticipation	0
+	accommodation	disgust	0
+	accommodation	fear	0
+	accommodation	joy	0
+	accommodation	negative	0
+	accommodation	positive	1
+	accommodation	sadness	0
+	accommodation	surprise	0
+	accommodation	trust	0
+	accompaniment	anger	0
+	accompaniment	anticipation	1
+	accompaniment	disgust	0
+	accompaniment	fear	0
+	accompaniment	joy	1
+	accompaniment	negative	0
+	accompaniment	positive	1
+	accompaniment	sadness	0
+	accompaniment	surprise	0
+	accompaniment	trust	1
+	accompany	anger	0
+	accompany	anticipation	0
+	accompany	disgust	0
+	accompany	fear	0
+	accompany	joy	0
+	accompany	negative	0
+	accompany	positive	0
+	accompany	sadness	0
+	accompany	surprise	0
+	accompany	trust	0
+	accompanying	anger	0
+	accompanying	anticipation	0
+	accompanying	disgust	0
+	accompanying	fear	0
+	accompanying	joy	0
+	accompanying	negative	0
+	accompanying	positive	0
+	accompanying	sadness	0
+	accompanying	surprise	0
+	accompanying	trust	0
+	accomplice	anger	0
+	accomplice	anticipation	0
+	accomplice	disgust	0
+	accomplice	fear	0
+	accomplice	joy	0
+	accomplice	negative	0
+	accomplice	positive	0
+	accomplice	sadness	0
+	accomplice	surprise	0
+	accomplice	trust	0
+	accomplish	anger	0
+	accomplish	anticipation	0
+	accomplish	disgust	0
+	accomplish	fear	0
+	accomplish	joy	1
+	accomplish	negative	0
+	accomplish	positive	1
+	accomplish	sadness	0
+	accomplish	surprise	0
+	accomplish	trust	0
+	accomplished	anger	0
+	accomplished	anticipation	0
+	accomplished	disgust	0
+	accomplished	fear	0
+	accomplished	joy	1
+	accomplished	negative	0
+	accomplished	positive	1
+	accomplished	sadness	0
+	accomplished	surprise	0
+	accomplished	trust	0
+	accomplishment	anger	0
+	accomplishment	anticipation	0
+	accomplishment	disgust	0
+	accomplishment	fear	0
+	accomplishment	joy	0
+	accomplishment	negative	0
+	accomplishment	positive	1
+	accomplishment	sadness	0
+	accomplishment	surprise	0
+	accomplishment	trust	0
+	accord	anger	0
+	accord	anticipation	0
+	accord	disgust	0
+	accord	fear	0
+	accord	joy	0
+	accord	negative	0
+	accord	positive	1
+	accord	sadness	0
+	accord	surprise	0
+	accord	trust	1
+	accordance	anger	0
+	accordance	anticipation	0
+	accordance	disgust	0
+	accordance	fear	0
+	accordance	joy	0
+	accordance	negative	0
+	accordance	positive	0
+	accordance	sadness	0
+	accordance	surprise	0
+	accordance	trust	0
+	accordion	anger	0
+	accordion	anticipation	0
+	accordion	disgust	0
+	accordion	fear	0
+	accordion	joy	0
+	accordion	negative	0
+	accordion	positive	0
+	accordion	sadness	0
+	accordion	surprise	0
+	accordion	trust	0
+	account	anger	0
+	account	anticipation	0
+	account	disgust	0
+	account	fear	0
+	account	joy	0
+	account	negative	0
+	account	positive	0
+	account	sadness	0
+	account	surprise	0
+	account	trust	1
+	accountability	anger	0
+	accountability	anticipation	0
+	accountability	disgust	0
+	accountability	fear	0
+	accountability	joy	0
+	accountability	negative	0
+	accountability	positive	1
+	accountability	sadness	0
+	accountability	surprise	0
+	accountability	trust	1
+	accountable	anger	0
+	accountable	anticipation	0
+	accountable	disgust	0
+	accountable	fear	0
+	accountable	joy	0
+	accountable	negative	0
+	accountable	positive	1
+	accountable	sadness	0
+	accountable	surprise	0
+	accountable	trust	1
+	accountant	anger	0
+	accountant	anticipation	0
+	accountant	disgust	0
+	accountant	fear	0
+	accountant	joy	0
+	accountant	negative	0
+	accountant	positive	0
+	accountant	sadness	0
+	accountant	surprise	0
+	accountant	trust	1
+	accounting	anger	0
+	accounting	anticipation	0
+	accounting	disgust	0
+	accounting	fear	0
+	accounting	joy	0
+	accounting	negative	0
+	accounting	positive	0
+	accounting	sadness	0
+	accounting	surprise	0
+	accounting	trust	0
+	accounts	anger	0
+	accounts	anticipation	0
+	accounts	disgust	0
+	accounts	fear	0
+	accounts	joy	0
+	accounts	negative	0
+	accounts	positive	0
+	accounts	sadness	0
+	accounts	surprise	0
+	accounts	trust	1
+	accredited	anger	0
+	accredited	anticipation	0
+	accredited	disgust	0
+	accredited	fear	0
+	accredited	joy	0
+	accredited	negative	0
+	accredited	positive	1
+	accredited	sadness	0
+	accredited	surprise	0
+	accredited	trust	1
+	accretion	anger	0
+	accretion	anticipation	0
+	accretion	disgust	0
+	accretion	fear	0
+	accretion	joy	0
+	accretion	negative	0
+	accretion	positive	0
+	accretion	sadness	0
+	accretion	surprise	0
+	accretion	trust	0
+	accrue	anger	0
+	accrue	anticipation	0
+	accrue	disgust	0
+	accrue	fear	0
+	accrue	joy	0
+	accrue	negative	0
+	accrue	positive	0
+	accrue	sadness	0
+	accrue	surprise	0
+	accrue	trust	0
+	accueil	anger	0
+	accueil	anticipation	0
+	accueil	disgust	0
+	accueil	fear	0
+	accueil	joy	0
+	accueil	negative	0
+	accueil	positive	1
+	accueil	sadness	0
+	accueil	surprise	0
+	accueil	trust	0
+	accumulate	anger	0
+	accumulate	anticipation	0
+	accumulate	disgust	0
+	accumulate	fear	0
+	accumulate	joy	0
+	accumulate	negative	0
+	accumulate	positive	0
+	accumulate	sadness	0
+	accumulate	surprise	0
+	accumulate	trust	0
+	accumulation	anger	0
+	accumulation	anticipation	0
+	accumulation	disgust	0
+	accumulation	fear	0
+	accumulation	joy	0
+	accumulation	negative	0
+	accumulation	positive	0
+	accumulation	sadness	0
+	accumulation	surprise	0
+	accumulation	trust	0
+	accuracy	anger	0
+	accuracy	anticipation	0
+	accuracy	disgust	0
+	accuracy	fear	0
+	accuracy	joy	0
+	accuracy	negative	0
+	accuracy	positive	0
+	accuracy	sadness	0
+	accuracy	surprise	0
+	accuracy	trust	0
+	accurate	anger	0
+	accurate	anticipation	0
+	accurate	disgust	0
+	accurate	fear	0
+	accurate	joy	0
+	accurate	negative	0
+	accurate	positive	1
+	accurate	sadness	0
+	accurate	surprise	0
+	accurate	trust	1
+	accursed	anger	1
+	accursed	anticipation	0
+	accursed	disgust	0
+	accursed	fear	1
+	accursed	joy	0
+	accursed	negative	1
+	accursed	positive	0
+	accursed	sadness	1
+	accursed	surprise	0
+	accursed	trust	0
+	accusation	anger	1
+	accusation	anticipation	0
+	accusation	disgust	1
+	accusation	fear	0
+	accusation	joy	0
+	accusation	negative	1
+	accusation	positive	0
+	accusation	sadness	0
+	accusation	surprise	0
+	accusation	trust	0
+	accusative	anger	0
+	accusative	anticipation	0
+	accusative	disgust	0
+	accusative	fear	0
+	accusative	joy	0
+	accusative	negative	1
+	accusative	positive	0
+	accusative	sadness	0
+	accusative	surprise	0
+	accusative	trust	0
+	accused	anger	1
+	accused	anticipation	0
+	accused	disgust	0
+	accused	fear	1
+	accused	joy	0
+	accused	negative	1
+	accused	positive	0
+	accused	sadness	0
+	accused	surprise	0
+	accused	trust	0
+	accuser	anger	1
+	accuser	anticipation	0
+	accuser	disgust	0
+	accuser	fear	1
+	accuser	joy	0
+	accuser	negative	1
+	accuser	positive	0
+	accuser	sadness	0
+	accuser	surprise	0
+	accuser	trust	0
+	accusing	anger	1
+	accusing	anticipation	0
+	accusing	disgust	0
+	accusing	fear	1
+	accusing	joy	0
+	accusing	negative	1
+	accusing	positive	0
+	accusing	sadness	0
+	accusing	surprise	0
+	accusing	trust	0
+	accustomed	anger	0
+	accustomed	anticipation	0
+	accustomed	disgust	0
+	accustomed	fear	0
+	accustomed	joy	0
+	accustomed	negative	0
+	accustomed	positive	0
+	accustomed	sadness	0
+	accustomed	surprise	0
+	accustomed	trust	0
+	ace	anger	0
+	ace	anticipation	0
+	ace	disgust	0
+	ace	fear	0
+	ace	joy	0
+	ace	negative	0
+	ace	positive	1
+	ace	sadness	0
+	ace	surprise	0
+	ace	trust	0
+	acetic	anger	0
+	acetic	anticipation	0
+	acetic	disgust	0
+	acetic	fear	0
+	acetic	joy	0
+	acetic	negative	0
+	acetic	positive	0
+	acetic	sadness	0
+	acetic	surprise	0
+	acetic	trust	0
+	ache	anger	0
+	ache	anticipation	0
+	ache	disgust	0
+	ache	fear	0
+	ache	joy	0
+	ache	negative	1
+	ache	positive	0
+	ache	sadness	1
+	ache	surprise	0
+	ache	trust	0
+	achieve	anger	0
+	achieve	anticipation	0
+	achieve	disgust	0
+	achieve	fear	0
+	achieve	joy	1
+	achieve	negative	0
+	achieve	positive	1
+	achieve	sadness	0
+	achieve	surprise	0
+	achieve	trust	1
+	achievement	anger	0
+	achievement	anticipation	1
+	achievement	disgust	0
+	achievement	fear	0
+	achievement	joy	1
+	achievement	negative	0
+	achievement	positive	1
+	achievement	sadness	0
+	achievement	surprise	0
+	achievement	trust	1
+	aching	anger	0
+	aching	anticipation	0
+	aching	disgust	0
+	aching	fear	0
+	aching	joy	0
+	aching	negative	1
+	aching	positive	0
+	aching	sadness	1
+	aching	surprise	0
+	aching	trust	0
+	acid	anger	0
+	acid	anticipation	0
+	acid	disgust	0
+	acid	fear	0
+	acid	joy	0
+	acid	negative	1
+	acid	positive	0
+	acid	sadness	0
+	acid	surprise	0
+	acid	trust	0
+	acidity	anger	0
+	acidity	anticipation	0
+	acidity	disgust	0
+	acidity	fear	0
+	acidity	joy	0
+	acidity	negative	0
+	acidity	positive	0
+	acidity	sadness	0
+	acidity	surprise	0
+	acidity	trust	0
+	acknowledge	anger	0
+	acknowledge	anticipation	0
+	acknowledge	disgust	0
+	acknowledge	fear	0
+	acknowledge	joy	0
+	acknowledge	negative	0
+	acknowledge	positive	0
+	acknowledge	sadness	0
+	acknowledge	surprise	0
+	acknowledge	trust	0
+	acknowledged	anger	0
+	acknowledged	anticipation	0
+	acknowledged	disgust	0
+	acknowledged	fear	0
+	acknowledged	joy	0
+	acknowledged	negative	0
+	acknowledged	positive	0
+	acknowledged	sadness	0
+	acknowledged	surprise	0
+	acknowledged	trust	0
+	acknowledgment	anger	0
+	acknowledgment	anticipation	0
+	acknowledgment	disgust	0
+	acknowledgment	fear	0
+	acknowledgment	joy	0
+	acknowledgment	negative	0
+	acknowledgment	positive	1
+	acknowledgment	sadness	0
+	acknowledgment	surprise	0
+	acknowledgment	trust	0
+	acme	anger	0
+	acme	anticipation	0
+	acme	disgust	0
+	acme	fear	0
+	acme	joy	0
+	acme	negative	0
+	acme	positive	0
+	acme	sadness	0
+	acme	surprise	0
+	acme	trust	0
+	acoustic	anger	0
+	acoustic	anticipation	0
+	acoustic	disgust	0
+	acoustic	fear	0
+	acoustic	joy	0
+	acoustic	negative	0
+	acoustic	positive	0
+	acoustic	sadness	0
+	acoustic	surprise	0
+	acoustic	trust	0
+	acoustics	anger	0
+	acoustics	anticipation	0
+	acoustics	disgust	0
+	acoustics	fear	0
+	acoustics	joy	0
+	acoustics	negative	0
+	acoustics	positive	0
+	acoustics	sadness	0
+	acoustics	surprise	0
+	acoustics	trust	0
+	acquaint	anger	0
+	acquaint	anticipation	0
+	acquaint	disgust	0
+	acquaint	fear	0
+	acquaint	joy	0
+	acquaint	negative	0
+	acquaint	positive	0
+	acquaint	sadness	0
+	acquaint	surprise	0
+	acquaint	trust	0
+	acquaintance	anger	0
+	acquaintance	anticipation	0
+	acquaintance	disgust	0
+	acquaintance	fear	0
+	acquaintance	joy	0
+	acquaintance	negative	0
+	acquaintance	positive	0
+	acquaintance	sadness	0
+	acquaintance	surprise	0
+	acquaintance	trust	0
+	acquainted	anger	0
+	acquainted	anticipation	0
+	acquainted	disgust	0
+	acquainted	fear	0
+	acquainted	joy	0
+	acquainted	negative	0
+	acquainted	positive	0
+	acquainted	sadness	0
+	acquainted	surprise	0
+	acquainted	trust	0
+	acquiescence	anger	0
+	acquiescence	anticipation	0
+	acquiescence	disgust	0
+	acquiescence	fear	0
+	acquiescence	joy	0
+	acquiescence	negative	0
+	acquiescence	positive	0
+	acquiescence	sadness	0
+	acquiescence	surprise	0
+	acquiescence	trust	0
+	acquire	anger	0
+	acquire	anticipation	0
+	acquire	disgust	0
+	acquire	fear	0
+	acquire	joy	0
+	acquire	negative	0
+	acquire	positive	1
+	acquire	sadness	0
+	acquire	surprise	0
+	acquire	trust	0
+	acquiring	anger	0
+	acquiring	anticipation	1
+	acquiring	disgust	0
+	acquiring	fear	0
+	acquiring	joy	0
+	acquiring	negative	0
+	acquiring	positive	1
+	acquiring	sadness	0
+	acquiring	surprise	0
+	acquiring	trust	0
+	acquisition	anger	0
+	acquisition	anticipation	0
+	acquisition	disgust	0
+	acquisition	fear	0
+	acquisition	joy	0
+	acquisition	negative	0
+	acquisition	positive	0
+	acquisition	sadness	0
+	acquisition	surprise	0
+	acquisition	trust	0
+	acquisitions	anger	0
+	acquisitions	anticipation	0
+	acquisitions	disgust	0
+	acquisitions	fear	0
+	acquisitions	joy	0
+	acquisitions	negative	0
+	acquisitions	positive	0
+	acquisitions	sadness	0
+	acquisitions	surprise	0
+	acquisitions	trust	0
+	acreage	anger	0
+	acreage	anticipation	0
+	acreage	disgust	0
+	acreage	fear	0
+	acreage	joy	0
+	acreage	negative	0
+	acreage	positive	0
+	acreage	sadness	0
+	acreage	surprise	0
+	acreage	trust	0
+	acres	anger	0
+	acres	anticipation	0
+	acres	disgust	0
+	acres	fear	0
+	acres	joy	0
+	acres	negative	0
+	acres	positive	0
+	acres	sadness	0
+	acres	surprise	0
+	acres	trust	0
+	acrobat	anger	0
+	acrobat	anticipation	0
+	acrobat	disgust	0
+	acrobat	fear	1
+	acrobat	joy	1
+	acrobat	negative	0
+	acrobat	positive	1
+	acrobat	sadness	0
+	acrobat	surprise	0
+	acrobat	trust	1
+	act	anger	0
+	act	anticipation	0
+	act	disgust	0
+	act	fear	0
+	act	joy	0
+	act	negative	0
+	act	positive	0
+	act	sadness	0
+	act	surprise	0
+	act	trust	0
+	acting	anger	0
+	acting	anticipation	0
+	acting	disgust	0
+	acting	fear	0
+	acting	joy	0
+	acting	negative	0
+	acting	positive	0
+	acting	sadness	0
+	acting	surprise	0
+	acting	trust	0
+	action	anger	0
+	action	anticipation	0
+	action	disgust	0
+	action	fear	0
+	action	joy	0
+	action	negative	0
+	action	positive	1
+	action	sadness	0
+	action	surprise	0
+	action	trust	0
+	actionable	anger	1
+	actionable	anticipation	0
+	actionable	disgust	1
+	actionable	fear	0
+	actionable	joy	0
+	actionable	negative	1
+	actionable	positive	0
+	actionable	sadness	0
+	actionable	surprise	0
+	actionable	trust	0
+	active	anger	0
+	active	anticipation	0
+	active	disgust	0
+	active	fear	0
+	active	joy	0
+	active	negative	0
+	active	positive	0
+	active	sadness	0
+	active	surprise	0
+	active	trust	0
+	activity	anger	0
+	activity	anticipation	0
+	activity	disgust	0
+	activity	fear	0
+	activity	joy	0
+	activity	negative	0
+	activity	positive	0
+	activity	sadness	0
+	activity	surprise	0
+	activity	trust	0
+	actor	anger	0
+	actor	anticipation	0
+	actor	disgust	0
+	actor	fear	0
+	actor	joy	0
+	actor	negative	0
+	actor	positive	0
+	actor	sadness	0
+	actor	surprise	0
+	actor	trust	0
+	actual	anger	0
+	actual	anticipation	0
+	actual	disgust	0
+	actual	fear	0
+	actual	joy	0
+	actual	negative	0
+	actual	positive	1
+	actual	sadness	0
+	actual	surprise	0
+	actual	trust	0
+	actuality	anger	0
+	actuality	anticipation	0
+	actuality	disgust	0
+	actuality	fear	0
+	actuality	joy	0
+	actuality	negative	0
+	actuality	positive	0
+	actuality	sadness	0
+	actuality	surprise	0
+	actuality	trust	0
+	actuary	anger	0
+	actuary	anticipation	0
+	actuary	disgust	0
+	actuary	fear	0
+	actuary	joy	0
+	actuary	negative	0
+	actuary	positive	0
+	actuary	sadness	0
+	actuary	surprise	0
+	actuary	trust	0
+	acuity	anger	0
+	acuity	anticipation	0
+	acuity	disgust	0
+	acuity	fear	0
+	acuity	joy	0
+	acuity	negative	0
+	acuity	positive	1
+	acuity	sadness	0
+	acuity	surprise	0
+	acuity	trust	0
+	acumen	anger	0
+	acumen	anticipation	0
+	acumen	disgust	0
+	acumen	fear	0
+	acumen	joy	0
+	acumen	negative	0
+	acumen	positive	1
+	acumen	sadness	0
+	acumen	surprise	0
+	acumen	trust	0
+	acupuncture	anger	0
+	acupuncture	anticipation	0
+	acupuncture	disgust	0
+	acupuncture	fear	0
+	acupuncture	joy	0
+	acupuncture	negative	0
+	acupuncture	positive	0
+	acupuncture	sadness	0
+	acupuncture	surprise	0
+	acupuncture	trust	0
+	acutely	anger	0
+	acutely	anticipation	0
+	acutely	disgust	0
+	acutely	fear	0
+	acutely	joy	0
+	acutely	negative	0
+	acutely	positive	0
+	acutely	sadness	0
+	acutely	surprise	0
+	acutely	trust	0
+	adage	anger	0
+	adage	anticipation	0
+	adage	disgust	0
+	adage	fear	0
+	adage	joy	0
+	adage	negative	0
+	adage	positive	0
+	adage	sadness	0
+	adage	surprise	0
+	adage	trust	0
+	adamant	anger	0
+	adamant	anticipation	0
+	adamant	disgust	0
+	adamant	fear	0
+	adamant	joy	0
+	adamant	negative	0
+	adamant	positive	0
+	adamant	sadness	0
+	adamant	surprise	0
+	adamant	trust	0
+	adapt	anger	0
+	adapt	anticipation	0
+	adapt	disgust	0
+	adapt	fear	0
+	adapt	joy	0
+	adapt	negative	0
+	adapt	positive	1
+	adapt	sadness	0
+	adapt	surprise	0
+	adapt	trust	0
+	adaptable	anger	0
+	adaptable	anticipation	0
+	adaptable	disgust	0
+	adaptable	fear	0
+	adaptable	joy	0
+	adaptable	negative	0
+	adaptable	positive	1
+	adaptable	sadness	0
+	adaptable	surprise	0
+	adaptable	trust	0
+	add	anger	0
+	add	anticipation	0
+	add	disgust	0
+	add	fear	0
+	add	joy	0
+	add	negative	0
+	add	positive	0
+	add	sadness	0
+	add	surprise	0
+	add	trust	0
+	added	anger	0
+	added	anticipation	0
+	added	disgust	0
+	added	fear	0
+	added	joy	0
+	added	negative	0
+	added	positive	0
+	added	sadness	0
+	added	surprise	0
+	added	trust	0
+	addendum	anger	0
+	addendum	anticipation	0
+	addendum	disgust	0
+	addendum	fear	0
+	addendum	joy	0
+	addendum	negative	0
+	addendum	positive	0
+	addendum	sadness	0
+	addendum	surprise	0
+	addendum	trust	0
+	adder	anger	1
+	adder	anticipation	0
+	adder	disgust	1
+	adder	fear	1
+	adder	joy	0
+	adder	negative	1
+	adder	positive	0
+	adder	sadness	1
+	adder	surprise	0
+	adder	trust	0
+	addiction	anger	0
+	addiction	anticipation	0
+	addiction	disgust	0
+	addiction	fear	0
+	addiction	joy	0
+	addiction	negative	1
+	addiction	positive	0
+	addiction	sadness	0
+	addiction	surprise	0
+	addiction	trust	0
+	addition	anger	0
+	addition	anticipation	0
+	addition	disgust	0
+	addition	fear	0
+	addition	joy	0
+	addition	negative	0
+	addition	positive	0
+	addition	sadness	0
+	addition	surprise	0
+	addition	trust	0
+	additional	anger	0
+	additional	anticipation	0
+	additional	disgust	0
+	additional	fear	0
+	additional	joy	0
+	additional	negative	0
+	additional	positive	0
+	additional	sadness	0
+	additional	surprise	0
+	additional	trust	0
+	additive	anger	0
+	additive	anticipation	0
+	additive	disgust	0
+	additive	fear	0
+	additive	joy	0
+	additive	negative	0
+	additive	positive	0
+	additive	sadness	0
+	additive	surprise	0
+	additive	trust	0
+	address	anger	0
+	address	anticipation	0
+	address	disgust	0
+	address	fear	0
+	address	joy	0
+	address	negative	0
+	address	positive	0
+	address	sadness	0
+	address	surprise	0
+	address	trust	0
+	addressee	anger	0
+	addressee	anticipation	0
+	addressee	disgust	0
+	addressee	fear	0
+	addressee	joy	0
+	addressee	negative	0
+	addressee	positive	0
+	addressee	sadness	0
+	addressee	surprise	0
+	addressee	trust	0
+	addresses	anger	0
+	addresses	anticipation	1
+	addresses	disgust	0
+	addresses	fear	0
+	addresses	joy	0
+	addresses	negative	0
+	addresses	positive	1
+	addresses	sadness	0
+	addresses	surprise	0
+	addresses	trust	0
+	adept	anger	0
+	adept	anticipation	0
+	adept	disgust	0
+	adept	fear	0
+	adept	joy	0
+	adept	negative	0
+	adept	positive	1
+	adept	sadness	0
+	adept	surprise	0
+	adept	trust	0
+	adequacy	anger	0
+	adequacy	anticipation	0
+	adequacy	disgust	0
+	adequacy	fear	0
+	adequacy	joy	0
+	adequacy	negative	0
+	adequacy	positive	1
+	adequacy	sadness	0
+	adequacy	surprise	0
+	adequacy	trust	0
+	adequate	anger	0
+	adequate	anticipation	0
+	adequate	disgust	0
+	adequate	fear	0
+	adequate	joy	0
+	adequate	negative	0
+	adequate	positive	0
+	adequate	sadness	0
+	adequate	surprise	0
+	adequate	trust	0
+	adhere	anger	0
+	adhere	anticipation	0
+	adhere	disgust	0
+	adhere	fear	0
+	adhere	joy	0
+	adhere	negative	0
+	adhere	positive	0
+	adhere	sadness	0
+	adhere	surprise	0
+	adhere	trust	0
+	adherence	anger	0
+	adherence	anticipation	0
+	adherence	disgust	0
+	adherence	fear	0
+	adherence	joy	0
+	adherence	negative	0
+	adherence	positive	0
+	adherence	sadness	0
+	adherence	surprise	0
+	adherence	trust	0
+	adherent	anger	0
+	adherent	anticipation	0
+	adherent	disgust	0
+	adherent	fear	0
+	adherent	joy	0
+	adherent	negative	0
+	adherent	positive	0
+	adherent	sadness	0
+	adherent	surprise	0
+	adherent	trust	0
+	adhering	anger	0
+	adhering	anticipation	0
+	adhering	disgust	0
+	adhering	fear	0
+	adhering	joy	0
+	adhering	negative	0
+	adhering	positive	0
+	adhering	sadness	0
+	adhering	surprise	0
+	adhering	trust	1
+	adhesion	anger	0
+	adhesion	anticipation	0
+	adhesion	disgust	0
+	adhesion	fear	0
+	adhesion	joy	0
+	adhesion	negative	0
+	adhesion	positive	0
+	adhesion	sadness	0
+	adhesion	surprise	0
+	adhesion	trust	0
+	adhesive	anger	0
+	adhesive	anticipation	0
+	adhesive	disgust	0
+	adhesive	fear	0
+	adhesive	joy	0
+	adhesive	negative	0
+	adhesive	positive	0
+	adhesive	sadness	0
+	adhesive	surprise	0
+	adhesive	trust	0
+	adieu	anger	0
+	adieu	anticipation	0
+	adieu	disgust	0
+	adieu	fear	0
+	adieu	joy	0
+	adieu	negative	0
+	adieu	positive	0
+	adieu	sadness	0
+	adieu	surprise	0
+	adieu	trust	0
+	adipose	anger	0
+	adipose	anticipation	0
+	adipose	disgust	0
+	adipose	fear	0
+	adipose	joy	0
+	adipose	negative	1
+	adipose	positive	0
+	adipose	sadness	0
+	adipose	surprise	0
+	adipose	trust	0
+	adjacency	anger	0
+	adjacency	anticipation	0
+	adjacency	disgust	0
+	adjacency	fear	0
+	adjacency	joy	0
+	adjacency	negative	0
+	adjacency	positive	0
+	adjacency	sadness	0
+	adjacency	surprise	0
+	adjacency	trust	0
+	adjacent	anger	0
+	adjacent	anticipation	0
+	adjacent	disgust	0
+	adjacent	fear	0
+	adjacent	joy	0
+	adjacent	negative	0
+	adjacent	positive	0
+	adjacent	sadness	0
+	adjacent	surprise	0
+	adjacent	trust	0
+	adjective	anger	0
+	adjective	anticipation	0
+	adjective	disgust	0
+	adjective	fear	0
+	adjective	joy	0
+	adjective	negative	0
+	adjective	positive	0
+	adjective	sadness	0
+	adjective	surprise	0
+	adjective	trust	0
+	adjoining	anger	0
+	adjoining	anticipation	0
+	adjoining	disgust	0
+	adjoining	fear	0
+	adjoining	joy	0
+	adjoining	negative	0
+	adjoining	positive	0
+	adjoining	sadness	0
+	adjoining	surprise	0
+	adjoining	trust	0
+	adjourn	anger	0
+	adjourn	anticipation	0
+	adjourn	disgust	0
+	adjourn	fear	0
+	adjourn	joy	0
+	adjourn	negative	0
+	adjourn	positive	0
+	adjourn	sadness	0
+	adjourn	surprise	0
+	adjourn	trust	0
+	adjournment	anger	0
+	adjournment	anticipation	0
+	adjournment	disgust	0
+	adjournment	fear	0
+	adjournment	joy	0
+	adjournment	negative	0
+	adjournment	positive	0
+	adjournment	sadness	0
+	adjournment	surprise	0
+	adjournment	trust	0
+	adjudicate	anger	0
+	adjudicate	anticipation	0
+	adjudicate	disgust	0
+	adjudicate	fear	1
+	adjudicate	joy	0
+	adjudicate	negative	1
+	adjudicate	positive	0
+	adjudicate	sadness	0
+	adjudicate	surprise	0
+	adjudicate	trust	0
+	adjudication	anger	0
+	adjudication	anticipation	0
+	adjudication	disgust	0
+	adjudication	fear	0
+	adjudication	joy	0
+	adjudication	negative	0
+	adjudication	positive	0
+	adjudication	sadness	0
+	adjudication	surprise	0
+	adjudication	trust	0
+	adjunct	anger	0
+	adjunct	anticipation	0
+	adjunct	disgust	0
+	adjunct	fear	0
+	adjunct	joy	0
+	adjunct	negative	0
+	adjunct	positive	1
+	adjunct	sadness	0
+	adjunct	surprise	0
+	adjunct	trust	0
+	adjust	anger	0
+	adjust	anticipation	0
+	adjust	disgust	0
+	adjust	fear	0
+	adjust	joy	0
+	adjust	negative	0
+	adjust	positive	0
+	adjust	sadness	0
+	adjust	surprise	0
+	adjust	trust	0
+	adjustment	anger	0
+	adjustment	anticipation	0
+	adjustment	disgust	0
+	adjustment	fear	0
+	adjustment	joy	0
+	adjustment	negative	0
+	adjustment	positive	0
+	adjustment	sadness	0
+	adjustment	surprise	0
+	adjustment	trust	0
+	adjuvant	anger	0
+	adjuvant	anticipation	0
+	adjuvant	disgust	0
+	adjuvant	fear	0
+	adjuvant	joy	0
+	adjuvant	negative	0
+	adjuvant	positive	0
+	adjuvant	sadness	0
+	adjuvant	surprise	0
+	adjuvant	trust	0
+	administer	anger	0
+	administer	anticipation	0
+	administer	disgust	0
+	administer	fear	0
+	administer	joy	0
+	administer	negative	0
+	administer	positive	0
+	administer	sadness	0
+	administer	surprise	0
+	administer	trust	0
+	administration	anger	0
+	administration	anticipation	0
+	administration	disgust	0
+	administration	fear	0
+	administration	joy	0
+	administration	negative	0
+	administration	positive	0
+	administration	sadness	0
+	administration	surprise	0
+	administration	trust	0
+	administrative	anger	0
+	administrative	anticipation	0
+	administrative	disgust	0
+	administrative	fear	0
+	administrative	joy	0
+	administrative	negative	0
+	administrative	positive	0
+	administrative	sadness	0
+	administrative	surprise	0
+	administrative	trust	1
+	admirable	anger	0
+	admirable	anticipation	0
+	admirable	disgust	0
+	admirable	fear	0
+	admirable	joy	1
+	admirable	negative	0
+	admirable	positive	1
+	admirable	sadness	0
+	admirable	surprise	0
+	admirable	trust	1
+	admiral	anger	0
+	admiral	anticipation	0
+	admiral	disgust	0
+	admiral	fear	0
+	admiral	joy	0
+	admiral	negative	0
+	admiral	positive	1
+	admiral	sadness	0
+	admiral	surprise	0
+	admiral	trust	1
+	admiralty	anger	0
+	admiralty	anticipation	0
+	admiralty	disgust	0
+	admiralty	fear	0
+	admiralty	joy	0
+	admiralty	negative	0
+	admiralty	positive	0
+	admiralty	sadness	0
+	admiralty	surprise	0
+	admiralty	trust	0
+	admiration	anger	0
+	admiration	anticipation	0
+	admiration	disgust	0
+	admiration	fear	0
+	admiration	joy	1
+	admiration	negative	0
+	admiration	positive	1
+	admiration	sadness	0
+	admiration	surprise	0
+	admiration	trust	1
+	admire	anger	0
+	admire	anticipation	0
+	admire	disgust	0
+	admire	fear	0
+	admire	joy	0
+	admire	negative	0
+	admire	positive	1
+	admire	sadness	0
+	admire	surprise	0
+	admire	trust	1
+	admirer	anger	0
+	admirer	anticipation	0
+	admirer	disgust	0
+	admirer	fear	0
+	admirer	joy	0
+	admirer	negative	0
+	admirer	positive	1
+	admirer	sadness	0
+	admirer	surprise	0
+	admirer	trust	0
+	admissibility	anger	0
+	admissibility	anticipation	0
+	admissibility	disgust	0
+	admissibility	fear	0
+	admissibility	joy	0
+	admissibility	negative	0
+	admissibility	positive	0
+	admissibility	sadness	0
+	admissibility	surprise	0
+	admissibility	trust	0
+	admissible	anger	0
+	admissible	anticipation	0
+	admissible	disgust	0
+	admissible	fear	0
+	admissible	joy	0
+	admissible	negative	0
+	admissible	positive	1
+	admissible	sadness	0
+	admissible	surprise	0
+	admissible	trust	1
+	admission	anger	0
+	admission	anticipation	0
+	admission	disgust	0
+	admission	fear	0
+	admission	joy	0
+	admission	negative	0
+	admission	positive	0
+	admission	sadness	0
+	admission	surprise	0
+	admission	trust	0
+	admit	anger	0
+	admit	anticipation	0
+	admit	disgust	0
+	admit	fear	0
+	admit	joy	0
+	admit	negative	0
+	admit	positive	0
+	admit	sadness	0
+	admit	surprise	0
+	admit	trust	0
+	admittance	anger	0
+	admittance	anticipation	0
+	admittance	disgust	0
+	admittance	fear	0
+	admittance	joy	0
+	admittance	negative	0
+	admittance	positive	0
+	admittance	sadness	0
+	admittance	surprise	0
+	admittance	trust	0
+	admitted	anger	0
+	admitted	anticipation	0
+	admitted	disgust	0
+	admitted	fear	0
+	admitted	joy	0
+	admitted	negative	0
+	admitted	positive	0
+	admitted	sadness	0
+	admitted	surprise	0
+	admitted	trust	0
+	admitting	anger	0
+	admitting	anticipation	0
+	admitting	disgust	0
+	admitting	fear	0
+	admitting	joy	0
+	admitting	negative	0
+	admitting	positive	0
+	admitting	sadness	0
+	admitting	surprise	0
+	admitting	trust	0
+	admixture	anger	0
+	admixture	anticipation	0
+	admixture	disgust	0
+	admixture	fear	0
+	admixture	joy	0
+	admixture	negative	0
+	admixture	positive	0
+	admixture	sadness	0
+	admixture	surprise	0
+	admixture	trust	0
+	admonition	anger	0
+	admonition	anticipation	0
+	admonition	disgust	0
+	admonition	fear	1
+	admonition	joy	0
+	admonition	negative	1
+	admonition	positive	0
+	admonition	sadness	0
+	admonition	surprise	0
+	admonition	trust	0
+	ado	anger	0
+	ado	anticipation	0
+	ado	disgust	0
+	ado	fear	0
+	ado	joy	0
+	ado	negative	0
+	ado	positive	0
+	ado	sadness	0
+	ado	surprise	0
+	ado	trust	0
+	adobe	anger	0
+	adobe	anticipation	0
+	adobe	disgust	0
+	adobe	fear	0
+	adobe	joy	0
+	adobe	negative	0
+	adobe	positive	0
+	adobe	sadness	0
+	adobe	surprise	0
+	adobe	trust	0
+	adolescence	anger	0
+	adolescence	anticipation	0
+	adolescence	disgust	0
+	adolescence	fear	0
+	adolescence	joy	0
+	adolescence	negative	0
+	adolescence	positive	0
+	adolescence	sadness	0
+	adolescence	surprise	0
+	adolescence	trust	0
+	adolescent	anger	0
+	adolescent	anticipation	0
+	adolescent	disgust	0
+	adolescent	fear	0
+	adolescent	joy	0
+	adolescent	negative	0
+	adolescent	positive	0
+	adolescent	sadness	0
+	adolescent	surprise	0
+	adolescent	trust	0
+	adopt	anger	0
+	adopt	anticipation	0
+	adopt	disgust	0
+	adopt	fear	0
+	adopt	joy	0
+	adopt	negative	0
+	adopt	positive	0
+	adopt	sadness	0
+	adopt	surprise	0
+	adopt	trust	0
+	adoption	anger	0
+	adoption	anticipation	0
+	adoption	disgust	0
+	adoption	fear	0
+	adoption	joy	0
+	adoption	negative	0
+	adoption	positive	0
+	adoption	sadness	0
+	adoption	surprise	0
+	adoption	trust	0
+	adorable	anger	0
+	adorable	anticipation	0
+	adorable	disgust	0
+	adorable	fear	0
+	adorable	joy	1
+	adorable	negative	0
+	adorable	positive	1
+	adorable	sadness	0
+	adorable	surprise	0
+	adorable	trust	0
+	adoration	anger	0
+	adoration	anticipation	0
+	adoration	disgust	0
+	adoration	fear	0
+	adoration	joy	1
+	adoration	negative	0
+	adoration	positive	1
+	adoration	sadness	0
+	adoration	surprise	0
+	adoration	trust	1
+	adore	anger	0
+	adore	anticipation	1
+	adore	disgust	0
+	adore	fear	0
+	adore	joy	1
+	adore	negative	0
+	adore	positive	1
+	adore	sadness	0
+	adore	surprise	0
+	adore	trust	1
+	adorn	anger	0
+	adorn	anticipation	0
+	adorn	disgust	0
+	adorn	fear	0
+	adorn	joy	0
+	adorn	negative	0
+	adorn	positive	0
+	adorn	sadness	0
+	adorn	surprise	0
+	adorn	trust	0
+	adornment	anger	0
+	adornment	anticipation	0
+	adornment	disgust	0
+	adornment	fear	0
+	adornment	joy	0
+	adornment	negative	0
+	adornment	positive	0
+	adornment	sadness	0
+	adornment	surprise	0
+	adornment	trust	0
+	adrift	anger	0
+	adrift	anticipation	1
+	adrift	disgust	0
+	adrift	fear	1
+	adrift	joy	0
+	adrift	negative	1
+	adrift	positive	0
+	adrift	sadness	1
+	adrift	surprise	0
+	adrift	trust	0
+	adult	anger	0
+	adult	anticipation	0
+	adult	disgust	0
+	adult	fear	0
+	adult	joy	0
+	adult	negative	0
+	adult	positive	0
+	adult	sadness	0
+	adult	surprise	0
+	adult	trust	0
+	adulterated	anger	0
+	adulterated	anticipation	0
+	adulterated	disgust	0
+	adulterated	fear	0
+	adulterated	joy	0
+	adulterated	negative	1
+	adulterated	positive	0
+	adulterated	sadness	0
+	adulterated	surprise	0
+	adulterated	trust	0
+	adultery	anger	0
+	adultery	anticipation	0
+	adultery	disgust	1
+	adultery	fear	0
+	adultery	joy	0
+	adultery	negative	1
+	adultery	positive	0
+	adultery	sadness	1
+	adultery	surprise	0
+	adultery	trust	0
+	advance	anger	0
+	advance	anticipation	1
+	advance	disgust	0
+	advance	fear	1
+	advance	joy	1
+	advance	negative	0
+	advance	positive	1
+	advance	sadness	0
+	advance	surprise	1
+	advance	trust	0
+	advanced	anger	0
+	advanced	anticipation	0
+	advanced	disgust	0
+	advanced	fear	0
+	advanced	joy	0
+	advanced	negative	0
+	advanced	positive	1
+	advanced	sadness	0
+	advanced	surprise	0
+	advanced	trust	0
+	advancement	anger	0
+	advancement	anticipation	0
+	advancement	disgust	0
+	advancement	fear	0
+	advancement	joy	0
+	advancement	negative	0
+	advancement	positive	1
+	advancement	sadness	0
+	advancement	surprise	0
+	advancement	trust	0
+	advancing	anger	0
+	advancing	anticipation	0
+	advancing	disgust	0
+	advancing	fear	0
+	advancing	joy	0
+	advancing	negative	0
+	advancing	positive	0
+	advancing	sadness	0
+	advancing	surprise	0
+	advancing	trust	0
+	advantage	anger	0
+	advantage	anticipation	0
+	advantage	disgust	0
+	advantage	fear	0
+	advantage	joy	0
+	advantage	negative	0
+	advantage	positive	1
+	advantage	sadness	0
+	advantage	surprise	0
+	advantage	trust	0
+	advantageous	anger	0
+	advantageous	anticipation	0
+	advantageous	disgust	0
+	advantageous	fear	0
+	advantageous	joy	0
+	advantageous	negative	0
+	advantageous	positive	1
+	advantageous	sadness	0
+	advantageous	surprise	0
+	advantageous	trust	0
+	advent	anger	0
+	advent	anticipation	1
+	advent	disgust	0
+	advent	fear	0
+	advent	joy	1
+	advent	negative	0
+	advent	positive	1
+	advent	sadness	0
+	advent	surprise	0
+	advent	trust	1
+	adventure	anger	0
+	adventure	anticipation	1
+	adventure	disgust	0
+	adventure	fear	0
+	adventure	joy	0
+	adventure	negative	0
+	adventure	positive	1
+	adventure	sadness	0
+	adventure	surprise	0
+	adventure	trust	0
+	adventurer	anger	0
+	adventurer	anticipation	0
+	adventurer	disgust	0
+	adventurer	fear	0
+	adventurer	joy	0
+	adventurer	negative	0
+	adventurer	positive	0
+	adventurer	sadness	0
+	adventurer	surprise	0
+	adventurer	trust	0
+	adventurous	anger	0
+	adventurous	anticipation	0
+	adventurous	disgust	0
+	adventurous	fear	0
+	adventurous	joy	0
+	adventurous	negative	0
+	adventurous	positive	1
+	adventurous	sadness	0
+	adventurous	surprise	0
+	adventurous	trust	0
+	adversary	anger	1
+	adversary	anticipation	0
+	adversary	disgust	0
+	adversary	fear	0
+	adversary	joy	0
+	adversary	negative	1
+	adversary	positive	0
+	adversary	sadness	0
+	adversary	surprise	0
+	adversary	trust	0
+	adverse	anger	1
+	adverse	anticipation	0
+	adverse	disgust	1
+	adverse	fear	1
+	adverse	joy	0
+	adverse	negative	1
+	adverse	positive	0
+	adverse	sadness	1
+	adverse	surprise	0
+	adverse	trust	0
+	adversity	anger	1
+	adversity	anticipation	0
+	adversity	disgust	0
+	adversity	fear	1
+	adversity	joy	0
+	adversity	negative	1
+	adversity	positive	0
+	adversity	sadness	1
+	adversity	surprise	0
+	adversity	trust	0
+	advertise	anger	0
+	advertise	anticipation	0
+	advertise	disgust	0
+	advertise	fear	0
+	advertise	joy	0
+	advertise	negative	0
+	advertise	positive	0
+	advertise	sadness	0
+	advertise	surprise	0
+	advertise	trust	0
+	advertisement	anger	0
+	advertisement	anticipation	0
+	advertisement	disgust	0
+	advertisement	fear	0
+	advertisement	joy	0
+	advertisement	negative	0
+	advertisement	positive	0
+	advertisement	sadness	0
+	advertisement	surprise	0
+	advertisement	trust	0
+	advice	anger	0
+	advice	anticipation	0
+	advice	disgust	0
+	advice	fear	0
+	advice	joy	0
+	advice	negative	0
+	advice	positive	0
+	advice	sadness	0
+	advice	surprise	0
+	advice	trust	1
+	advisable	anger	0
+	advisable	anticipation	0
+	advisable	disgust	0
+	advisable	fear	0
+	advisable	joy	0
+	advisable	negative	0
+	advisable	positive	1
+	advisable	sadness	0
+	advisable	surprise	0
+	advisable	trust	1
+	advise	anger	0
+	advise	anticipation	0
+	advise	disgust	0
+	advise	fear	0
+	advise	joy	0
+	advise	negative	0
+	advise	positive	1
+	advise	sadness	0
+	advise	surprise	0
+	advise	trust	1
+	advised	anger	0
+	advised	anticipation	0
+	advised	disgust	0
+	advised	fear	0
+	advised	joy	0
+	advised	negative	0
+	advised	positive	0
+	advised	sadness	0
+	advised	surprise	0
+	advised	trust	1
+	advisement	anger	0
+	advisement	anticipation	0
+	advisement	disgust	0
+	advisement	fear	0
+	advisement	joy	0
+	advisement	negative	0
+	advisement	positive	0
+	advisement	sadness	0
+	advisement	surprise	0
+	advisement	trust	0
+	adviser	anger	0
+	adviser	anticipation	0
+	adviser	disgust	0
+	adviser	fear	0
+	adviser	joy	0
+	adviser	negative	0
+	adviser	positive	1
+	adviser	sadness	0
+	adviser	surprise	0
+	adviser	trust	1
+	advocacy	anger	1
+	advocacy	anticipation	1
+	advocacy	disgust	0
+	advocacy	fear	0
+	advocacy	joy	1
+	advocacy	negative	0
+	advocacy	positive	1
+	advocacy	sadness	0
+	advocacy	surprise	0
+	advocacy	trust	1
+	advocate	anger	0
+	advocate	anticipation	0
+	advocate	disgust	0
+	advocate	fear	0
+	advocate	joy	0
+	advocate	negative	0
+	advocate	positive	0
+	advocate	sadness	0
+	advocate	surprise	0
+	advocate	trust	1
+	aegis	anger	0
+	aegis	anticipation	0
+	aegis	disgust	0
+	aegis	fear	0
+	aegis	joy	0
+	aegis	negative	0
+	aegis	positive	0
+	aegis	sadness	0
+	aegis	surprise	0
+	aegis	trust	0
+	aeration	anger	0
+	aeration	anticipation	0
+	aeration	disgust	0
+	aeration	fear	0
+	aeration	joy	0
+	aeration	negative	0
+	aeration	positive	0
+	aeration	sadness	0
+	aeration	surprise	0
+	aeration	trust	0
+	aerial	anger	0
+	aerial	anticipation	0
+	aerial	disgust	0
+	aerial	fear	0
+	aerial	joy	0
+	aerial	negative	0
+	aerial	positive	0
+	aerial	sadness	0
+	aerial	surprise	0
+	aerial	trust	0
+	aerodrome	anger	0
+	aerodrome	anticipation	0
+	aerodrome	disgust	0
+	aerodrome	fear	0
+	aerodrome	joy	0
+	aerodrome	negative	0
+	aerodrome	positive	0
+	aerodrome	sadness	0
+	aerodrome	surprise	0
+	aerodrome	trust	0
+	aerodynamics	anger	0
+	aerodynamics	anticipation	0
+	aerodynamics	disgust	0
+	aerodynamics	fear	0
+	aerodynamics	joy	0
+	aerodynamics	negative	0
+	aerodynamics	positive	0
+	aerodynamics	sadness	0
+	aerodynamics	surprise	0
+	aerodynamics	trust	0
+	aeronautics	anger	0
+	aeronautics	anticipation	0
+	aeronautics	disgust	0
+	aeronautics	fear	0
+	aeronautics	joy	0
+	aeronautics	negative	0
+	aeronautics	positive	0
+	aeronautics	sadness	0
+	aeronautics	surprise	0
+	aeronautics	trust	0
+	aeroplane	anger	0
+	aeroplane	anticipation	0
+	aeroplane	disgust	0
+	aeroplane	fear	0
+	aeroplane	joy	0
+	aeroplane	negative	0
+	aeroplane	positive	0
+	aeroplane	sadness	0
+	aeroplane	surprise	0
+	aeroplane	trust	0
+	aesthetic	anger	0
+	aesthetic	anticipation	0
+	aesthetic	disgust	0
+	aesthetic	fear	0
+	aesthetic	joy	0
+	aesthetic	negative	0
+	aesthetic	positive	1
+	aesthetic	sadness	0
+	aesthetic	surprise	0
+	aesthetic	trust	0
+	aesthetics	anger	0
+	aesthetics	anticipation	0
+	aesthetics	disgust	0
+	aesthetics	fear	0
+	aesthetics	joy	1
+	aesthetics	negative	0
+	aesthetics	positive	1
+	aesthetics	sadness	0
+	aesthetics	surprise	0
+	aesthetics	trust	0
+	aetiology	anger	0
+	aetiology	anticipation	0
+	aetiology	disgust	0
+	aetiology	fear	0
+	aetiology	joy	0
+	aetiology	negative	0
+	aetiology	positive	0
+	aetiology	sadness	0
+	aetiology	surprise	0
+	aetiology	trust	0
+	afar	anger	0
+	afar	anticipation	0
+	afar	disgust	0
+	afar	fear	0
+	afar	joy	0
+	afar	negative	0
+	afar	positive	0
+	afar	sadness	0
+	afar	surprise	0
+	afar	trust	0
+	affable	anger	0
+	affable	anticipation	0
+	affable	disgust	0
+	affable	fear	0
+	affable	joy	0
+	affable	negative	0
+	affable	positive	1
+	affable	sadness	0
+	affable	surprise	0
+	affable	trust	0
+	affair	anger	0
+	affair	anticipation	0
+	affair	disgust	0
+	affair	fear	0
+	affair	joy	0
+	affair	negative	0
+	affair	positive	0
+	affair	sadness	0
+	affair	surprise	0
+	affair	trust	0
+	affecting	anger	0
+	affecting	anticipation	0
+	affecting	disgust	0
+	affecting	fear	0
+	affecting	joy	0
+	affecting	negative	0
+	affecting	positive	0
+	affecting	sadness	0
+	affecting	surprise	0
+	affecting	trust	0
+	affection	anger	0
+	affection	anticipation	0
+	affection	disgust	0
+	affection	fear	0
+	affection	joy	1
+	affection	negative	0
+	affection	positive	1
+	affection	sadness	0
+	affection	surprise	0
+	affection	trust	1
+	affections	anger	0
+	affections	anticipation	0
+	affections	disgust	0
+	affections	fear	0
+	affections	joy	0
+	affections	negative	0
+	affections	positive	0
+	affections	sadness	0
+	affections	surprise	0
+	affections	trust	0
+	affiche	anger	0
+	affiche	anticipation	0
+	affiche	disgust	0
+	affiche	fear	0
+	affiche	joy	0
+	affiche	negative	0
+	affiche	positive	0
+	affiche	sadness	0
+	affiche	surprise	0
+	affiche	trust	0
+	affidavit	anger	0
+	affidavit	anticipation	0
+	affidavit	disgust	0
+	affidavit	fear	0
+	affidavit	joy	0
+	affidavit	negative	0
+	affidavit	positive	0
+	affidavit	sadness	0
+	affidavit	surprise	0
+	affidavit	trust	0
+	affiliated	anger	0
+	affiliated	anticipation	0
+	affiliated	disgust	0
+	affiliated	fear	0
+	affiliated	joy	0
+	affiliated	negative	0
+	affiliated	positive	1
+	affiliated	sadness	0
+	affiliated	surprise	0
+	affiliated	trust	0
+	affiliation	anger	0
+	affiliation	anticipation	0
+	affiliation	disgust	0
+	affiliation	fear	0
+	affiliation	joy	0
+	affiliation	negative	0
+	affiliation	positive	0
+	affiliation	sadness	0
+	affiliation	surprise	0
+	affiliation	trust	0
+	affinity	anger	0
+	affinity	anticipation	0
+	affinity	disgust	0
+	affinity	fear	0
+	affinity	joy	0
+	affinity	negative	0
+	affinity	positive	0
+	affinity	sadness	0
+	affinity	surprise	0
+	affinity	trust	0
+	affirm	anger	0
+	affirm	anticipation	0
+	affirm	disgust	0
+	affirm	fear	0
+	affirm	joy	0
+	affirm	negative	0
+	affirm	positive	1
+	affirm	sadness	0
+	affirm	surprise	0
+	affirm	trust	1
+	affirmation	anger	0
+	affirmation	anticipation	0
+	affirmation	disgust	0
+	affirmation	fear	0
+	affirmation	joy	0
+	affirmation	negative	0
+	affirmation	positive	1
+	affirmation	sadness	0
+	affirmation	surprise	0
+	affirmation	trust	0
+	affirmative	anger	0
+	affirmative	anticipation	0
+	affirmative	disgust	0
+	affirmative	fear	0
+	affirmative	joy	0
+	affirmative	negative	0
+	affirmative	positive	1
+	affirmative	sadness	0
+	affirmative	surprise	0
+	affirmative	trust	0
+	affirmatively	anger	0
+	affirmatively	anticipation	0
+	affirmatively	disgust	0
+	affirmatively	fear	0
+	affirmatively	joy	0
+	affirmatively	negative	0
+	affirmatively	positive	1
+	affirmatively	sadness	0
+	affirmatively	surprise	0
+	affirmatively	trust	1
+	affix	anger	0
+	affix	anticipation	0
+	affix	disgust	0
+	affix	fear	0
+	affix	joy	0
+	affix	negative	0
+	affix	positive	0
+	affix	sadness	0
+	affix	surprise	0
+	affix	trust	0
+	afflict	anger	0
+	afflict	anticipation	0
+	afflict	disgust	0
+	afflict	fear	1
+	afflict	joy	0
+	afflict	negative	1
+	afflict	positive	0
+	afflict	sadness	1
+	afflict	surprise	0
+	afflict	trust	0
+	afflicted	anger	0
+	afflicted	anticipation	0
+	afflicted	disgust	0
+	afflicted	fear	0
+	afflicted	joy	0
+	afflicted	negative	1
+	afflicted	positive	0
+	afflicted	sadness	0
+	afflicted	surprise	0
+	afflicted	trust	0
+	affliction	anger	0
+	affliction	anticipation	0
+	affliction	disgust	1
+	affliction	fear	1
+	affliction	joy	0
+	affliction	negative	1
+	affliction	positive	0
+	affliction	sadness	1
+	affliction	surprise	0
+	affliction	trust	0
+	affluence	anger	0
+	affluence	anticipation	0
+	affluence	disgust	0
+	affluence	fear	0
+	affluence	joy	1
+	affluence	negative	0
+	affluence	positive	1
+	affluence	sadness	0
+	affluence	surprise	0
+	affluence	trust	0
+	affluent	anger	0
+	affluent	anticipation	0
+	affluent	disgust	0
+	affluent	fear	0
+	affluent	joy	0
+	affluent	negative	0
+	affluent	positive	1
+	affluent	sadness	0
+	affluent	surprise	0
+	affluent	trust	0
+	afford	anger	0
+	afford	anticipation	0
+	afford	disgust	0
+	afford	fear	0
+	afford	joy	0
+	afford	negative	0
+	afford	positive	1
+	afford	sadness	0
+	afford	surprise	0
+	afford	trust	0
+	affront	anger	1
+	affront	anticipation	0
+	affront	disgust	1
+	affront	fear	1
+	affront	joy	0
+	affront	negative	1
+	affront	positive	0
+	affront	sadness	1
+	affront	surprise	1
+	affront	trust	0
+	afield	anger	0
+	afield	anticipation	0
+	afield	disgust	0
+	afield	fear	0
+	afield	joy	0
+	afield	negative	0
+	afield	positive	0
+	afield	sadness	0
+	afield	surprise	0
+	afield	trust	0
+	afore	anger	0
+	afore	anticipation	0
+	afore	disgust	0
+	afore	fear	0
+	afore	joy	0
+	afore	negative	0
+	afore	positive	0
+	afore	sadness	0
+	afore	surprise	0
+	afore	trust	0
+	aforementioned	anger	0
+	aforementioned	anticipation	0
+	aforementioned	disgust	0
+	aforementioned	fear	0
+	aforementioned	joy	0
+	aforementioned	negative	0
+	aforementioned	positive	0
+	aforementioned	sadness	0
+	aforementioned	surprise	0
+	aforementioned	trust	0
+	aforesaid	anger	0
+	aforesaid	anticipation	0
+	aforesaid	disgust	0
+	aforesaid	fear	0
+	aforesaid	joy	0
+	aforesaid	negative	0
+	aforesaid	positive	0
+	aforesaid	sadness	0
+	aforesaid	surprise	0
+	aforesaid	trust	0
+	afraid	anger	0
+	afraid	anticipation	0
+	afraid	disgust	0
+	afraid	fear	1
+	afraid	joy	0
+	afraid	negative	1
+	afraid	positive	0
+	afraid	sadness	0
+	afraid	surprise	0
+	afraid	trust	0
+	afresh	anger	0
+	afresh	anticipation	0
+	afresh	disgust	0
+	afresh	fear	0
+	afresh	joy	0
+	afresh	negative	0
+	afresh	positive	0
+	afresh	sadness	0
+	afresh	surprise	0
+	afresh	trust	0
+	aft	anger	0
+	aft	anticipation	0
+	aft	disgust	0
+	aft	fear	0
+	aft	joy	0
+	aft	negative	0
+	aft	positive	0
+	aft	sadness	0
+	aft	surprise	0
+	aft	trust	0
+	aftermath	anger	1
+	aftermath	anticipation	0
+	aftermath	disgust	1
+	aftermath	fear	1
+	aftermath	joy	0
+	aftermath	negative	1
+	aftermath	positive	0
+	aftermath	sadness	1
+	aftermath	surprise	0
+	aftermath	trust	0
+	afternoon	anger	0
+	afternoon	anticipation	0
+	afternoon	disgust	0
+	afternoon	fear	0
+	afternoon	joy	0
+	afternoon	negative	0
+	afternoon	positive	0
+	afternoon	sadness	0
+	afternoon	surprise	0
+	afternoon	trust	0
+	aftertaste	anger	0
+	aftertaste	anticipation	0
+	aftertaste	disgust	0
+	aftertaste	fear	0
+	aftertaste	joy	0
+	aftertaste	negative	1
+	aftertaste	positive	0
+	aftertaste	sadness	0
+	aftertaste	surprise	0
+	aftertaste	trust	0
+	afterthought	anger	0
+	afterthought	anticipation	0
+	afterthought	disgust	0
+	afterthought	fear	0
+	afterthought	joy	0
+	afterthought	negative	0
+	afterthought	positive	0
+	afterthought	sadness	0
+	afterthought	surprise	0
+	afterthought	trust	0
+	aga	anger	0
+	aga	anticipation	0
+	aga	disgust	0
+	aga	fear	1
+	aga	joy	0
+	aga	negative	0
+	aga	positive	1
+	aga	sadness	0
+	aga	surprise	0
+	aga	trust	1
+	agate	anger	0
+	agate	anticipation	0
+	agate	disgust	0
+	agate	fear	0
+	agate	joy	0
+	agate	negative	0
+	agate	positive	0
+	agate	sadness	0
+	agate	surprise	0
+	agate	trust	0
+	age	anger	0
+	age	anticipation	0
+	age	disgust	0
+	age	fear	0
+	age	joy	0
+	age	negative	0
+	age	positive	0
+	age	sadness	0
+	age	surprise	0
+	age	trust	0
+	aged	anger	0
+	aged	anticipation	0
+	aged	disgust	0
+	aged	fear	0
+	aged	joy	0
+	aged	negative	0
+	aged	positive	0
+	aged	sadness	0
+	aged	surprise	0
+	aged	trust	0
+	agency	anger	0
+	agency	anticipation	0
+	agency	disgust	0
+	agency	fear	0
+	agency	joy	0
+	agency	negative	0
+	agency	positive	0
+	agency	sadness	0
+	agency	surprise	0
+	agency	trust	0
+	agent	anger	0
+	agent	anticipation	0
+	agent	disgust	0
+	agent	fear	0
+	agent	joy	0
+	agent	negative	0
+	agent	positive	0
+	agent	sadness	0
+	agent	surprise	0
+	agent	trust	0
+	agglomeration	anger	0
+	agglomeration	anticipation	0
+	agglomeration	disgust	0
+	agglomeration	fear	0
+	agglomeration	joy	0
+	agglomeration	negative	0
+	agglomeration	positive	0
+	agglomeration	sadness	0
+	agglomeration	surprise	0
+	agglomeration	trust	0
+	aggravated	anger	1
+	aggravated	anticipation	0
+	aggravated	disgust	0
+	aggravated	fear	0
+	aggravated	joy	0
+	aggravated	negative	1
+	aggravated	positive	0
+	aggravated	sadness	0
+	aggravated	surprise	0
+	aggravated	trust	0
+	aggravating	anger	1
+	aggravating	anticipation	0
+	aggravating	disgust	0
+	aggravating	fear	0
+	aggravating	joy	0
+	aggravating	negative	1
+	aggravating	positive	0
+	aggravating	sadness	1
+	aggravating	surprise	0
+	aggravating	trust	0
+	aggravation	anger	1
+	aggravation	anticipation	0
+	aggravation	disgust	1
+	aggravation	fear	0
+	aggravation	joy	0
+	aggravation	negative	1
+	aggravation	positive	0
+	aggravation	sadness	0
+	aggravation	surprise	0
+	aggravation	trust	0
+	aggregate	anger	0
+	aggregate	anticipation	0
+	aggregate	disgust	0
+	aggregate	fear	0
+	aggregate	joy	0
+	aggregate	negative	0
+	aggregate	positive	0
+	aggregate	sadness	0
+	aggregate	surprise	0
+	aggregate	trust	0
+	aggregation	anger	0
+	aggregation	anticipation	0
+	aggregation	disgust	0
+	aggregation	fear	0
+	aggregation	joy	0
+	aggregation	negative	0
+	aggregation	positive	0
+	aggregation	sadness	0
+	aggregation	surprise	0
+	aggregation	trust	0
+	aggression	anger	1
+	aggression	anticipation	0
+	aggression	disgust	0
+	aggression	fear	1
+	aggression	joy	0
+	aggression	negative	1
+	aggression	positive	0
+	aggression	sadness	0
+	aggression	surprise	0
+	aggression	trust	0
+	aggressive	anger	1
+	aggressive	anticipation	0
+	aggressive	disgust	0
+	aggressive	fear	1
+	aggressive	joy	0
+	aggressive	negative	1
+	aggressive	positive	0
+	aggressive	sadness	0
+	aggressive	surprise	0
+	aggressive	trust	0
+	aggressor	anger	1
+	aggressor	anticipation	0
+	aggressor	disgust	0
+	aggressor	fear	1
+	aggressor	joy	0
+	aggressor	negative	1
+	aggressor	positive	0
+	aggressor	sadness	0
+	aggressor	surprise	0
+	aggressor	trust	0
+	aghast	anger	0
+	aghast	anticipation	0
+	aghast	disgust	1
+	aghast	fear	1
+	aghast	joy	0
+	aghast	negative	1
+	aghast	positive	0
+	aghast	sadness	0
+	aghast	surprise	1
+	aghast	trust	0
+	agile	anger	0
+	agile	anticipation	0
+	agile	disgust	0
+	agile	fear	0
+	agile	joy	0
+	agile	negative	0
+	agile	positive	1
+	agile	sadness	0
+	agile	surprise	0
+	agile	trust	0
+	agility	anger	0
+	agility	anticipation	0
+	agility	disgust	0
+	agility	fear	0
+	agility	joy	0
+	agility	negative	0
+	agility	positive	1
+	agility	sadness	0
+	agility	surprise	0
+	agility	trust	0
+	agitated	anger	1
+	agitated	anticipation	0
+	agitated	disgust	0
+	agitated	fear	0
+	agitated	joy	0
+	agitated	negative	1
+	agitated	positive	0
+	agitated	sadness	0
+	agitated	surprise	0
+	agitated	trust	0
+	agitation	anger	1
+	agitation	anticipation	0
+	agitation	disgust	0
+	agitation	fear	0
+	agitation	joy	0
+	agitation	negative	1
+	agitation	positive	0
+	agitation	sadness	0
+	agitation	surprise	0
+	agitation	trust	0
+	agnostic	anger	0
+	agnostic	anticipation	0
+	agnostic	disgust	0
+	agnostic	fear	0
+	agnostic	joy	0
+	agnostic	negative	0
+	agnostic	positive	0
+	agnostic	sadness	0
+	agnostic	surprise	0
+	agnostic	trust	0
+	ago	anger	0
+	ago	anticipation	0
+	ago	disgust	0
+	ago	fear	0
+	ago	joy	0
+	ago	negative	0
+	ago	positive	0
+	ago	sadness	0
+	ago	surprise	0
+	ago	trust	0
+	agonizing	anger	0
+	agonizing	anticipation	0
+	agonizing	disgust	0
+	agonizing	fear	1
+	agonizing	joy	0
+	agonizing	negative	1
+	agonizing	positive	0
+	agonizing	sadness	0
+	agonizing	surprise	0
+	agonizing	trust	0
+	agony	anger	1
+	agony	anticipation	0
+	agony	disgust	0
+	agony	fear	1
+	agony	joy	0
+	agony	negative	1
+	agony	positive	0
+	agony	sadness	1
+	agony	surprise	0
+	agony	trust	0
+	agree	anger	0
+	agree	anticipation	0
+	agree	disgust	0
+	agree	fear	0
+	agree	joy	0
+	agree	negative	0
+	agree	positive	1
+	agree	sadness	0
+	agree	surprise	0
+	agree	trust	0
+	agreeable	anger	0
+	agreeable	anticipation	0
+	agreeable	disgust	0
+	agreeable	fear	0
+	agreeable	joy	0
+	agreeable	negative	0
+	agreeable	positive	1
+	agreeable	sadness	0
+	agreeable	surprise	0
+	agreeable	trust	1
+	agreed	anger	0
+	agreed	anticipation	0
+	agreed	disgust	0
+	agreed	fear	0
+	agreed	joy	0
+	agreed	negative	0
+	agreed	positive	1
+	agreed	sadness	0
+	agreed	surprise	0
+	agreed	trust	1
+	agreeing	anger	0
+	agreeing	anticipation	0
+	agreeing	disgust	0
+	agreeing	fear	0
+	agreeing	joy	0
+	agreeing	negative	0
+	agreeing	positive	1
+	agreeing	sadness	0
+	agreeing	surprise	0
+	agreeing	trust	1
+	agreement	anger	0
+	agreement	anticipation	0
+	agreement	disgust	0
+	agreement	fear	0
+	agreement	joy	0
+	agreement	negative	0
+	agreement	positive	1
+	agreement	sadness	0
+	agreement	surprise	0
+	agreement	trust	1
+	agricultural	anger	0
+	agricultural	anticipation	0
+	agricultural	disgust	0
+	agricultural	fear	0
+	agricultural	joy	0
+	agricultural	negative	0
+	agricultural	positive	0
+	agricultural	sadness	0
+	agricultural	surprise	0
+	agricultural	trust	0
+	agriculture	anger	0
+	agriculture	anticipation	0
+	agriculture	disgust	0
+	agriculture	fear	0
+	agriculture	joy	0
+	agriculture	negative	0
+	agriculture	positive	1
+	agriculture	sadness	0
+	agriculture	surprise	0
+	agriculture	trust	0
+	aground	anger	0
+	aground	anticipation	0
+	aground	disgust	0
+	aground	fear	0
+	aground	joy	0
+	aground	negative	1
+	aground	positive	0
+	aground	sadness	0
+	aground	surprise	0
+	aground	trust	0
+	agua	anger	0
+	agua	anticipation	0
+	agua	disgust	0
+	agua	fear	0
+	agua	joy	0
+	agua	negative	0
+	agua	positive	0
+	agua	sadness	0
+	agua	surprise	0
+	agua	trust	0
+	ahead	anger	0
+	ahead	anticipation	0
+	ahead	disgust	0
+	ahead	fear	0
+	ahead	joy	0
+	ahead	negative	0
+	ahead	positive	1
+	ahead	sadness	0
+	ahead	surprise	0
+	ahead	trust	0
+	aid	anger	0
+	aid	anticipation	0
+	aid	disgust	0
+	aid	fear	0
+	aid	joy	0
+	aid	negative	0
+	aid	positive	1
+	aid	sadness	0
+	aid	surprise	0
+	aid	trust	0
+	aiding	anger	0
+	aiding	anticipation	0
+	aiding	disgust	0
+	aiding	fear	0
+	aiding	joy	0
+	aiding	negative	0
+	aiding	positive	1
+	aiding	sadness	0
+	aiding	surprise	0
+	aiding	trust	0
+	ail	anger	0
+	ail	anticipation	0
+	ail	disgust	0
+	ail	fear	0
+	ail	joy	0
+	ail	negative	1
+	ail	positive	0
+	ail	sadness	1
+	ail	surprise	0
+	ail	trust	0
+	ailing	anger	0
+	ailing	anticipation	0
+	ailing	disgust	0
+	ailing	fear	1
+	ailing	joy	0
+	ailing	negative	1
+	ailing	positive	0
+	ailing	sadness	1
+	ailing	surprise	0
+	ailing	trust	0
+	ailment	anger	0
+	ailment	anticipation	0
+	ailment	disgust	0
+	ailment	fear	0
+	ailment	joy	0
+	ailment	negative	0
+	ailment	positive	0
+	ailment	sadness	0
+	ailment	surprise	0
+	ailment	trust	0
+	aim	anger	0
+	aim	anticipation	0
+	aim	disgust	0
+	aim	fear	0
+	aim	joy	0
+	aim	negative	0
+	aim	positive	0
+	aim	sadness	0
+	aim	surprise	0
+	aim	trust	0
+	aimless	anger	0
+	aimless	anticipation	0
+	aimless	disgust	0
+	aimless	fear	0
+	aimless	joy	0
+	aimless	negative	1
+	aimless	positive	0
+	aimless	sadness	0
+	aimless	surprise	0
+	aimless	trust	0
+	air	anger	0
+	air	anticipation	0
+	air	disgust	0
+	air	fear	0
+	air	joy	0
+	air	negative	0
+	air	positive	0
+	air	sadness	0
+	air	surprise	0
+	air	trust	0
+	airbag	anger	0
+	airbag	anticipation	0
+	airbag	disgust	0
+	airbag	fear	0
+	airbag	joy	0
+	airbag	negative	0
+	airbag	positive	0
+	airbag	sadness	0
+	airbag	surprise	0
+	airbag	trust	0
+	airlift	anger	0
+	airlift	anticipation	0
+	airlift	disgust	0
+	airlift	fear	0
+	airlift	joy	0
+	airlift	negative	0
+	airlift	positive	0
+	airlift	sadness	0
+	airlift	surprise	0
+	airlift	trust	0
+	airline	anger	0
+	airline	anticipation	0
+	airline	disgust	0
+	airline	fear	0
+	airline	joy	0
+	airline	negative	0
+	airline	positive	0
+	airline	sadness	0
+	airline	surprise	0
+	airline	trust	0
+	airman	anger	0
+	airman	anticipation	0
+	airman	disgust	0
+	airman	fear	0
+	airman	joy	0
+	airman	negative	0
+	airman	positive	0
+	airman	sadness	0
+	airman	surprise	0
+	airman	trust	0
+	airplane	anger	0
+	airplane	anticipation	0
+	airplane	disgust	0
+	airplane	fear	0
+	airplane	joy	0
+	airplane	negative	0
+	airplane	positive	0
+	airplane	sadness	0
+	airplane	surprise	0
+	airplane	trust	0
+	airport	anger	0
+	airport	anticipation	1
+	airport	disgust	0
+	airport	fear	0
+	airport	joy	0
+	airport	negative	0
+	airport	positive	0
+	airport	sadness	0
+	airport	surprise	0
+	airport	trust	0
+	airs	anger	0
+	airs	anticipation	0
+	airs	disgust	1
+	airs	fear	0
+	airs	joy	0
+	airs	negative	1
+	airs	positive	0
+	airs	sadness	0
+	airs	surprise	0
+	airs	trust	0
+	airship	anger	0
+	airship	anticipation	0
+	airship	disgust	0
+	airship	fear	0
+	airship	joy	0
+	airship	negative	0
+	airship	positive	0
+	airship	sadness	0
+	airship	surprise	0
+	airship	trust	0
+	aisle	anger	0
+	aisle	anticipation	0
+	aisle	disgust	0
+	aisle	fear	0
+	aisle	joy	0
+	aisle	negative	0
+	aisle	positive	0
+	aisle	sadness	0
+	aisle	surprise	0
+	aisle	trust	0
+	ait	anger	0
+	ait	anticipation	0
+	ait	disgust	0
+	ait	fear	0
+	ait	joy	0
+	ait	negative	0
+	ait	positive	0
+	ait	sadness	0
+	ait	surprise	0
+	ait	trust	0
+	ajar	anger	0
+	ajar	anticipation	0
+	ajar	disgust	0
+	ajar	fear	0
+	ajar	joy	0
+	ajar	negative	0
+	ajar	positive	0
+	ajar	sadness	0
+	ajar	surprise	0
+	ajar	trust	0
+	akin	anger	0
+	akin	anticipation	0
+	akin	disgust	0
+	akin	fear	0
+	akin	joy	0
+	akin	negative	0
+	akin	positive	0
+	akin	sadness	0
+	akin	surprise	0
+	akin	trust	1
+	alabaster	anger	0
+	alabaster	anticipation	0
+	alabaster	disgust	0
+	alabaster	fear	0
+	alabaster	joy	0
+	alabaster	negative	0
+	alabaster	positive	1
+	alabaster	sadness	0
+	alabaster	surprise	0
+	alabaster	trust	0
+	alarm	anger	0
+	alarm	anticipation	0
+	alarm	disgust	0
+	alarm	fear	1
+	alarm	joy	0
+	alarm	negative	1
+	alarm	positive	0
+	alarm	sadness	0
+	alarm	surprise	1
+	alarm	trust	0
+	alarming	anger	0
+	alarming	anticipation	0
+	alarming	disgust	0
+	alarming	fear	1
+	alarming	joy	0
+	alarming	negative	1
+	alarming	positive	0
+	alarming	sadness	0
+	alarming	surprise	1
+	alarming	trust	0
+	alb	anger	0
+	alb	anticipation	0
+	alb	disgust	0
+	alb	fear	0
+	alb	joy	0
+	alb	negative	0
+	alb	positive	0
+	alb	sadness	0
+	alb	surprise	0
+	alb	trust	1
+	album	anger	0
+	album	anticipation	0
+	album	disgust	0
+	album	fear	0
+	album	joy	0
+	album	negative	0
+	album	positive	0
+	album	sadness	0
+	album	surprise	0
+	album	trust	0
+	alchemy	anger	0
+	alchemy	anticipation	0
+	alchemy	disgust	0
+	alchemy	fear	0
+	alchemy	joy	0
+	alchemy	negative	0
+	alchemy	positive	0
+	alchemy	sadness	0
+	alchemy	surprise	0
+	alchemy	trust	0
+	alcohol	anger	0
+	alcohol	anticipation	0
+	alcohol	disgust	0
+	alcohol	fear	0
+	alcohol	joy	0
+	alcohol	negative	0
+	alcohol	positive	0
+	alcohol	sadness	0
+	alcohol	surprise	0
+	alcohol	trust	0
+	alcoholism	anger	1
+	alcoholism	anticipation	0
+	alcoholism	disgust	1
+	alcoholism	fear	1
+	alcoholism	joy	0
+	alcoholism	negative	1
+	alcoholism	positive	0
+	alcoholism	sadness	1
+	alcoholism	surprise	0
+	alcoholism	trust	0
+	alcove	anger	0
+	alcove	anticipation	0
+	alcove	disgust	0
+	alcove	fear	0
+	alcove	joy	0
+	alcove	negative	0
+	alcove	positive	0
+	alcove	sadness	0
+	alcove	surprise	0
+	alcove	trust	0
+	alert	anger	0
+	alert	anticipation	0
+	alert	disgust	0
+	alert	fear	0
+	alert	joy	0
+	alert	negative	0
+	alert	positive	0
+	alert	sadness	0
+	alert	surprise	0
+	alert	trust	0
+	alertness	anger	0
+	alertness	anticipation	1
+	alertness	disgust	0
+	alertness	fear	1
+	alertness	joy	0
+	alertness	negative	0
+	alertness	positive	1
+	alertness	sadness	0
+	alertness	surprise	1
+	alertness	trust	0
+	alerts	anger	0
+	alerts	anticipation	1
+	alerts	disgust	0
+	alerts	fear	1
+	alerts	joy	0
+	alerts	negative	0
+	alerts	positive	0
+	alerts	sadness	0
+	alerts	surprise	1
+	alerts	trust	0
+	alfalfa	anger	0
+	alfalfa	anticipation	0
+	alfalfa	disgust	0
+	alfalfa	fear	0
+	alfalfa	joy	0
+	alfalfa	negative	0
+	alfalfa	positive	0
+	alfalfa	sadness	0
+	alfalfa	surprise	0
+	alfalfa	trust	0
+	algebra	anger	0
+	algebra	anticipation	0
+	algebra	disgust	0
+	algebra	fear	0
+	algebra	joy	0
+	algebra	negative	0
+	algebra	positive	0
+	algebra	sadness	0
+	algebra	surprise	0
+	algebra	trust	0
+	algebraic	anger	0
+	algebraic	anticipation	0
+	algebraic	disgust	0
+	algebraic	fear	0
+	algebraic	joy	0
+	algebraic	negative	0
+	algebraic	positive	0
+	algebraic	sadness	0
+	algebraic	surprise	0
+	algebraic	trust	0
+	algorithm	anger	0
+	algorithm	anticipation	0
+	algorithm	disgust	0
+	algorithm	fear	0
+	algorithm	joy	0
+	algorithm	negative	0
+	algorithm	positive	0
+	algorithm	sadness	0
+	algorithm	surprise	0
+	algorithm	trust	0
+	alibi	anger	0
+	alibi	anticipation	0
+	alibi	disgust	0
+	alibi	fear	0
+	alibi	joy	0
+	alibi	negative	0
+	alibi	positive	0
+	alibi	sadness	0
+	alibi	surprise	0
+	alibi	trust	0
+	alien	anger	0
+	alien	anticipation	0
+	alien	disgust	1
+	alien	fear	1
+	alien	joy	0
+	alien	negative	1
+	alien	positive	0
+	alien	sadness	0
+	alien	surprise	0
+	alien	trust	0
+	alienate	anger	1
+	alienate	anticipation	0
+	alienate	disgust	1
+	alienate	fear	0
+	alienate	joy	0
+	alienate	negative	1
+	alienate	positive	0
+	alienate	sadness	0
+	alienate	surprise	0
+	alienate	trust	0
+	alienated	anger	0
+	alienated	anticipation	0
+	alienated	disgust	0
+	alienated	fear	0
+	alienated	joy	0
+	alienated	negative	1
+	alienated	positive	0
+	alienated	sadness	1
+	alienated	surprise	0
+	alienated	trust	0
+	alienation	anger	1
+	alienation	anticipation	0
+	alienation	disgust	1
+	alienation	fear	1
+	alienation	joy	0
+	alienation	negative	1
+	alienation	positive	0
+	alienation	sadness	1
+	alienation	surprise	0
+	alienation	trust	0
+	alight	anger	0
+	alight	anticipation	0
+	alight	disgust	0
+	alight	fear	0
+	alight	joy	0
+	alight	negative	0
+	alight	positive	0
+	alight	sadness	0
+	alight	surprise	0
+	alight	trust	0
+	aligned	anger	0
+	aligned	anticipation	0
+	aligned	disgust	0
+	aligned	fear	0
+	aligned	joy	0
+	aligned	negative	0
+	aligned	positive	0
+	aligned	sadness	0
+	aligned	surprise	0
+	aligned	trust	0
+	alignment	anger	0
+	alignment	anticipation	0
+	alignment	disgust	0
+	alignment	fear	0
+	alignment	joy	0
+	alignment	negative	0
+	alignment	positive	0
+	alignment	sadness	0
+	alignment	surprise	0
+	alignment	trust	0
+	alike	anger	0
+	alike	anticipation	0
+	alike	disgust	0
+	alike	fear	0
+	alike	joy	0
+	alike	negative	0
+	alike	positive	0
+	alike	sadness	0
+	alike	surprise	0
+	alike	trust	0
+	alimentation	anger	0
+	alimentation	anticipation	0
+	alimentation	disgust	0
+	alimentation	fear	0
+	alimentation	joy	0
+	alimentation	negative	0
+	alimentation	positive	1
+	alimentation	sadness	0
+	alimentation	surprise	0
+	alimentation	trust	0
+	alimony	anger	0
+	alimony	anticipation	0
+	alimony	disgust	0
+	alimony	fear	0
+	alimony	joy	0
+	alimony	negative	1
+	alimony	positive	0
+	alimony	sadness	0
+	alimony	surprise	0
+	alimony	trust	0
+	aliquot	anger	0
+	aliquot	anticipation	0
+	aliquot	disgust	0
+	aliquot	fear	0
+	aliquot	joy	0
+	aliquot	negative	0
+	aliquot	positive	0
+	aliquot	sadness	0
+	aliquot	surprise	0
+	aliquot	trust	0
+	alive	anger	0
+	alive	anticipation	1
+	alive	disgust	0
+	alive	fear	0
+	alive	joy	1
+	alive	negative	0
+	alive	positive	1
+	alive	sadness	0
+	alive	surprise	0
+	alive	trust	1
+	alkali	anger	0
+	alkali	anticipation	0
+	alkali	disgust	0
+	alkali	fear	0
+	alkali	joy	0
+	alkali	negative	0
+	alkali	positive	0
+	alkali	sadness	0
+	alkali	surprise	0
+	alkali	trust	0
+	alkaloids	anger	0
+	alkaloids	anticipation	0
+	alkaloids	disgust	0
+	alkaloids	fear	0
+	alkaloids	joy	0
+	alkaloids	negative	0
+	alkaloids	positive	0
+	alkaloids	sadness	0
+	alkaloids	surprise	0
+	alkaloids	trust	0
+	allay	anger	0
+	allay	anticipation	0
+	allay	disgust	0
+	allay	fear	0
+	allay	joy	0
+	allay	negative	0
+	allay	positive	1
+	allay	sadness	0
+	allay	surprise	0
+	allay	trust	0
+	allegation	anger	1
+	allegation	anticipation	0
+	allegation	disgust	0
+	allegation	fear	0
+	allegation	joy	0
+	allegation	negative	1
+	allegation	positive	0
+	allegation	sadness	0
+	allegation	surprise	0
+	allegation	trust	0
+	allege	anger	0
+	allege	anticipation	0
+	allege	disgust	0
+	allege	fear	0
+	allege	joy	0
+	allege	negative	1
+	allege	positive	0
+	allege	sadness	0
+	allege	surprise	0
+	allege	trust	0
+	alleged	anger	0
+	alleged	anticipation	0
+	alleged	disgust	0
+	alleged	fear	0
+	alleged	joy	0
+	alleged	negative	0
+	alleged	positive	0
+	alleged	sadness	0
+	alleged	surprise	0
+	alleged	trust	0
+	allegiance	anger	0
+	allegiance	anticipation	0
+	allegiance	disgust	0
+	allegiance	fear	0
+	allegiance	joy	0
+	allegiance	negative	0
+	allegiance	positive	1
+	allegiance	sadness	0
+	allegiance	surprise	0
+	allegiance	trust	1
+	allegorical	anger	0
+	allegorical	anticipation	0
+	allegorical	disgust	0
+	allegorical	fear	0
+	allegorical	joy	0
+	allegorical	negative	0
+	allegorical	positive	0
+	allegorical	sadness	0
+	allegorical	surprise	0
+	allegorical	trust	0
+	allegory	anger	0
+	allegory	anticipation	0
+	allegory	disgust	0
+	allegory	fear	0
+	allegory	joy	0
+	allegory	negative	0
+	allegory	positive	0
+	allegory	sadness	0
+	allegory	surprise	0
+	allegory	trust	0
+	allegro	anger	0
+	allegro	anticipation	0
+	allegro	disgust	0
+	allegro	fear	0
+	allegro	joy	0
+	allegro	negative	0
+	allegro	positive	1
+	allegro	sadness	0
+	allegro	surprise	0
+	allegro	trust	0
+	alleviate	anger	0
+	alleviate	anticipation	0
+	alleviate	disgust	0
+	alleviate	fear	0
+	alleviate	joy	0
+	alleviate	negative	0
+	alleviate	positive	1
+	alleviate	sadness	0
+	alleviate	surprise	0
+	alleviate	trust	0
+	alleviation	anger	0
+	alleviation	anticipation	0
+	alleviation	disgust	0
+	alleviation	fear	0
+	alleviation	joy	0
+	alleviation	negative	0
+	alleviation	positive	1
+	alleviation	sadness	0
+	alleviation	surprise	0
+	alleviation	trust	0
+	alley	anger	0
+	alley	anticipation	0
+	alley	disgust	0
+	alley	fear	0
+	alley	joy	0
+	alley	negative	0
+	alley	positive	0
+	alley	sadness	0
+	alley	surprise	0
+	alley	trust	0
+	alliance	anger	0
+	alliance	anticipation	0
+	alliance	disgust	0
+	alliance	fear	0
+	alliance	joy	0
+	alliance	negative	0
+	alliance	positive	0
+	alliance	sadness	0
+	alliance	surprise	0
+	alliance	trust	1
+	allied	anger	0
+	allied	anticipation	0
+	allied	disgust	0
+	allied	fear	0
+	allied	joy	0
+	allied	negative	0
+	allied	positive	1
+	allied	sadness	0
+	allied	surprise	0
+	allied	trust	1
+	alligator	anger	0
+	alligator	anticipation	0
+	alligator	disgust	0
+	alligator	fear	0
+	alligator	joy	0
+	alligator	negative	0
+	alligator	positive	0
+	alligator	sadness	0
+	alligator	surprise	0
+	alligator	trust	0
+	allocate	anger	0
+	allocate	anticipation	0
+	allocate	disgust	0
+	allocate	fear	0
+	allocate	joy	0
+	allocate	negative	0
+	allocate	positive	0
+	allocate	sadness	0
+	allocate	surprise	0
+	allocate	trust	0
+	allocation	anger	0
+	allocation	anticipation	0
+	allocation	disgust	0
+	allocation	fear	0
+	allocation	joy	0
+	allocation	negative	0
+	allocation	positive	0
+	allocation	sadness	0
+	allocation	surprise	0
+	allocation	trust	0
+	allot	anger	0
+	allot	anticipation	0
+	allot	disgust	0
+	allot	fear	0
+	allot	joy	0
+	allot	negative	0
+	allot	positive	0
+	allot	sadness	0
+	allot	surprise	0
+	allot	trust	0
+	allotment	anger	0
+	allotment	anticipation	0
+	allotment	disgust	0
+	allotment	fear	0
+	allotment	joy	0
+	allotment	negative	0
+	allotment	positive	0
+	allotment	sadness	0
+	allotment	surprise	0
+	allotment	trust	0
+	allowable	anger	0
+	allowable	anticipation	0
+	allowable	disgust	0
+	allowable	fear	0
+	allowable	joy	0
+	allowable	negative	0
+	allowable	positive	1
+	allowable	sadness	0
+	allowable	surprise	0
+	allowable	trust	0
+	allowance	anger	0
+	allowance	anticipation	0
+	allowance	disgust	0
+	allowance	fear	0
+	allowance	joy	0
+	allowance	negative	0
+	allowance	positive	0
+	allowance	sadness	0
+	allowance	surprise	0
+	allowance	trust	0
+	allowed	anger	0
+	allowed	anticipation	0
+	allowed	disgust	0
+	allowed	fear	0
+	allowed	joy	0
+	allowed	negative	0
+	allowed	positive	0
+	allowed	sadness	0
+	allowed	surprise	0
+	allowed	trust	0
+	alloy	anger	0
+	alloy	anticipation	0
+	alloy	disgust	0
+	alloy	fear	0
+	alloy	joy	0
+	alloy	negative	0
+	alloy	positive	0
+	alloy	sadness	0
+	alloy	surprise	0
+	alloy	trust	0
+	allure	anger	0
+	allure	anticipation	1
+	allure	disgust	0
+	allure	fear	0
+	allure	joy	1
+	allure	negative	0
+	allure	positive	1
+	allure	sadness	0
+	allure	surprise	1
+	allure	trust	0
+	alluring	anger	0
+	alluring	anticipation	0
+	alluring	disgust	0
+	alluring	fear	0
+	alluring	joy	0
+	alluring	negative	0
+	alluring	positive	1
+	alluring	sadness	0
+	alluring	surprise	0
+	alluring	trust	0
+	allusion	anger	0
+	allusion	anticipation	0
+	allusion	disgust	0
+	allusion	fear	0
+	allusion	joy	0
+	allusion	negative	0
+	allusion	positive	0
+	allusion	sadness	0
+	allusion	surprise	0
+	allusion	trust	0
+	alluvial	anger	0
+	alluvial	anticipation	0
+	alluvial	disgust	0
+	alluvial	fear	0
+	alluvial	joy	0
+	alluvial	negative	0
+	alluvial	positive	0
+	alluvial	sadness	0
+	alluvial	surprise	0
+	alluvial	trust	0
+	ally	anger	0
+	ally	anticipation	0
+	ally	disgust	0
+	ally	fear	0
+	ally	joy	0
+	ally	negative	0
+	ally	positive	1
+	ally	sadness	0
+	ally	surprise	0
+	ally	trust	1
+	almanac	anger	0
+	almanac	anticipation	0
+	almanac	disgust	0
+	almanac	fear	0
+	almanac	joy	0
+	almanac	negative	0
+	almanac	positive	0
+	almanac	sadness	0
+	almanac	surprise	0
+	almanac	trust	0
+	almighty	anger	0
+	almighty	anticipation	0
+	almighty	disgust	0
+	almighty	fear	0
+	almighty	joy	0
+	almighty	negative	0
+	almighty	positive	1
+	almighty	sadness	0
+	almighty	surprise	0
+	almighty	trust	0
+	aloft	anger	0
+	aloft	anticipation	0
+	aloft	disgust	0
+	aloft	fear	0
+	aloft	joy	0
+	aloft	negative	0
+	aloft	positive	0
+	aloft	sadness	0
+	aloft	surprise	0
+	aloft	trust	0
+	aloha	anger	0
+	aloha	anticipation	1
+	aloha	disgust	0
+	aloha	fear	0
+	aloha	joy	1
+	aloha	negative	0
+	aloha	positive	1
+	aloha	sadness	0
+	aloha	surprise	0
+	aloha	trust	0
+	alongside	anger	0
+	alongside	anticipation	0
+	alongside	disgust	0
+	alongside	fear	0
+	alongside	joy	0
+	alongside	negative	0
+	alongside	positive	0
+	alongside	sadness	0
+	alongside	surprise	0
+	alongside	trust	0
+	aloof	anger	0
+	aloof	anticipation	0
+	aloof	disgust	0
+	aloof	fear	0
+	aloof	joy	0
+	aloof	negative	1
+	aloof	positive	0
+	aloof	sadness	0
+	aloof	surprise	0
+	aloof	trust	0
+	aloud	anger	0
+	aloud	anticipation	0
+	aloud	disgust	0
+	aloud	fear	0
+	aloud	joy	0
+	aloud	negative	0
+	aloud	positive	0
+	aloud	sadness	0
+	aloud	surprise	0
+	aloud	trust	0
+	alphabet	anger	0
+	alphabet	anticipation	0
+	alphabet	disgust	0
+	alphabet	fear	0
+	alphabet	joy	0
+	alphabet	negative	0
+	alphabet	positive	0
+	alphabet	sadness	0
+	alphabet	surprise	0
+	alphabet	trust	0
+	alphabetical	anger	0
+	alphabetical	anticipation	0
+	alphabetical	disgust	0
+	alphabetical	fear	0
+	alphabetical	joy	0
+	alphabetical	negative	0
+	alphabetical	positive	0
+	alphabetical	sadness	0
+	alphabetical	surprise	0
+	alphabetical	trust	0
+	altar	anger	0
+	altar	anticipation	0
+	altar	disgust	0
+	altar	fear	0
+	altar	joy	0
+	altar	negative	0
+	altar	positive	0
+	altar	sadness	0
+	altar	surprise	0
+	altar	trust	0
+	alter	anger	0
+	alter	anticipation	0
+	alter	disgust	0
+	alter	fear	0
+	alter	joy	0
+	alter	negative	0
+	alter	positive	0
+	alter	sadness	0
+	alter	surprise	0
+	alter	trust	0
+	alteration	anger	0
+	alteration	anticipation	0
+	alteration	disgust	0
+	alteration	fear	0
+	alteration	joy	0
+	alteration	negative	0
+	alteration	positive	0
+	alteration	sadness	0
+	alteration	surprise	0
+	alteration	trust	0
+	altercation	anger	1
+	altercation	anticipation	0
+	altercation	disgust	0
+	altercation	fear	0
+	altercation	joy	0
+	altercation	negative	1
+	altercation	positive	0
+	altercation	sadness	0
+	altercation	surprise	0
+	altercation	trust	0
+	altered	anger	0
+	altered	anticipation	0
+	altered	disgust	0
+	altered	fear	0
+	altered	joy	0
+	altered	negative	0
+	altered	positive	0
+	altered	sadness	0
+	altered	surprise	0
+	altered	trust	0
+	alternate	anger	0
+	alternate	anticipation	0
+	alternate	disgust	0
+	alternate	fear	0
+	alternate	joy	0
+	alternate	negative	0
+	alternate	positive	0
+	alternate	sadness	0
+	alternate	surprise	0
+	alternate	trust	0
+	alternative	anger	0
+	alternative	anticipation	0
+	alternative	disgust	0
+	alternative	fear	0
+	alternative	joy	0
+	alternative	negative	0
+	alternative	positive	0
+	alternative	sadness	0
+	alternative	surprise	0
+	alternative	trust	0
+	altitude	anger	0
+	altitude	anticipation	0
+	altitude	disgust	0
+	altitude	fear	0
+	altitude	joy	0
+	altitude	negative	0
+	altitude	positive	0
+	altitude	sadness	0
+	altitude	surprise	0
+	altitude	trust	0
+	alto	anger	0
+	alto	anticipation	0
+	alto	disgust	0
+	alto	fear	0
+	alto	joy	0
+	alto	negative	0
+	alto	positive	0
+	alto	sadness	0
+	alto	surprise	0
+	alto	trust	0
+	altogether	anger	0
+	altogether	anticipation	0
+	altogether	disgust	0
+	altogether	fear	0
+	altogether	joy	0
+	altogether	negative	0
+	altogether	positive	0
+	altogether	sadness	0
+	altogether	surprise	0
+	altogether	trust	0
+	alumnus	anger	0
+	alumnus	anticipation	0
+	alumnus	disgust	0
+	alumnus	fear	0
+	alumnus	joy	0
+	alumnus	negative	0
+	alumnus	positive	0
+	alumnus	sadness	0
+	alumnus	surprise	0
+	alumnus	trust	0
+	alveolar	anger	0
+	alveolar	anticipation	0
+	alveolar	disgust	0
+	alveolar	fear	0
+	alveolar	joy	0
+	alveolar	negative	0
+	alveolar	positive	0
+	alveolar	sadness	0
+	alveolar	surprise	0
+	alveolar	trust	0
+	amalgam	anger	0
+	amalgam	anticipation	0
+	amalgam	disgust	0
+	amalgam	fear	0
+	amalgam	joy	0
+	amalgam	negative	0
+	amalgam	positive	0
+	amalgam	sadness	0
+	amalgam	surprise	0
+	amalgam	trust	0
+	amalgamation	anger	0
+	amalgamation	anticipation	0
+	amalgamation	disgust	0
+	amalgamation	fear	0
+	amalgamation	joy	0
+	amalgamation	negative	0
+	amalgamation	positive	0
+	amalgamation	sadness	0
+	amalgamation	surprise	0
+	amalgamation	trust	0
+	amass	anger	0
+	amass	anticipation	0
+	amass	disgust	0
+	amass	fear	0
+	amass	joy	0
+	amass	negative	0
+	amass	positive	0
+	amass	sadness	0
+	amass	surprise	0
+	amass	trust	0
+	amateur	anger	0
+	amateur	anticipation	0
+	amateur	disgust	0
+	amateur	fear	0
+	amateur	joy	0
+	amateur	negative	0
+	amateur	positive	0
+	amateur	sadness	0
+	amateur	surprise	0
+	amateur	trust	0
+	amaze	anger	0
+	amaze	anticipation	0
+	amaze	disgust	0
+	amaze	fear	0
+	amaze	joy	0
+	amaze	negative	0
+	amaze	positive	0
+	amaze	sadness	0
+	amaze	surprise	1
+	amaze	trust	0
+	amazement	anger	0
+	amazement	anticipation	0
+	amazement	disgust	0
+	amazement	fear	0
+	amazement	joy	0
+	amazement	negative	0
+	amazement	positive	0
+	amazement	sadness	0
+	amazement	surprise	0
+	amazement	trust	0
+	amazingly	anger	0
+	amazingly	anticipation	0
+	amazingly	disgust	0
+	amazingly	fear	0
+	amazingly	joy	1
+	amazingly	negative	0
+	amazingly	positive	1
+	amazingly	sadness	0
+	amazingly	surprise	1
+	amazingly	trust	0
+	ambassador	anger	0
+	ambassador	anticipation	0
+	ambassador	disgust	0
+	ambassador	fear	0
+	ambassador	joy	0
+	ambassador	negative	0
+	ambassador	positive	1
+	ambassador	sadness	0
+	ambassador	surprise	0
+	ambassador	trust	1
+	amber	anger	0
+	amber	anticipation	0
+	amber	disgust	0
+	amber	fear	0
+	amber	joy	0
+	amber	negative	0
+	amber	positive	0
+	amber	sadness	0
+	amber	surprise	0
+	amber	trust	0
+	ambient	anger	0
+	ambient	anticipation	0
+	ambient	disgust	0
+	ambient	fear	0
+	ambient	joy	0
+	ambient	negative	0
+	ambient	positive	0
+	ambient	sadness	0
+	ambient	surprise	0
+	ambient	trust	0
+	ambiguity	anger	0
+	ambiguity	anticipation	0
+	ambiguity	disgust	0
+	ambiguity	fear	0
+	ambiguity	joy	0
+	ambiguity	negative	0
+	ambiguity	positive	0
+	ambiguity	sadness	0
+	ambiguity	surprise	0
+	ambiguity	trust	0
+	ambiguous	anger	0
+	ambiguous	anticipation	0
+	ambiguous	disgust	0
+	ambiguous	fear	0
+	ambiguous	joy	0
+	ambiguous	negative	1
+	ambiguous	positive	0
+	ambiguous	sadness	0
+	ambiguous	surprise	0
+	ambiguous	trust	0
+	ambit	anger	0
+	ambit	anticipation	0
+	ambit	disgust	0
+	ambit	fear	0
+	ambit	joy	0
+	ambit	negative	0
+	ambit	positive	0
+	ambit	sadness	0
+	ambit	surprise	0
+	ambit	trust	0
+	ambition	anger	0
+	ambition	anticipation	1
+	ambition	disgust	0
+	ambition	fear	0
+	ambition	joy	1
+	ambition	negative	0
+	ambition	positive	1
+	ambition	sadness	0
+	ambition	surprise	0
+	ambition	trust	1
+	ambitious	anger	0
+	ambitious	anticipation	0
+	ambitious	disgust	0
+	ambitious	fear	0
+	ambitious	joy	0
+	ambitious	negative	0
+	ambitious	positive	0
+	ambitious	sadness	0
+	ambitious	surprise	0
+	ambitious	trust	0
+	ambulance	anger	0
+	ambulance	anticipation	0
+	ambulance	disgust	0
+	ambulance	fear	1
+	ambulance	joy	0
+	ambulance	negative	0
+	ambulance	positive	0
+	ambulance	sadness	0
+	ambulance	surprise	0
+	ambulance	trust	1
+	ambush	anger	1
+	ambush	anticipation	0
+	ambush	disgust	0
+	ambush	fear	1
+	ambush	joy	0
+	ambush	negative	1
+	ambush	positive	0
+	ambush	sadness	0
+	ambush	surprise	1
+	ambush	trust	0
+	ameliorate	anger	0
+	ameliorate	anticipation	0
+	ameliorate	disgust	0
+	ameliorate	fear	0
+	ameliorate	joy	0
+	ameliorate	negative	0
+	ameliorate	positive	1
+	ameliorate	sadness	0
+	ameliorate	surprise	0
+	ameliorate	trust	0
+	amen	anger	0
+	amen	anticipation	0
+	amen	disgust	0
+	amen	fear	0
+	amen	joy	1
+	amen	negative	0
+	amen	positive	1
+	amen	sadness	0
+	amen	surprise	0
+	amen	trust	1
+	amenable	anger	0
+	amenable	anticipation	0
+	amenable	disgust	0
+	amenable	fear	0
+	amenable	joy	0
+	amenable	negative	0
+	amenable	positive	1
+	amenable	sadness	0
+	amenable	surprise	0
+	amenable	trust	0
+	amend	anger	0
+	amend	anticipation	0
+	amend	disgust	0
+	amend	fear	0
+	amend	joy	0
+	amend	negative	0
+	amend	positive	1
+	amend	sadness	0
+	amend	surprise	0
+	amend	trust	0
+	amendment	anger	0
+	amendment	anticipation	0
+	amendment	disgust	0
+	amendment	fear	0
+	amendment	joy	0
+	amendment	negative	0
+	amendment	positive	0
+	amendment	sadness	0
+	amendment	surprise	0
+	amendment	trust	0
+	amends	anger	0
+	amends	anticipation	0
+	amends	disgust	0
+	amends	fear	0
+	amends	joy	0
+	amends	negative	0
+	amends	positive	1
+	amends	sadness	0
+	amends	surprise	0
+	amends	trust	0
+	amenity	anger	0
+	amenity	anticipation	0
+	amenity	disgust	0
+	amenity	fear	0
+	amenity	joy	0
+	amenity	negative	0
+	amenity	positive	1
+	amenity	sadness	0
+	amenity	surprise	0
+	amenity	trust	0
+	amethyst	anger	0
+	amethyst	anticipation	0
+	amethyst	disgust	0
+	amethyst	fear	0
+	amethyst	joy	0
+	amethyst	negative	0
+	amethyst	positive	0
+	amethyst	sadness	0
+	amethyst	surprise	0
+	amethyst	trust	0
+	amiable	anger	0
+	amiable	anticipation	0
+	amiable	disgust	0
+	amiable	fear	0
+	amiable	joy	0
+	amiable	negative	0
+	amiable	positive	1
+	amiable	sadness	0
+	amiable	surprise	0
+	amiable	trust	0
+	amicable	anger	0
+	amicable	anticipation	0
+	amicable	disgust	0
+	amicable	fear	0
+	amicable	joy	1
+	amicable	negative	0
+	amicable	positive	1
+	amicable	sadness	0
+	amicable	surprise	0
+	amicable	trust	0
+	amid	anger	0
+	amid	anticipation	0
+	amid	disgust	0
+	amid	fear	0
+	amid	joy	0
+	amid	negative	0
+	amid	positive	0
+	amid	sadness	0
+	amid	surprise	0
+	amid	trust	0
+	amidst	anger	0
+	amidst	anticipation	0
+	amidst	disgust	0
+	amidst	fear	0
+	amidst	joy	0
+	amidst	negative	0
+	amidst	positive	0
+	amidst	sadness	0
+	amidst	surprise	0
+	amidst	trust	0
+	ammonia	anger	0
+	ammonia	anticipation	0
+	ammonia	disgust	1
+	ammonia	fear	0
+	ammonia	joy	0
+	ammonia	negative	0
+	ammonia	positive	0
+	ammonia	sadness	0
+	ammonia	surprise	0
+	ammonia	trust	0
+	ammunition	anger	0
+	ammunition	anticipation	0
+	ammunition	disgust	0
+	ammunition	fear	0
+	ammunition	joy	0
+	ammunition	negative	0
+	ammunition	positive	0
+	ammunition	sadness	0
+	ammunition	surprise	0
+	ammunition	trust	0
+	amnesia	anger	0
+	amnesia	anticipation	0
+	amnesia	disgust	0
+	amnesia	fear	0
+	amnesia	joy	0
+	amnesia	negative	1
+	amnesia	positive	0
+	amnesia	sadness	0
+	amnesia	surprise	0
+	amnesia	trust	0
+	amnesty	anger	0
+	amnesty	anticipation	0
+	amnesty	disgust	0
+	amnesty	fear	0
+	amnesty	joy	1
+	amnesty	negative	0
+	amnesty	positive	1
+	amnesty	sadness	0
+	amnesty	surprise	0
+	amnesty	trust	0
+	amorphous	anger	0
+	amorphous	anticipation	0
+	amorphous	disgust	0
+	amorphous	fear	0
+	amorphous	joy	0
+	amorphous	negative	0
+	amorphous	positive	0
+	amorphous	sadness	0
+	amorphous	surprise	0
+	amorphous	trust	0
+	amortization	anger	0
+	amortization	anticipation	0
+	amortization	disgust	0
+	amortization	fear	0
+	amortization	joy	0
+	amortization	negative	0
+	amortization	positive	0
+	amortization	sadness	0
+	amortization	surprise	0
+	amortization	trust	1
+	amount	anger	0
+	amount	anticipation	0
+	amount	disgust	0
+	amount	fear	0
+	amount	joy	0
+	amount	negative	0
+	amount	positive	0
+	amount	sadness	0
+	amount	surprise	0
+	amount	trust	0
+	amour	anger	0
+	amour	anticipation	1
+	amour	disgust	0
+	amour	fear	0
+	amour	joy	1
+	amour	negative	0
+	amour	positive	1
+	amour	sadness	0
+	amour	surprise	0
+	amour	trust	1
+	ampersand	anger	0
+	ampersand	anticipation	0
+	ampersand	disgust	0
+	ampersand	fear	0
+	ampersand	joy	0
+	ampersand	negative	0
+	ampersand	positive	0
+	ampersand	sadness	0
+	ampersand	surprise	0
+	ampersand	trust	0
+	amphetamines	anger	0
+	amphetamines	anticipation	0
+	amphetamines	disgust	1
+	amphetamines	fear	0
+	amphetamines	joy	0
+	amphetamines	negative	1
+	amphetamines	positive	0
+	amphetamines	sadness	0
+	amphetamines	surprise	0
+	amphetamines	trust	0
+	amphibian	anger	0
+	amphibian	anticipation	0
+	amphibian	disgust	0
+	amphibian	fear	0
+	amphibian	joy	0
+	amphibian	negative	0
+	amphibian	positive	0
+	amphibian	sadness	0
+	amphibian	surprise	0
+	amphibian	trust	0
+	amphibious	anger	0
+	amphibious	anticipation	0
+	amphibious	disgust	0
+	amphibious	fear	0
+	amphibious	joy	0
+	amphibious	negative	0
+	amphibious	positive	0
+	amphibious	sadness	0
+	amphibious	surprise	0
+	amphibious	trust	0
+	amphitheater	anger	0
+	amphitheater	anticipation	0
+	amphitheater	disgust	0
+	amphitheater	fear	0
+	amphitheater	joy	0
+	amphitheater	negative	0
+	amphitheater	positive	0
+	amphitheater	sadness	0
+	amphitheater	surprise	0
+	amphitheater	trust	0
+	amplification	anger	0
+	amplification	anticipation	0
+	amplification	disgust	0
+	amplification	fear	0
+	amplification	joy	0
+	amplification	negative	0
+	amplification	positive	0
+	amplification	sadness	0
+	amplification	surprise	0
+	amplification	trust	0
+	amplify	anger	0
+	amplify	anticipation	0
+	amplify	disgust	0
+	amplify	fear	0
+	amplify	joy	0
+	amplify	negative	0
+	amplify	positive	0
+	amplify	sadness	0
+	amplify	surprise	0
+	amplify	trust	0
+	amplitude	anger	0
+	amplitude	anticipation	0
+	amplitude	disgust	0
+	amplitude	fear	0
+	amplitude	joy	0
+	amplitude	negative	0
+	amplitude	positive	0
+	amplitude	sadness	0
+	amplitude	surprise	0
+	amplitude	trust	0
+	amply	anger	0
+	amply	anticipation	0
+	amply	disgust	0
+	amply	fear	0
+	amply	joy	0
+	amply	negative	0
+	amply	positive	0
+	amply	sadness	0
+	amply	surprise	0
+	amply	trust	0
+	amputation	anger	0
+	amputation	anticipation	0
+	amputation	disgust	0
+	amputation	fear	0
+	amputation	joy	0
+	amputation	negative	0
+	amputation	positive	0
+	amputation	sadness	0
+	amputation	surprise	0
+	amputation	trust	0
+	amulet	anger	0
+	amulet	anticipation	0
+	amulet	disgust	0
+	amulet	fear	0
+	amulet	joy	0
+	amulet	negative	0
+	amulet	positive	0
+	amulet	sadness	0
+	amulet	surprise	0
+	amulet	trust	0
+	amuse	anger	0
+	amuse	anticipation	0
+	amuse	disgust	0
+	amuse	fear	0
+	amuse	joy	1
+	amuse	negative	0
+	amuse	positive	1
+	amuse	sadness	0
+	amuse	surprise	0
+	amuse	trust	0
+	amused	anger	0
+	amused	anticipation	0
+	amused	disgust	0
+	amused	fear	0
+	amused	joy	1
+	amused	negative	0
+	amused	positive	1
+	amused	sadness	0
+	amused	surprise	0
+	amused	trust	0
+	amusement	anger	0
+	amusement	anticipation	0
+	amusement	disgust	0
+	amusement	fear	0
+	amusement	joy	1
+	amusement	negative	0
+	amusement	positive	1
+	amusement	sadness	0
+	amusement	surprise	0
+	amusement	trust	0
+	amusing	anger	0
+	amusing	anticipation	0
+	amusing	disgust	0
+	amusing	fear	0
+	amusing	joy	1
+	amusing	negative	0
+	amusing	positive	1
+	amusing	sadness	0
+	amusing	surprise	0
+	amusing	trust	0
+	ana	anger	0
+	ana	anticipation	0
+	ana	disgust	0
+	ana	fear	0
+	ana	joy	0
+	ana	negative	0
+	ana	positive	0
+	ana	sadness	0
+	ana	surprise	0
+	ana	trust	0
+	anaconda	anger	0
+	anaconda	anticipation	0
+	anaconda	disgust	1
+	anaconda	fear	1
+	anaconda	joy	0
+	anaconda	negative	1
+	anaconda	positive	0
+	anaconda	sadness	0
+	anaconda	surprise	0
+	anaconda	trust	0
+	anaesthesia	anger	0
+	anaesthesia	anticipation	0
+	anaesthesia	disgust	0
+	anaesthesia	fear	0
+	anaesthesia	joy	0
+	anaesthesia	negative	0
+	anaesthesia	positive	0
+	anaesthesia	sadness	0
+	anaesthesia	surprise	0
+	anaesthesia	trust	0
+	anaesthetic	anger	0
+	anaesthetic	anticipation	0
+	anaesthetic	disgust	0
+	anaesthetic	fear	0
+	anaesthetic	joy	0
+	anaesthetic	negative	0
+	anaesthetic	positive	0
+	anaesthetic	sadness	0
+	anaesthetic	surprise	0
+	anaesthetic	trust	0
+	anal	anger	0
+	anal	anticipation	0
+	anal	disgust	0
+	anal	fear	0
+	anal	joy	0
+	anal	negative	1
+	anal	positive	0
+	anal	sadness	0
+	anal	surprise	0
+	anal	trust	0
+	analgesic	anger	0
+	analgesic	anticipation	0
+	analgesic	disgust	0
+	analgesic	fear	0
+	analgesic	joy	0
+	analgesic	negative	0
+	analgesic	positive	0
+	analgesic	sadness	0
+	analgesic	surprise	0
+	analgesic	trust	0
+	analogous	anger	0
+	analogous	anticipation	0
+	analogous	disgust	0
+	analogous	fear	0
+	analogous	joy	0
+	analogous	negative	0
+	analogous	positive	0
+	analogous	sadness	0
+	analogous	surprise	0
+	analogous	trust	0
+	analogue	anger	0
+	analogue	anticipation	0
+	analogue	disgust	0
+	analogue	fear	0
+	analogue	joy	0
+	analogue	negative	0
+	analogue	positive	0
+	analogue	sadness	0
+	analogue	surprise	0
+	analogue	trust	0
+	analogy	anger	0
+	analogy	anticipation	0
+	analogy	disgust	0
+	analogy	fear	0
+	analogy	joy	0
+	analogy	negative	0
+	analogy	positive	0
+	analogy	sadness	0
+	analogy	surprise	0
+	analogy	trust	0
+	analysis	anger	0
+	analysis	anticipation	0
+	analysis	disgust	0
+	analysis	fear	0
+	analysis	joy	0
+	analysis	negative	0
+	analysis	positive	0
+	analysis	sadness	0
+	analysis	surprise	0
+	analysis	trust	0
+	analyst	anger	0
+	analyst	anticipation	1
+	analyst	disgust	0
+	analyst	fear	0
+	analyst	joy	0
+	analyst	negative	0
+	analyst	positive	1
+	analyst	sadness	0
+	analyst	surprise	0
+	analyst	trust	1
+	analytic	anger	0
+	analytic	anticipation	0
+	analytic	disgust	0
+	analytic	fear	0
+	analytic	joy	0
+	analytic	negative	0
+	analytic	positive	0
+	analytic	sadness	0
+	analytic	surprise	0
+	analytic	trust	0
+	analyze	anger	0
+	analyze	anticipation	0
+	analyze	disgust	0
+	analyze	fear	0
+	analyze	joy	0
+	analyze	negative	0
+	analyze	positive	0
+	analyze	sadness	0
+	analyze	surprise	0
+	analyze	trust	0
+	analyzer	anger	0
+	analyzer	anticipation	0
+	analyzer	disgust	0
+	analyzer	fear	0
+	analyzer	joy	0
+	analyzer	negative	0
+	analyzer	positive	0
+	analyzer	sadness	0
+	analyzer	surprise	0
+	analyzer	trust	0
+	anarchism	anger	1
+	anarchism	anticipation	0
+	anarchism	disgust	0
+	anarchism	fear	1
+	anarchism	joy	0
+	anarchism	negative	1
+	anarchism	positive	0
+	anarchism	sadness	0
+	anarchism	surprise	0
+	anarchism	trust	0
+	anarchist	anger	1
+	anarchist	anticipation	0
+	anarchist	disgust	0
+	anarchist	fear	1
+	anarchist	joy	0
+	anarchist	negative	1
+	anarchist	positive	0
+	anarchist	sadness	0
+	anarchist	surprise	0
+	anarchist	trust	0
+	anarchy	anger	1
+	anarchy	anticipation	0
+	anarchy	disgust	0
+	anarchy	fear	1
+	anarchy	joy	0
+	anarchy	negative	1
+	anarchy	positive	0
+	anarchy	sadness	0
+	anarchy	surprise	0
+	anarchy	trust	0
+	anastomosis	anger	0
+	anastomosis	anticipation	0
+	anastomosis	disgust	0
+	anastomosis	fear	0
+	anastomosis	joy	0
+	anastomosis	negative	0
+	anastomosis	positive	0
+	anastomosis	sadness	0
+	anastomosis	surprise	0
+	anastomosis	trust	0
+	anathema	anger	1
+	anathema	anticipation	0
+	anathema	disgust	1
+	anathema	fear	1
+	anathema	joy	0
+	anathema	negative	1
+	anathema	positive	0
+	anathema	sadness	1
+	anathema	surprise	0
+	anathema	trust	0
+	anatomic	anger	0
+	anatomic	anticipation	0
+	anatomic	disgust	0
+	anatomic	fear	0
+	anatomic	joy	0
+	anatomic	negative	0
+	anatomic	positive	0
+	anatomic	sadness	0
+	anatomic	surprise	0
+	anatomic	trust	0
+	anatomy	anger	0
+	anatomy	anticipation	0
+	anatomy	disgust	0
+	anatomy	fear	0
+	anatomy	joy	0
+	anatomy	negative	0
+	anatomy	positive	0
+	anatomy	sadness	0
+	anatomy	surprise	0
+	anatomy	trust	0
+	ancestor	anger	0
+	ancestor	anticipation	0
+	ancestor	disgust	0
+	ancestor	fear	0
+	ancestor	joy	0
+	ancestor	negative	0
+	ancestor	positive	0
+	ancestor	sadness	0
+	ancestor	surprise	0
+	ancestor	trust	0
+	ancestral	anger	0
+	ancestral	anticipation	0
+	ancestral	disgust	0
+	ancestral	fear	0
+	ancestral	joy	0
+	ancestral	negative	0
+	ancestral	positive	0
+	ancestral	sadness	0
+	ancestral	surprise	0
+	ancestral	trust	1
+	ancestry	anger	0
+	ancestry	anticipation	0
+	ancestry	disgust	0
+	ancestry	fear	0
+	ancestry	joy	0
+	ancestry	negative	0
+	ancestry	positive	0
+	ancestry	sadness	0
+	ancestry	surprise	0
+	ancestry	trust	0
+	anchor	anger	0
+	anchor	anticipation	0
+	anchor	disgust	0
+	anchor	fear	0
+	anchor	joy	0
+	anchor	negative	0
+	anchor	positive	1
+	anchor	sadness	0
+	anchor	surprise	0
+	anchor	trust	0
+	anchorage	anger	0
+	anchorage	anticipation	0
+	anchorage	disgust	0
+	anchorage	fear	0
+	anchorage	joy	0
+	anchorage	negative	0
+	anchorage	positive	1
+	anchorage	sadness	1
+	anchorage	surprise	0
+	anchorage	trust	0
+	ancient	anger	0
+	ancient	anticipation	0
+	ancient	disgust	0
+	ancient	fear	0
+	ancient	joy	0
+	ancient	negative	1
+	ancient	positive	0
+	ancient	sadness	0
+	ancient	surprise	0
+	ancient	trust	0
+	ancillary	anger	0
+	ancillary	anticipation	0
+	ancillary	disgust	0
+	ancillary	fear	0
+	ancillary	joy	0
+	ancillary	negative	0
+	ancillary	positive	0
+	ancillary	sadness	0
+	ancillary	surprise	0
+	ancillary	trust	0
+	androgen	anger	0
+	androgen	anticipation	0
+	androgen	disgust	0
+	androgen	fear	0
+	androgen	joy	0
+	androgen	negative	0
+	androgen	positive	0
+	androgen	sadness	0
+	androgen	surprise	0
+	androgen	trust	0
+	anemone	anger	0
+	anemone	anticipation	0
+	anemone	disgust	0
+	anemone	fear	0
+	anemone	joy	0
+	anemone	negative	0
+	anemone	positive	0
+	anemone	sadness	0
+	anemone	surprise	0
+	anemone	trust	0
+	anew	anger	0
+	anew	anticipation	0
+	anew	disgust	0
+	anew	fear	0
+	anew	joy	0
+	anew	negative	0
+	anew	positive	0
+	anew	sadness	0
+	anew	surprise	0
+	anew	trust	0
+	angel	anger	0
+	angel	anticipation	1
+	angel	disgust	0
+	angel	fear	0
+	angel	joy	1
+	angel	negative	0
+	angel	positive	1
+	angel	sadness	0
+	angel	surprise	1
+	angel	trust	1
+	angelic	anger	0
+	angelic	anticipation	0
+	angelic	disgust	0
+	angelic	fear	0
+	angelic	joy	1
+	angelic	negative	0
+	angelic	positive	1
+	angelic	sadness	0
+	angelic	surprise	0
+	angelic	trust	1
+	anger	anger	1
+	anger	anticipation	0
+	anger	disgust	0
+	anger	fear	0
+	anger	joy	0
+	anger	negative	1
+	anger	positive	0
+	anger	sadness	0
+	anger	surprise	0
+	anger	trust	0
+	angina	anger	0
+	angina	anticipation	0
+	angina	disgust	0
+	angina	fear	1
+	angina	joy	0
+	angina	negative	1
+	angina	positive	0
+	angina	sadness	0
+	angina	surprise	0
+	angina	trust	0
+	angiography	anger	0
+	angiography	anticipation	0
+	angiography	disgust	0
+	angiography	fear	0
+	angiography	joy	0
+	angiography	negative	0
+	angiography	positive	0
+	angiography	sadness	0
+	angiography	surprise	0
+	angiography	trust	0
+	angle	anger	0
+	angle	anticipation	0
+	angle	disgust	0
+	angle	fear	0
+	angle	joy	0
+	angle	negative	0
+	angle	positive	0
+	angle	sadness	0
+	angle	surprise	0
+	angle	trust	0
+	angling	anger	0
+	angling	anticipation	1
+	angling	disgust	0
+	angling	fear	0
+	angling	joy	0
+	angling	negative	1
+	angling	positive	0
+	angling	sadness	0
+	angling	surprise	0
+	angling	trust	0
+	angry	anger	1
+	angry	anticipation	0
+	angry	disgust	1
+	angry	fear	0
+	angry	joy	0
+	angry	negative	1
+	angry	positive	0
+	angry	sadness	0
+	angry	surprise	0
+	angry	trust	0
+	anguish	anger	1
+	anguish	anticipation	0
+	anguish	disgust	0
+	anguish	fear	1
+	anguish	joy	0
+	anguish	negative	1
+	anguish	positive	0
+	anguish	sadness	1
+	anguish	surprise	0
+	anguish	trust	0
+	angular	anger	0
+	angular	anticipation	0
+	angular	disgust	0
+	angular	fear	0
+	angular	joy	0
+	angular	negative	0
+	angular	positive	0
+	angular	sadness	0
+	angular	surprise	0
+	angular	trust	0
+	anhydrous	anger	0
+	anhydrous	anticipation	0
+	anhydrous	disgust	0
+	anhydrous	fear	0
+	anhydrous	joy	0
+	anhydrous	negative	0
+	anhydrous	positive	0
+	anhydrous	sadness	0
+	anhydrous	surprise	0
+	anhydrous	trust	0
+	animal	anger	0
+	animal	anticipation	0
+	animal	disgust	0
+	animal	fear	0
+	animal	joy	0
+	animal	negative	0
+	animal	positive	0
+	animal	sadness	0
+	animal	surprise	0
+	animal	trust	0
+	animate	anger	0
+	animate	anticipation	0
+	animate	disgust	0
+	animate	fear	0
+	animate	joy	0
+	animate	negative	0
+	animate	positive	1
+	animate	sadness	0
+	animate	surprise	0
+	animate	trust	0
+	animated	anger	0
+	animated	anticipation	0
+	animated	disgust	0
+	animated	fear	0
+	animated	joy	1
+	animated	negative	0
+	animated	positive	1
+	animated	sadness	0
+	animated	surprise	0
+	animated	trust	0
+	animation	anger	0
+	animation	anticipation	0
+	animation	disgust	0
+	animation	fear	0
+	animation	joy	0
+	animation	negative	0
+	animation	positive	0
+	animation	sadness	0
+	animation	surprise	0
+	animation	trust	0
+	animosity	anger	1
+	animosity	anticipation	0
+	animosity	disgust	1
+	animosity	fear	1
+	animosity	joy	0
+	animosity	negative	1
+	animosity	positive	0
+	animosity	sadness	1
+	animosity	surprise	0
+	animosity	trust	0
+	animus	anger	1
+	animus	anticipation	0
+	animus	disgust	0
+	animus	fear	0
+	animus	joy	0
+	animus	negative	1
+	animus	positive	0
+	animus	sadness	0
+	animus	surprise	0
+	animus	trust	0
+	ankle	anger	0
+	ankle	anticipation	0
+	ankle	disgust	0
+	ankle	fear	0
+	ankle	joy	0
+	ankle	negative	0
+	ankle	positive	0
+	ankle	sadness	0
+	ankle	surprise	0
+	ankle	trust	0
+	annals	anger	0
+	annals	anticipation	0
+	annals	disgust	0
+	annals	fear	0
+	annals	joy	0
+	annals	negative	0
+	annals	positive	0
+	annals	sadness	0
+	annals	surprise	0
+	annals	trust	0
+	annex	anger	0
+	annex	anticipation	0
+	annex	disgust	0
+	annex	fear	0
+	annex	joy	0
+	annex	negative	0
+	annex	positive	0
+	annex	sadness	0
+	annex	surprise	0
+	annex	trust	0
+	annexation	anger	0
+	annexation	anticipation	0
+	annexation	disgust	0
+	annexation	fear	0
+	annexation	joy	0
+	annexation	negative	0
+	annexation	positive	0
+	annexation	sadness	0
+	annexation	surprise	0
+	annexation	trust	0
+	annexe	anger	0
+	annexe	anticipation	0
+	annexe	disgust	0
+	annexe	fear	0
+	annexe	joy	0
+	annexe	negative	0
+	annexe	positive	0
+	annexe	sadness	0
+	annexe	surprise	0
+	annexe	trust	0
+	annihilate	anger	1
+	annihilate	anticipation	0
+	annihilate	disgust	0
+	annihilate	fear	1
+	annihilate	joy	0
+	annihilate	negative	1
+	annihilate	positive	0
+	annihilate	sadness	0
+	annihilate	surprise	0
+	annihilate	trust	0
+	annihilated	anger	1
+	annihilated	anticipation	0
+	annihilated	disgust	0
+	annihilated	fear	1
+	annihilated	joy	0
+	annihilated	negative	1
+	annihilated	positive	0
+	annihilated	sadness	1
+	annihilated	surprise	0
+	annihilated	trust	0
+	annihilation	anger	1
+	annihilation	anticipation	0
+	annihilation	disgust	0
+	annihilation	fear	1
+	annihilation	joy	0
+	annihilation	negative	1
+	annihilation	positive	0
+	annihilation	sadness	1
+	annihilation	surprise	0
+	annihilation	trust	0
+	annotate	anger	0
+	annotate	anticipation	0
+	annotate	disgust	0
+	annotate	fear	0
+	annotate	joy	0
+	annotate	negative	0
+	annotate	positive	0
+	annotate	sadness	0
+	annotate	surprise	0
+	annotate	trust	0
+	annotation	anger	0
+	annotation	anticipation	0
+	annotation	disgust	0
+	annotation	fear	0
+	annotation	joy	0
+	annotation	negative	0
+	annotation	positive	0
+	annotation	sadness	0
+	annotation	surprise	0
+	annotation	trust	0
+	announce	anger	0
+	announce	anticipation	0
+	announce	disgust	0
+	announce	fear	0
+	announce	joy	0
+	announce	negative	0
+	announce	positive	0
+	announce	sadness	0
+	announce	surprise	0
+	announce	trust	0
+	announcement	anger	0
+	announcement	anticipation	1
+	announcement	disgust	0
+	announcement	fear	0
+	announcement	joy	0
+	announcement	negative	0
+	announcement	positive	0
+	announcement	sadness	0
+	announcement	surprise	0
+	announcement	trust	0
+	annoy	anger	1
+	annoy	anticipation	0
+	annoy	disgust	1
+	annoy	fear	0
+	annoy	joy	0
+	annoy	negative	1
+	annoy	positive	0
+	annoy	sadness	0
+	annoy	surprise	0
+	annoy	trust	0
+	annoyance	anger	1
+	annoyance	anticipation	0
+	annoyance	disgust	1
+	annoyance	fear	0
+	annoyance	joy	0
+	annoyance	negative	1
+	annoyance	positive	0
+	annoyance	sadness	0
+	annoyance	surprise	0
+	annoyance	trust	0
+	annoying	anger	1
+	annoying	anticipation	0
+	annoying	disgust	0
+	annoying	fear	0
+	annoying	joy	0
+	annoying	negative	1
+	annoying	positive	0
+	annoying	sadness	0
+	annoying	surprise	0
+	annoying	trust	0
+	annuity	anger	0
+	annuity	anticipation	0
+	annuity	disgust	0
+	annuity	fear	0
+	annuity	joy	0
+	annuity	negative	0
+	annuity	positive	0
+	annuity	sadness	0
+	annuity	surprise	0
+	annuity	trust	0
+	annul	anger	0
+	annul	anticipation	0
+	annul	disgust	0
+	annul	fear	0
+	annul	joy	0
+	annul	negative	1
+	annul	positive	0
+	annul	sadness	0
+	annul	surprise	0
+	annul	trust	0
+	annular	anger	0
+	annular	anticipation	0
+	annular	disgust	0
+	annular	fear	0
+	annular	joy	0
+	annular	negative	0
+	annular	positive	0
+	annular	sadness	0
+	annular	surprise	0
+	annular	trust	0
+	annulment	anger	0
+	annulment	anticipation	0
+	annulment	disgust	0
+	annulment	fear	0
+	annulment	joy	0
+	annulment	negative	1
+	annulment	positive	0
+	annulment	sadness	1
+	annulment	surprise	0
+	annulment	trust	0
+	annulus	anger	0
+	annulus	anticipation	0
+	annulus	disgust	0
+	annulus	fear	0
+	annulus	joy	0
+	annulus	negative	0
+	annulus	positive	0
+	annulus	sadness	0
+	annulus	surprise	0
+	annulus	trust	0
+	anointing	anger	0
+	anointing	anticipation	0
+	anointing	disgust	0
+	anointing	fear	0
+	anointing	joy	0
+	anointing	negative	0
+	anointing	positive	0
+	anointing	sadness	0
+	anointing	surprise	0
+	anointing	trust	0
+	anomalous	anger	0
+	anomalous	anticipation	0
+	anomalous	disgust	0
+	anomalous	fear	0
+	anomalous	joy	0
+	anomalous	negative	0
+	anomalous	positive	0
+	anomalous	sadness	0
+	anomalous	surprise	0
+	anomalous	trust	0
+	anomaly	anger	0
+	anomaly	anticipation	0
+	anomaly	disgust	0
+	anomaly	fear	1
+	anomaly	joy	0
+	anomaly	negative	1
+	anomaly	positive	0
+	anomaly	sadness	0
+	anomaly	surprise	1
+	anomaly	trust	0
+	anon	anger	0
+	anon	anticipation	0
+	anon	disgust	0
+	anon	fear	0
+	anon	joy	0
+	anon	negative	0
+	anon	positive	0
+	anon	sadness	0
+	anon	surprise	0
+	anon	trust	0
+	anonymous	anger	0
+	anonymous	anticipation	0
+	anonymous	disgust	0
+	anonymous	fear	0
+	anonymous	joy	0
+	anonymous	negative	1
+	anonymous	positive	0
+	anonymous	sadness	0
+	anonymous	surprise	0
+	anonymous	trust	0
+	answer	anger	0
+	answer	anticipation	0
+	answer	disgust	0
+	answer	fear	0
+	answer	joy	0
+	answer	negative	0
+	answer	positive	0
+	answer	sadness	0
+	answer	surprise	0
+	answer	trust	0
+	answerable	anger	0
+	answerable	anticipation	0
+	answerable	disgust	0
+	answerable	fear	0
+	answerable	joy	0
+	answerable	negative	0
+	answerable	positive	0
+	answerable	sadness	0
+	answerable	surprise	0
+	answerable	trust	1
+	answering	anger	0
+	answering	anticipation	0
+	answering	disgust	0
+	answering	fear	0
+	answering	joy	0
+	answering	negative	0
+	answering	positive	0
+	answering	sadness	0
+	answering	surprise	0
+	answering	trust	0
+	ant	anger	0
+	ant	anticipation	0
+	ant	disgust	0
+	ant	fear	0
+	ant	joy	0
+	ant	negative	0
+	ant	positive	0
+	ant	sadness	0
+	ant	surprise	0
+	ant	trust	0
+	antagonism	anger	1
+	antagonism	anticipation	0
+	antagonism	disgust	0
+	antagonism	fear	0
+	antagonism	joy	0
+	antagonism	negative	1
+	antagonism	positive	0
+	antagonism	sadness	0
+	antagonism	surprise	0
+	antagonism	trust	0
+	antagonist	anger	1
+	antagonist	anticipation	0
+	antagonist	disgust	0
+	antagonist	fear	0
+	antagonist	joy	0
+	antagonist	negative	1
+	antagonist	positive	0
+	antagonist	sadness	0
+	antagonist	surprise	0
+	antagonist	trust	0
+	antagonistic	anger	1
+	antagonistic	anticipation	0
+	antagonistic	disgust	1
+	antagonistic	fear	0
+	antagonistic	joy	0
+	antagonistic	negative	1
+	antagonistic	positive	0
+	antagonistic	sadness	0
+	antagonistic	surprise	0
+	antagonistic	trust	0
+	ante	anger	0
+	ante	anticipation	0
+	ante	disgust	0
+	ante	fear	0
+	ante	joy	0
+	ante	negative	0
+	ante	positive	0
+	ante	sadness	0
+	ante	surprise	0
+	ante	trust	0
+	antecedent	anger	0
+	antecedent	anticipation	0
+	antecedent	disgust	0
+	antecedent	fear	0
+	antecedent	joy	0
+	antecedent	negative	0
+	antecedent	positive	0
+	antecedent	sadness	0
+	antecedent	surprise	0
+	antecedent	trust	0
+	antelope	anger	0
+	antelope	anticipation	0
+	antelope	disgust	0
+	antelope	fear	0
+	antelope	joy	0
+	antelope	negative	0
+	antelope	positive	0
+	antelope	sadness	0
+	antelope	surprise	0
+	antelope	trust	0
+	antenna	anger	0
+	antenna	anticipation	0
+	antenna	disgust	0
+	antenna	fear	0
+	antenna	joy	0
+	antenna	negative	0
+	antenna	positive	0
+	antenna	sadness	0
+	antenna	surprise	0
+	antenna	trust	0
+	anterior	anger	0
+	anterior	anticipation	0
+	anterior	disgust	0
+	anterior	fear	0
+	anterior	joy	0
+	anterior	negative	0
+	anterior	positive	0
+	anterior	sadness	0
+	anterior	surprise	0
+	anterior	trust	0
+	anthem	anger	0
+	anthem	anticipation	0
+	anthem	disgust	0
+	anthem	fear	0
+	anthem	joy	0
+	anthem	negative	0
+	anthem	positive	0
+	anthem	sadness	0
+	anthem	surprise	0
+	anthem	trust	0
+	anthology	anger	0
+	anthology	anticipation	0
+	anthology	disgust	0
+	anthology	fear	0
+	anthology	joy	0
+	anthology	negative	0
+	anthology	positive	0
+	anthology	sadness	0
+	anthology	surprise	0
+	anthology	trust	0
+	anthrax	anger	0
+	anthrax	anticipation	0
+	anthrax	disgust	1
+	anthrax	fear	1
+	anthrax	joy	0
+	anthrax	negative	1
+	anthrax	positive	0
+	anthrax	sadness	1
+	anthrax	surprise	0
+	anthrax	trust	0
+	anthropology	anger	0
+	anthropology	anticipation	0
+	anthropology	disgust	0
+	anthropology	fear	0
+	anthropology	joy	0
+	anthropology	negative	0
+	anthropology	positive	0
+	anthropology	sadness	0
+	anthropology	surprise	0
+	anthropology	trust	0
+	antibiotic	anger	0
+	antibiotic	anticipation	0
+	antibiotic	disgust	0
+	antibiotic	fear	0
+	antibiotic	joy	0
+	antibiotic	negative	0
+	antibiotic	positive	0
+	antibiotic	sadness	0
+	antibiotic	surprise	0
+	antibiotic	trust	0
+	antibiotics	anger	0
+	antibiotics	anticipation	0
+	antibiotics	disgust	0
+	antibiotics	fear	0
+	antibiotics	joy	0
+	antibiotics	negative	0
+	antibiotics	positive	1
+	antibiotics	sadness	0
+	antibiotics	surprise	0
+	antibiotics	trust	0
+	antichrist	anger	1
+	antichrist	anticipation	0
+	antichrist	disgust	1
+	antichrist	fear	1
+	antichrist	joy	0
+	antichrist	negative	1
+	antichrist	positive	0
+	antichrist	sadness	0
+	antichrist	surprise	0
+	antichrist	trust	0
+	anticipation	anger	0
+	anticipation	anticipation	1
+	anticipation	disgust	0
+	anticipation	fear	0
+	anticipation	joy	0
+	anticipation	negative	0
+	anticipation	positive	0
+	anticipation	sadness	0
+	anticipation	surprise	0
+	anticipation	trust	0
+	anticipatory	anger	0
+	anticipatory	anticipation	1
+	anticipatory	disgust	0
+	anticipatory	fear	0
+	anticipatory	joy	0
+	anticipatory	negative	0
+	anticipatory	positive	0
+	anticipatory	sadness	0
+	anticipatory	surprise	0
+	anticipatory	trust	0
+	antidote	anger	0
+	antidote	anticipation	1
+	antidote	disgust	0
+	antidote	fear	0
+	antidote	joy	0
+	antidote	negative	0
+	antidote	positive	1
+	antidote	sadness	0
+	antidote	surprise	0
+	antidote	trust	1
+	antifungal	anger	0
+	antifungal	anticipation	0
+	antifungal	disgust	0
+	antifungal	fear	0
+	antifungal	joy	0
+	antifungal	negative	0
+	antifungal	positive	1
+	antifungal	sadness	0
+	antifungal	surprise	0
+	antifungal	trust	1
+	antimony	anger	0
+	antimony	anticipation	0
+	antimony	disgust	0
+	antimony	fear	0
+	antimony	joy	0
+	antimony	negative	0
+	antimony	positive	0
+	antimony	sadness	0
+	antimony	surprise	0
+	antimony	trust	0
+	antipathy	anger	1
+	antipathy	anticipation	0
+	antipathy	disgust	1
+	antipathy	fear	0
+	antipathy	joy	0
+	antipathy	negative	1
+	antipathy	positive	0
+	antipathy	sadness	0
+	antipathy	surprise	0
+	antipathy	trust	0
+	antiquarian	anger	0
+	antiquarian	anticipation	0
+	antiquarian	disgust	0
+	antiquarian	fear	0
+	antiquarian	joy	0
+	antiquarian	negative	0
+	antiquarian	positive	0
+	antiquarian	sadness	0
+	antiquarian	surprise	0
+	antiquarian	trust	0
+	antiquated	anger	0
+	antiquated	anticipation	0
+	antiquated	disgust	0
+	antiquated	fear	0
+	antiquated	joy	0
+	antiquated	negative	1
+	antiquated	positive	0
+	antiquated	sadness	0
+	antiquated	surprise	0
+	antiquated	trust	0
+	antique	anger	0
+	antique	anticipation	0
+	antique	disgust	0
+	antique	fear	0
+	antique	joy	0
+	antique	negative	0
+	antique	positive	1
+	antique	sadness	0
+	antique	surprise	0
+	antique	trust	0
+	antiquity	anger	0
+	antiquity	anticipation	0
+	antiquity	disgust	0
+	antiquity	fear	0
+	antiquity	joy	0
+	antiquity	negative	0
+	antiquity	positive	0
+	antiquity	sadness	0
+	antiquity	surprise	0
+	antiquity	trust	0
+	antiseptic	anger	0
+	antiseptic	anticipation	0
+	antiseptic	disgust	0
+	antiseptic	fear	0
+	antiseptic	joy	0
+	antiseptic	negative	0
+	antiseptic	positive	1
+	antiseptic	sadness	0
+	antiseptic	surprise	0
+	antiseptic	trust	1
+	antisocial	anger	1
+	antisocial	anticipation	0
+	antisocial	disgust	1
+	antisocial	fear	1
+	antisocial	joy	0
+	antisocial	negative	1
+	antisocial	positive	0
+	antisocial	sadness	1
+	antisocial	surprise	0
+	antisocial	trust	0
+	antithesis	anger	1
+	antithesis	anticipation	0
+	antithesis	disgust	0
+	antithesis	fear	0
+	antithesis	joy	0
+	antithesis	negative	1
+	antithesis	positive	0
+	antithesis	sadness	0
+	antithesis	surprise	0
+	antithesis	trust	0
+	antithetical	anger	0
+	antithetical	anticipation	0
+	antithetical	disgust	0
+	antithetical	fear	0
+	antithetical	joy	0
+	antithetical	negative	0
+	antithetical	positive	0
+	antithetical	sadness	0
+	antithetical	surprise	0
+	antithetical	trust	0
+	antiviral	anger	0
+	antiviral	anticipation	0
+	antiviral	disgust	0
+	antiviral	fear	0
+	antiviral	joy	0
+	antiviral	negative	0
+	antiviral	positive	0
+	antiviral	sadness	0
+	antiviral	surprise	0
+	antiviral	trust	0
+	antler	anger	0
+	antler	anticipation	0
+	antler	disgust	0
+	antler	fear	0
+	antler	joy	0
+	antler	negative	0
+	antler	positive	0
+	antler	sadness	0
+	antler	surprise	0
+	antler	trust	0
+	anvil	anger	0
+	anvil	anticipation	0
+	anvil	disgust	0
+	anvil	fear	0
+	anvil	joy	0
+	anvil	negative	0
+	anvil	positive	0
+	anvil	sadness	0
+	anvil	surprise	0
+	anvil	trust	0
+	anxiety	anger	1
+	anxiety	anticipation	1
+	anxiety	disgust	0
+	anxiety	fear	1
+	anxiety	joy	0
+	anxiety	negative	1
+	anxiety	positive	0
+	anxiety	sadness	1
+	anxiety	surprise	0
+	anxiety	trust	0
+	anxious	anger	0
+	anxious	anticipation	1
+	anxious	disgust	0
+	anxious	fear	1
+	anxious	joy	0
+	anxious	negative	1
+	anxious	positive	0
+	anxious	sadness	0
+	anxious	surprise	0
+	anxious	trust	0
+	aorta	anger	0
+	aorta	anticipation	0
+	aorta	disgust	0
+	aorta	fear	0
+	aorta	joy	0
+	aorta	negative	0
+	aorta	positive	0
+	aorta	sadness	0
+	aorta	surprise	0
+	aorta	trust	0
+	apace	anger	0
+	apace	anticipation	0
+	apace	disgust	0
+	apace	fear	0
+	apace	joy	0
+	apace	negative	0
+	apace	positive	0
+	apace	sadness	0
+	apace	surprise	0
+	apace	trust	0
+	apache	anger	0
+	apache	anticipation	0
+	apache	disgust	0
+	apache	fear	1
+	apache	joy	0
+	apache	negative	1
+	apache	positive	0
+	apache	sadness	0
+	apache	surprise	0
+	apache	trust	0
+	apartment	anger	0
+	apartment	anticipation	0
+	apartment	disgust	0
+	apartment	fear	0
+	apartment	joy	0
+	apartment	negative	0
+	apartment	positive	0
+	apartment	sadness	0
+	apartment	surprise	0
+	apartment	trust	0
+	apathetic	anger	0
+	apathetic	anticipation	0
+	apathetic	disgust	0
+	apathetic	fear	0
+	apathetic	joy	0
+	apathetic	negative	1
+	apathetic	positive	0
+	apathetic	sadness	1
+	apathetic	surprise	0
+	apathetic	trust	0
+	apathy	anger	0
+	apathy	anticipation	0
+	apathy	disgust	0
+	apathy	fear	0
+	apathy	joy	0
+	apathy	negative	1
+	apathy	positive	0
+	apathy	sadness	1
+	apathy	surprise	0
+	apathy	trust	0
+	ape	anger	0
+	ape	anticipation	0
+	ape	disgust	0
+	ape	fear	0
+	ape	joy	0
+	ape	negative	0
+	ape	positive	0
+	ape	sadness	0
+	ape	surprise	0
+	ape	trust	0
+	aperture	anger	0
+	aperture	anticipation	0
+	aperture	disgust	0
+	aperture	fear	0
+	aperture	joy	0
+	aperture	negative	0
+	aperture	positive	0
+	aperture	sadness	0
+	aperture	surprise	0
+	aperture	trust	0
+	apex	anger	0
+	apex	anticipation	0
+	apex	disgust	0
+	apex	fear	0
+	apex	joy	0
+	apex	negative	0
+	apex	positive	0
+	apex	sadness	0
+	apex	surprise	0
+	apex	trust	0
+	aphid	anger	0
+	aphid	anticipation	0
+	aphid	disgust	1
+	aphid	fear	0
+	aphid	joy	0
+	aphid	negative	1
+	aphid	positive	0
+	aphid	sadness	0
+	aphid	surprise	0
+	aphid	trust	0
+	apiece	anger	0
+	apiece	anticipation	0
+	apiece	disgust	0
+	apiece	fear	0
+	apiece	joy	0
+	apiece	negative	0
+	apiece	positive	0
+	apiece	sadness	0
+	apiece	surprise	0
+	apiece	trust	0
+	aplomb	anger	0
+	aplomb	anticipation	0
+	aplomb	disgust	0
+	aplomb	fear	0
+	aplomb	joy	0
+	aplomb	negative	0
+	aplomb	positive	1
+	aplomb	sadness	0
+	aplomb	surprise	0
+	aplomb	trust	0
+	apocalyptic	anger	0
+	apocalyptic	anticipation	0
+	apocalyptic	disgust	0
+	apocalyptic	fear	0
+	apocalyptic	joy	0
+	apocalyptic	negative	0
+	apocalyptic	positive	0
+	apocalyptic	sadness	0
+	apocalyptic	surprise	0
+	apocalyptic	trust	0
+	apologetic	anger	0
+	apologetic	anticipation	0
+	apologetic	disgust	0
+	apologetic	fear	0
+	apologetic	joy	0
+	apologetic	negative	0
+	apologetic	positive	1
+	apologetic	sadness	0
+	apologetic	surprise	0
+	apologetic	trust	1
+	apologist	anger	0
+	apologist	anticipation	0
+	apologist	disgust	0
+	apologist	fear	0
+	apologist	joy	0
+	apologist	negative	0
+	apologist	positive	0
+	apologist	sadness	0
+	apologist	surprise	0
+	apologist	trust	0
+	apologize	anger	0
+	apologize	anticipation	0
+	apologize	disgust	0
+	apologize	fear	0
+	apologize	joy	0
+	apologize	negative	0
+	apologize	positive	1
+	apologize	sadness	1
+	apologize	surprise	0
+	apologize	trust	1
+	apology	anger	0
+	apology	anticipation	0
+	apology	disgust	0
+	apology	fear	0
+	apology	joy	0
+	apology	negative	0
+	apology	positive	1
+	apology	sadness	0
+	apology	surprise	0
+	apology	trust	0
+	apostasy	anger	0
+	apostasy	anticipation	0
+	apostasy	disgust	0
+	apostasy	fear	0
+	apostasy	joy	0
+	apostasy	negative	0
+	apostasy	positive	0
+	apostasy	sadness	0
+	apostasy	surprise	0
+	apostasy	trust	0
+	apostate	anger	0
+	apostate	anticipation	0
+	apostate	disgust	0
+	apostate	fear	0
+	apostate	joy	0
+	apostate	negative	0
+	apostate	positive	0
+	apostate	sadness	0
+	apostate	surprise	0
+	apostate	trust	0
+	apostle	anger	0
+	apostle	anticipation	0
+	apostle	disgust	0
+	apostle	fear	0
+	apostle	joy	0
+	apostle	negative	0
+	apostle	positive	1
+	apostle	sadness	0
+	apostle	surprise	0
+	apostle	trust	1
+	apostolic	anger	0
+	apostolic	anticipation	0
+	apostolic	disgust	0
+	apostolic	fear	0
+	apostolic	joy	0
+	apostolic	negative	0
+	apostolic	positive	0
+	apostolic	sadness	0
+	apostolic	surprise	0
+	apostolic	trust	1
+	apostrophe	anger	0
+	apostrophe	anticipation	0
+	apostrophe	disgust	0
+	apostrophe	fear	0
+	apostrophe	joy	0
+	apostrophe	negative	0
+	apostrophe	positive	0
+	apostrophe	sadness	0
+	apostrophe	surprise	0
+	apostrophe	trust	0
+	appalling	anger	0
+	appalling	anticipation	0
+	appalling	disgust	1
+	appalling	fear	1
+	appalling	joy	0
+	appalling	negative	1
+	appalling	positive	0
+	appalling	sadness	0
+	appalling	surprise	0
+	appalling	trust	0
+	apparatus	anger	0
+	apparatus	anticipation	0
+	apparatus	disgust	0
+	apparatus	fear	0
+	apparatus	joy	0
+	apparatus	negative	0
+	apparatus	positive	0
+	apparatus	sadness	0
+	apparatus	surprise	0
+	apparatus	trust	0
+	apparel	anger	0
+	apparel	anticipation	0
+	apparel	disgust	0
+	apparel	fear	0
+	apparel	joy	0
+	apparel	negative	0
+	apparel	positive	0
+	apparel	sadness	0
+	apparel	surprise	0
+	apparel	trust	0
+	apparently	anger	0
+	apparently	anticipation	0
+	apparently	disgust	0
+	apparently	fear	0
+	apparently	joy	0
+	apparently	negative	0
+	apparently	positive	0
+	apparently	sadness	0
+	apparently	surprise	0
+	apparently	trust	0
+	apparition	anger	0
+	apparition	anticipation	0
+	apparition	disgust	0
+	apparition	fear	1
+	apparition	joy	0
+	apparition	negative	0
+	apparition	positive	0
+	apparition	sadness	0
+	apparition	surprise	1
+	apparition	trust	0
+	appeal	anger	0
+	appeal	anticipation	1
+	appeal	disgust	0
+	appeal	fear	0
+	appeal	joy	0
+	appeal	negative	0
+	appeal	positive	0
+	appeal	sadness	0
+	appeal	surprise	0
+	appeal	trust	0
+	appearance	anger	0
+	appearance	anticipation	0
+	appearance	disgust	0
+	appearance	fear	0
+	appearance	joy	0
+	appearance	negative	0
+	appearance	positive	0
+	appearance	sadness	0
+	appearance	surprise	0
+	appearance	trust	0
+	appease	anger	0
+	appease	anticipation	0
+	appease	disgust	0
+	appease	fear	0
+	appease	joy	0
+	appease	negative	0
+	appease	positive	0
+	appease	sadness	0
+	appease	surprise	0
+	appease	trust	0
+	appellant	anger	0
+	appellant	anticipation	0
+	appellant	disgust	0
+	appellant	fear	0
+	appellant	joy	0
+	appellant	negative	0
+	appellant	positive	0
+	appellant	sadness	0
+	appellant	surprise	0
+	appellant	trust	0
+	append	anger	0
+	append	anticipation	0
+	append	disgust	0
+	append	fear	0
+	append	joy	0
+	append	negative	0
+	append	positive	0
+	append	sadness	0
+	append	surprise	0
+	append	trust	0
+	appendage	anger	0
+	appendage	anticipation	0
+	appendage	disgust	0
+	appendage	fear	0
+	appendage	joy	0
+	appendage	negative	0
+	appendage	positive	0
+	appendage	sadness	0
+	appendage	surprise	0
+	appendage	trust	0
+	appendicitis	anger	0
+	appendicitis	anticipation	0
+	appendicitis	disgust	0
+	appendicitis	fear	1
+	appendicitis	joy	0
+	appendicitis	negative	1
+	appendicitis	positive	0
+	appendicitis	sadness	1
+	appendicitis	surprise	0
+	appendicitis	trust	0
+	appendix	anger	0
+	appendix	anticipation	0
+	appendix	disgust	0
+	appendix	fear	0
+	appendix	joy	0
+	appendix	negative	0
+	appendix	positive	0
+	appendix	sadness	0
+	appendix	surprise	0
+	appendix	trust	0
+	appetite	anger	0
+	appetite	anticipation	0
+	appetite	disgust	0
+	appetite	fear	0
+	appetite	joy	0
+	appetite	negative	0
+	appetite	positive	0
+	appetite	sadness	0
+	appetite	surprise	0
+	appetite	trust	0
+	appetizer	anger	0
+	appetizer	anticipation	0
+	appetizer	disgust	0
+	appetizer	fear	0
+	appetizer	joy	0
+	appetizer	negative	0
+	appetizer	positive	0
+	appetizer	sadness	0
+	appetizer	surprise	0
+	appetizer	trust	0
+	applause	anger	0
+	applause	anticipation	0
+	applause	disgust	0
+	applause	fear	0
+	applause	joy	1
+	applause	negative	0
+	applause	positive	1
+	applause	sadness	0
+	applause	surprise	1
+	applause	trust	1
+	apple	anger	0
+	apple	anticipation	0
+	apple	disgust	0
+	apple	fear	0
+	apple	joy	0
+	apple	negative	0
+	apple	positive	0
+	apple	sadness	0
+	apple	surprise	0
+	apple	trust	0
+	appliance	anger	0
+	appliance	anticipation	0
+	appliance	disgust	0
+	appliance	fear	0
+	appliance	joy	0
+	appliance	negative	0
+	appliance	positive	0
+	appliance	sadness	0
+	appliance	surprise	0
+	appliance	trust	0
+	appliances	anger	0
+	appliances	anticipation	0
+	appliances	disgust	0
+	appliances	fear	0
+	appliances	joy	0
+	appliances	negative	0
+	appliances	positive	0
+	appliances	sadness	0
+	appliances	surprise	0
+	appliances	trust	0
+	applicability	anger	0
+	applicability	anticipation	0
+	applicability	disgust	0
+	applicability	fear	0
+	applicability	joy	0
+	applicability	negative	0
+	applicability	positive	0
+	applicability	sadness	0
+	applicability	surprise	0
+	applicability	trust	0
+	applicable	anger	0
+	applicable	anticipation	0
+	applicable	disgust	0
+	applicable	fear	0
+	applicable	joy	0
+	applicable	negative	0
+	applicable	positive	0
+	applicable	sadness	0
+	applicable	surprise	0
+	applicable	trust	0
+	applicant	anger	0
+	applicant	anticipation	1
+	applicant	disgust	0
+	applicant	fear	0
+	applicant	joy	0
+	applicant	negative	0
+	applicant	positive	0
+	applicant	sadness	0
+	applicant	surprise	0
+	applicant	trust	0
+	application	anger	0
+	application	anticipation	0
+	application	disgust	0
+	application	fear	0
+	application	joy	0
+	application	negative	0
+	application	positive	0
+	application	sadness	0
+	application	surprise	0
+	application	trust	0
+	apply	anger	0
+	apply	anticipation	0
+	apply	disgust	0
+	apply	fear	0
+	apply	joy	0
+	apply	negative	0
+	apply	positive	0
+	apply	sadness	0
+	apply	surprise	0
+	apply	trust	0
+	appoint	anger	0
+	appoint	anticipation	0
+	appoint	disgust	0
+	appoint	fear	0
+	appoint	joy	0
+	appoint	negative	0
+	appoint	positive	0
+	appoint	sadness	0
+	appoint	surprise	0
+	appoint	trust	0
+	appointment	anger	0
+	appointment	anticipation	0
+	appointment	disgust	0
+	appointment	fear	0
+	appointment	joy	0
+	appointment	negative	0
+	appointment	positive	0
+	appointment	sadness	0
+	appointment	surprise	0
+	appointment	trust	0
+	appointments	anger	0
+	appointments	anticipation	0
+	appointments	disgust	0
+	appointments	fear	0
+	appointments	joy	0
+	appointments	negative	0
+	appointments	positive	0
+	appointments	sadness	0
+	appointments	surprise	0
+	appointments	trust	0
+	apportion	anger	0
+	apportion	anticipation	0
+	apportion	disgust	0
+	apportion	fear	0
+	apportion	joy	0
+	apportion	negative	0
+	apportion	positive	0
+	apportion	sadness	0
+	apportion	surprise	0
+	apportion	trust	0
+	apportionment	anger	0
+	apportionment	anticipation	0
+	apportionment	disgust	0
+	apportionment	fear	0
+	apportionment	joy	0
+	apportionment	negative	0
+	apportionment	positive	0
+	apportionment	sadness	0
+	apportionment	surprise	0
+	apportionment	trust	0
+	appraise	anger	0
+	appraise	anticipation	0
+	appraise	disgust	0
+	appraise	fear	0
+	appraise	joy	0
+	appraise	negative	0
+	appraise	positive	0
+	appraise	sadness	0
+	appraise	surprise	0
+	appraise	trust	0
+	appreciable	anger	0
+	appreciable	anticipation	0
+	appreciable	disgust	0
+	appreciable	fear	0
+	appreciable	joy	0
+	appreciable	negative	0
+	appreciable	positive	0
+	appreciable	sadness	0
+	appreciable	surprise	0
+	appreciable	trust	0
+	appreciation	anger	0
+	appreciation	anticipation	0
+	appreciation	disgust	0
+	appreciation	fear	0
+	appreciation	joy	1
+	appreciation	negative	0
+	appreciation	positive	1
+	appreciation	sadness	0
+	appreciation	surprise	0
+	appreciation	trust	1
+	apprehend	anger	0
+	apprehend	anticipation	0
+	apprehend	disgust	0
+	apprehend	fear	1
+	apprehend	joy	0
+	apprehend	negative	0
+	apprehend	positive	0
+	apprehend	sadness	0
+	apprehend	surprise	0
+	apprehend	trust	0
+	apprehension	anger	0
+	apprehension	anticipation	0
+	apprehension	disgust	0
+	apprehension	fear	1
+	apprehension	joy	0
+	apprehension	negative	1
+	apprehension	positive	0
+	apprehension	sadness	0
+	apprehension	surprise	0
+	apprehension	trust	0
+	apprehensive	anger	0
+	apprehensive	anticipation	1
+	apprehensive	disgust	0
+	apprehensive	fear	1
+	apprehensive	joy	0
+	apprehensive	negative	1
+	apprehensive	positive	0
+	apprehensive	sadness	0
+	apprehensive	surprise	0
+	apprehensive	trust	0
+	apprentice	anger	0
+	apprentice	anticipation	0
+	apprentice	disgust	0
+	apprentice	fear	0
+	apprentice	joy	0
+	apprentice	negative	0
+	apprentice	positive	0
+	apprentice	sadness	0
+	apprentice	surprise	0
+	apprentice	trust	1
+	apprenticeship	anger	0
+	apprenticeship	anticipation	0
+	apprenticeship	disgust	0
+	apprenticeship	fear	0
+	apprenticeship	joy	0
+	apprenticeship	negative	0
+	apprenticeship	positive	0
+	apprenticeship	sadness	0
+	apprenticeship	surprise	0
+	apprenticeship	trust	0
+	approach	anger	0
+	approach	anticipation	0
+	approach	disgust	0
+	approach	fear	0
+	approach	joy	0
+	approach	negative	0
+	approach	positive	0
+	approach	sadness	0
+	approach	surprise	0
+	approach	trust	0
+	approaching	anger	0
+	approaching	anticipation	1
+	approaching	disgust	0
+	approaching	fear	0
+	approaching	joy	0
+	approaching	negative	0
+	approaching	positive	0
+	approaching	sadness	0
+	approaching	surprise	0
+	approaching	trust	0
+	approbation	anger	0
+	approbation	anticipation	0
+	approbation	disgust	0
+	approbation	fear	0
+	approbation	joy	0
+	approbation	negative	0
+	approbation	positive	1
+	approbation	sadness	0
+	approbation	surprise	0
+	approbation	trust	1
+	appropriation	anger	0
+	appropriation	anticipation	0
+	appropriation	disgust	0
+	appropriation	fear	0
+	appropriation	joy	0
+	appropriation	negative	1
+	appropriation	positive	0
+	appropriation	sadness	0
+	appropriation	surprise	0
+	appropriation	trust	0
+	approval	anger	0
+	approval	anticipation	0
+	approval	disgust	0
+	approval	fear	0
+	approval	joy	0
+	approval	negative	0
+	approval	positive	1
+	approval	sadness	0
+	approval	surprise	0
+	approval	trust	0
+	approve	anger	0
+	approve	anticipation	0
+	approve	disgust	0
+	approve	fear	0
+	approve	joy	1
+	approve	negative	0
+	approve	positive	1
+	approve	sadness	0
+	approve	surprise	0
+	approve	trust	1
+	approving	anger	0
+	approving	anticipation	0
+	approving	disgust	0
+	approving	fear	0
+	approving	joy	0
+	approving	negative	0
+	approving	positive	1
+	approving	sadness	0
+	approving	surprise	0
+	approving	trust	0
+	approximate	anger	0
+	approximate	anticipation	0
+	approximate	disgust	0
+	approximate	fear	0
+	approximate	joy	0
+	approximate	negative	0
+	approximate	positive	0
+	approximate	sadness	0
+	approximate	surprise	0
+	approximate	trust	0
+	approximately	anger	0
+	approximately	anticipation	0
+	approximately	disgust	0
+	approximately	fear	0
+	approximately	joy	0
+	approximately	negative	0
+	approximately	positive	0
+	approximately	sadness	0
+	approximately	surprise	0
+	approximately	trust	0
+	approximating	anger	0
+	approximating	anticipation	0
+	approximating	disgust	0
+	approximating	fear	0
+	approximating	joy	0
+	approximating	negative	0
+	approximating	positive	0
+	approximating	sadness	0
+	approximating	surprise	0
+	approximating	trust	0
+	approximation	anger	0
+	approximation	anticipation	0
+	approximation	disgust	0
+	approximation	fear	0
+	approximation	joy	0
+	approximation	negative	0
+	approximation	positive	0
+	approximation	sadness	0
+	approximation	surprise	0
+	approximation	trust	0
+	appurtenances	anger	0
+	appurtenances	anticipation	0
+	appurtenances	disgust	0
+	appurtenances	fear	0
+	appurtenances	joy	0
+	appurtenances	negative	0
+	appurtenances	positive	0
+	appurtenances	sadness	0
+	appurtenances	surprise	0
+	appurtenances	trust	0
+	apron	anger	0
+	apron	anticipation	0
+	apron	disgust	0
+	apron	fear	0
+	apron	joy	0
+	apron	negative	0
+	apron	positive	0
+	apron	sadness	0
+	apron	surprise	0
+	apron	trust	0
+	apt	anger	0
+	apt	anticipation	0
+	apt	disgust	0
+	apt	fear	0
+	apt	joy	0
+	apt	negative	0
+	apt	positive	1
+	apt	sadness	0
+	apt	surprise	0
+	apt	trust	0
+	aptitude	anger	0
+	aptitude	anticipation	0
+	aptitude	disgust	0
+	aptitude	fear	0
+	aptitude	joy	0
+	aptitude	negative	0
+	aptitude	positive	1
+	aptitude	sadness	0
+	aptitude	surprise	0
+	aptitude	trust	0
+	aqua	anger	0
+	aqua	anticipation	0
+	aqua	disgust	0
+	aqua	fear	0
+	aqua	joy	0
+	aqua	negative	0
+	aqua	positive	0
+	aqua	sadness	0
+	aqua	surprise	0
+	aqua	trust	0
+	aquamarine	anger	0
+	aquamarine	anticipation	0
+	aquamarine	disgust	0
+	aquamarine	fear	0
+	aquamarine	joy	0
+	aquamarine	negative	0
+	aquamarine	positive	0
+	aquamarine	sadness	0
+	aquamarine	surprise	0
+	aquamarine	trust	0
+	aquarium	anger	0
+	aquarium	anticipation	0
+	aquarium	disgust	0
+	aquarium	fear	0
+	aquarium	joy	0
+	aquarium	negative	0
+	aquarium	positive	0
+	aquarium	sadness	0
+	aquarium	surprise	0
+	aquarium	trust	0
+	aquatic	anger	0
+	aquatic	anticipation	0
+	aquatic	disgust	0
+	aquatic	fear	0
+	aquatic	joy	0
+	aquatic	negative	0
+	aquatic	positive	0
+	aquatic	sadness	0
+	aquatic	surprise	0
+	aquatic	trust	0
+	aqueduct	anger	0
+	aqueduct	anticipation	0
+	aqueduct	disgust	0
+	aqueduct	fear	0
+	aqueduct	joy	0
+	aqueduct	negative	0
+	aqueduct	positive	0
+	aqueduct	sadness	0
+	aqueduct	surprise	0
+	aqueduct	trust	0
+	aqueous	anger	0
+	aqueous	anticipation	0
+	aqueous	disgust	0
+	aqueous	fear	0
+	aqueous	joy	0
+	aqueous	negative	0
+	aqueous	positive	0
+	aqueous	sadness	0
+	aqueous	surprise	0
+	aqueous	trust	0
+	arable	anger	0
+	arable	anticipation	0
+	arable	disgust	0
+	arable	fear	0
+	arable	joy	0
+	arable	negative	0
+	arable	positive	0
+	arable	sadness	0
+	arable	surprise	0
+	arable	trust	0
+	arbiter	anger	0
+	arbiter	anticipation	0
+	arbiter	disgust	0
+	arbiter	fear	0
+	arbiter	joy	0
+	arbiter	negative	0
+	arbiter	positive	0
+	arbiter	sadness	0
+	arbiter	surprise	0
+	arbiter	trust	1
+	arbitrate	anger	0
+	arbitrate	anticipation	0
+	arbitrate	disgust	0
+	arbitrate	fear	0
+	arbitrate	joy	0
+	arbitrate	negative	0
+	arbitrate	positive	0
+	arbitrate	sadness	0
+	arbitrate	surprise	0
+	arbitrate	trust	0
+	arbitration	anger	0
+	arbitration	anticipation	1
+	arbitration	disgust	0
+	arbitration	fear	0
+	arbitration	joy	0
+	arbitration	negative	0
+	arbitration	positive	0
+	arbitration	sadness	0
+	arbitration	surprise	0
+	arbitration	trust	0
+	arbitrator	anger	0
+	arbitrator	anticipation	0
+	arbitrator	disgust	0
+	arbitrator	fear	0
+	arbitrator	joy	0
+	arbitrator	negative	0
+	arbitrator	positive	0
+	arbitrator	sadness	0
+	arbitrator	surprise	0
+	arbitrator	trust	1
+	arbor	anger	0
+	arbor	anticipation	0
+	arbor	disgust	0
+	arbor	fear	0
+	arbor	joy	0
+	arbor	negative	0
+	arbor	positive	0
+	arbor	sadness	0
+	arbor	surprise	0
+	arbor	trust	0
+	arc	anger	0
+	arc	anticipation	0
+	arc	disgust	0
+	arc	fear	0
+	arc	joy	0
+	arc	negative	0
+	arc	positive	0
+	arc	sadness	0
+	arc	surprise	0
+	arc	trust	0
+	arcade	anger	0
+	arcade	anticipation	0
+	arcade	disgust	0
+	arcade	fear	0
+	arcade	joy	0
+	arcade	negative	0
+	arcade	positive	0
+	arcade	sadness	0
+	arcade	surprise	0
+	arcade	trust	0
+	arch	anger	0
+	arch	anticipation	0
+	arch	disgust	0
+	arch	fear	0
+	arch	joy	0
+	arch	negative	0
+	arch	positive	0
+	arch	sadness	0
+	arch	surprise	0
+	arch	trust	0
+	archaeological	anger	0
+	archaeological	anticipation	0
+	archaeological	disgust	0
+	archaeological	fear	0
+	archaeological	joy	0
+	archaeological	negative	0
+	archaeological	positive	0
+	archaeological	sadness	0
+	archaeological	surprise	0
+	archaeological	trust	0
+	archaeologist	anger	0
+	archaeologist	anticipation	0
+	archaeologist	disgust	0
+	archaeologist	fear	0
+	archaeologist	joy	0
+	archaeologist	negative	0
+	archaeologist	positive	0
+	archaeologist	sadness	0
+	archaeologist	surprise	0
+	archaeologist	trust	0
+	archaeology	anger	0
+	archaeology	anticipation	1
+	archaeology	disgust	0
+	archaeology	fear	0
+	archaeology	joy	0
+	archaeology	negative	0
+	archaeology	positive	1
+	archaeology	sadness	0
+	archaeology	surprise	0
+	archaeology	trust	0
+	archaic	anger	0
+	archaic	anticipation	0
+	archaic	disgust	0
+	archaic	fear	0
+	archaic	joy	0
+	archaic	negative	1
+	archaic	positive	0
+	archaic	sadness	0
+	archaic	surprise	0
+	archaic	trust	0
+	archbishop	anger	0
+	archbishop	anticipation	0
+	archbishop	disgust	0
+	archbishop	fear	0
+	archbishop	joy	0
+	archbishop	negative	0
+	archbishop	positive	0
+	archbishop	sadness	0
+	archbishop	surprise	0
+	archbishop	trust	0
+	arched	anger	0
+	arched	anticipation	0
+	arched	disgust	0
+	arched	fear	0
+	arched	joy	0
+	arched	negative	0
+	arched	positive	0
+	arched	sadness	0
+	arched	surprise	0
+	arched	trust	0
+	archer	anger	0
+	archer	anticipation	0
+	archer	disgust	0
+	archer	fear	0
+	archer	joy	0
+	archer	negative	0
+	archer	positive	0
+	archer	sadness	0
+	archer	surprise	0
+	archer	trust	0
+	archery	anger	0
+	archery	anticipation	0
+	archery	disgust	0
+	archery	fear	0
+	archery	joy	0
+	archery	negative	0
+	archery	positive	0
+	archery	sadness	0
+	archery	surprise	0
+	archery	trust	0
+	archetype	anger	0
+	archetype	anticipation	0
+	archetype	disgust	0
+	archetype	fear	0
+	archetype	joy	0
+	archetype	negative	0
+	archetype	positive	0
+	archetype	sadness	0
+	archetype	surprise	0
+	archetype	trust	0
+	archipelago	anger	0
+	archipelago	anticipation	0
+	archipelago	disgust	0
+	archipelago	fear	0
+	archipelago	joy	0
+	archipelago	negative	0
+	archipelago	positive	0
+	archipelago	sadness	0
+	archipelago	surprise	0
+	archipelago	trust	0
+	architect	anger	0
+	architect	anticipation	0
+	architect	disgust	0
+	architect	fear	0
+	architect	joy	0
+	architect	negative	0
+	architect	positive	0
+	architect	sadness	0
+	architect	surprise	0
+	architect	trust	0
+	architecture	anger	0
+	architecture	anticipation	0
+	architecture	disgust	0
+	architecture	fear	0
+	architecture	joy	0
+	architecture	negative	0
+	architecture	positive	0
+	architecture	sadness	0
+	architecture	surprise	0
+	architecture	trust	1
+	archive	anger	0
+	archive	anticipation	0
+	archive	disgust	0
+	archive	fear	0
+	archive	joy	0
+	archive	negative	0
+	archive	positive	0
+	archive	sadness	0
+	archive	surprise	0
+	archive	trust	0
+	arctic	anger	0
+	arctic	anticipation	0
+	arctic	disgust	0
+	arctic	fear	0
+	arctic	joy	0
+	arctic	negative	0
+	arctic	positive	0
+	arctic	sadness	0
+	arctic	surprise	0
+	arctic	trust	0
+	ardent	anger	0
+	ardent	anticipation	1
+	ardent	disgust	0
+	ardent	fear	0
+	ardent	joy	1
+	ardent	negative	0
+	ardent	positive	1
+	ardent	sadness	0
+	ardent	surprise	0
+	ardent	trust	0
+	ardor	anger	0
+	ardor	anticipation	0
+	ardor	disgust	0
+	ardor	fear	0
+	ardor	joy	0
+	ardor	negative	0
+	ardor	positive	1
+	ardor	sadness	0
+	ardor	surprise	0
+	ardor	trust	0
+	arduous	anger	0
+	arduous	anticipation	0
+	arduous	disgust	0
+	arduous	fear	0
+	arduous	joy	0
+	arduous	negative	1
+	arduous	positive	0
+	arduous	sadness	0
+	arduous	surprise	0
+	arduous	trust	0
+	area	anger	0
+	area	anticipation	0
+	area	disgust	0
+	area	fear	0
+	area	joy	0
+	area	negative	0
+	area	positive	0
+	area	sadness	0
+	area	surprise	0
+	area	trust	0
+	arena	anger	0
+	arena	anticipation	0
+	arena	disgust	0
+	arena	fear	0
+	arena	joy	0
+	arena	negative	0
+	arena	positive	0
+	arena	sadness	0
+	arena	surprise	0
+	arena	trust	0
+	areola	anger	0
+	areola	anticipation	0
+	areola	disgust	0
+	areola	fear	0
+	areola	joy	0
+	areola	negative	0
+	areola	positive	0
+	areola	sadness	0
+	areola	surprise	0
+	areola	trust	0
+	argent	anger	0
+	argent	anticipation	0
+	argent	disgust	0
+	argent	fear	0
+	argent	joy	0
+	argent	negative	0
+	argent	positive	0
+	argent	sadness	0
+	argent	surprise	0
+	argent	trust	0
+	argue	anger	1
+	argue	anticipation	0
+	argue	disgust	0
+	argue	fear	0
+	argue	joy	0
+	argue	negative	1
+	argue	positive	0
+	argue	sadness	0
+	argue	surprise	0
+	argue	trust	0
+	argument	anger	1
+	argument	anticipation	0
+	argument	disgust	0
+	argument	fear	0
+	argument	joy	0
+	argument	negative	1
+	argument	positive	0
+	argument	sadness	0
+	argument	surprise	0
+	argument	trust	0
+	argumentation	anger	1
+	argumentation	anticipation	0
+	argumentation	disgust	0
+	argumentation	fear	0
+	argumentation	joy	0
+	argumentation	negative	0
+	argumentation	positive	0
+	argumentation	sadness	0
+	argumentation	surprise	0
+	argumentation	trust	0
+	argumentative	anger	0
+	argumentative	anticipation	0
+	argumentative	disgust	0
+	argumentative	fear	0
+	argumentative	joy	0
+	argumentative	negative	1
+	argumentative	positive	0
+	argumentative	sadness	0
+	argumentative	surprise	0
+	argumentative	trust	0
+	arguments	anger	1
+	arguments	anticipation	0
+	arguments	disgust	0
+	arguments	fear	0
+	arguments	joy	0
+	arguments	negative	0
+	arguments	positive	0
+	arguments	sadness	0
+	arguments	surprise	0
+	arguments	trust	0
+	arid	anger	0
+	arid	anticipation	0
+	arid	disgust	0
+	arid	fear	0
+	arid	joy	0
+	arid	negative	1
+	arid	positive	0
+	arid	sadness	1
+	arid	surprise	0
+	arid	trust	0
+	aristocracy	anger	0
+	aristocracy	anticipation	0
+	aristocracy	disgust	0
+	aristocracy	fear	0
+	aristocracy	joy	0
+	aristocracy	negative	0
+	aristocracy	positive	1
+	aristocracy	sadness	0
+	aristocracy	surprise	0
+	aristocracy	trust	0
+	aristocrat	anger	0
+	aristocrat	anticipation	0
+	aristocrat	disgust	0
+	aristocrat	fear	0
+	aristocrat	joy	0
+	aristocrat	negative	0
+	aristocrat	positive	0
+	aristocrat	sadness	0
+	aristocrat	surprise	0
+	aristocrat	trust	0
+	aristocratic	anger	0
+	aristocratic	anticipation	0
+	aristocratic	disgust	0
+	aristocratic	fear	0
+	aristocratic	joy	0
+	aristocratic	negative	0
+	aristocratic	positive	1
+	aristocratic	sadness	0
+	aristocratic	surprise	0
+	aristocratic	trust	0
+	arithmetic	anger	0
+	arithmetic	anticipation	0
+	arithmetic	disgust	0
+	arithmetic	fear	0
+	arithmetic	joy	0
+	arithmetic	negative	0
+	arithmetic	positive	0
+	arithmetic	sadness	0
+	arithmetic	surprise	0
+	arithmetic	trust	0
+	ark	anger	0
+	ark	anticipation	0
+	ark	disgust	0
+	ark	fear	0
+	ark	joy	0
+	ark	negative	0
+	ark	positive	0
+	ark	sadness	0
+	ark	surprise	0
+	ark	trust	0
+	arm	anger	0
+	arm	anticipation	0
+	arm	disgust	0
+	arm	fear	0
+	arm	joy	0
+	arm	negative	0
+	arm	positive	0
+	arm	sadness	0
+	arm	surprise	0
+	arm	trust	0
+	armada	anger	0
+	armada	anticipation	0
+	armada	disgust	0
+	armada	fear	0
+	armada	joy	0
+	armada	negative	0
+	armada	positive	0
+	armada	sadness	0
+	armada	surprise	0
+	armada	trust	0
+	armament	anger	1
+	armament	anticipation	0
+	armament	disgust	0
+	armament	fear	1
+	armament	joy	0
+	armament	negative	0
+	armament	positive	0
+	armament	sadness	0
+	armament	surprise	0
+	armament	trust	0
+	armaments	anger	0
+	armaments	anticipation	0
+	armaments	disgust	0
+	armaments	fear	1
+	armaments	joy	0
+	armaments	negative	1
+	armaments	positive	0
+	armaments	sadness	0
+	armaments	surprise	0
+	armaments	trust	0
+	armature	anger	0
+	armature	anticipation	0
+	armature	disgust	0
+	armature	fear	0
+	armature	joy	0
+	armature	negative	0
+	armature	positive	0
+	armature	sadness	0
+	armature	surprise	0
+	armature	trust	0
+	armed	anger	1
+	armed	anticipation	0
+	armed	disgust	0
+	armed	fear	1
+	armed	joy	0
+	armed	negative	1
+	armed	positive	1
+	armed	sadness	0
+	armed	surprise	0
+	armed	trust	0
+	armor	anger	0
+	armor	anticipation	0
+	armor	disgust	0
+	armor	fear	1
+	armor	joy	0
+	armor	negative	0
+	armor	positive	1
+	armor	sadness	0
+	armor	surprise	0
+	armor	trust	1
+	armored	anger	0
+	armored	anticipation	0
+	armored	disgust	0
+	armored	fear	1
+	armored	joy	0
+	armored	negative	0
+	armored	positive	0
+	armored	sadness	0
+	armored	surprise	0
+	armored	trust	0
+	armory	anger	0
+	armory	anticipation	0
+	armory	disgust	0
+	armory	fear	0
+	armory	joy	0
+	armory	negative	0
+	armory	positive	0
+	armory	sadness	0
+	armory	surprise	0
+	armory	trust	1
+	arms	anger	0
+	arms	anticipation	0
+	arms	disgust	0
+	arms	fear	0
+	arms	joy	0
+	arms	negative	0
+	arms	positive	0
+	arms	sadness	0
+	arms	surprise	0
+	arms	trust	0
+	army	anger	0
+	army	anticipation	0
+	army	disgust	0
+	army	fear	0
+	army	joy	0
+	army	negative	0
+	army	positive	0
+	army	sadness	0
+	army	surprise	0
+	army	trust	0
+	aroma	anger	0
+	aroma	anticipation	0
+	aroma	disgust	0
+	aroma	fear	0
+	aroma	joy	0
+	aroma	negative	0
+	aroma	positive	1
+	aroma	sadness	0
+	aroma	surprise	0
+	aroma	trust	0
+	arousal	anger	0
+	arousal	anticipation	0
+	arousal	disgust	0
+	arousal	fear	0
+	arousal	joy	0
+	arousal	negative	0
+	arousal	positive	0
+	arousal	sadness	0
+	arousal	surprise	0
+	arousal	trust	0
+	arouse	anger	0
+	arouse	anticipation	1
+	arouse	disgust	0
+	arouse	fear	0
+	arouse	joy	0
+	arouse	negative	0
+	arouse	positive	1
+	arouse	sadness	0
+	arouse	surprise	0
+	arouse	trust	0
+	arraignment	anger	1
+	arraignment	anticipation	0
+	arraignment	disgust	0
+	arraignment	fear	1
+	arraignment	joy	0
+	arraignment	negative	1
+	arraignment	positive	0
+	arraignment	sadness	1
+	arraignment	surprise	0
+	arraignment	trust	0
+	arrange	anger	0
+	arrange	anticipation	0
+	arrange	disgust	0
+	arrange	fear	0
+	arrange	joy	0
+	arrange	negative	0
+	arrange	positive	0
+	arrange	sadness	0
+	arrange	surprise	0
+	arrange	trust	0
+	arranged	anger	0
+	arranged	anticipation	0
+	arranged	disgust	0
+	arranged	fear	0
+	arranged	joy	0
+	arranged	negative	0
+	arranged	positive	0
+	arranged	sadness	0
+	arranged	surprise	0
+	arranged	trust	0
+	arrangement	anger	0
+	arrangement	anticipation	0
+	arrangement	disgust	0
+	arrangement	fear	0
+	arrangement	joy	0
+	arrangement	negative	0
+	arrangement	positive	0
+	arrangement	sadness	0
+	arrangement	surprise	0
+	arrangement	trust	0
+	array	anger	0
+	array	anticipation	0
+	array	disgust	0
+	array	fear	0
+	array	joy	0
+	array	negative	0
+	array	positive	1
+	array	sadness	0
+	array	surprise	0
+	array	trust	0
+	arrears	anger	0
+	arrears	anticipation	0
+	arrears	disgust	0
+	arrears	fear	0
+	arrears	joy	0
+	arrears	negative	1
+	arrears	positive	0
+	arrears	sadness	0
+	arrears	surprise	0
+	arrears	trust	0
+	arrest	anger	0
+	arrest	anticipation	0
+	arrest	disgust	0
+	arrest	fear	0
+	arrest	joy	0
+	arrest	negative	1
+	arrest	positive	0
+	arrest	sadness	0
+	arrest	surprise	0
+	arrest	trust	0
+	arrival	anger	0
+	arrival	anticipation	1
+	arrival	disgust	0
+	arrival	fear	0
+	arrival	joy	0
+	arrival	negative	0
+	arrival	positive	0
+	arrival	sadness	0
+	arrival	surprise	0
+	arrival	trust	0
+	arrive	anger	0
+	arrive	anticipation	1
+	arrive	disgust	0
+	arrive	fear	0
+	arrive	joy	0
+	arrive	negative	0
+	arrive	positive	0
+	arrive	sadness	0
+	arrive	surprise	0
+	arrive	trust	0
+	arrogance	anger	0
+	arrogance	anticipation	0
+	arrogance	disgust	0
+	arrogance	fear	0
+	arrogance	joy	0
+	arrogance	negative	1
+	arrogance	positive	0
+	arrogance	sadness	0
+	arrogance	surprise	0
+	arrogance	trust	0
+	arrogant	anger	1
+	arrogant	anticipation	0
+	arrogant	disgust	1
+	arrogant	fear	0
+	arrogant	joy	0
+	arrogant	negative	1
+	arrogant	positive	0
+	arrogant	sadness	0
+	arrogant	surprise	0
+	arrogant	trust	0
+	arrow	anger	0
+	arrow	anticipation	0
+	arrow	disgust	0
+	arrow	fear	0
+	arrow	joy	0
+	arrow	negative	0
+	arrow	positive	0
+	arrow	sadness	0
+	arrow	surprise	0
+	arrow	trust	0
+	arsenal	anger	0
+	arsenal	anticipation	0
+	arsenal	disgust	0
+	arsenal	fear	0
+	arsenal	joy	0
+	arsenal	negative	0
+	arsenal	positive	0
+	arsenal	sadness	0
+	arsenal	surprise	0
+	arsenal	trust	0
+	arsenic	anger	0
+	arsenic	anticipation	0
+	arsenic	disgust	1
+	arsenic	fear	1
+	arsenic	joy	0
+	arsenic	negative	1
+	arsenic	positive	0
+	arsenic	sadness	1
+	arsenic	surprise	0
+	arsenic	trust	0
+	arson	anger	1
+	arson	anticipation	0
+	arson	disgust	0
+	arson	fear	1
+	arson	joy	0
+	arson	negative	1
+	arson	positive	0
+	arson	sadness	0
+	arson	surprise	0
+	arson	trust	0
+	art	anger	0
+	art	anticipation	1
+	art	disgust	0
+	art	fear	0
+	art	joy	1
+	art	negative	0
+	art	positive	1
+	art	sadness	1
+	art	surprise	1
+	art	trust	0
+	artery	anger	0
+	artery	anticipation	0
+	artery	disgust	0
+	artery	fear	0
+	artery	joy	0
+	artery	negative	0
+	artery	positive	0
+	artery	sadness	0
+	artery	surprise	0
+	artery	trust	0
+	artful	anger	0
+	artful	anticipation	0
+	artful	disgust	0
+	artful	fear	0
+	artful	joy	0
+	artful	negative	0
+	artful	positive	0
+	artful	sadness	0
+	artful	surprise	0
+	artful	trust	0
+	arthropod	anger	0
+	arthropod	anticipation	0
+	arthropod	disgust	0
+	arthropod	fear	0
+	arthropod	joy	0
+	arthropod	negative	0
+	arthropod	positive	0
+	arthropod	sadness	0
+	arthropod	surprise	0
+	arthropod	trust	0
+	artichoke	anger	0
+	artichoke	anticipation	0
+	artichoke	disgust	0
+	artichoke	fear	0
+	artichoke	joy	0
+	artichoke	negative	0
+	artichoke	positive	0
+	artichoke	sadness	0
+	artichoke	surprise	0
+	artichoke	trust	0
+	article	anger	0
+	article	anticipation	0
+	article	disgust	0
+	article	fear	0
+	article	joy	0
+	article	negative	0
+	article	positive	0
+	article	sadness	0
+	article	surprise	0
+	article	trust	0
+	articles	anger	0
+	articles	anticipation	0
+	articles	disgust	0
+	articles	fear	0
+	articles	joy	0
+	articles	negative	0
+	articles	positive	0
+	articles	sadness	0
+	articles	surprise	0
+	articles	trust	0
+	articulate	anger	0
+	articulate	anticipation	0
+	articulate	disgust	0
+	articulate	fear	0
+	articulate	joy	0
+	articulate	negative	0
+	articulate	positive	1
+	articulate	sadness	0
+	articulate	surprise	0
+	articulate	trust	0
+	articulation	anger	0
+	articulation	anticipation	0
+	articulation	disgust	0
+	articulation	fear	0
+	articulation	joy	0
+	articulation	negative	0
+	articulation	positive	1
+	articulation	sadness	0
+	articulation	surprise	0
+	articulation	trust	0
+	artifice	anger	0
+	artifice	anticipation	0
+	artifice	disgust	0
+	artifice	fear	0
+	artifice	joy	0
+	artifice	negative	0
+	artifice	positive	0
+	artifice	sadness	0
+	artifice	surprise	0
+	artifice	trust	0
+	artillery	anger	0
+	artillery	anticipation	0
+	artillery	disgust	0
+	artillery	fear	1
+	artillery	joy	0
+	artillery	negative	1
+	artillery	positive	0
+	artillery	sadness	0
+	artillery	surprise	0
+	artillery	trust	0
+	artisan	anger	0
+	artisan	anticipation	0
+	artisan	disgust	0
+	artisan	fear	0
+	artisan	joy	0
+	artisan	negative	0
+	artisan	positive	1
+	artisan	sadness	0
+	artisan	surprise	0
+	artisan	trust	0
+	artist	anger	0
+	artist	anticipation	0
+	artist	disgust	0
+	artist	fear	0
+	artist	joy	0
+	artist	negative	0
+	artist	positive	0
+	artist	sadness	0
+	artist	surprise	0
+	artist	trust	0
+	artiste	anger	0
+	artiste	anticipation	0
+	artiste	disgust	0
+	artiste	fear	0
+	artiste	joy	0
+	artiste	negative	0
+	artiste	positive	1
+	artiste	sadness	0
+	artiste	surprise	0
+	artiste	trust	0
+	artistic	anger	0
+	artistic	anticipation	0
+	artistic	disgust	0
+	artistic	fear	0
+	artistic	joy	0
+	artistic	negative	0
+	artistic	positive	1
+	artistic	sadness	0
+	artistic	surprise	0
+	artistic	trust	0
+	artists	anger	0
+	artists	anticipation	0
+	artists	disgust	0
+	artists	fear	0
+	artists	joy	0
+	artists	negative	0
+	artists	positive	0
+	artists	sadness	0
+	artists	surprise	0
+	artists	trust	0
+	ascend	anger	0
+	ascend	anticipation	0
+	ascend	disgust	0
+	ascend	fear	0
+	ascend	joy	0
+	ascend	negative	0
+	ascend	positive	0
+	ascend	sadness	0
+	ascend	surprise	0
+	ascend	trust	0
+	ascendancy	anger	0
+	ascendancy	anticipation	0
+	ascendancy	disgust	0
+	ascendancy	fear	0
+	ascendancy	joy	0
+	ascendancy	negative	0
+	ascendancy	positive	1
+	ascendancy	sadness	0
+	ascendancy	surprise	0
+	ascendancy	trust	0
+	ascension	anger	0
+	ascension	anticipation	0
+	ascension	disgust	0
+	ascension	fear	0
+	ascension	joy	0
+	ascension	negative	0
+	ascension	positive	0
+	ascension	sadness	0
+	ascension	surprise	0
+	ascension	trust	0
+	ascent	anger	0
+	ascent	anticipation	0
+	ascent	disgust	0
+	ascent	fear	0
+	ascent	joy	0
+	ascent	negative	0
+	ascent	positive	1
+	ascent	sadness	0
+	ascent	surprise	0
+	ascent	trust	0
+	ascertain	anger	0
+	ascertain	anticipation	0
+	ascertain	disgust	0
+	ascertain	fear	0
+	ascertain	joy	0
+	ascertain	negative	0
+	ascertain	positive	0
+	ascertain	sadness	0
+	ascertain	surprise	0
+	ascertain	trust	0
+	ascertained	anger	0
+	ascertained	anticipation	0
+	ascertained	disgust	0
+	ascertained	fear	0
+	ascertained	joy	0
+	ascertained	negative	0
+	ascertained	positive	0
+	ascertained	sadness	0
+	ascertained	surprise	0
+	ascertained	trust	0
+	ascetic	anger	0
+	ascetic	anticipation	0
+	ascetic	disgust	0
+	ascetic	fear	0
+	ascetic	joy	0
+	ascetic	negative	0
+	ascetic	positive	0
+	ascetic	sadness	0
+	ascetic	surprise	0
+	ascetic	trust	0
+	ash	anger	0
+	ash	anticipation	0
+	ash	disgust	0
+	ash	fear	0
+	ash	joy	0
+	ash	negative	1
+	ash	positive	0
+	ash	sadness	0
+	ash	surprise	0
+	ash	trust	0
+	ashamed	anger	0
+	ashamed	anticipation	0
+	ashamed	disgust	1
+	ashamed	fear	0
+	ashamed	joy	0
+	ashamed	negative	1
+	ashamed	positive	0
+	ashamed	sadness	1
+	ashamed	surprise	0
+	ashamed	trust	0
+	ashes	anger	0
+	ashes	anticipation	0
+	ashes	disgust	0
+	ashes	fear	0
+	ashes	joy	0
+	ashes	negative	1
+	ashes	positive	0
+	ashes	sadness	1
+	ashes	surprise	0
+	ashes	trust	0
+	asleep	anger	0
+	asleep	anticipation	0
+	asleep	disgust	0
+	asleep	fear	0
+	asleep	joy	0
+	asleep	negative	0
+	asleep	positive	0
+	asleep	sadness	0
+	asleep	surprise	0
+	asleep	trust	0
+	asp	anger	0
+	asp	anticipation	0
+	asp	disgust	0
+	asp	fear	1
+	asp	joy	0
+	asp	negative	0
+	asp	positive	0
+	asp	sadness	0
+	asp	surprise	0
+	asp	trust	0
+	aspartame	anger	0
+	aspartame	anticipation	0
+	aspartame	disgust	0
+	aspartame	fear	0
+	aspartame	joy	0
+	aspartame	negative	0
+	aspartame	positive	0
+	aspartame	sadness	0
+	aspartame	surprise	0
+	aspartame	trust	0
+	aspect	anger	0
+	aspect	anticipation	0
+	aspect	disgust	0
+	aspect	fear	0
+	aspect	joy	0
+	aspect	negative	0
+	aspect	positive	0
+	aspect	sadness	0
+	aspect	surprise	0
+	aspect	trust	0
+	aspects	anger	0
+	aspects	anticipation	0
+	aspects	disgust	0
+	aspects	fear	0
+	aspects	joy	0
+	aspects	negative	0
+	aspects	positive	0
+	aspects	sadness	0
+	aspects	surprise	0
+	aspects	trust	0
+	asphalt	anger	0
+	asphalt	anticipation	0
+	asphalt	disgust	0
+	asphalt	fear	0
+	asphalt	joy	0
+	asphalt	negative	0
+	asphalt	positive	0
+	asphalt	sadness	0
+	asphalt	surprise	0
+	asphalt	trust	0
+	aspiration	anger	0
+	aspiration	anticipation	1
+	aspiration	disgust	0
+	aspiration	fear	0
+	aspiration	joy	1
+	aspiration	negative	0
+	aspiration	positive	1
+	aspiration	sadness	0
+	aspiration	surprise	1
+	aspiration	trust	1
+	aspire	anger	0
+	aspire	anticipation	1
+	aspire	disgust	0
+	aspire	fear	0
+	aspire	joy	1
+	aspire	negative	0
+	aspire	positive	1
+	aspire	sadness	0
+	aspire	surprise	0
+	aspire	trust	0
+	aspiring	anger	0
+	aspiring	anticipation	1
+	aspiring	disgust	0
+	aspiring	fear	0
+	aspiring	joy	1
+	aspiring	negative	0
+	aspiring	positive	1
+	aspiring	sadness	0
+	aspiring	surprise	0
+	aspiring	trust	1
+	ass	anger	0
+	ass	anticipation	0
+	ass	disgust	0
+	ass	fear	0
+	ass	joy	0
+	ass	negative	1
+	ass	positive	0
+	ass	sadness	0
+	ass	surprise	0
+	ass	trust	0
+	assail	anger	1
+	assail	anticipation	0
+	assail	disgust	0
+	assail	fear	1
+	assail	joy	0
+	assail	negative	1
+	assail	positive	0
+	assail	sadness	0
+	assail	surprise	1
+	assail	trust	0
+	assailant	anger	1
+	assailant	anticipation	0
+	assailant	disgust	0
+	assailant	fear	1
+	assailant	joy	0
+	assailant	negative	1
+	assailant	positive	0
+	assailant	sadness	1
+	assailant	surprise	0
+	assailant	trust	0
+	assassin	anger	1
+	assassin	anticipation	0
+	assassin	disgust	0
+	assassin	fear	1
+	assassin	joy	0
+	assassin	negative	1
+	assassin	positive	0
+	assassin	sadness	1
+	assassin	surprise	0
+	assassin	trust	0
+	assassinate	anger	1
+	assassinate	anticipation	0
+	assassinate	disgust	0
+	assassinate	fear	1
+	assassinate	joy	0
+	assassinate	negative	1
+	assassinate	positive	0
+	assassinate	sadness	0
+	assassinate	surprise	0
+	assassinate	trust	0
+	assassination	anger	1
+	assassination	anticipation	0
+	assassination	disgust	0
+	assassination	fear	1
+	assassination	joy	0
+	assassination	negative	1
+	assassination	positive	0
+	assassination	sadness	1
+	assassination	surprise	0
+	assassination	trust	0
+	assault	anger	1
+	assault	anticipation	0
+	assault	disgust	0
+	assault	fear	1
+	assault	joy	0
+	assault	negative	1
+	assault	positive	0
+	assault	sadness	0
+	assault	surprise	0
+	assault	trust	0
+	assay	anger	0
+	assay	anticipation	0
+	assay	disgust	0
+	assay	fear	0
+	assay	joy	0
+	assay	negative	0
+	assay	positive	0
+	assay	sadness	0
+	assay	surprise	0
+	assay	trust	0
+	assemblage	anger	0
+	assemblage	anticipation	0
+	assemblage	disgust	0
+	assemblage	fear	0
+	assemblage	joy	0
+	assemblage	negative	0
+	assemblage	positive	0
+	assemblage	sadness	0
+	assemblage	surprise	0
+	assemblage	trust	0
+	assemble	anger	0
+	assemble	anticipation	0
+	assemble	disgust	0
+	assemble	fear	0
+	assemble	joy	0
+	assemble	negative	0
+	assemble	positive	0
+	assemble	sadness	0
+	assemble	surprise	0
+	assemble	trust	0
+	assembled	anger	0
+	assembled	anticipation	0
+	assembled	disgust	0
+	assembled	fear	0
+	assembled	joy	0
+	assembled	negative	0
+	assembled	positive	0
+	assembled	sadness	0
+	assembled	surprise	0
+	assembled	trust	0
+	assembly	anger	0
+	assembly	anticipation	0
+	assembly	disgust	0
+	assembly	fear	0
+	assembly	joy	0
+	assembly	negative	0
+	assembly	positive	1
+	assembly	sadness	0
+	assembly	surprise	0
+	assembly	trust	1
+	assent	anger	0
+	assent	anticipation	0
+	assent	disgust	0
+	assent	fear	0
+	assent	joy	0
+	assent	negative	0
+	assent	positive	1
+	assent	sadness	0
+	assent	surprise	0
+	assent	trust	0
+	assert	anger	0
+	assert	anticipation	0
+	assert	disgust	0
+	assert	fear	0
+	assert	joy	0
+	assert	negative	0
+	assert	positive	0
+	assert	sadness	0
+	assert	surprise	0
+	assert	trust	0
+	asserting	anger	0
+	asserting	anticipation	0
+	asserting	disgust	0
+	asserting	fear	0
+	asserting	joy	0
+	asserting	negative	0
+	asserting	positive	1
+	asserting	sadness	0
+	asserting	surprise	0
+	asserting	trust	1
+	assertion	anger	0
+	assertion	anticipation	0
+	assertion	disgust	0
+	assertion	fear	0
+	assertion	joy	0
+	assertion	negative	0
+	assertion	positive	0
+	assertion	sadness	0
+	assertion	surprise	0
+	assertion	trust	0
+	assess	anger	0
+	assess	anticipation	0
+	assess	disgust	0
+	assess	fear	0
+	assess	joy	0
+	assess	negative	0
+	assess	positive	0
+	assess	sadness	0
+	assess	surprise	0
+	assess	trust	0
+	assessment	anger	0
+	assessment	anticipation	0
+	assessment	disgust	0
+	assessment	fear	0
+	assessment	joy	0
+	assessment	negative	0
+	assessment	positive	0
+	assessment	sadness	0
+	assessment	surprise	1
+	assessment	trust	1
+	assessor	anger	0
+	assessor	anticipation	0
+	assessor	disgust	0
+	assessor	fear	0
+	assessor	joy	0
+	assessor	negative	0
+	assessor	positive	0
+	assessor	sadness	0
+	assessor	surprise	0
+	assessor	trust	1
+	assets	anger	0
+	assets	anticipation	0
+	assets	disgust	0
+	assets	fear	0
+	assets	joy	0
+	assets	negative	0
+	assets	positive	1
+	assets	sadness	0
+	assets	surprise	0
+	assets	trust	0
+	asshole	anger	1
+	asshole	anticipation	0
+	asshole	disgust	1
+	asshole	fear	0
+	asshole	joy	0
+	asshole	negative	1
+	asshole	positive	0
+	asshole	sadness	0
+	asshole	surprise	0
+	asshole	trust	0
+	assign	anger	0
+	assign	anticipation	0
+	assign	disgust	0
+	assign	fear	0
+	assign	joy	0
+	assign	negative	0
+	assign	positive	0
+	assign	sadness	0
+	assign	surprise	0
+	assign	trust	0
+	assignee	anger	0
+	assignee	anticipation	0
+	assignee	disgust	0
+	assignee	fear	0
+	assignee	joy	0
+	assignee	negative	0
+	assignee	positive	0
+	assignee	sadness	0
+	assignee	surprise	0
+	assignee	trust	1
+	assignment	anger	0
+	assignment	anticipation	0
+	assignment	disgust	0
+	assignment	fear	0
+	assignment	joy	0
+	assignment	negative	0
+	assignment	positive	0
+	assignment	sadness	0
+	assignment	surprise	0
+	assignment	trust	0
+	assimilate	anger	0
+	assimilate	anticipation	0
+	assimilate	disgust	0
+	assimilate	fear	0
+	assimilate	joy	0
+	assimilate	negative	0
+	assimilate	positive	0
+	assimilate	sadness	0
+	assimilate	surprise	0
+	assimilate	trust	0
+	assimilation	anger	0
+	assimilation	anticipation	0
+	assimilation	disgust	0
+	assimilation	fear	0
+	assimilation	joy	0
+	assimilation	negative	0
+	assimilation	positive	0
+	assimilation	sadness	0
+	assimilation	surprise	0
+	assimilation	trust	0
+	assist	anger	0
+	assist	anticipation	0
+	assist	disgust	0
+	assist	fear	0
+	assist	joy	0
+	assist	negative	0
+	assist	positive	1
+	assist	sadness	0
+	assist	surprise	0
+	assist	trust	1
+	assistance	anger	0
+	assistance	anticipation	0
+	assistance	disgust	0
+	assistance	fear	0
+	assistance	joy	0
+	assistance	negative	0
+	assistance	positive	1
+	assistance	sadness	0
+	assistance	surprise	0
+	assistance	trust	0
+	assistant	anger	0
+	assistant	anticipation	0
+	assistant	disgust	0
+	assistant	fear	0
+	assistant	joy	0
+	assistant	negative	0
+	assistant	positive	0
+	assistant	sadness	0
+	assistant	surprise	0
+	assistant	trust	0
+	associate	anger	0
+	associate	anticipation	0
+	associate	disgust	0
+	associate	fear	0
+	associate	joy	0
+	associate	negative	0
+	associate	positive	1
+	associate	sadness	0
+	associate	surprise	0
+	associate	trust	1
+	association	anger	0
+	association	anticipation	0
+	association	disgust	0
+	association	fear	0
+	association	joy	0
+	association	negative	0
+	association	positive	0
+	association	sadness	0
+	association	surprise	0
+	association	trust	1
+	assorted	anger	0
+	assorted	anticipation	0
+	assorted	disgust	0
+	assorted	fear	0
+	assorted	joy	0
+	assorted	negative	0
+	assorted	positive	0
+	assorted	sadness	0
+	assorted	surprise	0
+	assorted	trust	0
+	assortment	anger	0
+	assortment	anticipation	0
+	assortment	disgust	0
+	assortment	fear	0
+	assortment	joy	0
+	assortment	negative	0
+	assortment	positive	0
+	assortment	sadness	0
+	assortment	surprise	0
+	assortment	trust	0
+	assuage	anger	0
+	assuage	anticipation	0
+	assuage	disgust	0
+	assuage	fear	0
+	assuage	joy	0
+	assuage	negative	0
+	assuage	positive	1
+	assuage	sadness	0
+	assuage	surprise	0
+	assuage	trust	0
+	assumed	anger	0
+	assumed	anticipation	0
+	assumed	disgust	0
+	assumed	fear	0
+	assumed	joy	0
+	assumed	negative	0
+	assumed	positive	0
+	assumed	sadness	0
+	assumed	surprise	0
+	assumed	trust	0
+	assuming	anger	0
+	assuming	anticipation	0
+	assuming	disgust	0
+	assuming	fear	0
+	assuming	joy	0
+	assuming	negative	0
+	assuming	positive	0
+	assuming	sadness	0
+	assuming	surprise	0
+	assuming	trust	0
+	assumption	anger	0
+	assumption	anticipation	0
+	assumption	disgust	0
+	assumption	fear	0
+	assumption	joy	0
+	assumption	negative	0
+	assumption	positive	0
+	assumption	sadness	0
+	assumption	surprise	0
+	assumption	trust	0
+	assurance	anger	0
+	assurance	anticipation	0
+	assurance	disgust	0
+	assurance	fear	0
+	assurance	joy	0
+	assurance	negative	0
+	assurance	positive	1
+	assurance	sadness	0
+	assurance	surprise	0
+	assurance	trust	1
+	assure	anger	0
+	assure	anticipation	0
+	assure	disgust	0
+	assure	fear	0
+	assure	joy	0
+	assure	negative	0
+	assure	positive	0
+	assure	sadness	0
+	assure	surprise	0
+	assure	trust	1
+	assured	anger	0
+	assured	anticipation	0
+	assured	disgust	0
+	assured	fear	0
+	assured	joy	0
+	assured	negative	0
+	assured	positive	1
+	assured	sadness	0
+	assured	surprise	0
+	assured	trust	1
+	assuredly	anger	0
+	assuredly	anticipation	0
+	assuredly	disgust	0
+	assuredly	fear	0
+	assuredly	joy	0
+	assuredly	negative	0
+	assuredly	positive	0
+	assuredly	sadness	0
+	assuredly	surprise	0
+	assuredly	trust	1
+	asterisk	anger	0
+	asterisk	anticipation	0
+	asterisk	disgust	0
+	asterisk	fear	0
+	asterisk	joy	0
+	asterisk	negative	0
+	asterisk	positive	0
+	asterisk	sadness	0
+	asterisk	surprise	0
+	asterisk	trust	0
+	asteroids	anger	0
+	asteroids	anticipation	0
+	asteroids	disgust	0
+	asteroids	fear	0
+	asteroids	joy	0
+	asteroids	negative	0
+	asteroids	positive	0
+	asteroids	sadness	0
+	asteroids	surprise	0
+	asteroids	trust	0
+	astigmatism	anger	0
+	astigmatism	anticipation	0
+	astigmatism	disgust	0
+	astigmatism	fear	0
+	astigmatism	joy	0
+	astigmatism	negative	0
+	astigmatism	positive	0
+	astigmatism	sadness	0
+	astigmatism	surprise	0
+	astigmatism	trust	0
+	astonishingly	anger	0
+	astonishingly	anticipation	0
+	astonishingly	disgust	0
+	astonishingly	fear	0
+	astonishingly	joy	0
+	astonishingly	negative	0
+	astonishingly	positive	1
+	astonishingly	sadness	0
+	astonishingly	surprise	1
+	astonishingly	trust	0
+	astonishment	anger	0
+	astonishment	anticipation	0
+	astonishment	disgust	0
+	astonishment	fear	0
+	astonishment	joy	1
+	astonishment	negative	0
+	astonishment	positive	1
+	astonishment	sadness	0
+	astonishment	surprise	1
+	astonishment	trust	0
+	astral	anger	0
+	astral	anticipation	0
+	astral	disgust	0
+	astral	fear	0
+	astral	joy	0
+	astral	negative	0
+	astral	positive	0
+	astral	sadness	0
+	astral	surprise	0
+	astral	trust	0
+	astray	anger	0
+	astray	anticipation	0
+	astray	disgust	0
+	astray	fear	1
+	astray	joy	0
+	astray	negative	1
+	astray	positive	0
+	astray	sadness	0
+	astray	surprise	0
+	astray	trust	0
+	astringent	anger	0
+	astringent	anticipation	0
+	astringent	disgust	0
+	astringent	fear	0
+	astringent	joy	0
+	astringent	negative	1
+	astringent	positive	0
+	astringent	sadness	0
+	astringent	surprise	0
+	astringent	trust	0
+	astrologer	anger	0
+	astrologer	anticipation	1
+	astrologer	disgust	0
+	astrologer	fear	0
+	astrologer	joy	0
+	astrologer	negative	0
+	astrologer	positive	1
+	astrologer	sadness	0
+	astrologer	surprise	0
+	astrologer	trust	0
+	astrology	anger	0
+	astrology	anticipation	0
+	astrology	disgust	0
+	astrology	fear	0
+	astrology	joy	0
+	astrology	negative	0
+	astrology	positive	0
+	astrology	sadness	0
+	astrology	surprise	0
+	astrology	trust	0
+	astronaut	anger	0
+	astronaut	anticipation	0
+	astronaut	disgust	0
+	astronaut	fear	0
+	astronaut	joy	0
+	astronaut	negative	0
+	astronaut	positive	1
+	astronaut	sadness	0
+	astronaut	surprise	0
+	astronaut	trust	0
+	astronomer	anger	0
+	astronomer	anticipation	1
+	astronomer	disgust	0
+	astronomer	fear	0
+	astronomer	joy	0
+	astronomer	negative	0
+	astronomer	positive	1
+	astronomer	sadness	0
+	astronomer	surprise	0
+	astronomer	trust	0
+	astronomy	anger	0
+	astronomy	anticipation	0
+	astronomy	disgust	0
+	astronomy	fear	0
+	astronomy	joy	0
+	astronomy	negative	0
+	astronomy	positive	0
+	astronomy	sadness	0
+	astronomy	surprise	0
+	astronomy	trust	0
+	astute	anger	0
+	astute	anticipation	0
+	astute	disgust	0
+	astute	fear	0
+	astute	joy	0
+	astute	negative	0
+	astute	positive	1
+	astute	sadness	0
+	astute	surprise	0
+	astute	trust	0
+	asunder	anger	0
+	asunder	anticipation	0
+	asunder	disgust	0
+	asunder	fear	0
+	asunder	joy	0
+	asunder	negative	0
+	asunder	positive	0
+	asunder	sadness	0
+	asunder	surprise	0
+	asunder	trust	0
+	asylum	anger	0
+	asylum	anticipation	0
+	asylum	disgust	0
+	asylum	fear	1
+	asylum	joy	0
+	asylum	negative	1
+	asylum	positive	0
+	asylum	sadness	0
+	asylum	surprise	0
+	asylum	trust	0
+	asymmetric	anger	0
+	asymmetric	anticipation	0
+	asymmetric	disgust	0
+	asymmetric	fear	0
+	asymmetric	joy	0
+	asymmetric	negative	0
+	asymmetric	positive	0
+	asymmetric	sadness	0
+	asymmetric	surprise	0
+	asymmetric	trust	0
+	asymmetry	anger	0
+	asymmetry	anticipation	0
+	asymmetry	disgust	1
+	asymmetry	fear	0
+	asymmetry	joy	0
+	asymmetry	negative	0
+	asymmetry	positive	0
+	asymmetry	sadness	0
+	asymmetry	surprise	0
+	asymmetry	trust	0
+	asymptotic	anger	0
+	asymptotic	anticipation	0
+	asymptotic	disgust	0
+	asymptotic	fear	0
+	asymptotic	joy	0
+	asymptotic	negative	0
+	asymptotic	positive	0
+	asymptotic	sadness	0
+	asymptotic	surprise	0
+	asymptotic	trust	0
+	atelier	anger	0
+	atelier	anticipation	0
+	atelier	disgust	0
+	atelier	fear	0
+	atelier	joy	0
+	atelier	negative	0
+	atelier	positive	0
+	atelier	sadness	0
+	atelier	surprise	0
+	atelier	trust	0
+	atheism	anger	0
+	atheism	anticipation	0
+	atheism	disgust	0
+	atheism	fear	0
+	atheism	joy	0
+	atheism	negative	1
+	atheism	positive	0
+	atheism	sadness	0
+	atheism	surprise	0
+	atheism	trust	0
+	atheist	anger	0
+	atheist	anticipation	0
+	atheist	disgust	0
+	atheist	fear	0
+	atheist	joy	0
+	atheist	negative	0
+	atheist	positive	0
+	atheist	sadness	0
+	atheist	surprise	0
+	atheist	trust	0
+	atheistic	anger	0
+	atheistic	anticipation	0
+	atheistic	disgust	0
+	atheistic	fear	0
+	atheistic	joy	0
+	atheistic	negative	0
+	atheistic	positive	0
+	atheistic	sadness	0
+	atheistic	surprise	0
+	atheistic	trust	0
+	atherosclerosis	anger	0
+	atherosclerosis	anticipation	0
+	atherosclerosis	disgust	0
+	atherosclerosis	fear	1
+	atherosclerosis	joy	0
+	atherosclerosis	negative	1
+	atherosclerosis	positive	0
+	atherosclerosis	sadness	1
+	atherosclerosis	surprise	0
+	atherosclerosis	trust	0
+	athlete	anger	0
+	athlete	anticipation	0
+	athlete	disgust	0
+	athlete	fear	0
+	athlete	joy	0
+	athlete	negative	0
+	athlete	positive	1
+	athlete	sadness	0
+	athlete	surprise	0
+	athlete	trust	0
+	athletic	anger	0
+	athletic	anticipation	0
+	athletic	disgust	0
+	athletic	fear	0
+	athletic	joy	0
+	athletic	negative	0
+	athletic	positive	1
+	athletic	sadness	0
+	athletic	surprise	0
+	athletic	trust	0
+	athleticism	anger	0
+	athleticism	anticipation	0
+	athleticism	disgust	0
+	athleticism	fear	0
+	athleticism	joy	0
+	athleticism	negative	0
+	athleticism	positive	0
+	athleticism	sadness	0
+	athleticism	surprise	0
+	athleticism	trust	0
+	athletics	anger	0
+	athletics	anticipation	0
+	athletics	disgust	0
+	athletics	fear	0
+	athletics	joy	0
+	athletics	negative	0
+	athletics	positive	0
+	athletics	sadness	0
+	athletics	surprise	0
+	athletics	trust	0
+	atlas	anger	0
+	atlas	anticipation	0
+	atlas	disgust	0
+	atlas	fear	0
+	atlas	joy	0
+	atlas	negative	0
+	atlas	positive	0
+	atlas	sadness	0
+	atlas	surprise	0
+	atlas	trust	0
+	atmosphere	anger	0
+	atmosphere	anticipation	0
+	atmosphere	disgust	0
+	atmosphere	fear	0
+	atmosphere	joy	0
+	atmosphere	negative	0
+	atmosphere	positive	0
+	atmosphere	sadness	0
+	atmosphere	surprise	0
+	atmosphere	trust	0
+	atmospheric	anger	0
+	atmospheric	anticipation	0
+	atmospheric	disgust	0
+	atmospheric	fear	0
+	atmospheric	joy	0
+	atmospheric	negative	0
+	atmospheric	positive	0
+	atmospheric	sadness	0
+	atmospheric	surprise	0
+	atmospheric	trust	0
+	atoll	anger	0
+	atoll	anticipation	0
+	atoll	disgust	0
+	atoll	fear	0
+	atoll	joy	0
+	atoll	negative	0
+	atoll	positive	0
+	atoll	sadness	0
+	atoll	surprise	0
+	atoll	trust	0
+	atom	anger	0
+	atom	anticipation	0
+	atom	disgust	0
+	atom	fear	0
+	atom	joy	0
+	atom	negative	0
+	atom	positive	1
+	atom	sadness	0
+	atom	surprise	0
+	atom	trust	0
+	atomic	anger	0
+	atomic	anticipation	0
+	atomic	disgust	0
+	atomic	fear	0
+	atomic	joy	0
+	atomic	negative	0
+	atomic	positive	0
+	atomic	sadness	0
+	atomic	surprise	0
+	atomic	trust	0
+	atone	anger	0
+	atone	anticipation	1
+	atone	disgust	0
+	atone	fear	0
+	atone	joy	1
+	atone	negative	0
+	atone	positive	1
+	atone	sadness	0
+	atone	surprise	0
+	atone	trust	1
+	atonement	anger	0
+	atonement	anticipation	0
+	atonement	disgust	0
+	atonement	fear	0
+	atonement	joy	0
+	atonement	negative	0
+	atonement	positive	1
+	atonement	sadness	0
+	atonement	surprise	0
+	atonement	trust	0
+	atrium	anger	0
+	atrium	anticipation	0
+	atrium	disgust	0
+	atrium	fear	0
+	atrium	joy	0
+	atrium	negative	0
+	atrium	positive	0
+	atrium	sadness	0
+	atrium	surprise	0
+	atrium	trust	0
+	atrocious	anger	1
+	atrocious	anticipation	0
+	atrocious	disgust	1
+	atrocious	fear	0
+	atrocious	joy	0
+	atrocious	negative	1
+	atrocious	positive	0
+	atrocious	sadness	0
+	atrocious	surprise	0
+	atrocious	trust	0
+	atrocity	anger	1
+	atrocity	anticipation	0
+	atrocity	disgust	1
+	atrocity	fear	1
+	atrocity	joy	0
+	atrocity	negative	1
+	atrocity	positive	0
+	atrocity	sadness	1
+	atrocity	surprise	0
+	atrocity	trust	0
+	atrophy	anger	0
+	atrophy	anticipation	0
+	atrophy	disgust	1
+	atrophy	fear	1
+	atrophy	joy	0
+	atrophy	negative	1
+	atrophy	positive	0
+	atrophy	sadness	1
+	atrophy	surprise	0
+	atrophy	trust	0
+	attach	anger	0
+	attach	anticipation	0
+	attach	disgust	0
+	attach	fear	0
+	attach	joy	0
+	attach	negative	0
+	attach	positive	0
+	attach	sadness	0
+	attach	surprise	0
+	attach	trust	0
+	attachment	anger	0
+	attachment	anticipation	0
+	attachment	disgust	0
+	attachment	fear	0
+	attachment	joy	0
+	attachment	negative	0
+	attachment	positive	1
+	attachment	sadness	0
+	attachment	surprise	0
+	attachment	trust	0
+	attack	anger	1
+	attack	anticipation	0
+	attack	disgust	0
+	attack	fear	1
+	attack	joy	0
+	attack	negative	1
+	attack	positive	0
+	attack	sadness	0
+	attack	surprise	0
+	attack	trust	0
+	attacking	anger	1
+	attacking	anticipation	0
+	attacking	disgust	1
+	attacking	fear	1
+	attacking	joy	0
+	attacking	negative	1
+	attacking	positive	0
+	attacking	sadness	1
+	attacking	surprise	1
+	attacking	trust	0
+	attain	anger	0
+	attain	anticipation	0
+	attain	disgust	0
+	attain	fear	0
+	attain	joy	0
+	attain	negative	0
+	attain	positive	0
+	attain	sadness	0
+	attain	surprise	0
+	attain	trust	0
+	attainable	anger	0
+	attainable	anticipation	1
+	attainable	disgust	0
+	attainable	fear	0
+	attainable	joy	0
+	attainable	negative	0
+	attainable	positive	1
+	attainable	sadness	0
+	attainable	surprise	0
+	attainable	trust	0
+	attainment	anger	0
+	attainment	anticipation	0
+	attainment	disgust	0
+	attainment	fear	0
+	attainment	joy	0
+	attainment	negative	0
+	attainment	positive	1
+	attainment	sadness	0
+	attainment	surprise	0
+	attainment	trust	0
+	attempt	anger	0
+	attempt	anticipation	1
+	attempt	disgust	0
+	attempt	fear	0
+	attempt	joy	0
+	attempt	negative	0
+	attempt	positive	0
+	attempt	sadness	0
+	attempt	surprise	0
+	attempt	trust	0
+	attendance	anger	0
+	attendance	anticipation	1
+	attendance	disgust	0
+	attendance	fear	0
+	attendance	joy	0
+	attendance	negative	0
+	attendance	positive	0
+	attendance	sadness	0
+	attendance	surprise	0
+	attendance	trust	0
+	attendant	anger	0
+	attendant	anticipation	0
+	attendant	disgust	0
+	attendant	fear	0
+	attendant	joy	0
+	attendant	negative	0
+	attendant	positive	1
+	attendant	sadness	0
+	attendant	surprise	0
+	attendant	trust	1
+	attention	anger	0
+	attention	anticipation	0
+	attention	disgust	0
+	attention	fear	0
+	attention	joy	0
+	attention	negative	0
+	attention	positive	1
+	attention	sadness	0
+	attention	surprise	0
+	attention	trust	0
+	attentive	anger	0
+	attentive	anticipation	0
+	attentive	disgust	0
+	attentive	fear	0
+	attentive	joy	0
+	attentive	negative	0
+	attentive	positive	1
+	attentive	sadness	0
+	attentive	surprise	0
+	attentive	trust	1
+	attenuate	anger	0
+	attenuate	anticipation	0
+	attenuate	disgust	0
+	attenuate	fear	0
+	attenuate	joy	0
+	attenuate	negative	0
+	attenuate	positive	0
+	attenuate	sadness	0
+	attenuate	surprise	0
+	attenuate	trust	0
+	attenuated	anger	0
+	attenuated	anticipation	0
+	attenuated	disgust	0
+	attenuated	fear	0
+	attenuated	joy	0
+	attenuated	negative	1
+	attenuated	positive	0
+	attenuated	sadness	0
+	attenuated	surprise	0
+	attenuated	trust	0
+	attenuation	anger	0
+	attenuation	anticipation	0
+	attenuation	disgust	0
+	attenuation	fear	0
+	attenuation	joy	0
+	attenuation	negative	1
+	attenuation	positive	0
+	attenuation	sadness	1
+	attenuation	surprise	0
+	attenuation	trust	0
+	attest	anger	0
+	attest	anticipation	0
+	attest	disgust	0
+	attest	fear	0
+	attest	joy	0
+	attest	negative	0
+	attest	positive	1
+	attest	sadness	0
+	attest	surprise	0
+	attest	trust	1
+	attestation	anger	0
+	attestation	anticipation	0
+	attestation	disgust	0
+	attestation	fear	0
+	attestation	joy	0
+	attestation	negative	0
+	attestation	positive	0
+	attestation	sadness	0
+	attestation	surprise	0
+	attestation	trust	1
+	attic	anger	0
+	attic	anticipation	0
+	attic	disgust	0
+	attic	fear	0
+	attic	joy	0
+	attic	negative	0
+	attic	positive	0
+	attic	sadness	0
+	attic	surprise	0
+	attic	trust	0
+	attire	anger	0
+	attire	anticipation	0
+	attire	disgust	0
+	attire	fear	0
+	attire	joy	0
+	attire	negative	0
+	attire	positive	0
+	attire	sadness	0
+	attire	surprise	0
+	attire	trust	0
+	attitude	anger	0
+	attitude	anticipation	0
+	attitude	disgust	0
+	attitude	fear	0
+	attitude	joy	0
+	attitude	negative	0
+	attitude	positive	0
+	attitude	sadness	0
+	attitude	surprise	0
+	attitude	trust	0
+	attorney	anger	1
+	attorney	anticipation	0
+	attorney	disgust	0
+	attorney	fear	1
+	attorney	joy	0
+	attorney	negative	0
+	attorney	positive	1
+	attorney	sadness	0
+	attorney	surprise	0
+	attorney	trust	1
+	attraction	anger	0
+	attraction	anticipation	0
+	attraction	disgust	0
+	attraction	fear	0
+	attraction	joy	0
+	attraction	negative	0
+	attraction	positive	1
+	attraction	sadness	0
+	attraction	surprise	0
+	attraction	trust	0
+	attractiveness	anger	0
+	attractiveness	anticipation	0
+	attractiveness	disgust	0
+	attractiveness	fear	0
+	attractiveness	joy	0
+	attractiveness	negative	0
+	attractiveness	positive	1
+	attractiveness	sadness	0
+	attractiveness	surprise	0
+	attractiveness	trust	0
+	attributable	anger	0
+	attributable	anticipation	0
+	attributable	disgust	0
+	attributable	fear	0
+	attributable	joy	0
+	attributable	negative	0
+	attributable	positive	0
+	attributable	sadness	0
+	attributable	surprise	0
+	attributable	trust	0
+	attribute	anger	0
+	attribute	anticipation	0
+	attribute	disgust	0
+	attribute	fear	0
+	attribute	joy	0
+	attribute	negative	0
+	attribute	positive	0
+	attribute	sadness	0
+	attribute	surprise	0
+	attribute	trust	0
+	attribution	anger	0
+	attribution	anticipation	0
+	attribution	disgust	0
+	attribution	fear	0
+	attribution	joy	0
+	attribution	negative	0
+	attribution	positive	0
+	attribution	sadness	0
+	attribution	surprise	0
+	attribution	trust	0
+	attrition	anger	0
+	attrition	anticipation	0
+	attrition	disgust	0
+	attrition	fear	0
+	attrition	joy	0
+	attrition	negative	0
+	attrition	positive	0
+	attrition	sadness	0
+	attrition	surprise	0
+	attrition	trust	0
+	auburn	anger	0
+	auburn	anticipation	0
+	auburn	disgust	0
+	auburn	fear	0
+	auburn	joy	0
+	auburn	negative	0
+	auburn	positive	0
+	auburn	sadness	0
+	auburn	surprise	0
+	auburn	trust	0
+	auction	anger	0
+	auction	anticipation	1
+	auction	disgust	0
+	auction	fear	0
+	auction	joy	0
+	auction	negative	0
+	auction	positive	0
+	auction	sadness	0
+	auction	surprise	0
+	auction	trust	0
+	auctioneer	anger	0
+	auctioneer	anticipation	0
+	auctioneer	disgust	0
+	auctioneer	fear	0
+	auctioneer	joy	0
+	auctioneer	negative	0
+	auctioneer	positive	0
+	auctioneer	sadness	0
+	auctioneer	surprise	0
+	auctioneer	trust	0
+	audacious	anger	0
+	audacious	anticipation	0
+	audacious	disgust	0
+	audacious	fear	0
+	audacious	joy	0
+	audacious	negative	0
+	audacious	positive	0
+	audacious	sadness	0
+	audacious	surprise	0
+	audacious	trust	0
+	audacity	anger	0
+	audacity	anticipation	0
+	audacity	disgust	0
+	audacity	fear	0
+	audacity	joy	0
+	audacity	negative	1
+	audacity	positive	0
+	audacity	sadness	0
+	audacity	surprise	0
+	audacity	trust	0
+	audible	anger	0
+	audible	anticipation	0
+	audible	disgust	0
+	audible	fear	0
+	audible	joy	0
+	audible	negative	0
+	audible	positive	0
+	audible	sadness	0
+	audible	surprise	0
+	audible	trust	0
+	audience	anger	0
+	audience	anticipation	1
+	audience	disgust	0
+	audience	fear	0
+	audience	joy	0
+	audience	negative	0
+	audience	positive	0
+	audience	sadness	0
+	audience	surprise	0
+	audience	trust	0
+	audit	anger	0
+	audit	anticipation	0
+	audit	disgust	0
+	audit	fear	0
+	audit	joy	0
+	audit	negative	0
+	audit	positive	0
+	audit	sadness	0
+	audit	surprise	0
+	audit	trust	0
+	audition	anger	0
+	audition	anticipation	0
+	audition	disgust	0
+	audition	fear	0
+	audition	joy	0
+	audition	negative	0
+	audition	positive	0
+	audition	sadness	0
+	audition	surprise	0
+	audition	trust	0
+	auditor	anger	0
+	auditor	anticipation	0
+	auditor	disgust	0
+	auditor	fear	1
+	auditor	joy	0
+	auditor	negative	0
+	auditor	positive	0
+	auditor	sadness	0
+	auditor	surprise	0
+	auditor	trust	1
+	auditorium	anger	0
+	auditorium	anticipation	0
+	auditorium	disgust	0
+	auditorium	fear	0
+	auditorium	joy	0
+	auditorium	negative	0
+	auditorium	positive	0
+	auditorium	sadness	0
+	auditorium	surprise	0
+	auditorium	trust	0
+	auditory	anger	0
+	auditory	anticipation	0
+	auditory	disgust	0
+	auditory	fear	0
+	auditory	joy	0
+	auditory	negative	0
+	auditory	positive	0
+	auditory	sadness	0
+	auditory	surprise	0
+	auditory	trust	0
+	aught	anger	0
+	aught	anticipation	0
+	aught	disgust	0
+	aught	fear	0
+	aught	joy	0
+	aught	negative	0
+	aught	positive	0
+	aught	sadness	0
+	aught	surprise	0
+	aught	trust	0
+	augment	anger	0
+	augment	anticipation	0
+	augment	disgust	0
+	augment	fear	0
+	augment	joy	0
+	augment	negative	0
+	augment	positive	1
+	augment	sadness	0
+	augment	surprise	0
+	augment	trust	0
+	augmentation	anger	0
+	augmentation	anticipation	0
+	augmentation	disgust	0
+	augmentation	fear	0
+	augmentation	joy	0
+	augmentation	negative	0
+	augmentation	positive	0
+	augmentation	sadness	0
+	augmentation	surprise	0
+	augmentation	trust	0
+	august	anger	0
+	august	anticipation	0
+	august	disgust	0
+	august	fear	0
+	august	joy	0
+	august	negative	0
+	august	positive	1
+	august	sadness	0
+	august	surprise	0
+	august	trust	0
+	aunt	anger	0
+	aunt	anticipation	0
+	aunt	disgust	0
+	aunt	fear	0
+	aunt	joy	0
+	aunt	negative	0
+	aunt	positive	1
+	aunt	sadness	0
+	aunt	surprise	0
+	aunt	trust	1
+	aura	anger	0
+	aura	anticipation	0
+	aura	disgust	0
+	aura	fear	0
+	aura	joy	0
+	aura	negative	0
+	aura	positive	1
+	aura	sadness	0
+	aura	surprise	0
+	aura	trust	0
+	aurora	anger	0
+	aurora	anticipation	0
+	aurora	disgust	0
+	aurora	fear	0
+	aurora	joy	0
+	aurora	negative	0
+	aurora	positive	0
+	aurora	sadness	0
+	aurora	surprise	0
+	aurora	trust	0
+	auspices	anger	0
+	auspices	anticipation	0
+	auspices	disgust	0
+	auspices	fear	0
+	auspices	joy	0
+	auspices	negative	0
+	auspices	positive	0
+	auspices	sadness	0
+	auspices	surprise	0
+	auspices	trust	0
+	auspicious	anger	0
+	auspicious	anticipation	1
+	auspicious	disgust	0
+	auspicious	fear	0
+	auspicious	joy	1
+	auspicious	negative	0
+	auspicious	positive	1
+	auspicious	sadness	0
+	auspicious	surprise	0
+	auspicious	trust	0
+	austere	anger	0
+	austere	anticipation	0
+	austere	disgust	0
+	austere	fear	1
+	austere	joy	0
+	austere	negative	1
+	austere	positive	0
+	austere	sadness	1
+	austere	surprise	0
+	austere	trust	0
+	austerity	anger	0
+	austerity	anticipation	0
+	austerity	disgust	0
+	austerity	fear	0
+	austerity	joy	0
+	austerity	negative	1
+	austerity	positive	0
+	austerity	sadness	0
+	austerity	surprise	0
+	austerity	trust	0
+	authentic	anger	0
+	authentic	anticipation	0
+	authentic	disgust	0
+	authentic	fear	0
+	authentic	joy	1
+	authentic	negative	0
+	authentic	positive	1
+	authentic	sadness	0
+	authentic	surprise	0
+	authentic	trust	1
+	authenticate	anger	0
+	authenticate	anticipation	0
+	authenticate	disgust	0
+	authenticate	fear	0
+	authenticate	joy	0
+	authenticate	negative	0
+	authenticate	positive	0
+	authenticate	sadness	0
+	authenticate	surprise	0
+	authenticate	trust	1
+	authentication	anger	0
+	authentication	anticipation	0
+	authentication	disgust	0
+	authentication	fear	0
+	authentication	joy	0
+	authentication	negative	0
+	authentication	positive	0
+	authentication	sadness	0
+	authentication	surprise	0
+	authentication	trust	1
+	authenticity	anger	0
+	authenticity	anticipation	0
+	authenticity	disgust	0
+	authenticity	fear	0
+	authenticity	joy	0
+	authenticity	negative	0
+	authenticity	positive	1
+	authenticity	sadness	0
+	authenticity	surprise	0
+	authenticity	trust	1
+	author	anger	0
+	author	anticipation	0
+	author	disgust	0
+	author	fear	0
+	author	joy	0
+	author	negative	0
+	author	positive	1
+	author	sadness	0
+	author	surprise	0
+	author	trust	1
+	authoritative	anger	0
+	authoritative	anticipation	0
+	authoritative	disgust	0
+	authoritative	fear	0
+	authoritative	joy	0
+	authoritative	negative	0
+	authoritative	positive	1
+	authoritative	sadness	0
+	authoritative	surprise	0
+	authoritative	trust	1
+	authority	anger	0
+	authority	anticipation	0
+	authority	disgust	0
+	authority	fear	0
+	authority	joy	0
+	authority	negative	0
+	authority	positive	1
+	authority	sadness	0
+	authority	surprise	0
+	authority	trust	1
+	authorization	anger	0
+	authorization	anticipation	0
+	authorization	disgust	0
+	authorization	fear	0
+	authorization	joy	0
+	authorization	negative	0
+	authorization	positive	1
+	authorization	sadness	0
+	authorization	surprise	0
+	authorization	trust	1
+	authorize	anger	0
+	authorize	anticipation	0
+	authorize	disgust	0
+	authorize	fear	0
+	authorize	joy	0
+	authorize	negative	0
+	authorize	positive	0
+	authorize	sadness	0
+	authorize	surprise	0
+	authorize	trust	1
+	authorized	anger	0
+	authorized	anticipation	0
+	authorized	disgust	0
+	authorized	fear	0
+	authorized	joy	0
+	authorized	negative	0
+	authorized	positive	1
+	authorized	sadness	0
+	authorized	surprise	0
+	authorized	trust	0
+	authorship	anger	0
+	authorship	anticipation	0
+	authorship	disgust	0
+	authorship	fear	0
+	authorship	joy	0
+	authorship	negative	0
+	authorship	positive	0
+	authorship	sadness	0
+	authorship	surprise	0
+	authorship	trust	0
+	auto	anger	0
+	auto	anticipation	0
+	auto	disgust	0
+	auto	fear	0
+	auto	joy	0
+	auto	negative	0
+	auto	positive	0
+	auto	sadness	0
+	auto	surprise	0
+	auto	trust	0
+	autobiography	anger	0
+	autobiography	anticipation	0
+	autobiography	disgust	0
+	autobiography	fear	0
+	autobiography	joy	0
+	autobiography	negative	0
+	autobiography	positive	0
+	autobiography	sadness	0
+	autobiography	surprise	0
+	autobiography	trust	0
+	autocratic	anger	0
+	autocratic	anticipation	0
+	autocratic	disgust	0
+	autocratic	fear	0
+	autocratic	joy	0
+	autocratic	negative	1
+	autocratic	positive	0
+	autocratic	sadness	0
+	autocratic	surprise	0
+	autocratic	trust	0
+	autograph	anger	0
+	autograph	anticipation	0
+	autograph	disgust	0
+	autograph	fear	0
+	autograph	joy	0
+	autograph	negative	0
+	autograph	positive	0
+	autograph	sadness	0
+	autograph	surprise	0
+	autograph	trust	0
+	automatic	anger	0
+	automatic	anticipation	0
+	automatic	disgust	0
+	automatic	fear	0
+	automatic	joy	0
+	automatic	negative	0
+	automatic	positive	0
+	automatic	sadness	0
+	automatic	surprise	0
+	automatic	trust	1
+	automobile	anger	0
+	automobile	anticipation	0
+	automobile	disgust	0
+	automobile	fear	0
+	automobile	joy	0
+	automobile	negative	0
+	automobile	positive	0
+	automobile	sadness	0
+	automobile	surprise	0
+	automobile	trust	0
+	autonomy	anger	0
+	autonomy	anticipation	0
+	autonomy	disgust	0
+	autonomy	fear	0
+	autonomy	joy	0
+	autonomy	negative	0
+	autonomy	positive	0
+	autonomy	sadness	0
+	autonomy	surprise	0
+	autonomy	trust	0
+	autopsy	anger	0
+	autopsy	anticipation	0
+	autopsy	disgust	1
+	autopsy	fear	1
+	autopsy	joy	0
+	autopsy	negative	1
+	autopsy	positive	0
+	autopsy	sadness	1
+	autopsy	surprise	0
+	autopsy	trust	0
+	autumn	anger	0
+	autumn	anticipation	0
+	autumn	disgust	0
+	autumn	fear	0
+	autumn	joy	0
+	autumn	negative	0
+	autumn	positive	0
+	autumn	sadness	0
+	autumn	surprise	0
+	autumn	trust	0
+	auxiliary	anger	0
+	auxiliary	anticipation	0
+	auxiliary	disgust	0
+	auxiliary	fear	0
+	auxiliary	joy	0
+	auxiliary	negative	0
+	auxiliary	positive	0
+	auxiliary	sadness	0
+	auxiliary	surprise	0
+	auxiliary	trust	0
+	avail	anger	0
+	avail	anticipation	0
+	avail	disgust	0
+	avail	fear	0
+	avail	joy	0
+	avail	negative	0
+	avail	positive	0
+	avail	sadness	0
+	avail	surprise	0
+	avail	trust	0
+	avalanche	anger	0
+	avalanche	anticipation	0
+	avalanche	disgust	0
+	avalanche	fear	1
+	avalanche	joy	0
+	avalanche	negative	1
+	avalanche	positive	0
+	avalanche	sadness	1
+	avalanche	surprise	1
+	avalanche	trust	0
+	avarice	anger	1
+	avarice	anticipation	0
+	avarice	disgust	1
+	avarice	fear	0
+	avarice	joy	0
+	avarice	negative	1
+	avarice	positive	0
+	avarice	sadness	0
+	avarice	surprise	0
+	avarice	trust	0
+	avatar	anger	0
+	avatar	anticipation	0
+	avatar	disgust	0
+	avatar	fear	0
+	avatar	joy	0
+	avatar	negative	0
+	avatar	positive	1
+	avatar	sadness	0
+	avatar	surprise	0
+	avatar	trust	0
+	avenger	anger	1
+	avenger	anticipation	0
+	avenger	disgust	0
+	avenger	fear	0
+	avenger	joy	0
+	avenger	negative	1
+	avenger	positive	0
+	avenger	sadness	0
+	avenger	surprise	0
+	avenger	trust	0
+	avenue	anger	0
+	avenue	anticipation	0
+	avenue	disgust	0
+	avenue	fear	0
+	avenue	joy	0
+	avenue	negative	0
+	avenue	positive	0
+	avenue	sadness	0
+	avenue	surprise	0
+	avenue	trust	0
+	aver	anger	0
+	aver	anticipation	0
+	aver	disgust	0
+	aver	fear	0
+	aver	joy	0
+	aver	negative	0
+	aver	positive	0
+	aver	sadness	0
+	aver	surprise	0
+	aver	trust	0
+	average	anger	0
+	average	anticipation	0
+	average	disgust	0
+	average	fear	0
+	average	joy	0
+	average	negative	0
+	average	positive	0
+	average	sadness	0
+	average	surprise	0
+	average	trust	0
+	averse	anger	1
+	averse	anticipation	0
+	averse	disgust	1
+	averse	fear	1
+	averse	joy	0
+	averse	negative	1
+	averse	positive	0
+	averse	sadness	0
+	averse	surprise	0
+	averse	trust	0
+	aversion	anger	1
+	aversion	anticipation	0
+	aversion	disgust	1
+	aversion	fear	1
+	aversion	joy	0
+	aversion	negative	1
+	aversion	positive	0
+	aversion	sadness	0
+	aversion	surprise	0
+	aversion	trust	0
+	avert	anger	0
+	avert	anticipation	0
+	avert	disgust	0
+	avert	fear	0
+	avert	joy	0
+	avert	negative	0
+	avert	positive	0
+	avert	sadness	0
+	avert	surprise	0
+	avert	trust	0
+	aviary	anger	0
+	aviary	anticipation	0
+	aviary	disgust	0
+	aviary	fear	0
+	aviary	joy	0
+	aviary	negative	0
+	aviary	positive	0
+	aviary	sadness	0
+	aviary	surprise	0
+	aviary	trust	0
+	aviation	anger	0
+	aviation	anticipation	0
+	aviation	disgust	0
+	aviation	fear	0
+	aviation	joy	0
+	aviation	negative	0
+	aviation	positive	0
+	aviation	sadness	0
+	aviation	surprise	0
+	aviation	trust	0
+	aviator	anger	0
+	aviator	anticipation	0
+	aviator	disgust	0
+	aviator	fear	0
+	aviator	joy	0
+	aviator	negative	0
+	aviator	positive	0
+	aviator	sadness	0
+	aviator	surprise	0
+	aviator	trust	0
+	avid	anger	0
+	avid	anticipation	0
+	avid	disgust	0
+	avid	fear	0
+	avid	joy	0
+	avid	negative	0
+	avid	positive	0
+	avid	sadness	0
+	avid	surprise	0
+	avid	trust	0
+	avocado	anger	0
+	avocado	anticipation	0
+	avocado	disgust	0
+	avocado	fear	0
+	avocado	joy	0
+	avocado	negative	0
+	avocado	positive	0
+	avocado	sadness	0
+	avocado	surprise	0
+	avocado	trust	0
+	avoid	anger	0
+	avoid	anticipation	0
+	avoid	disgust	0
+	avoid	fear	1
+	avoid	joy	0
+	avoid	negative	1
+	avoid	positive	0
+	avoid	sadness	0
+	avoid	surprise	0
+	avoid	trust	0
+	avoidance	anger	0
+	avoidance	anticipation	0
+	avoidance	disgust	0
+	avoidance	fear	1
+	avoidance	joy	0
+	avoidance	negative	1
+	avoidance	positive	0
+	avoidance	sadness	0
+	avoidance	surprise	0
+	avoidance	trust	0
+	avoiding	anger	0
+	avoiding	anticipation	0
+	avoiding	disgust	0
+	avoiding	fear	1
+	avoiding	joy	0
+	avoiding	negative	0
+	avoiding	positive	0
+	avoiding	sadness	0
+	avoiding	surprise	0
+	avoiding	trust	0
+	await	anger	0
+	await	anticipation	1
+	await	disgust	0
+	await	fear	0
+	await	joy	0
+	await	negative	0
+	await	positive	0
+	await	sadness	0
+	await	surprise	0
+	await	trust	0
+	awake	anger	0
+	awake	anticipation	0
+	awake	disgust	0
+	awake	fear	0
+	awake	joy	0
+	awake	negative	0
+	awake	positive	0
+	awake	sadness	0
+	awake	surprise	0
+	awake	trust	0
+	awaken	anger	0
+	awaken	anticipation	0
+	awaken	disgust	0
+	awaken	fear	0
+	awaken	joy	0
+	awaken	negative	0
+	awaken	positive	0
+	awaken	sadness	0
+	awaken	surprise	0
+	awaken	trust	0
+	award	anger	0
+	award	anticipation	1
+	award	disgust	0
+	award	fear	0
+	award	joy	1
+	award	negative	0
+	award	positive	1
+	award	sadness	0
+	award	surprise	1
+	award	trust	1
+	awe	anger	0
+	awe	anticipation	0
+	awe	disgust	0
+	awe	fear	0
+	awe	joy	0
+	awe	negative	0
+	awe	positive	0
+	awe	sadness	0
+	awe	surprise	0
+	awe	trust	0
+	awful	anger	1
+	awful	anticipation	0
+	awful	disgust	1
+	awful	fear	1
+	awful	joy	0
+	awful	negative	1
+	awful	positive	0
+	awful	sadness	1
+	awful	surprise	0
+	awful	trust	0
+	awkwardness	anger	0
+	awkwardness	anticipation	0
+	awkwardness	disgust	1
+	awkwardness	fear	0
+	awkwardness	joy	0
+	awkwardness	negative	1
+	awkwardness	positive	0
+	awkwardness	sadness	0
+	awkwardness	surprise	0
+	awkwardness	trust	0
+	awning	anger	0
+	awning	anticipation	0
+	awning	disgust	0
+	awning	fear	0
+	awning	joy	0
+	awning	negative	0
+	awning	positive	0
+	awning	sadness	0
+	awning	surprise	0
+	awning	trust	0
+	awry	anger	0
+	awry	anticipation	0
+	awry	disgust	0
+	awry	fear	0
+	awry	joy	0
+	awry	negative	1
+	awry	positive	0
+	awry	sadness	0
+	awry	surprise	0
+	awry	trust	0
+	axial	anger	0
+	axial	anticipation	0
+	axial	disgust	0
+	axial	fear	0
+	axial	joy	0
+	axial	negative	0
+	axial	positive	0
+	axial	sadness	0
+	axial	surprise	0
+	axial	trust	0
+	axiom	anger	0
+	axiom	anticipation	0
+	axiom	disgust	0
+	axiom	fear	0
+	axiom	joy	0
+	axiom	negative	0
+	axiom	positive	0
+	axiom	sadness	0
+	axiom	surprise	0
+	axiom	trust	1
+	axiomatic	anger	0
+	axiomatic	anticipation	0
+	axiomatic	disgust	0
+	axiomatic	fear	0
+	axiomatic	joy	0
+	axiomatic	negative	0
+	axiomatic	positive	0
+	axiomatic	sadness	0
+	axiomatic	surprise	0
+	axiomatic	trust	1
+	axis	anger	0
+	axis	anticipation	0
+	axis	disgust	0
+	axis	fear	0
+	axis	joy	0
+	axis	negative	0
+	axis	positive	0
+	axis	sadness	0
+	axis	surprise	0
+	axis	trust	0
+	axle	anger	0
+	axle	anticipation	0
+	axle	disgust	0
+	axle	fear	0
+	axle	joy	0
+	axle	negative	0
+	axle	positive	0
+	axle	sadness	0
+	axle	surprise	0
+	axle	trust	0
+	ay	anger	0
+	ay	anticipation	0
+	ay	disgust	0
+	ay	fear	0
+	ay	joy	0
+	ay	negative	0
+	ay	positive	1
+	ay	sadness	0
+	ay	surprise	0
+	ay	trust	0
+	aye	anger	0
+	aye	anticipation	0
+	aye	disgust	0
+	aye	fear	0
+	aye	joy	0
+	aye	negative	0
+	aye	positive	1
+	aye	sadness	0
+	aye	surprise	0
+	aye	trust	0
+	azimuth	anger	0
+	azimuth	anticipation	0
+	azimuth	disgust	0
+	azimuth	fear	0
+	azimuth	joy	0
+	azimuth	negative	0
+	azimuth	positive	0
+	azimuth	sadness	0
+	azimuth	surprise	0
+	azimuth	trust	0
+	azure	anger	0
+	azure	anticipation	0
+	azure	disgust	0
+	azure	fear	0
+	azure	joy	0
+	azure	negative	0
+	azure	positive	0
+	azure	sadness	0
+	azure	surprise	0
+	azure	trust	0
+	babble	anger	0
+	babble	anticipation	0
+	babble	disgust	0
+	babble	fear	0
+	babble	joy	0
+	babble	negative	1
+	babble	positive	0
+	babble	sadness	0
+	babble	surprise	0
+	babble	trust	0
+	babbling	anger	0
+	babbling	anticipation	0
+	babbling	disgust	0
+	babbling	fear	0
+	babbling	joy	0
+	babbling	negative	1
+	babbling	positive	0
+	babbling	sadness	0
+	babbling	surprise	0
+	babbling	trust	0
+	baboon	anger	0
+	baboon	anticipation	0
+	baboon	disgust	1
+	baboon	fear	0
+	baboon	joy	0
+	baboon	negative	1
+	baboon	positive	0
+	baboon	sadness	0
+	baboon	surprise	0
+	baboon	trust	0
+	baby	anger	0
+	baby	anticipation	0
+	baby	disgust	0
+	baby	fear	0
+	baby	joy	1
+	baby	negative	0
+	baby	positive	1
+	baby	sadness	0
+	baby	surprise	0
+	baby	trust	0
+	babysitter	anger	0
+	babysitter	anticipation	0
+	babysitter	disgust	0
+	babysitter	fear	0
+	babysitter	joy	0
+	babysitter	negative	0
+	babysitter	positive	0
+	babysitter	sadness	0
+	babysitter	surprise	0
+	babysitter	trust	1
+	baccalaureate	anger	0
+	baccalaureate	anticipation	0
+	baccalaureate	disgust	0
+	baccalaureate	fear	0
+	baccalaureate	joy	0
+	baccalaureate	negative	0
+	baccalaureate	positive	1
+	baccalaureate	sadness	0
+	baccalaureate	surprise	0
+	baccalaureate	trust	0
+	baccarat	anger	0
+	baccarat	anticipation	0
+	baccarat	disgust	0
+	baccarat	fear	0
+	baccarat	joy	0
+	baccarat	negative	0
+	baccarat	positive	0
+	baccarat	sadness	0
+	baccarat	surprise	0
+	baccarat	trust	0
+	bachelor	anger	0
+	bachelor	anticipation	0
+	bachelor	disgust	0
+	bachelor	fear	0
+	bachelor	joy	0
+	bachelor	negative	0
+	bachelor	positive	0
+	bachelor	sadness	0
+	bachelor	surprise	0
+	bachelor	trust	0
+	back	anger	0
+	back	anticipation	0
+	back	disgust	0
+	back	fear	0
+	back	joy	0
+	back	negative	0
+	back	positive	0
+	back	sadness	0
+	back	surprise	0
+	back	trust	0
+	backbone	anger	1
+	backbone	anticipation	0
+	backbone	disgust	0
+	backbone	fear	0
+	backbone	joy	0
+	backbone	negative	0
+	backbone	positive	1
+	backbone	sadness	0
+	backbone	surprise	0
+	backbone	trust	1
+	backer	anger	0
+	backer	anticipation	0
+	backer	disgust	0
+	backer	fear	0
+	backer	joy	0
+	backer	negative	0
+	backer	positive	0
+	backer	sadness	0
+	backer	surprise	0
+	backer	trust	1
+	backfire	anger	0
+	backfire	anticipation	0
+	backfire	disgust	0
+	backfire	fear	0
+	backfire	joy	0
+	backfire	negative	0
+	backfire	positive	0
+	backfire	sadness	0
+	backfire	surprise	0
+	backfire	trust	0
+	backgammon	anger	0
+	backgammon	anticipation	0
+	backgammon	disgust	0
+	backgammon	fear	0
+	backgammon	joy	0
+	backgammon	negative	0
+	backgammon	positive	0
+	backgammon	sadness	0
+	backgammon	surprise	0
+	backgammon	trust	0
+	background	anger	0
+	background	anticipation	0
+	background	disgust	0
+	background	fear	0
+	background	joy	0
+	background	negative	0
+	background	positive	0
+	background	sadness	0
+	background	surprise	0
+	background	trust	0
+	backhoe	anger	0
+	backhoe	anticipation	0
+	backhoe	disgust	0
+	backhoe	fear	0
+	backhoe	joy	0
+	backhoe	negative	0
+	backhoe	positive	0
+	backhoe	sadness	0
+	backhoe	surprise	0
+	backhoe	trust	0
+	backpacker	anger	0
+	backpacker	anticipation	0
+	backpacker	disgust	0
+	backpacker	fear	0
+	backpacker	joy	0
+	backpacker	negative	0
+	backpacker	positive	0
+	backpacker	sadness	0
+	backpacker	surprise	0
+	backpacker	trust	0
+	backtrack	anger	0
+	backtrack	anticipation	0
+	backtrack	disgust	0
+	backtrack	fear	0
+	backtrack	joy	0
+	backtrack	negative	0
+	backtrack	positive	0
+	backtrack	sadness	0
+	backtrack	surprise	0
+	backtrack	trust	0
+	backward	anger	0
+	backward	anticipation	0
+	backward	disgust	0
+	backward	fear	0
+	backward	joy	0
+	backward	negative	1
+	backward	positive	0
+	backward	sadness	0
+	backward	surprise	0
+	backward	trust	0
+	backwards	anger	0
+	backwards	anticipation	0
+	backwards	disgust	1
+	backwards	fear	0
+	backwards	joy	0
+	backwards	negative	1
+	backwards	positive	0
+	backwards	sadness	0
+	backwards	surprise	0
+	backwards	trust	0
+	backwater	anger	0
+	backwater	anticipation	0
+	backwater	disgust	0
+	backwater	fear	0
+	backwater	joy	0
+	backwater	negative	1
+	backwater	positive	0
+	backwater	sadness	1
+	backwater	surprise	0
+	backwater	trust	0
+	bacteria	anger	0
+	bacteria	anticipation	0
+	bacteria	disgust	1
+	bacteria	fear	1
+	bacteria	joy	0
+	bacteria	negative	1
+	bacteria	positive	0
+	bacteria	sadness	1
+	bacteria	surprise	0
+	bacteria	trust	0
+	bacterium	anger	0
+	bacterium	anticipation	0
+	bacterium	disgust	1
+	bacterium	fear	1
+	bacterium	joy	0
+	bacterium	negative	1
+	bacterium	positive	0
+	bacterium	sadness	0
+	bacterium	surprise	0
+	bacterium	trust	0
+	bad	anger	1
+	bad	anticipation	0
+	bad	disgust	1
+	bad	fear	1
+	bad	joy	0
+	bad	negative	1
+	bad	positive	0
+	bad	sadness	1
+	bad	surprise	0
+	bad	trust	0
+	badge	anger	0
+	badge	anticipation	0
+	badge	disgust	0
+	badge	fear	0
+	badge	joy	0
+	badge	negative	0
+	badge	positive	0
+	badge	sadness	0
+	badge	surprise	0
+	badge	trust	1
+	badger	anger	1
+	badger	anticipation	0
+	badger	disgust	0
+	badger	fear	0
+	badger	joy	0
+	badger	negative	1
+	badger	positive	0
+	badger	sadness	0
+	badger	surprise	0
+	badger	trust	0
+	badly	anger	0
+	badly	anticipation	0
+	badly	disgust	0
+	badly	fear	0
+	badly	joy	0
+	badly	negative	1
+	badly	positive	0
+	badly	sadness	1
+	badly	surprise	0
+	badly	trust	0
+	badness	anger	1
+	badness	anticipation	0
+	badness	disgust	1
+	badness	fear	1
+	badness	joy	0
+	badness	negative	1
+	badness	positive	0
+	badness	sadness	0
+	badness	surprise	0
+	badness	trust	0
+	baffle	anger	0
+	baffle	anticipation	0
+	baffle	disgust	0
+	baffle	fear	0
+	baffle	joy	0
+	baffle	negative	0
+	baffle	positive	0
+	baffle	sadness	0
+	baffle	surprise	0
+	baffle	trust	0
+	bag	anger	0
+	bag	anticipation	0
+	bag	disgust	0
+	bag	fear	0
+	bag	joy	0
+	bag	negative	0
+	bag	positive	0
+	bag	sadness	0
+	bag	surprise	0
+	bag	trust	0
+	baggage	anger	0
+	baggage	anticipation	0
+	baggage	disgust	0
+	baggage	fear	0
+	baggage	joy	0
+	baggage	negative	0
+	baggage	positive	0
+	baggage	sadness	0
+	baggage	surprise	0
+	baggage	trust	0
+	baggy	anger	0
+	baggy	anticipation	0
+	baggy	disgust	0
+	baggy	fear	0
+	baggy	joy	0
+	baggy	negative	0
+	baggy	positive	0
+	baggy	sadness	0
+	baggy	surprise	0
+	baggy	trust	0
+	bagpipes	anger	0
+	bagpipes	anticipation	0
+	bagpipes	disgust	0
+	bagpipes	fear	0
+	bagpipes	joy	0
+	bagpipes	negative	0
+	bagpipes	positive	0
+	bagpipes	sadness	0
+	bagpipes	surprise	0
+	bagpipes	trust	0
+	bail	anger	0
+	bail	anticipation	0
+	bail	disgust	0
+	bail	fear	0
+	bail	joy	0
+	bail	negative	0
+	bail	positive	0
+	bail	sadness	0
+	bail	surprise	0
+	bail	trust	0
+	bailiff	anger	0
+	bailiff	anticipation	0
+	bailiff	disgust	0
+	bailiff	fear	1
+	bailiff	joy	0
+	bailiff	negative	1
+	bailiff	positive	0
+	bailiff	sadness	0
+	bailiff	surprise	0
+	bailiff	trust	1
+	bait	anger	0
+	bait	anticipation	0
+	bait	disgust	0
+	bait	fear	1
+	bait	joy	0
+	bait	negative	1
+	bait	positive	0
+	bait	sadness	0
+	bait	surprise	0
+	bait	trust	1
+	bake	anger	0
+	bake	anticipation	0
+	bake	disgust	0
+	bake	fear	0
+	bake	joy	0
+	bake	negative	0
+	bake	positive	0
+	bake	sadness	0
+	bake	surprise	0
+	bake	trust	0
+	bakery	anger	0
+	bakery	anticipation	0
+	bakery	disgust	0
+	bakery	fear	0
+	bakery	joy	0
+	bakery	negative	0
+	bakery	positive	0
+	bakery	sadness	0
+	bakery	surprise	0
+	bakery	trust	0
+	baking	anger	0
+	baking	anticipation	0
+	baking	disgust	0
+	baking	fear	0
+	baking	joy	0
+	baking	negative	0
+	baking	positive	0
+	baking	sadness	0
+	baking	surprise	0
+	baking	trust	0
+	bal	anger	0
+	bal	anticipation	0
+	bal	disgust	0
+	bal	fear	0
+	bal	joy	0
+	bal	negative	0
+	bal	positive	0
+	bal	sadness	0
+	bal	surprise	0
+	bal	trust	0
+	balance	anger	0
+	balance	anticipation	0
+	balance	disgust	0
+	balance	fear	0
+	balance	joy	0
+	balance	negative	0
+	balance	positive	1
+	balance	sadness	0
+	balance	surprise	0
+	balance	trust	0
+	balanced	anger	0
+	balanced	anticipation	0
+	balanced	disgust	0
+	balanced	fear	0
+	balanced	joy	0
+	balanced	negative	0
+	balanced	positive	1
+	balanced	sadness	0
+	balanced	surprise	0
+	balanced	trust	0
+	balcony	anger	0
+	balcony	anticipation	0
+	balcony	disgust	0
+	balcony	fear	0
+	balcony	joy	0
+	balcony	negative	0
+	balcony	positive	0
+	balcony	sadness	0
+	balcony	surprise	0
+	balcony	trust	0
+	bald	anger	0
+	bald	anticipation	0
+	bald	disgust	0
+	bald	fear	0
+	bald	joy	0
+	bald	negative	0
+	bald	positive	0
+	bald	sadness	0
+	bald	surprise	0
+	bald	trust	0
+	bale	anger	0
+	bale	anticipation	0
+	bale	disgust	0
+	bale	fear	1
+	bale	joy	0
+	bale	negative	1
+	bale	positive	0
+	bale	sadness	0
+	bale	surprise	0
+	bale	trust	0
+	balk	anger	0
+	balk	anticipation	0
+	balk	disgust	0
+	balk	fear	0
+	balk	joy	0
+	balk	negative	1
+	balk	positive	0
+	balk	sadness	0
+	balk	surprise	0
+	balk	trust	0
+	ball	anger	0
+	ball	anticipation	0
+	ball	disgust	0
+	ball	fear	0
+	ball	joy	0
+	ball	negative	0
+	ball	positive	0
+	ball	sadness	0
+	ball	surprise	0
+	ball	trust	0
+	ballad	anger	0
+	ballad	anticipation	0
+	ballad	disgust	0
+	ballad	fear	0
+	ballad	joy	0
+	ballad	negative	0
+	ballad	positive	1
+	ballad	sadness	0
+	ballad	surprise	0
+	ballad	trust	0
+	ballast	anger	0
+	ballast	anticipation	0
+	ballast	disgust	0
+	ballast	fear	0
+	ballast	joy	0
+	ballast	negative	0
+	ballast	positive	0
+	ballast	sadness	0
+	ballast	surprise	0
+	ballast	trust	0
+	ballet	anger	0
+	ballet	anticipation	0
+	ballet	disgust	0
+	ballet	fear	0
+	ballet	joy	0
+	ballet	negative	0
+	ballet	positive	1
+	ballet	sadness	0
+	ballet	surprise	0
+	ballet	trust	0
+	balloon	anger	0
+	balloon	anticipation	0
+	balloon	disgust	0
+	balloon	fear	0
+	balloon	joy	0
+	balloon	negative	0
+	balloon	positive	0
+	balloon	sadness	0
+	balloon	surprise	0
+	balloon	trust	0
+	ballot	anger	0
+	ballot	anticipation	1
+	ballot	disgust	0
+	ballot	fear	0
+	ballot	joy	0
+	ballot	negative	0
+	ballot	positive	1
+	ballot	sadness	0
+	ballot	surprise	0
+	ballot	trust	1
+	ballroom	anger	0
+	ballroom	anticipation	0
+	ballroom	disgust	0
+	ballroom	fear	0
+	ballroom	joy	0
+	ballroom	negative	0
+	ballroom	positive	0
+	ballroom	sadness	0
+	ballroom	surprise	0
+	ballroom	trust	0
+	balm	anger	0
+	balm	anticipation	1
+	balm	disgust	0
+	balm	fear	0
+	balm	joy	1
+	balm	negative	1
+	balm	positive	1
+	balm	sadness	0
+	balm	surprise	0
+	balm	trust	0
+	balmy	anger	0
+	balmy	anticipation	0
+	balmy	disgust	0
+	balmy	fear	0
+	balmy	joy	0
+	balmy	negative	0
+	balmy	positive	0
+	balmy	sadness	0
+	balmy	surprise	0
+	balmy	trust	0
+	balsam	anger	0
+	balsam	anticipation	0
+	balsam	disgust	0
+	balsam	fear	0
+	balsam	joy	0
+	balsam	negative	0
+	balsam	positive	1
+	balsam	sadness	0
+	balsam	surprise	0
+	balsam	trust	0
+	balsamic	anger	0
+	balsamic	anticipation	0
+	balsamic	disgust	0
+	balsamic	fear	0
+	balsamic	joy	0
+	balsamic	negative	0
+	balsamic	positive	0
+	balsamic	sadness	0
+	balsamic	surprise	0
+	balsamic	trust	0
+	ban	anger	0
+	ban	anticipation	0
+	ban	disgust	0
+	ban	fear	0
+	ban	joy	0
+	ban	negative	1
+	ban	positive	0
+	ban	sadness	0
+	ban	surprise	0
+	ban	trust	0
+	banana	anger	0
+	banana	anticipation	0
+	banana	disgust	0
+	banana	fear	0
+	banana	joy	0
+	banana	negative	0
+	banana	positive	0
+	banana	sadness	0
+	banana	surprise	0
+	banana	trust	0
+	band	anger	0
+	band	anticipation	0
+	band	disgust	0
+	band	fear	0
+	band	joy	0
+	band	negative	0
+	band	positive	0
+	band	sadness	0
+	band	surprise	0
+	band	trust	0
+	bandage	anger	0
+	bandage	anticipation	0
+	bandage	disgust	0
+	bandage	fear	0
+	bandage	joy	0
+	bandage	negative	0
+	bandage	positive	0
+	bandage	sadness	0
+	bandage	surprise	0
+	bandage	trust	0
+	bandit	anger	0
+	bandit	anticipation	0
+	bandit	disgust	0
+	bandit	fear	0
+	bandit	joy	0
+	bandit	negative	1
+	bandit	positive	0
+	bandit	sadness	0
+	bandit	surprise	0
+	bandit	trust	0
+	bandwagon	anger	0
+	bandwagon	anticipation	0
+	bandwagon	disgust	0
+	bandwagon	fear	0
+	bandwagon	joy	0
+	bandwagon	negative	0
+	bandwagon	positive	0
+	bandwagon	sadness	0
+	bandwagon	surprise	0
+	bandwagon	trust	0
+	bane	anger	1
+	bane	anticipation	0
+	bane	disgust	1
+	bane	fear	1
+	bane	joy	0
+	bane	negative	1
+	bane	positive	0
+	bane	sadness	0
+	bane	surprise	0
+	bane	trust	0
+	bang	anger	1
+	bang	anticipation	0
+	bang	disgust	1
+	bang	fear	1
+	bang	joy	0
+	bang	negative	1
+	bang	positive	0
+	bang	sadness	1
+	bang	surprise	1
+	bang	trust	0
+	banger	anger	1
+	banger	anticipation	1
+	banger	disgust	0
+	banger	fear	1
+	banger	joy	0
+	banger	negative	1
+	banger	positive	0
+	banger	sadness	0
+	banger	surprise	1
+	banger	trust	0
+	banish	anger	1
+	banish	anticipation	0
+	banish	disgust	1
+	banish	fear	1
+	banish	joy	0
+	banish	negative	1
+	banish	positive	0
+	banish	sadness	1
+	banish	surprise	0
+	banish	trust	0
+	banished	anger	1
+	banished	anticipation	0
+	banished	disgust	0
+	banished	fear	1
+	banished	joy	0
+	banished	negative	1
+	banished	positive	0
+	banished	sadness	1
+	banished	surprise	0
+	banished	trust	0
+	banishment	anger	1
+	banishment	anticipation	0
+	banishment	disgust	1
+	banishment	fear	0
+	banishment	joy	0
+	banishment	negative	1
+	banishment	positive	0
+	banishment	sadness	1
+	banishment	surprise	0
+	banishment	trust	0
+	banjo	anger	0
+	banjo	anticipation	0
+	banjo	disgust	0
+	banjo	fear	0
+	banjo	joy	0
+	banjo	negative	0
+	banjo	positive	0
+	banjo	sadness	0
+	banjo	surprise	0
+	banjo	trust	0
+	bank	anger	0
+	bank	anticipation	0
+	bank	disgust	0
+	bank	fear	0
+	bank	joy	0
+	bank	negative	0
+	bank	positive	0
+	bank	sadness	0
+	bank	surprise	0
+	bank	trust	1
+	banker	anger	0
+	banker	anticipation	0
+	banker	disgust	0
+	banker	fear	0
+	banker	joy	0
+	banker	negative	0
+	banker	positive	0
+	banker	sadness	0
+	banker	surprise	0
+	banker	trust	1
+	bankrupt	anger	0
+	bankrupt	anticipation	0
+	bankrupt	disgust	0
+	bankrupt	fear	1
+	bankrupt	joy	0
+	bankrupt	negative	1
+	bankrupt	positive	0
+	bankrupt	sadness	1
+	bankrupt	surprise	0
+	bankrupt	trust	0
+	bankruptcy	anger	1
+	bankruptcy	anticipation	0
+	bankruptcy	disgust	1
+	bankruptcy	fear	1
+	bankruptcy	joy	0
+	bankruptcy	negative	1
+	bankruptcy	positive	0
+	bankruptcy	sadness	1
+	bankruptcy	surprise	0
+	bankruptcy	trust	0
+	banner	anger	0
+	banner	anticipation	0
+	banner	disgust	0
+	banner	fear	0
+	banner	joy	0
+	banner	negative	0
+	banner	positive	0
+	banner	sadness	0
+	banner	surprise	0
+	banner	trust	0
+	banquet	anger	0
+	banquet	anticipation	1
+	banquet	disgust	0
+	banquet	fear	0
+	banquet	joy	1
+	banquet	negative	0
+	banquet	positive	1
+	banquet	sadness	0
+	banquet	surprise	0
+	banquet	trust	0
+	banshee	anger	1
+	banshee	anticipation	0
+	banshee	disgust	1
+	banshee	fear	1
+	banshee	joy	0
+	banshee	negative	1
+	banshee	positive	0
+	banshee	sadness	1
+	banshee	surprise	0
+	banshee	trust	0
+	banter	anger	0
+	banter	anticipation	0
+	banter	disgust	0
+	banter	fear	0
+	banter	joy	0
+	banter	negative	0
+	banter	positive	0
+	banter	sadness	0
+	banter	surprise	0
+	banter	trust	0
+	baptism	anger	0
+	baptism	anticipation	0
+	baptism	disgust	0
+	baptism	fear	0
+	baptism	joy	0
+	baptism	negative	0
+	baptism	positive	1
+	baptism	sadness	0
+	baptism	surprise	0
+	baptism	trust	0
+	baptismal	anger	0
+	baptismal	anticipation	0
+	baptismal	disgust	0
+	baptismal	fear	0
+	baptismal	joy	1
+	baptismal	negative	0
+	baptismal	positive	1
+	baptismal	sadness	0
+	baptismal	surprise	0
+	baptismal	trust	0
+	bar	anger	0
+	bar	anticipation	0
+	bar	disgust	0
+	bar	fear	0
+	bar	joy	0
+	bar	negative	0
+	bar	positive	0
+	bar	sadness	0
+	bar	surprise	0
+	bar	trust	0
+	barb	anger	1
+	barb	anticipation	0
+	barb	disgust	0
+	barb	fear	0
+	barb	joy	0
+	barb	negative	1
+	barb	positive	0
+	barb	sadness	0
+	barb	surprise	0
+	barb	trust	0
+	barbarian	anger	0
+	barbarian	anticipation	0
+	barbarian	disgust	0
+	barbarian	fear	1
+	barbarian	joy	0
+	barbarian	negative	1
+	barbarian	positive	0
+	barbarian	sadness	0
+	barbarian	surprise	0
+	barbarian	trust	0
+	barbaric	anger	1
+	barbaric	anticipation	0
+	barbaric	disgust	1
+	barbaric	fear	1
+	barbaric	joy	0
+	barbaric	negative	1
+	barbaric	positive	0
+	barbaric	sadness	0
+	barbaric	surprise	0
+	barbaric	trust	0
+	barbarism	anger	0
+	barbarism	anticipation	0
+	barbarism	disgust	0
+	barbarism	fear	0
+	barbarism	joy	0
+	barbarism	negative	1
+	barbarism	positive	0
+	barbarism	sadness	0
+	barbarism	surprise	0
+	barbarism	trust	0
+	barbecue	anger	0
+	barbecue	anticipation	0
+	barbecue	disgust	0
+	barbecue	fear	0
+	barbecue	joy	0
+	barbecue	negative	0
+	barbecue	positive	0
+	barbecue	sadness	0
+	barbecue	surprise	0
+	barbecue	trust	0
+	barbed	anger	0
+	barbed	anticipation	0
+	barbed	disgust	0
+	barbed	fear	0
+	barbed	joy	0
+	barbed	negative	0
+	barbed	positive	0
+	barbed	sadness	0
+	barbed	surprise	0
+	barbed	trust	0
+	bard	anger	0
+	bard	anticipation	0
+	bard	disgust	0
+	bard	fear	0
+	bard	joy	0
+	bard	negative	0
+	bard	positive	1
+	bard	sadness	0
+	bard	surprise	0
+	bard	trust	0
+	bareback	anger	0
+	bareback	anticipation	0
+	bareback	disgust	0
+	bareback	fear	0
+	bareback	joy	0
+	bareback	negative	0
+	bareback	positive	0
+	bareback	sadness	0
+	bareback	surprise	0
+	bareback	trust	0
+	barefoot	anger	0
+	barefoot	anticipation	0
+	barefoot	disgust	0
+	barefoot	fear	0
+	barefoot	joy	0
+	barefoot	negative	0
+	barefoot	positive	0
+	barefoot	sadness	0
+	barefoot	surprise	0
+	barefoot	trust	0
+	barely	anger	0
+	barely	anticipation	0
+	barely	disgust	0
+	barely	fear	0
+	barely	joy	0
+	barely	negative	0
+	barely	positive	0
+	barely	sadness	0
+	barely	surprise	0
+	barely	trust	0
+	barf	anger	0
+	barf	anticipation	0
+	barf	disgust	1
+	barf	fear	0
+	barf	joy	0
+	barf	negative	0
+	barf	positive	0
+	barf	sadness	0
+	barf	surprise	0
+	barf	trust	0
+	bargain	anger	0
+	bargain	anticipation	0
+	bargain	disgust	0
+	bargain	fear	0
+	bargain	joy	0
+	bargain	negative	0
+	bargain	positive	1
+	bargain	sadness	0
+	bargain	surprise	0
+	bargain	trust	1
+	barge	anger	0
+	barge	anticipation	0
+	barge	disgust	0
+	barge	fear	0
+	barge	joy	0
+	barge	negative	0
+	barge	positive	0
+	barge	sadness	0
+	barge	surprise	0
+	barge	trust	0
+	baritone	anger	0
+	baritone	anticipation	0
+	baritone	disgust	0
+	baritone	fear	0
+	baritone	joy	0
+	baritone	negative	0
+	baritone	positive	0
+	baritone	sadness	0
+	baritone	surprise	0
+	baritone	trust	0
+	bark	anger	1
+	bark	anticipation	0
+	bark	disgust	0
+	bark	fear	0
+	bark	joy	0
+	bark	negative	1
+	bark	positive	0
+	bark	sadness	0
+	bark	surprise	0
+	bark	trust	0
+	barn	anger	0
+	barn	anticipation	0
+	barn	disgust	0
+	barn	fear	0
+	barn	joy	0
+	barn	negative	0
+	barn	positive	0
+	barn	sadness	0
+	barn	surprise	0
+	barn	trust	0
+	barney	anger	0
+	barney	anticipation	0
+	barney	disgust	0
+	barney	fear	0
+	barney	joy	0
+	barney	negative	0
+	barney	positive	0
+	barney	sadness	0
+	barney	surprise	0
+	barney	trust	0
+	barometer	anger	0
+	barometer	anticipation	0
+	barometer	disgust	0
+	barometer	fear	0
+	barometer	joy	0
+	barometer	negative	0
+	barometer	positive	0
+	barometer	sadness	0
+	barometer	surprise	0
+	barometer	trust	0
+	baron	anger	0
+	baron	anticipation	0
+	baron	disgust	0
+	baron	fear	0
+	baron	joy	0
+	baron	negative	0
+	baron	positive	0
+	baron	sadness	0
+	baron	surprise	0
+	baron	trust	0
+	baroque	anger	0
+	baroque	anticipation	0
+	baroque	disgust	0
+	baroque	fear	0
+	baroque	joy	0
+	baroque	negative	0
+	baroque	positive	0
+	baroque	sadness	0
+	baroque	surprise	0
+	baroque	trust	0
+	barrack	anger	0
+	barrack	anticipation	0
+	barrack	disgust	0
+	barrack	fear	0
+	barrack	joy	0
+	barrack	negative	0
+	barrack	positive	0
+	barrack	sadness	0
+	barrack	surprise	0
+	barrack	trust	0
+	barred	anger	0
+	barred	anticipation	0
+	barred	disgust	0
+	barred	fear	0
+	barred	joy	0
+	barred	negative	1
+	barred	positive	0
+	barred	sadness	0
+	barred	surprise	0
+	barred	trust	0
+	barrel	anger	0
+	barrel	anticipation	0
+	barrel	disgust	0
+	barrel	fear	0
+	barrel	joy	0
+	barrel	negative	0
+	barrel	positive	0
+	barrel	sadness	0
+	barrel	surprise	0
+	barrel	trust	0
+	barren	anger	0
+	barren	anticipation	0
+	barren	disgust	0
+	barren	fear	0
+	barren	joy	0
+	barren	negative	1
+	barren	positive	0
+	barren	sadness	1
+	barren	surprise	0
+	barren	trust	0
+	barricade	anger	0
+	barricade	anticipation	0
+	barricade	disgust	0
+	barricade	fear	1
+	barricade	joy	0
+	barricade	negative	1
+	barricade	positive	0
+	barricade	sadness	0
+	barricade	surprise	0
+	barricade	trust	0
+	barrier	anger	1
+	barrier	anticipation	0
+	barrier	disgust	0
+	barrier	fear	0
+	barrier	joy	0
+	barrier	negative	1
+	barrier	positive	0
+	barrier	sadness	0
+	barrier	surprise	0
+	barrier	trust	0
+	barring	anger	0
+	barring	anticipation	0
+	barring	disgust	0
+	barring	fear	0
+	barring	joy	0
+	barring	negative	0
+	barring	positive	0
+	barring	sadness	0
+	barring	surprise	0
+	barring	trust	0
+	barrister	anger	0
+	barrister	anticipation	0
+	barrister	disgust	0
+	barrister	fear	0
+	barrister	joy	0
+	barrister	negative	0
+	barrister	positive	0
+	barrister	sadness	0
+	barrister	surprise	0
+	barrister	trust	0
+	barrow	anger	0
+	barrow	anticipation	0
+	barrow	disgust	1
+	barrow	fear	0
+	barrow	joy	0
+	barrow	negative	0
+	barrow	positive	0
+	barrow	sadness	0
+	barrow	surprise	0
+	barrow	trust	0
+	bartender	anger	0
+	bartender	anticipation	0
+	bartender	disgust	0
+	bartender	fear	0
+	bartender	joy	0
+	bartender	negative	0
+	bartender	positive	0
+	bartender	sadness	0
+	bartender	surprise	0
+	bartender	trust	1
+	barter	anger	0
+	barter	anticipation	0
+	barter	disgust	0
+	barter	fear	0
+	barter	joy	0
+	barter	negative	0
+	barter	positive	0
+	barter	sadness	0
+	barter	surprise	0
+	barter	trust	1
+	base	anger	0
+	base	anticipation	0
+	base	disgust	0
+	base	fear	0
+	base	joy	0
+	base	negative	0
+	base	positive	0
+	base	sadness	0
+	base	surprise	0
+	base	trust	1
+	baseball	anger	0
+	baseball	anticipation	0
+	baseball	disgust	0
+	baseball	fear	0
+	baseball	joy	0
+	baseball	negative	0
+	baseball	positive	0
+	baseball	sadness	0
+	baseball	surprise	0
+	baseball	trust	0
+	baseboard	anger	0
+	baseboard	anticipation	0
+	baseboard	disgust	0
+	baseboard	fear	0
+	baseboard	joy	0
+	baseboard	negative	0
+	baseboard	positive	0
+	baseboard	sadness	0
+	baseboard	surprise	0
+	baseboard	trust	0
+	baseless	anger	0
+	baseless	anticipation	0
+	baseless	disgust	0
+	baseless	fear	0
+	baseless	joy	0
+	baseless	negative	1
+	baseless	positive	0
+	baseless	sadness	0
+	baseless	surprise	0
+	baseless	trust	0
+	basement	anger	0
+	basement	anticipation	0
+	basement	disgust	0
+	basement	fear	0
+	basement	joy	0
+	basement	negative	0
+	basement	positive	0
+	basement	sadness	0
+	basement	surprise	0
+	basement	trust	0
+	basilica	anger	0
+	basilica	anticipation	0
+	basilica	disgust	0
+	basilica	fear	0
+	basilica	joy	0
+	basilica	negative	0
+	basilica	positive	0
+	basilica	sadness	0
+	basilica	surprise	0
+	basilica	trust	0
+	basin	anger	0
+	basin	anticipation	0
+	basin	disgust	0
+	basin	fear	0
+	basin	joy	0
+	basin	negative	0
+	basin	positive	0
+	basin	sadness	0
+	basin	surprise	0
+	basin	trust	0
+	basis	anger	0
+	basis	anticipation	0
+	basis	disgust	0
+	basis	fear	0
+	basis	joy	0
+	basis	negative	0
+	basis	positive	0
+	basis	sadness	0
+	basis	surprise	0
+	basis	trust	0
+	bask	anger	0
+	bask	anticipation	0
+	bask	disgust	0
+	bask	fear	0
+	bask	joy	0
+	bask	negative	0
+	bask	positive	0
+	bask	sadness	0
+	bask	surprise	0
+	bask	trust	0
+	basket	anger	0
+	basket	anticipation	0
+	basket	disgust	0
+	basket	fear	0
+	basket	joy	0
+	basket	negative	0
+	basket	positive	0
+	basket	sadness	0
+	basket	surprise	0
+	basket	trust	0
+	basketball	anger	0
+	basketball	anticipation	1
+	basketball	disgust	0
+	basketball	fear	0
+	basketball	joy	1
+	basketball	negative	0
+	basketball	positive	1
+	basketball	sadness	0
+	basketball	surprise	0
+	basketball	trust	0
+	bass	anger	0
+	bass	anticipation	0
+	bass	disgust	0
+	bass	fear	0
+	bass	joy	0
+	bass	negative	0
+	bass	positive	0
+	bass	sadness	0
+	bass	surprise	0
+	bass	trust	0
+	basso	anger	0
+	basso	anticipation	0
+	basso	disgust	0
+	basso	fear	0
+	basso	joy	0
+	basso	negative	0
+	basso	positive	0
+	basso	sadness	0
+	basso	surprise	0
+	basso	trust	0
+	bassoon	anger	0
+	bassoon	anticipation	0
+	bassoon	disgust	0
+	bassoon	fear	0
+	bassoon	joy	0
+	bassoon	negative	0
+	bassoon	positive	0
+	bassoon	sadness	0
+	bassoon	surprise	0
+	bassoon	trust	0
+	bastard	anger	0
+	bastard	anticipation	0
+	bastard	disgust	1
+	bastard	fear	0
+	bastard	joy	0
+	bastard	negative	1
+	bastard	positive	0
+	bastard	sadness	1
+	bastard	surprise	0
+	bastard	trust	0
+	bastion	anger	1
+	bastion	anticipation	0
+	bastion	disgust	0
+	bastion	fear	0
+	bastion	joy	0
+	bastion	negative	0
+	bastion	positive	1
+	bastion	sadness	0
+	bastion	surprise	0
+	bastion	trust	0
+	bat	anger	0
+	bat	anticipation	0
+	bat	disgust	0
+	bat	fear	0
+	bat	joy	0
+	bat	negative	0
+	bat	positive	0
+	bat	sadness	0
+	bat	surprise	0
+	bat	trust	0
+	batch	anger	0
+	batch	anticipation	0
+	batch	disgust	0
+	batch	fear	0
+	batch	joy	0
+	batch	negative	0
+	batch	positive	0
+	batch	sadness	0
+	batch	surprise	0
+	batch	trust	0
+	batching	anger	0
+	batching	anticipation	0
+	batching	disgust	0
+	batching	fear	0
+	batching	joy	0
+	batching	negative	0
+	batching	positive	0
+	batching	sadness	0
+	batching	surprise	0
+	batching	trust	0
+	bate	anger	0
+	bate	anticipation	0
+	bate	disgust	0
+	bate	fear	0
+	bate	joy	0
+	bate	negative	0
+	bate	positive	0
+	bate	sadness	0
+	bate	surprise	0
+	bate	trust	0
+	bath	anger	0
+	bath	anticipation	0
+	bath	disgust	0
+	bath	fear	0
+	bath	joy	0
+	bath	negative	0
+	bath	positive	1
+	bath	sadness	0
+	bath	surprise	0
+	bath	trust	0
+	bathe	anger	0
+	bathe	anticipation	0
+	bathe	disgust	0
+	bathe	fear	0
+	bathe	joy	0
+	bathe	negative	0
+	bathe	positive	0
+	bathe	sadness	0
+	bathe	surprise	0
+	bathe	trust	0
+	bathroom	anger	0
+	bathroom	anticipation	0
+	bathroom	disgust	0
+	bathroom	fear	0
+	bathroom	joy	0
+	bathroom	negative	0
+	bathroom	positive	0
+	bathroom	sadness	0
+	bathroom	surprise	0
+	bathroom	trust	0
+	bathymetry	anger	0
+	bathymetry	anticipation	0
+	bathymetry	disgust	0
+	bathymetry	fear	0
+	bathymetry	joy	0
+	bathymetry	negative	0
+	bathymetry	positive	0
+	bathymetry	sadness	0
+	bathymetry	surprise	0
+	bathymetry	trust	0
+	baton	anger	0
+	baton	anticipation	0
+	baton	disgust	0
+	baton	fear	0
+	baton	joy	0
+	baton	negative	0
+	baton	positive	0
+	baton	sadness	0
+	baton	surprise	0
+	baton	trust	0
+	battalion	anger	1
+	battalion	anticipation	0
+	battalion	disgust	0
+	battalion	fear	0
+	battalion	joy	0
+	battalion	negative	0
+	battalion	positive	0
+	battalion	sadness	0
+	battalion	surprise	0
+	battalion	trust	0
+	batter	anger	1
+	batter	anticipation	0
+	batter	disgust	0
+	batter	fear	1
+	batter	joy	0
+	batter	negative	1
+	batter	positive	0
+	batter	sadness	0
+	batter	surprise	0
+	batter	trust	0
+	battered	anger	0
+	battered	anticipation	0
+	battered	disgust	0
+	battered	fear	1
+	battered	joy	0
+	battered	negative	1
+	battered	positive	0
+	battered	sadness	1
+	battered	surprise	0
+	battered	trust	0
+	battery	anger	1
+	battery	anticipation	0
+	battery	disgust	0
+	battery	fear	0
+	battery	joy	0
+	battery	negative	1
+	battery	positive	0
+	battery	sadness	0
+	battery	surprise	0
+	battery	trust	0
+	battle	anger	1
+	battle	anticipation	0
+	battle	disgust	0
+	battle	fear	0
+	battle	joy	0
+	battle	negative	1
+	battle	positive	0
+	battle	sadness	0
+	battle	surprise	0
+	battle	trust	0
+	battled	anger	1
+	battled	anticipation	0
+	battled	disgust	0
+	battled	fear	1
+	battled	joy	0
+	battled	negative	1
+	battled	positive	0
+	battled	sadness	1
+	battled	surprise	0
+	battled	trust	0
+	battlefield	anger	0
+	battlefield	anticipation	0
+	battlefield	disgust	0
+	battlefield	fear	1
+	battlefield	joy	0
+	battlefield	negative	1
+	battlefield	positive	0
+	battlefield	sadness	0
+	battlefield	surprise	0
+	battlefield	trust	0
+	bawdy	anger	0
+	bawdy	anticipation	0
+	bawdy	disgust	0
+	bawdy	fear	0
+	bawdy	joy	0
+	bawdy	negative	1
+	bawdy	positive	0
+	bawdy	sadness	0
+	bawdy	surprise	0
+	bawdy	trust	0
+	bay	anger	0
+	bay	anticipation	0
+	bay	disgust	0
+	bay	fear	0
+	bay	joy	0
+	bay	negative	0
+	bay	positive	0
+	bay	sadness	0
+	bay	surprise	0
+	bay	trust	0
+	bayonet	anger	1
+	bayonet	anticipation	0
+	bayonet	disgust	0
+	bayonet	fear	1
+	bayonet	joy	0
+	bayonet	negative	1
+	bayonet	positive	0
+	bayonet	sadness	0
+	bayonet	surprise	0
+	bayonet	trust	0
+	bayou	anger	0
+	bayou	anticipation	0
+	bayou	disgust	0
+	bayou	fear	0
+	bayou	joy	0
+	bayou	negative	0
+	bayou	positive	0
+	bayou	sadness	0
+	bayou	surprise	0
+	bayou	trust	0
+	bazaar	anger	0
+	bazaar	anticipation	0
+	bazaar	disgust	0
+	bazaar	fear	0
+	bazaar	joy	0
+	bazaar	negative	0
+	bazaar	positive	0
+	bazaar	sadness	0
+	bazaar	surprise	0
+	bazaar	trust	0
+	beach	anger	0
+	beach	anticipation	0
+	beach	disgust	0
+	beach	fear	0
+	beach	joy	1
+	beach	negative	0
+	beach	positive	0
+	beach	sadness	0
+	beach	surprise	0
+	beach	trust	0
+	beacon	anger	0
+	beacon	anticipation	0
+	beacon	disgust	0
+	beacon	fear	0
+	beacon	joy	0
+	beacon	negative	0
+	beacon	positive	0
+	beacon	sadness	0
+	beacon	surprise	0
+	beacon	trust	0
+	bead	anger	0
+	bead	anticipation	0
+	bead	disgust	0
+	bead	fear	0
+	bead	joy	0
+	bead	negative	0
+	bead	positive	0
+	bead	sadness	0
+	bead	surprise	0
+	bead	trust	0
+	beading	anger	0
+	beading	anticipation	0
+	beading	disgust	0
+	beading	fear	0
+	beading	joy	0
+	beading	negative	0
+	beading	positive	0
+	beading	sadness	0
+	beading	surprise	0
+	beading	trust	0
+	beads	anger	0
+	beads	anticipation	0
+	beads	disgust	0
+	beads	fear	0
+	beads	joy	0
+	beads	negative	0
+	beads	positive	0
+	beads	sadness	0
+	beads	surprise	0
+	beads	trust	0
+	beagle	anger	0
+	beagle	anticipation	0
+	beagle	disgust	0
+	beagle	fear	0
+	beagle	joy	0
+	beagle	negative	0
+	beagle	positive	0
+	beagle	sadness	0
+	beagle	surprise	0
+	beagle	trust	0
+	beak	anger	0
+	beak	anticipation	0
+	beak	disgust	0
+	beak	fear	0
+	beak	joy	0
+	beak	negative	0
+	beak	positive	0
+	beak	sadness	0
+	beak	surprise	0
+	beak	trust	0
+	beaker	anger	0
+	beaker	anticipation	0
+	beaker	disgust	0
+	beaker	fear	0
+	beaker	joy	0
+	beaker	negative	0
+	beaker	positive	0
+	beaker	sadness	0
+	beaker	surprise	0
+	beaker	trust	0
+	beam	anger	0
+	beam	anticipation	0
+	beam	disgust	0
+	beam	fear	0
+	beam	joy	1
+	beam	negative	0
+	beam	positive	1
+	beam	sadness	0
+	beam	surprise	0
+	beam	trust	0
+	beaming	anger	0
+	beaming	anticipation	1
+	beaming	disgust	0
+	beaming	fear	0
+	beaming	joy	1
+	beaming	negative	0
+	beaming	positive	1
+	beaming	sadness	0
+	beaming	surprise	0
+	beaming	trust	0
+	bear	anger	1
+	bear	anticipation	0
+	bear	disgust	0
+	bear	fear	1
+	bear	joy	0
+	bear	negative	0
+	bear	positive	0
+	bear	sadness	0
+	bear	surprise	0
+	bear	trust	0
+	beard	anger	0
+	beard	anticipation	0
+	beard	disgust	0
+	beard	fear	0
+	beard	joy	0
+	beard	negative	0
+	beard	positive	0
+	beard	sadness	0
+	beard	surprise	0
+	beard	trust	0
+	bearded	anger	0
+	bearded	anticipation	0
+	bearded	disgust	0
+	bearded	fear	0
+	bearded	joy	0
+	bearded	negative	0
+	bearded	positive	0
+	bearded	sadness	0
+	bearded	surprise	0
+	bearded	trust	0
+	bearer	anger	0
+	bearer	anticipation	0
+	bearer	disgust	0
+	bearer	fear	0
+	bearer	joy	0
+	bearer	negative	1
+	bearer	positive	0
+	bearer	sadness	0
+	bearer	surprise	0
+	bearer	trust	0
+	bearing	anger	0
+	bearing	anticipation	0
+	bearing	disgust	0
+	bearing	fear	0
+	bearing	joy	0
+	bearing	negative	0
+	bearing	positive	0
+	bearing	sadness	0
+	bearing	surprise	0
+	bearing	trust	0
+	bearings	anger	0
+	bearings	anticipation	0
+	bearings	disgust	0
+	bearings	fear	0
+	bearings	joy	0
+	bearings	negative	0
+	bearings	positive	0
+	bearings	sadness	0
+	bearings	surprise	0
+	bearings	trust	0
+	bearish	anger	1
+	bearish	anticipation	0
+	bearish	disgust	0
+	bearish	fear	1
+	bearish	joy	0
+	bearish	negative	0
+	bearish	positive	0
+	bearish	sadness	0
+	bearish	surprise	0
+	bearish	trust	0
+	beast	anger	1
+	beast	anticipation	0
+	beast	disgust	0
+	beast	fear	1
+	beast	joy	0
+	beast	negative	1
+	beast	positive	0
+	beast	sadness	0
+	beast	surprise	0
+	beast	trust	0
+	beastly	anger	0
+	beastly	anticipation	0
+	beastly	disgust	1
+	beastly	fear	1
+	beastly	joy	0
+	beastly	negative	1
+	beastly	positive	0
+	beastly	sadness	0
+	beastly	surprise	0
+	beastly	trust	0
+	beat	anger	0
+	beat	anticipation	0
+	beat	disgust	0
+	beat	fear	0
+	beat	joy	0
+	beat	negative	0
+	beat	positive	0
+	beat	sadness	0
+	beat	surprise	0
+	beat	trust	0
+	beating	anger	1
+	beating	anticipation	0
+	beating	disgust	0
+	beating	fear	1
+	beating	joy	0
+	beating	negative	1
+	beating	positive	0
+	beating	sadness	1
+	beating	surprise	0
+	beating	trust	0
+	beau	anger	0
+	beau	anticipation	0
+	beau	disgust	0
+	beau	fear	0
+	beau	joy	0
+	beau	negative	0
+	beau	positive	0
+	beau	sadness	0
+	beau	surprise	0
+	beau	trust	0
+	beautification	anger	0
+	beautification	anticipation	0
+	beautification	disgust	0
+	beautification	fear	0
+	beautification	joy	1
+	beautification	negative	0
+	beautification	positive	1
+	beautification	sadness	0
+	beautification	surprise	0
+	beautification	trust	1
+	beautiful	anger	0
+	beautiful	anticipation	0
+	beautiful	disgust	0
+	beautiful	fear	0
+	beautiful	joy	1
+	beautiful	negative	0
+	beautiful	positive	1
+	beautiful	sadness	0
+	beautiful	surprise	0
+	beautiful	trust	0
+	beautify	anger	0
+	beautify	anticipation	0
+	beautify	disgust	0
+	beautify	fear	0
+	beautify	joy	1
+	beautify	negative	0
+	beautify	positive	1
+	beautify	sadness	0
+	beautify	surprise	0
+	beautify	trust	0
+	beauty	anger	0
+	beauty	anticipation	0
+	beauty	disgust	0
+	beauty	fear	0
+	beauty	joy	1
+	beauty	negative	0
+	beauty	positive	1
+	beauty	sadness	0
+	beauty	surprise	0
+	beauty	trust	0
+	beck	anger	0
+	beck	anticipation	0
+	beck	disgust	0
+	beck	fear	0
+	beck	joy	0
+	beck	negative	0
+	beck	positive	0
+	beck	sadness	0
+	beck	surprise	0
+	beck	trust	0
+	beckon	anger	0
+	beckon	anticipation	0
+	beckon	disgust	0
+	beckon	fear	0
+	beckon	joy	0
+	beckon	negative	0
+	beckon	positive	0
+	beckon	sadness	0
+	beckon	surprise	0
+	beckon	trust	0
+	bed	anger	0
+	bed	anticipation	0
+	bed	disgust	0
+	bed	fear	0
+	bed	joy	0
+	bed	negative	0
+	bed	positive	0
+	bed	sadness	0
+	bed	surprise	0
+	bed	trust	0
+	bedding	anger	0
+	bedding	anticipation	0
+	bedding	disgust	0
+	bedding	fear	0
+	bedding	joy	0
+	bedding	negative	0
+	bedding	positive	0
+	bedding	sadness	0
+	bedding	surprise	0
+	bedding	trust	0
+	bedrock	anger	0
+	bedrock	anticipation	0
+	bedrock	disgust	0
+	bedrock	fear	0
+	bedrock	joy	0
+	bedrock	negative	0
+	bedrock	positive	1
+	bedrock	sadness	0
+	bedrock	surprise	0
+	bedrock	trust	1
+	bedroom	anger	0
+	bedroom	anticipation	0
+	bedroom	disgust	0
+	bedroom	fear	0
+	bedroom	joy	0
+	bedroom	negative	0
+	bedroom	positive	0
+	bedroom	sadness	0
+	bedroom	surprise	0
+	bedroom	trust	0
+	bedtime	anger	0
+	bedtime	anticipation	0
+	bedtime	disgust	0
+	bedtime	fear	0
+	bedtime	joy	0
+	bedtime	negative	0
+	bedtime	positive	0
+	bedtime	sadness	0
+	bedtime	surprise	0
+	bedtime	trust	0
+	bee	anger	1
+	bee	anticipation	0
+	bee	disgust	0
+	bee	fear	1
+	bee	joy	0
+	bee	negative	0
+	bee	positive	0
+	bee	sadness	0
+	bee	surprise	0
+	bee	trust	0
+	beef	anger	0
+	beef	anticipation	0
+	beef	disgust	0
+	beef	fear	0
+	beef	joy	0
+	beef	negative	0
+	beef	positive	0
+	beef	sadness	0
+	beef	surprise	0
+	beef	trust	0
+	beehive	anger	0
+	beehive	anticipation	0
+	beehive	disgust	0
+	beehive	fear	0
+	beehive	joy	0
+	beehive	negative	0
+	beehive	positive	0
+	beehive	sadness	0
+	beehive	surprise	0
+	beehive	trust	0
+	beer	anger	0
+	beer	anticipation	0
+	beer	disgust	0
+	beer	fear	0
+	beer	joy	1
+	beer	negative	0
+	beer	positive	1
+	beer	sadness	0
+	beer	surprise	0
+	beer	trust	0
+	beeswax	anger	0
+	beeswax	anticipation	0
+	beeswax	disgust	0
+	beeswax	fear	0
+	beeswax	joy	0
+	beeswax	negative	0
+	beeswax	positive	0
+	beeswax	sadness	0
+	beeswax	surprise	0
+	beeswax	trust	0
+	beetle	anger	0
+	beetle	anticipation	0
+	beetle	disgust	0
+	beetle	fear	0
+	beetle	joy	0
+	beetle	negative	0
+	beetle	positive	0
+	beetle	sadness	0
+	beetle	surprise	0
+	beetle	trust	0
+	befall	anger	0
+	befall	anticipation	0
+	befall	disgust	0
+	befall	fear	0
+	befall	joy	0
+	befall	negative	1
+	befall	positive	0
+	befall	sadness	0
+	befall	surprise	0
+	befall	trust	0
+	befitting	anger	0
+	befitting	anticipation	0
+	befitting	disgust	0
+	befitting	fear	0
+	befitting	joy	0
+	befitting	negative	0
+	befitting	positive	1
+	befitting	sadness	0
+	befitting	surprise	0
+	befitting	trust	0
+	befriend	anger	0
+	befriend	anticipation	0
+	befriend	disgust	0
+	befriend	fear	0
+	befriend	joy	1
+	befriend	negative	0
+	befriend	positive	1
+	befriend	sadness	0
+	befriend	surprise	0
+	befriend	trust	1
+	beg	anger	0
+	beg	anticipation	0
+	beg	disgust	0
+	beg	fear	0
+	beg	joy	0
+	beg	negative	1
+	beg	positive	0
+	beg	sadness	1
+	beg	surprise	0
+	beg	trust	0
+	beggar	anger	0
+	beggar	anticipation	0
+	beggar	disgust	0
+	beggar	fear	0
+	beggar	joy	0
+	beggar	negative	1
+	beggar	positive	0
+	beggar	sadness	1
+	beggar	surprise	0
+	beggar	trust	0
+	begging	anger	0
+	begging	anticipation	0
+	begging	disgust	0
+	begging	fear	0
+	begging	joy	0
+	begging	negative	1
+	begging	positive	0
+	begging	sadness	0
+	begging	surprise	0
+	begging	trust	0
+	begin	anger	0
+	begin	anticipation	0
+	begin	disgust	0
+	begin	fear	0
+	begin	joy	0
+	begin	negative	0
+	begin	positive	0
+	begin	sadness	0
+	begin	surprise	0
+	begin	trust	0
+	beginner	anger	0
+	beginner	anticipation	0
+	beginner	disgust	0
+	beginner	fear	0
+	beginner	joy	0
+	beginner	negative	0
+	beginner	positive	0
+	beginner	sadness	0
+	beginner	surprise	0
+	beginner	trust	0
+	beginning	anger	0
+	beginning	anticipation	0
+	beginning	disgust	0
+	beginning	fear	0
+	beginning	joy	0
+	beginning	negative	0
+	beginning	positive	0
+	beginning	sadness	0
+	beginning	surprise	0
+	beginning	trust	0
+	begun	anger	0
+	begun	anticipation	1
+	begun	disgust	0
+	begun	fear	0
+	begun	joy	0
+	begun	negative	0
+	begun	positive	0
+	begun	sadness	0
+	begun	surprise	0
+	begun	trust	0
+	behavior	anger	0
+	behavior	anticipation	0
+	behavior	disgust	0
+	behavior	fear	0
+	behavior	joy	0
+	behavior	negative	0
+	behavior	positive	0
+	behavior	sadness	0
+	behavior	surprise	0
+	behavior	trust	0
+	behemoth	anger	0
+	behemoth	anticipation	0
+	behemoth	disgust	0
+	behemoth	fear	1
+	behemoth	joy	0
+	behemoth	negative	1
+	behemoth	positive	0
+	behemoth	sadness	0
+	behemoth	surprise	0
+	behemoth	trust	0
+	behest	anger	0
+	behest	anticipation	0
+	behest	disgust	0
+	behest	fear	0
+	behest	joy	0
+	behest	negative	0
+	behest	positive	0
+	behest	sadness	0
+	behest	surprise	0
+	behest	trust	0
+	behold	anger	0
+	behold	anticipation	0
+	behold	disgust	0
+	behold	fear	0
+	behold	joy	0
+	behold	negative	0
+	behold	positive	0
+	behold	sadness	0
+	behold	surprise	0
+	behold	trust	0
+	beholden	anger	0
+	beholden	anticipation	0
+	beholden	disgust	0
+	beholden	fear	0
+	beholden	joy	0
+	beholden	negative	1
+	beholden	positive	0
+	beholden	sadness	0
+	beholden	surprise	0
+	beholden	trust	0
+	beholder	anger	0
+	beholder	anticipation	0
+	beholder	disgust	0
+	beholder	fear	0
+	beholder	joy	0
+	beholder	negative	0
+	beholder	positive	0
+	beholder	sadness	0
+	beholder	surprise	0
+	beholder	trust	0
+	belated	anger	0
+	belated	anticipation	0
+	belated	disgust	0
+	belated	fear	0
+	belated	joy	0
+	belated	negative	1
+	belated	positive	0
+	belated	sadness	0
+	belated	surprise	0
+	belated	trust	0
+	belay	anger	0
+	belay	anticipation	0
+	belay	disgust	0
+	belay	fear	0
+	belay	joy	0
+	belay	negative	0
+	belay	positive	0
+	belay	sadness	0
+	belay	surprise	0
+	belay	trust	0
+	belief	anger	0
+	belief	anticipation	0
+	belief	disgust	0
+	belief	fear	0
+	belief	joy	0
+	belief	negative	0
+	belief	positive	0
+	belief	sadness	0
+	belief	surprise	0
+	belief	trust	0
+	believed	anger	0
+	believed	anticipation	0
+	believed	disgust	0
+	believed	fear	0
+	believed	joy	0
+	believed	negative	0
+	believed	positive	0
+	believed	sadness	0
+	believed	surprise	0
+	believed	trust	1
+	believer	anger	0
+	believer	anticipation	0
+	believer	disgust	0
+	believer	fear	0
+	believer	joy	0
+	believer	negative	0
+	believer	positive	0
+	believer	sadness	0
+	believer	surprise	0
+	believer	trust	1
+	believing	anger	0
+	believing	anticipation	0
+	believing	disgust	0
+	believing	fear	0
+	believing	joy	0
+	believing	negative	0
+	believing	positive	1
+	believing	sadness	0
+	believing	surprise	0
+	believing	trust	1
+	belittle	anger	1
+	belittle	anticipation	0
+	belittle	disgust	1
+	belittle	fear	1
+	belittle	joy	0
+	belittle	negative	1
+	belittle	positive	0
+	belittle	sadness	1
+	belittle	surprise	0
+	belittle	trust	0
+	bell	anger	0
+	bell	anticipation	0
+	bell	disgust	0
+	bell	fear	0
+	bell	joy	0
+	bell	negative	0
+	bell	positive	0
+	bell	sadness	0
+	bell	surprise	0
+	bell	trust	0
+	belligerent	anger	1
+	belligerent	anticipation	0
+	belligerent	disgust	0
+	belligerent	fear	1
+	belligerent	joy	0
+	belligerent	negative	1
+	belligerent	positive	0
+	belligerent	sadness	0
+	belligerent	surprise	0
+	belligerent	trust	0
+	bellow	anger	0
+	bellow	anticipation	0
+	bellow	disgust	0
+	bellow	fear	0
+	bellow	joy	0
+	bellow	negative	0
+	bellow	positive	0
+	bellow	sadness	0
+	bellow	surprise	0
+	bellow	trust	0
+	bellows	anger	1
+	bellows	anticipation	0
+	bellows	disgust	0
+	bellows	fear	0
+	bellows	joy	0
+	bellows	negative	0
+	bellows	positive	0
+	bellows	sadness	0
+	bellows	surprise	0
+	bellows	trust	0
+	belly	anger	0
+	belly	anticipation	0
+	belly	disgust	0
+	belly	fear	0
+	belly	joy	0
+	belly	negative	0
+	belly	positive	0
+	belly	sadness	0
+	belly	surprise	0
+	belly	trust	0
+	belongings	anger	0
+	belongings	anticipation	0
+	belongings	disgust	0
+	belongings	fear	0
+	belongings	joy	0
+	belongings	negative	0
+	belongings	positive	0
+	belongings	sadness	0
+	belongings	surprise	0
+	belongings	trust	0
+	belt	anger	1
+	belt	anticipation	0
+	belt	disgust	0
+	belt	fear	1
+	belt	joy	0
+	belt	negative	1
+	belt	positive	0
+	belt	sadness	0
+	belt	surprise	0
+	belt	trust	0
+	bemused	anger	0
+	bemused	anticipation	0
+	bemused	disgust	0
+	bemused	fear	0
+	bemused	joy	0
+	bemused	negative	0
+	bemused	positive	0
+	bemused	sadness	0
+	bemused	surprise	0
+	bemused	trust	0
+	bench	anger	0
+	bench	anticipation	0
+	bench	disgust	0
+	bench	fear	0
+	bench	joy	0
+	bench	negative	0
+	bench	positive	0
+	bench	sadness	0
+	bench	surprise	0
+	bench	trust	0
+	bend	anger	0
+	bend	anticipation	0
+	bend	disgust	0
+	bend	fear	0
+	bend	joy	0
+	bend	negative	0
+	bend	positive	0
+	bend	sadness	0
+	bend	surprise	0
+	bend	trust	0
+	bender	anger	0
+	bender	anticipation	0
+	bender	disgust	0
+	bender	fear	0
+	bender	joy	0
+	bender	negative	1
+	bender	positive	0
+	bender	sadness	0
+	bender	surprise	0
+	bender	trust	0
+	bending	anger	0
+	bending	anticipation	0
+	bending	disgust	0
+	bending	fear	0
+	bending	joy	0
+	bending	negative	0
+	bending	positive	0
+	bending	sadness	0
+	bending	surprise	0
+	bending	trust	0
+	beneath	anger	0
+	beneath	anticipation	0
+	beneath	disgust	0
+	beneath	fear	0
+	beneath	joy	0
+	beneath	negative	0
+	beneath	positive	0
+	beneath	sadness	0
+	beneath	surprise	0
+	beneath	trust	0
+	benefactor	anger	0
+	benefactor	anticipation	0
+	benefactor	disgust	0
+	benefactor	fear	0
+	benefactor	joy	0
+	benefactor	negative	0
+	benefactor	positive	1
+	benefactor	sadness	0
+	benefactor	surprise	0
+	benefactor	trust	1
+	beneficial	anger	0
+	beneficial	anticipation	0
+	beneficial	disgust	0
+	beneficial	fear	0
+	beneficial	joy	0
+	beneficial	negative	0
+	beneficial	positive	1
+	beneficial	sadness	0
+	beneficial	surprise	0
+	beneficial	trust	0
+	beneficiary	anger	0
+	beneficiary	anticipation	0
+	beneficiary	disgust	0
+	beneficiary	fear	0
+	beneficiary	joy	0
+	beneficiary	negative	0
+	beneficiary	positive	0
+	beneficiary	sadness	0
+	beneficiary	surprise	0
+	beneficiary	trust	0
+	benefit	anger	0
+	benefit	anticipation	0
+	benefit	disgust	0
+	benefit	fear	0
+	benefit	joy	0
+	benefit	negative	0
+	benefit	positive	1
+	benefit	sadness	0
+	benefit	surprise	0
+	benefit	trust	0
+	benevolence	anger	0
+	benevolence	anticipation	0
+	benevolence	disgust	0
+	benevolence	fear	0
+	benevolence	joy	1
+	benevolence	negative	0
+	benevolence	positive	1
+	benevolence	sadness	0
+	benevolence	surprise	0
+	benevolence	trust	1
+	benign	anger	0
+	benign	anticipation	0
+	benign	disgust	0
+	benign	fear	0
+	benign	joy	1
+	benign	negative	0
+	benign	positive	1
+	benign	sadness	0
+	benign	surprise	0
+	benign	trust	0
+	bent	anger	0
+	bent	anticipation	0
+	bent	disgust	0
+	bent	fear	0
+	bent	joy	0
+	bent	negative	0
+	bent	positive	0
+	bent	sadness	0
+	bent	surprise	0
+	bent	trust	0
+	benzene	anger	0
+	benzene	anticipation	0
+	benzene	disgust	0
+	benzene	fear	0
+	benzene	joy	0
+	benzene	negative	0
+	benzene	positive	0
+	benzene	sadness	0
+	benzene	surprise	0
+	benzene	trust	0
+	bequeath	anger	0
+	bequeath	anticipation	0
+	bequeath	disgust	0
+	bequeath	fear	0
+	bequeath	joy	0
+	bequeath	negative	0
+	bequeath	positive	0
+	bequeath	sadness	0
+	bequeath	surprise	0
+	bequeath	trust	0
+	bequest	anger	0
+	bequest	anticipation	0
+	bequest	disgust	0
+	bequest	fear	0
+	bequest	joy	0
+	bequest	negative	0
+	bequest	positive	0
+	bequest	sadness	0
+	bequest	surprise	0
+	bequest	trust	1
+	bereaved	anger	0
+	bereaved	anticipation	0
+	bereaved	disgust	0
+	bereaved	fear	0
+	bereaved	joy	0
+	bereaved	negative	1
+	bereaved	positive	0
+	bereaved	sadness	1
+	bereaved	surprise	0
+	bereaved	trust	0
+	bereavement	anger	0
+	bereavement	anticipation	0
+	bereavement	disgust	0
+	bereavement	fear	0
+	bereavement	joy	0
+	bereavement	negative	1
+	bereavement	positive	0
+	bereavement	sadness	1
+	bereavement	surprise	0
+	bereavement	trust	0
+	bereft	anger	0
+	bereft	anticipation	0
+	bereft	disgust	0
+	bereft	fear	0
+	bereft	joy	0
+	bereft	negative	1
+	bereft	positive	0
+	bereft	sadness	0
+	bereft	surprise	0
+	bereft	trust	0
+	bergamot	anger	0
+	bergamot	anticipation	0
+	bergamot	disgust	0
+	bergamot	fear	0
+	bergamot	joy	0
+	bergamot	negative	0
+	bergamot	positive	0
+	bergamot	sadness	0
+	bergamot	surprise	0
+	bergamot	trust	0
+	berlin	anger	0
+	berlin	anticipation	0
+	berlin	disgust	0
+	berlin	fear	0
+	berlin	joy	0
+	berlin	negative	0
+	berlin	positive	0
+	berlin	sadness	0
+	berlin	surprise	0
+	berlin	trust	0
+	berserk	anger	1
+	berserk	anticipation	0
+	berserk	disgust	0
+	berserk	fear	0
+	berserk	joy	0
+	berserk	negative	1
+	berserk	positive	0
+	berserk	sadness	0
+	berserk	surprise	0
+	berserk	trust	0
+	berth	anger	0
+	berth	anticipation	0
+	berth	disgust	0
+	berth	fear	0
+	berth	joy	0
+	berth	negative	0
+	berth	positive	1
+	berth	sadness	0
+	berth	surprise	0
+	berth	trust	0
+	beseech	anger	0
+	beseech	anticipation	0
+	beseech	disgust	0
+	beseech	fear	0
+	beseech	joy	0
+	beseech	negative	0
+	beseech	positive	0
+	beseech	sadness	0
+	beseech	surprise	0
+	beseech	trust	0
+	beset	anger	0
+	beset	anticipation	0
+	beset	disgust	0
+	beset	fear	0
+	beset	joy	0
+	beset	negative	0
+	beset	positive	0
+	beset	sadness	0
+	beset	surprise	0
+	beset	trust	0
+	bestial	anger	0
+	bestial	anticipation	0
+	bestial	disgust	1
+	bestial	fear	1
+	bestial	joy	0
+	bestial	negative	1
+	bestial	positive	0
+	bestial	sadness	0
+	bestial	surprise	0
+	bestial	trust	0
+	bestow	anger	0
+	bestow	anticipation	0
+	bestow	disgust	0
+	bestow	fear	0
+	bestow	joy	0
+	bestow	negative	0
+	bestow	positive	0
+	bestow	sadness	0
+	bestow	surprise	0
+	bestow	trust	0
+	bet	anger	0
+	bet	anticipation	0
+	bet	disgust	0
+	bet	fear	0
+	bet	joy	0
+	bet	negative	0
+	bet	positive	0
+	bet	sadness	0
+	bet	surprise	0
+	bet	trust	0
+	betray	anger	1
+	betray	anticipation	0
+	betray	disgust	1
+	betray	fear	0
+	betray	joy	0
+	betray	negative	1
+	betray	positive	0
+	betray	sadness	1
+	betray	surprise	1
+	betray	trust	0
+	betrayal	anger	1
+	betrayal	anticipation	0
+	betrayal	disgust	1
+	betrayal	fear	0
+	betrayal	joy	0
+	betrayal	negative	1
+	betrayal	positive	0
+	betrayal	sadness	1
+	betrayal	surprise	0
+	betrayal	trust	0
+	betrothed	anger	0
+	betrothed	anticipation	1
+	betrothed	disgust	0
+	betrothed	fear	0
+	betrothed	joy	1
+	betrothed	negative	0
+	betrothed	positive	1
+	betrothed	sadness	0
+	betrothed	surprise	0
+	betrothed	trust	1
+	betterment	anger	0
+	betterment	anticipation	0
+	betterment	disgust	0
+	betterment	fear	0
+	betterment	joy	0
+	betterment	negative	0
+	betterment	positive	1
+	betterment	sadness	0
+	betterment	surprise	0
+	betterment	trust	0
+	betting	anger	0
+	betting	anticipation	0
+	betting	disgust	0
+	betting	fear	0
+	betting	joy	0
+	betting	negative	0
+	betting	positive	0
+	betting	sadness	0
+	betting	surprise	0
+	betting	trust	0
+	betty	anger	0
+	betty	anticipation	0
+	betty	disgust	0
+	betty	fear	0
+	betty	joy	0
+	betty	negative	0
+	betty	positive	0
+	betty	sadness	0
+	betty	surprise	0
+	betty	trust	0
+	bevel	anger	0
+	bevel	anticipation	0
+	bevel	disgust	0
+	bevel	fear	0
+	bevel	joy	0
+	bevel	negative	0
+	bevel	positive	0
+	bevel	sadness	0
+	bevel	surprise	0
+	bevel	trust	0
+	beverage	anger	0
+	beverage	anticipation	0
+	beverage	disgust	0
+	beverage	fear	0
+	beverage	joy	0
+	beverage	negative	0
+	beverage	positive	1
+	beverage	sadness	0
+	beverage	surprise	0
+	beverage	trust	0
+	bevy	anger	0
+	bevy	anticipation	0
+	bevy	disgust	0
+	bevy	fear	0
+	bevy	joy	0
+	bevy	negative	0
+	bevy	positive	0
+	bevy	sadness	0
+	bevy	surprise	0
+	bevy	trust	0
+	beware	anger	0
+	beware	anticipation	1
+	beware	disgust	0
+	beware	fear	1
+	beware	joy	0
+	beware	negative	1
+	beware	positive	0
+	beware	sadness	0
+	beware	surprise	0
+	beware	trust	0
+	bewildered	anger	0
+	bewildered	anticipation	0
+	bewildered	disgust	0
+	bewildered	fear	1
+	bewildered	joy	0
+	bewildered	negative	1
+	bewildered	positive	0
+	bewildered	sadness	0
+	bewildered	surprise	1
+	bewildered	trust	0
+	bewilderment	anger	0
+	bewilderment	anticipation	0
+	bewilderment	disgust	0
+	bewilderment	fear	1
+	bewilderment	joy	0
+	bewilderment	negative	0
+	bewilderment	positive	0
+	bewilderment	sadness	0
+	bewilderment	surprise	1
+	bewilderment	trust	0
+	bias	anger	1
+	bias	anticipation	0
+	bias	disgust	0
+	bias	fear	0
+	bias	joy	0
+	bias	negative	1
+	bias	positive	0
+	bias	sadness	0
+	bias	surprise	0
+	bias	trust	0
+	biased	anger	0
+	biased	anticipation	0
+	biased	disgust	0
+	biased	fear	0
+	biased	joy	0
+	biased	negative	1
+	biased	positive	0
+	biased	sadness	0
+	biased	surprise	0
+	biased	trust	0
+	bib	anger	0
+	bib	anticipation	0
+	bib	disgust	0
+	bib	fear	0
+	bib	joy	0
+	bib	negative	0
+	bib	positive	0
+	bib	sadness	0
+	bib	surprise	0
+	bib	trust	0
+	biblical	anger	0
+	biblical	anticipation	0
+	biblical	disgust	0
+	biblical	fear	0
+	biblical	joy	0
+	biblical	negative	0
+	biblical	positive	1
+	biblical	sadness	0
+	biblical	surprise	0
+	biblical	trust	0
+	bibliography	anger	0
+	bibliography	anticipation	0
+	bibliography	disgust	0
+	bibliography	fear	0
+	bibliography	joy	0
+	bibliography	negative	0
+	bibliography	positive	0
+	bibliography	sadness	0
+	bibliography	surprise	0
+	bibliography	trust	0
+	bickering	anger	1
+	bickering	anticipation	0
+	bickering	disgust	1
+	bickering	fear	0
+	bickering	joy	0
+	bickering	negative	1
+	bickering	positive	0
+	bickering	sadness	0
+	bickering	surprise	0
+	bickering	trust	0
+	bicolor	anger	0
+	bicolor	anticipation	0
+	bicolor	disgust	0
+	bicolor	fear	0
+	bicolor	joy	0
+	bicolor	negative	0
+	bicolor	positive	0
+	bicolor	sadness	0
+	bicolor	surprise	0
+	bicolor	trust	0
+	bicycle	anger	0
+	bicycle	anticipation	0
+	bicycle	disgust	0
+	bicycle	fear	0
+	bicycle	joy	0
+	bicycle	negative	0
+	bicycle	positive	0
+	bicycle	sadness	0
+	bicycle	surprise	0
+	bicycle	trust	0
+	bid	anger	0
+	bid	anticipation	0
+	bid	disgust	0
+	bid	fear	0
+	bid	joy	0
+	bid	negative	0
+	bid	positive	0
+	bid	sadness	0
+	bid	surprise	0
+	bid	trust	0
+	bidder	anger	0
+	bidder	anticipation	0
+	bidder	disgust	0
+	bidder	fear	0
+	bidder	joy	0
+	bidder	negative	0
+	bidder	positive	0
+	bidder	sadness	0
+	bidder	surprise	0
+	bidder	trust	0
+	bidding	anger	0
+	bidding	anticipation	0
+	bidding	disgust	0
+	bidding	fear	0
+	bidding	joy	0
+	bidding	negative	0
+	bidding	positive	0
+	bidding	sadness	0
+	bidding	surprise	0
+	bidding	trust	0
+	biennial	anger	0
+	biennial	anticipation	1
+	biennial	disgust	0
+	biennial	fear	0
+	biennial	joy	0
+	biennial	negative	0
+	biennial	positive	0
+	biennial	sadness	0
+	biennial	surprise	0
+	biennial	trust	0
+	bier	anger	0
+	bier	anticipation	0
+	bier	disgust	0
+	bier	fear	1
+	bier	joy	0
+	bier	negative	1
+	bier	positive	0
+	bier	sadness	1
+	bier	surprise	0
+	bier	trust	0
+	bifurcation	anger	0
+	bifurcation	anticipation	0
+	bifurcation	disgust	0
+	bifurcation	fear	0
+	bifurcation	joy	0
+	bifurcation	negative	0
+	bifurcation	positive	0
+	bifurcation	sadness	0
+	bifurcation	surprise	0
+	bifurcation	trust	0
+	big	anger	0
+	big	anticipation	0
+	big	disgust	0
+	big	fear	0
+	big	joy	0
+	big	negative	0
+	big	positive	0
+	big	sadness	0
+	big	surprise	0
+	big	trust	0
+	bigot	anger	1
+	bigot	anticipation	0
+	bigot	disgust	1
+	bigot	fear	1
+	bigot	joy	0
+	bigot	negative	1
+	bigot	positive	0
+	bigot	sadness	0
+	bigot	surprise	0
+	bigot	trust	0
+	bigoted	anger	1
+	bigoted	anticipation	0
+	bigoted	disgust	1
+	bigoted	fear	1
+	bigoted	joy	0
+	bigoted	negative	1
+	bigoted	positive	0
+	bigoted	sadness	1
+	bigoted	surprise	0
+	bigoted	trust	0
+	bike	anger	0
+	bike	anticipation	0
+	bike	disgust	0
+	bike	fear	0
+	bike	joy	0
+	bike	negative	0
+	bike	positive	0
+	bike	sadness	0
+	bike	surprise	0
+	bike	trust	0
+	bilateral	anger	0
+	bilateral	anticipation	0
+	bilateral	disgust	0
+	bilateral	fear	0
+	bilateral	joy	0
+	bilateral	negative	0
+	bilateral	positive	0
+	bilateral	sadness	0
+	bilateral	surprise	0
+	bilateral	trust	0
+	bilayer	anger	0
+	bilayer	anticipation	0
+	bilayer	disgust	0
+	bilayer	fear	0
+	bilayer	joy	0
+	bilayer	negative	0
+	bilayer	positive	0
+	bilayer	sadness	0
+	bilayer	surprise	0
+	bilayer	trust	0
+	bile	anger	1
+	bile	anticipation	0
+	bile	disgust	1
+	bile	fear	0
+	bile	joy	0
+	bile	negative	1
+	bile	positive	0
+	bile	sadness	0
+	bile	surprise	0
+	bile	trust	0
+	bilge	anger	0
+	bilge	anticipation	0
+	bilge	disgust	0
+	bilge	fear	0
+	bilge	joy	0
+	bilge	negative	0
+	bilge	positive	0
+	bilge	sadness	0
+	bilge	surprise	0
+	bilge	trust	0
+	bilingual	anger	0
+	bilingual	anticipation	0
+	bilingual	disgust	0
+	bilingual	fear	0
+	bilingual	joy	0
+	bilingual	negative	0
+	bilingual	positive	1
+	bilingual	sadness	0
+	bilingual	surprise	0
+	bilingual	trust	0
+	bill	anger	0
+	bill	anticipation	0
+	bill	disgust	0
+	bill	fear	0
+	bill	joy	0
+	bill	negative	0
+	bill	positive	0
+	bill	sadness	0
+	bill	surprise	0
+	bill	trust	0
+	billet	anger	0
+	billet	anticipation	0
+	billet	disgust	0
+	billet	fear	0
+	billet	joy	0
+	billet	negative	0
+	billet	positive	0
+	billet	sadness	0
+	billet	surprise	0
+	billet	trust	0
+	billiards	anger	0
+	billiards	anticipation	0
+	billiards	disgust	0
+	billiards	fear	0
+	billiards	joy	0
+	billiards	negative	0
+	billiards	positive	0
+	billiards	sadness	0
+	billiards	surprise	0
+	billiards	trust	0
+	billion	anger	0
+	billion	anticipation	0
+	billion	disgust	0
+	billion	fear	0
+	billion	joy	0
+	billion	negative	0
+	billion	positive	0
+	billion	sadness	0
+	billion	surprise	0
+	billion	trust	0
+	billy	anger	0
+	billy	anticipation	0
+	billy	disgust	0
+	billy	fear	0
+	billy	joy	0
+	billy	negative	0
+	billy	positive	0
+	billy	sadness	0
+	billy	surprise	0
+	billy	trust	0
+	bimonthly	anger	0
+	bimonthly	anticipation	0
+	bimonthly	disgust	0
+	bimonthly	fear	0
+	bimonthly	joy	0
+	bimonthly	negative	0
+	bimonthly	positive	0
+	bimonthly	sadness	0
+	bimonthly	surprise	0
+	bimonthly	trust	0
+	bin	anger	0
+	bin	anticipation	0
+	bin	disgust	0
+	bin	fear	0
+	bin	joy	0
+	bin	negative	0
+	bin	positive	0
+	bin	sadness	0
+	bin	surprise	0
+	bin	trust	0
+	binary	anger	0
+	binary	anticipation	0
+	binary	disgust	0
+	binary	fear	0
+	binary	joy	0
+	binary	negative	0
+	binary	positive	0
+	binary	sadness	0
+	binary	surprise	0
+	binary	trust	0
+	bind	anger	0
+	bind	anticipation	0
+	bind	disgust	0
+	bind	fear	0
+	bind	joy	0
+	bind	negative	0
+	bind	positive	0
+	bind	sadness	0
+	bind	surprise	0
+	bind	trust	0
+	bindery	anger	0
+	bindery	anticipation	0
+	bindery	disgust	0
+	bindery	fear	0
+	bindery	joy	0
+	bindery	negative	0
+	bindery	positive	0
+	bindery	sadness	0
+	bindery	surprise	0
+	bindery	trust	0
+	binding	anger	0
+	binding	anticipation	0
+	binding	disgust	0
+	binding	fear	0
+	binding	joy	0
+	binding	negative	0
+	binding	positive	0
+	binding	sadness	0
+	binding	surprise	0
+	binding	trust	0
+	bing	anger	0
+	bing	anticipation	0
+	bing	disgust	0
+	bing	fear	0
+	bing	joy	0
+	bing	negative	0
+	bing	positive	0
+	bing	sadness	0
+	bing	surprise	0
+	bing	trust	0
+	binocular	anger	0
+	binocular	anticipation	0
+	binocular	disgust	0
+	binocular	fear	0
+	binocular	joy	0
+	binocular	negative	0
+	binocular	positive	0
+	binocular	sadness	0
+	binocular	surprise	0
+	binocular	trust	0
+	binoculars	anger	0
+	binoculars	anticipation	0
+	binoculars	disgust	0
+	binoculars	fear	0
+	binoculars	joy	0
+	binoculars	negative	0
+	binoculars	positive	0
+	binoculars	sadness	0
+	binoculars	surprise	0
+	binoculars	trust	0
+	binomial	anger	0
+	binomial	anticipation	0
+	binomial	disgust	0
+	binomial	fear	0
+	binomial	joy	0
+	binomial	negative	0
+	binomial	positive	0
+	binomial	sadness	0
+	binomial	surprise	0
+	binomial	trust	0
+	biogenesis	anger	0
+	biogenesis	anticipation	0
+	biogenesis	disgust	0
+	biogenesis	fear	0
+	biogenesis	joy	0
+	biogenesis	negative	0
+	biogenesis	positive	0
+	biogenesis	sadness	0
+	biogenesis	surprise	0
+	biogenesis	trust	0
+	biographer	anger	0
+	biographer	anticipation	0
+	biographer	disgust	0
+	biographer	fear	0
+	biographer	joy	0
+	biographer	negative	0
+	biographer	positive	0
+	biographer	sadness	0
+	biographer	surprise	0
+	biographer	trust	0
+	biography	anger	0
+	biography	anticipation	0
+	biography	disgust	0
+	biography	fear	0
+	biography	joy	0
+	biography	negative	0
+	biography	positive	0
+	biography	sadness	0
+	biography	surprise	0
+	biography	trust	0
+	biology	anger	0
+	biology	anticipation	0
+	biology	disgust	0
+	biology	fear	0
+	biology	joy	0
+	biology	negative	0
+	biology	positive	0
+	biology	sadness	0
+	biology	surprise	0
+	biology	trust	0
+	biopsy	anger	0
+	biopsy	anticipation	0
+	biopsy	disgust	0
+	biopsy	fear	1
+	biopsy	joy	0
+	biopsy	negative	1
+	biopsy	positive	0
+	biopsy	sadness	0
+	biopsy	surprise	0
+	biopsy	trust	0
+	biosphere	anger	0
+	biosphere	anticipation	0
+	biosphere	disgust	0
+	biosphere	fear	0
+	biosphere	joy	0
+	biosphere	negative	0
+	biosphere	positive	0
+	biosphere	sadness	0
+	biosphere	surprise	0
+	biosphere	trust	0
+	bipartite	anger	0
+	bipartite	anticipation	0
+	bipartite	disgust	0
+	bipartite	fear	0
+	bipartite	joy	0
+	bipartite	negative	0
+	bipartite	positive	0
+	bipartite	sadness	0
+	bipartite	surprise	0
+	bipartite	trust	0
+	birch	anger	1
+	birch	anticipation	0
+	birch	disgust	1
+	birch	fear	1
+	birch	joy	0
+	birch	negative	1
+	birch	positive	0
+	birch	sadness	0
+	birch	surprise	0
+	birch	trust	0
+	bird	anger	0
+	bird	anticipation	0
+	bird	disgust	0
+	bird	fear	0
+	bird	joy	0
+	bird	negative	0
+	bird	positive	0
+	bird	sadness	0
+	bird	surprise	0
+	bird	trust	0
+	birth	anger	0
+	birth	anticipation	1
+	birth	disgust	0
+	birth	fear	1
+	birth	joy	1
+	birth	negative	0
+	birth	positive	1
+	birth	sadness	0
+	birth	surprise	0
+	birth	trust	1
+	birthday	anger	0
+	birthday	anticipation	1
+	birthday	disgust	0
+	birthday	fear	0
+	birthday	joy	1
+	birthday	negative	0
+	birthday	positive	1
+	birthday	sadness	0
+	birthday	surprise	1
+	birthday	trust	0
+	birthplace	anger	1
+	birthplace	anticipation	0
+	birthplace	disgust	0
+	birthplace	fear	0
+	birthplace	joy	0
+	birthplace	negative	1
+	birthplace	positive	0
+	birthplace	sadness	0
+	birthplace	surprise	0
+	birthplace	trust	0
+	birthright	anger	0
+	birthright	anticipation	0
+	birthright	disgust	0
+	birthright	fear	0
+	birthright	joy	0
+	birthright	negative	0
+	birthright	positive	0
+	birthright	sadness	0
+	birthright	surprise	0
+	birthright	trust	0
+	bis	anger	0
+	bis	anticipation	0
+	bis	disgust	0
+	bis	fear	0
+	bis	joy	0
+	bis	negative	0
+	bis	positive	0
+	bis	sadness	0
+	bis	surprise	0
+	bis	trust	0
+	bisexual	anger	0
+	bisexual	anticipation	0
+	bisexual	disgust	0
+	bisexual	fear	0
+	bisexual	joy	0
+	bisexual	negative	0
+	bisexual	positive	0
+	bisexual	sadness	0
+	bisexual	surprise	0
+	bisexual	trust	0
+	bishop	anger	0
+	bishop	anticipation	0
+	bishop	disgust	0
+	bishop	fear	0
+	bishop	joy	0
+	bishop	negative	0
+	bishop	positive	0
+	bishop	sadness	0
+	bishop	surprise	0
+	bishop	trust	0
+	bison	anger	0
+	bison	anticipation	0
+	bison	disgust	0
+	bison	fear	0
+	bison	joy	0
+	bison	negative	0
+	bison	positive	0
+	bison	sadness	0
+	bison	surprise	0
+	bison	trust	0
+	bit	anger	0
+	bit	anticipation	0
+	bit	disgust	0
+	bit	fear	0
+	bit	joy	0
+	bit	negative	0
+	bit	positive	0
+	bit	sadness	0
+	bit	surprise	0
+	bit	trust	0
+	bitch	anger	1
+	bitch	anticipation	0
+	bitch	disgust	1
+	bitch	fear	1
+	bitch	joy	0
+	bitch	negative	1
+	bitch	positive	0
+	bitch	sadness	1
+	bitch	surprise	0
+	bitch	trust	0
+	bite	anger	0
+	bite	anticipation	0
+	bite	disgust	0
+	bite	fear	0
+	bite	joy	0
+	bite	negative	1
+	bite	positive	0
+	bite	sadness	0
+	bite	surprise	0
+	bite	trust	0
+	bitterly	anger	1
+	bitterly	anticipation	0
+	bitterly	disgust	1
+	bitterly	fear	0
+	bitterly	joy	0
+	bitterly	negative	1
+	bitterly	positive	0
+	bitterly	sadness	1
+	bitterly	surprise	0
+	bitterly	trust	0
+	bitterness	anger	1
+	bitterness	anticipation	0
+	bitterness	disgust	1
+	bitterness	fear	0
+	bitterness	joy	0
+	bitterness	negative	1
+	bitterness	positive	0
+	bitterness	sadness	1
+	bitterness	surprise	0
+	bitterness	trust	0
+	bitumen	anger	0
+	bitumen	anticipation	0
+	bitumen	disgust	0
+	bitumen	fear	0
+	bitumen	joy	0
+	bitumen	negative	0
+	bitumen	positive	0
+	bitumen	sadness	0
+	bitumen	surprise	0
+	bitumen	trust	0
+	biweekly	anger	0
+	biweekly	anticipation	0
+	biweekly	disgust	0
+	biweekly	fear	0
+	biweekly	joy	0
+	biweekly	negative	0
+	biweekly	positive	0
+	biweekly	sadness	0
+	biweekly	surprise	0
+	biweekly	trust	0
+	bizarre	anger	0
+	bizarre	anticipation	0
+	bizarre	disgust	0
+	bizarre	fear	0
+	bizarre	joy	0
+	bizarre	negative	1
+	bizarre	positive	0
+	bizarre	sadness	0
+	bizarre	surprise	1
+	bizarre	trust	0
+	black	anger	0
+	black	anticipation	0
+	black	disgust	0
+	black	fear	0
+	black	joy	0
+	black	negative	1
+	black	positive	0
+	black	sadness	1
+	black	surprise	0
+	black	trust	0
+	blackberry	anger	0
+	blackberry	anticipation	0
+	blackberry	disgust	0
+	blackberry	fear	0
+	blackberry	joy	0
+	blackberry	negative	0
+	blackberry	positive	0
+	blackberry	sadness	0
+	blackberry	surprise	0
+	blackberry	trust	0
+	blackboard	anger	0
+	blackboard	anticipation	0
+	blackboard	disgust	0
+	blackboard	fear	0
+	blackboard	joy	0
+	blackboard	negative	0
+	blackboard	positive	0
+	blackboard	sadness	0
+	blackboard	surprise	0
+	blackboard	trust	0
+	blackjack	anger	0
+	blackjack	anticipation	0
+	blackjack	disgust	0
+	blackjack	fear	0
+	blackjack	joy	0
+	blackjack	negative	1
+	blackjack	positive	0
+	blackjack	sadness	0
+	blackjack	surprise	0
+	blackjack	trust	0
+	blackmail	anger	1
+	blackmail	anticipation	0
+	blackmail	disgust	0
+	blackmail	fear	1
+	blackmail	joy	0
+	blackmail	negative	1
+	blackmail	positive	0
+	blackmail	sadness	0
+	blackmail	surprise	0
+	blackmail	trust	0
+	blackness	anger	0
+	blackness	anticipation	0
+	blackness	disgust	0
+	blackness	fear	1
+	blackness	joy	0
+	blackness	negative	1
+	blackness	positive	0
+	blackness	sadness	1
+	blackness	surprise	0
+	blackness	trust	0
+	blacksmith	anger	0
+	blacksmith	anticipation	0
+	blacksmith	disgust	0
+	blacksmith	fear	0
+	blacksmith	joy	0
+	blacksmith	negative	0
+	blacksmith	positive	0
+	blacksmith	sadness	0
+	blacksmith	surprise	0
+	blacksmith	trust	0
+	bladder	anger	0
+	bladder	anticipation	0
+	bladder	disgust	0
+	bladder	fear	0
+	bladder	joy	0
+	bladder	negative	0
+	bladder	positive	0
+	bladder	sadness	0
+	bladder	surprise	0
+	bladder	trust	0
+	blade	anger	0
+	blade	anticipation	0
+	blade	disgust	0
+	blade	fear	0
+	blade	joy	0
+	blade	negative	0
+	blade	positive	0
+	blade	sadness	0
+	blade	surprise	0
+	blade	trust	0
+	blame	anger	1
+	blame	anticipation	0
+	blame	disgust	1
+	blame	fear	0
+	blame	joy	0
+	blame	negative	1
+	blame	positive	0
+	blame	sadness	0
+	blame	surprise	0
+	blame	trust	0
+	blameless	anger	0
+	blameless	anticipation	0
+	blameless	disgust	0
+	blameless	fear	0
+	blameless	joy	0
+	blameless	negative	0
+	blameless	positive	1
+	blameless	sadness	0
+	blameless	surprise	0
+	blameless	trust	0
+	bland	anger	0
+	bland	anticipation	0
+	bland	disgust	0
+	bland	fear	0
+	bland	joy	0
+	bland	negative	1
+	bland	positive	0
+	bland	sadness	0
+	bland	surprise	0
+	bland	trust	0
+	blank	anger	0
+	blank	anticipation	0
+	blank	disgust	0
+	blank	fear	0
+	blank	joy	0
+	blank	negative	0
+	blank	positive	0
+	blank	sadness	0
+	blank	surprise	0
+	blank	trust	0
+	blanket	anger	0
+	blanket	anticipation	0
+	blanket	disgust	0
+	blanket	fear	0
+	blanket	joy	0
+	blanket	negative	0
+	blanket	positive	0
+	blanket	sadness	0
+	blanket	surprise	0
+	blanket	trust	1
+	blasphemous	anger	1
+	blasphemous	anticipation	0
+	blasphemous	disgust	1
+	blasphemous	fear	0
+	blasphemous	joy	0
+	blasphemous	negative	1
+	blasphemous	positive	0
+	blasphemous	sadness	0
+	blasphemous	surprise	0
+	blasphemous	trust	0
+	blasphemy	anger	1
+	blasphemy	anticipation	0
+	blasphemy	disgust	0
+	blasphemy	fear	0
+	blasphemy	joy	0
+	blasphemy	negative	1
+	blasphemy	positive	0
+	blasphemy	sadness	0
+	blasphemy	surprise	0
+	blasphemy	trust	0
+	blast	anger	1
+	blast	anticipation	0
+	blast	disgust	0
+	blast	fear	1
+	blast	joy	0
+	blast	negative	1
+	blast	positive	0
+	blast	sadness	0
+	blast	surprise	1
+	blast	trust	0
+	blatant	anger	1
+	blatant	anticipation	0
+	blatant	disgust	1
+	blatant	fear	0
+	blatant	joy	0
+	blatant	negative	1
+	blatant	positive	0
+	blatant	sadness	0
+	blatant	surprise	0
+	blatant	trust	0
+	blather	anger	0
+	blather	anticipation	0
+	blather	disgust	0
+	blather	fear	0
+	blather	joy	0
+	blather	negative	1
+	blather	positive	0
+	blather	sadness	0
+	blather	surprise	0
+	blather	trust	0
+	blaze	anger	1
+	blaze	anticipation	0
+	blaze	disgust	0
+	blaze	fear	0
+	blaze	joy	0
+	blaze	negative	1
+	blaze	positive	0
+	blaze	sadness	0
+	blaze	surprise	0
+	blaze	trust	0
+	blazing	anger	0
+	blazing	anticipation	0
+	blazing	disgust	0
+	blazing	fear	0
+	blazing	joy	0
+	blazing	negative	0
+	blazing	positive	0
+	blazing	sadness	0
+	blazing	surprise	0
+	blazing	trust	0
+	bleach	anger	0
+	bleach	anticipation	0
+	bleach	disgust	0
+	bleach	fear	0
+	bleach	joy	0
+	bleach	negative	0
+	bleach	positive	0
+	bleach	sadness	0
+	bleach	surprise	0
+	bleach	trust	0
+	bleak	anger	0
+	bleak	anticipation	0
+	bleak	disgust	0
+	bleak	fear	0
+	bleak	joy	0
+	bleak	negative	1
+	bleak	positive	0
+	bleak	sadness	1
+	bleak	surprise	0
+	bleak	trust	0
+	bleeding	anger	0
+	bleeding	anticipation	0
+	bleeding	disgust	1
+	bleeding	fear	1
+	bleeding	joy	0
+	bleeding	negative	1
+	bleeding	positive	0
+	bleeding	sadness	1
+	bleeding	surprise	0
+	bleeding	trust	0
+	blemish	anger	1
+	blemish	anticipation	0
+	blemish	disgust	1
+	blemish	fear	1
+	blemish	joy	0
+	blemish	negative	1
+	blemish	positive	0
+	blemish	sadness	1
+	blemish	surprise	0
+	blemish	trust	0
+	blend	anger	0
+	blend	anticipation	0
+	blend	disgust	0
+	blend	fear	0
+	blend	joy	0
+	blend	negative	0
+	blend	positive	0
+	blend	sadness	0
+	blend	surprise	0
+	blend	trust	0
+	blending	anger	0
+	blending	anticipation	0
+	blending	disgust	0
+	blending	fear	0
+	blending	joy	0
+	blending	negative	0
+	blending	positive	0
+	blending	sadness	0
+	blending	surprise	0
+	blending	trust	0
+	bless	anger	0
+	bless	anticipation	1
+	bless	disgust	0
+	bless	fear	0
+	bless	joy	1
+	bless	negative	0
+	bless	positive	1
+	bless	sadness	0
+	bless	surprise	0
+	bless	trust	1
+	blessed	anger	0
+	blessed	anticipation	0
+	blessed	disgust	0
+	blessed	fear	0
+	blessed	joy	1
+	blessed	negative	0
+	blessed	positive	1
+	blessed	sadness	0
+	blessed	surprise	0
+	blessed	trust	0
+	blessing	anger	0
+	blessing	anticipation	1
+	blessing	disgust	0
+	blessing	fear	0
+	blessing	joy	1
+	blessing	negative	0
+	blessing	positive	1
+	blessing	sadness	0
+	blessing	surprise	0
+	blessing	trust	1
+	blessings	anger	0
+	blessings	anticipation	1
+	blessings	disgust	0
+	blessings	fear	0
+	blessings	joy	1
+	blessings	negative	0
+	blessings	positive	1
+	blessings	sadness	0
+	blessings	surprise	1
+	blessings	trust	1
+	blight	anger	0
+	blight	anticipation	0
+	blight	disgust	1
+	blight	fear	1
+	blight	joy	0
+	blight	negative	1
+	blight	positive	0
+	blight	sadness	1
+	blight	surprise	0
+	blight	trust	0
+	blighted	anger	0
+	blighted	anticipation	0
+	blighted	disgust	1
+	blighted	fear	0
+	blighted	joy	0
+	blighted	negative	1
+	blighted	positive	0
+	blighted	sadness	1
+	blighted	surprise	0
+	blighted	trust	0
+	blind	anger	0
+	blind	anticipation	0
+	blind	disgust	0
+	blind	fear	0
+	blind	joy	0
+	blind	negative	1
+	blind	positive	0
+	blind	sadness	0
+	blind	surprise	0
+	blind	trust	0
+	blinded	anger	0
+	blinded	anticipation	0
+	blinded	disgust	0
+	blinded	fear	0
+	blinded	joy	0
+	blinded	negative	1
+	blinded	positive	0
+	blinded	sadness	0
+	blinded	surprise	0
+	blinded	trust	0
+	blindfold	anger	0
+	blindfold	anticipation	1
+	blindfold	disgust	0
+	blindfold	fear	1
+	blindfold	joy	0
+	blindfold	negative	0
+	blindfold	positive	0
+	blindfold	sadness	0
+	blindfold	surprise	1
+	blindfold	trust	0
+	blindfolded	anger	0
+	blindfolded	anticipation	0
+	blindfolded	disgust	0
+	blindfolded	fear	0
+	blindfolded	joy	0
+	blindfolded	negative	0
+	blindfolded	positive	0
+	blindfolded	sadness	0
+	blindfolded	surprise	0
+	blindfolded	trust	0
+	blindly	anger	0
+	blindly	anticipation	0
+	blindly	disgust	0
+	blindly	fear	0
+	blindly	joy	0
+	blindly	negative	1
+	blindly	positive	0
+	blindly	sadness	1
+	blindly	surprise	0
+	blindly	trust	0
+	blindness	anger	0
+	blindness	anticipation	0
+	blindness	disgust	0
+	blindness	fear	0
+	blindness	joy	0
+	blindness	negative	1
+	blindness	positive	0
+	blindness	sadness	1
+	blindness	surprise	0
+	blindness	trust	0
+	blink	anger	0
+	blink	anticipation	0
+	blink	disgust	0
+	blink	fear	0
+	blink	joy	0
+	blink	negative	0
+	blink	positive	0
+	blink	sadness	0
+	blink	surprise	0
+	blink	trust	0
+	bliss	anger	0
+	bliss	anticipation	0
+	bliss	disgust	0
+	bliss	fear	0
+	bliss	joy	1
+	bliss	negative	0
+	bliss	positive	1
+	bliss	sadness	0
+	bliss	surprise	0
+	bliss	trust	0
+	blissful	anger	0
+	blissful	anticipation	0
+	blissful	disgust	0
+	blissful	fear	0
+	blissful	joy	1
+	blissful	negative	0
+	blissful	positive	1
+	blissful	sadness	0
+	blissful	surprise	0
+	blissful	trust	0
+	blister	anger	0
+	blister	anticipation	0
+	blister	disgust	1
+	blister	fear	0
+	blister	joy	0
+	blister	negative	1
+	blister	positive	0
+	blister	sadness	0
+	blister	surprise	0
+	blister	trust	0
+	blitz	anger	0
+	blitz	anticipation	0
+	blitz	disgust	0
+	blitz	fear	0
+	blitz	joy	0
+	blitz	negative	0
+	blitz	positive	0
+	blitz	sadness	0
+	blitz	surprise	1
+	blitz	trust	0
+	blizzard	anger	0
+	blizzard	anticipation	0
+	blizzard	disgust	0
+	blizzard	fear	0
+	blizzard	joy	0
+	blizzard	negative	0
+	blizzard	positive	0
+	blizzard	sadness	0
+	blizzard	surprise	0
+	blizzard	trust	0
+	bloated	anger	0
+	bloated	anticipation	0
+	bloated	disgust	1
+	bloated	fear	0
+	bloated	joy	0
+	bloated	negative	1
+	bloated	positive	0
+	bloated	sadness	0
+	bloated	surprise	0
+	bloated	trust	0
+	blob	anger	0
+	blob	anticipation	0
+	blob	disgust	1
+	blob	fear	1
+	blob	joy	0
+	blob	negative	1
+	blob	positive	0
+	blob	sadness	0
+	blob	surprise	0
+	blob	trust	0
+	block	anger	0
+	block	anticipation	0
+	block	disgust	0
+	block	fear	0
+	block	joy	0
+	block	negative	0
+	block	positive	0
+	block	sadness	0
+	block	surprise	0
+	block	trust	0
+	blockade	anger	1
+	blockade	anticipation	0
+	blockade	disgust	0
+	blockade	fear	1
+	blockade	joy	0
+	blockade	negative	1
+	blockade	positive	0
+	blockade	sadness	1
+	blockade	surprise	0
+	blockade	trust	0
+	blond	anger	0
+	blond	anticipation	0
+	blond	disgust	0
+	blond	fear	0
+	blond	joy	0
+	blond	negative	0
+	blond	positive	0
+	blond	sadness	0
+	blond	surprise	0
+	blond	trust	0
+	blood	anger	0
+	blood	anticipation	0
+	blood	disgust	0
+	blood	fear	0
+	blood	joy	0
+	blood	negative	0
+	blood	positive	0
+	blood	sadness	0
+	blood	surprise	0
+	blood	trust	0
+	bloodhound	anger	0
+	bloodhound	anticipation	0
+	bloodhound	disgust	0
+	bloodhound	fear	0
+	bloodhound	joy	0
+	bloodhound	negative	0
+	bloodhound	positive	0
+	bloodhound	sadness	0
+	bloodhound	surprise	0
+	bloodhound	trust	0
+	bloodless	anger	0
+	bloodless	anticipation	0
+	bloodless	disgust	0
+	bloodless	fear	0
+	bloodless	joy	0
+	bloodless	negative	0
+	bloodless	positive	1
+	bloodless	sadness	0
+	bloodless	surprise	0
+	bloodless	trust	0
+	bloodshed	anger	1
+	bloodshed	anticipation	0
+	bloodshed	disgust	1
+	bloodshed	fear	1
+	bloodshed	joy	0
+	bloodshed	negative	1
+	bloodshed	positive	0
+	bloodshed	sadness	1
+	bloodshed	surprise	1
+	bloodshed	trust	0
+	bloodthirsty	anger	1
+	bloodthirsty	anticipation	0
+	bloodthirsty	disgust	1
+	bloodthirsty	fear	1
+	bloodthirsty	joy	0
+	bloodthirsty	negative	1
+	bloodthirsty	positive	0
+	bloodthirsty	sadness	0
+	bloodthirsty	surprise	0
+	bloodthirsty	trust	0
+	bloody	anger	1
+	bloody	anticipation	0
+	bloody	disgust	1
+	bloody	fear	1
+	bloody	joy	0
+	bloody	negative	1
+	bloody	positive	0
+	bloody	sadness	1
+	bloody	surprise	0
+	bloody	trust	0
+	bloom	anger	0
+	bloom	anticipation	1
+	bloom	disgust	0
+	bloom	fear	0
+	bloom	joy	1
+	bloom	negative	0
+	bloom	positive	1
+	bloom	sadness	0
+	bloom	surprise	0
+	bloom	trust	1
+	blossom	anger	0
+	blossom	anticipation	0
+	blossom	disgust	0
+	blossom	fear	0
+	blossom	joy	1
+	blossom	negative	0
+	blossom	positive	1
+	blossom	sadness	0
+	blossom	surprise	0
+	blossom	trust	0
+	blot	anger	0
+	blot	anticipation	0
+	blot	disgust	0
+	blot	fear	0
+	blot	joy	0
+	blot	negative	1
+	blot	positive	0
+	blot	sadness	0
+	blot	surprise	0
+	blot	trust	0
+	blouse	anger	0
+	blouse	anticipation	0
+	blouse	disgust	0
+	blouse	fear	0
+	blouse	joy	0
+	blouse	negative	0
+	blouse	positive	0
+	blouse	sadness	0
+	blouse	surprise	0
+	blouse	trust	0
+	blower	anger	0
+	blower	anticipation	0
+	blower	disgust	0
+	blower	fear	0
+	blower	joy	0
+	blower	negative	1
+	blower	positive	0
+	blower	sadness	0
+	blower	surprise	0
+	blower	trust	0
+	blowing	anger	0
+	blowing	anticipation	0
+	blowing	disgust	0
+	blowing	fear	0
+	blowing	joy	0
+	blowing	negative	0
+	blowing	positive	0
+	blowing	sadness	0
+	blowing	surprise	0
+	blowing	trust	0
+	blown	anger	0
+	blown	anticipation	0
+	blown	disgust	0
+	blown	fear	0
+	blown	joy	0
+	blown	negative	0
+	blown	positive	0
+	blown	sadness	0
+	blown	surprise	0
+	blown	trust	0
+	blowout	anger	0
+	blowout	anticipation	0
+	blowout	disgust	0
+	blowout	fear	0
+	blowout	joy	0
+	blowout	negative	1
+	blowout	positive	0
+	blowout	sadness	0
+	blowout	surprise	0
+	blowout	trust	0
+	blue	anger	0
+	blue	anticipation	0
+	blue	disgust	0
+	blue	fear	0
+	blue	joy	0
+	blue	negative	0
+	blue	positive	0
+	blue	sadness	1
+	blue	surprise	0
+	blue	trust	0
+	blues	anger	0
+	blues	anticipation	0
+	blues	disgust	0
+	blues	fear	1
+	blues	joy	0
+	blues	negative	1
+	blues	positive	0
+	blues	sadness	1
+	blues	surprise	0
+	blues	trust	0
+	bluff	anger	0
+	bluff	anticipation	0
+	bluff	disgust	0
+	bluff	fear	0
+	bluff	joy	0
+	bluff	negative	1
+	bluff	positive	0
+	bluff	sadness	0
+	bluff	surprise	0
+	bluff	trust	0
+	bluish	anger	0
+	bluish	anticipation	0
+	bluish	disgust	0
+	bluish	fear	0
+	bluish	joy	0
+	bluish	negative	0
+	bluish	positive	0
+	bluish	sadness	0
+	bluish	surprise	0
+	bluish	trust	0
+	blunder	anger	0
+	blunder	anticipation	0
+	blunder	disgust	1
+	blunder	fear	0
+	blunder	joy	0
+	blunder	negative	1
+	blunder	positive	0
+	blunder	sadness	1
+	blunder	surprise	0
+	blunder	trust	0
+	blunt	anger	0
+	blunt	anticipation	0
+	blunt	disgust	0
+	blunt	fear	0
+	blunt	joy	0
+	blunt	negative	0
+	blunt	positive	0
+	blunt	sadness	0
+	blunt	surprise	0
+	blunt	trust	0
+	blur	anger	0
+	blur	anticipation	0
+	blur	disgust	0
+	blur	fear	0
+	blur	joy	0
+	blur	negative	1
+	blur	positive	0
+	blur	sadness	0
+	blur	surprise	0
+	blur	trust	0
+	blurred	anger	0
+	blurred	anticipation	0
+	blurred	disgust	0
+	blurred	fear	0
+	blurred	joy	0
+	blurred	negative	1
+	blurred	positive	0
+	blurred	sadness	0
+	blurred	surprise	0
+	blurred	trust	0
+	blush	anger	0
+	blush	anticipation	0
+	blush	disgust	0
+	blush	fear	0
+	blush	joy	0
+	blush	negative	1
+	blush	positive	0
+	blush	sadness	0
+	blush	surprise	0
+	blush	trust	0
+	blushing	anger	0
+	blushing	anticipation	0
+	blushing	disgust	0
+	blushing	fear	0
+	blushing	joy	0
+	blushing	negative	0
+	blushing	positive	0
+	blushing	sadness	0
+	blushing	surprise	0
+	blushing	trust	0
+	boa	anger	0
+	boa	anticipation	0
+	boa	disgust	0
+	boa	fear	0
+	boa	joy	0
+	boa	negative	0
+	boa	positive	0
+	boa	sadness	0
+	boa	surprise	0
+	boa	trust	0
+	boar	anger	0
+	boar	anticipation	0
+	boar	disgust	0
+	boar	fear	0
+	boar	joy	0
+	boar	negative	0
+	boar	positive	0
+	boar	sadness	0
+	boar	surprise	0
+	boar	trust	0
+	board	anger	0
+	board	anticipation	1
+	board	disgust	0
+	board	fear	0
+	board	joy	0
+	board	negative	0
+	board	positive	0
+	board	sadness	0
+	board	surprise	0
+	board	trust	0
+	boarder	anger	0
+	boarder	anticipation	0
+	boarder	disgust	0
+	boarder	fear	0
+	boarder	joy	0
+	boarder	negative	0
+	boarder	positive	0
+	boarder	sadness	0
+	boarder	surprise	0
+	boarder	trust	0
+	boarding	anger	0
+	boarding	anticipation	0
+	boarding	disgust	0
+	boarding	fear	0
+	boarding	joy	0
+	boarding	negative	0
+	boarding	positive	0
+	boarding	sadness	0
+	boarding	surprise	0
+	boarding	trust	0
+	boards	anger	0
+	boards	anticipation	0
+	boards	disgust	0
+	boards	fear	0
+	boards	joy	0
+	boards	negative	0
+	boards	positive	0
+	boards	sadness	0
+	boards	surprise	0
+	boards	trust	0
+	boast	anger	0
+	boast	anticipation	0
+	boast	disgust	0
+	boast	fear	0
+	boast	joy	0
+	boast	negative	1
+	boast	positive	1
+	boast	sadness	0
+	boast	surprise	0
+	boast	trust	0
+	boasting	anger	0
+	boasting	anticipation	0
+	boasting	disgust	0
+	boasting	fear	0
+	boasting	joy	0
+	boasting	negative	1
+	boasting	positive	0
+	boasting	sadness	0
+	boasting	surprise	0
+	boasting	trust	0
+	boat	anger	0
+	boat	anticipation	0
+	boat	disgust	0
+	boat	fear	0
+	boat	joy	0
+	boat	negative	0
+	boat	positive	0
+	boat	sadness	0
+	boat	surprise	0
+	boat	trust	0
+	boating	anger	0
+	boating	anticipation	0
+	boating	disgust	0
+	boating	fear	0
+	boating	joy	0
+	boating	negative	0
+	boating	positive	0
+	boating	sadness	0
+	boating	surprise	0
+	boating	trust	0
+	bobbin	anger	0
+	bobbin	anticipation	0
+	bobbin	disgust	0
+	bobbin	fear	0
+	bobbin	joy	0
+	bobbin	negative	0
+	bobbin	positive	0
+	bobbin	sadness	0
+	bobbin	surprise	0
+	bobbin	trust	0
+	bode	anger	0
+	bode	anticipation	0
+	bode	disgust	0
+	bode	fear	0
+	bode	joy	0
+	bode	negative	0
+	bode	positive	0
+	bode	sadness	0
+	bode	surprise	0
+	bode	trust	0
+	bodice	anger	0
+	bodice	anticipation	0
+	bodice	disgust	0
+	bodice	fear	0
+	bodice	joy	0
+	bodice	negative	0
+	bodice	positive	0
+	bodice	sadness	0
+	bodice	surprise	0
+	bodice	trust	0
+	bodily	anger	0
+	bodily	anticipation	0
+	bodily	disgust	0
+	bodily	fear	0
+	bodily	joy	0
+	bodily	negative	0
+	bodily	positive	0
+	bodily	sadness	0
+	bodily	surprise	0
+	bodily	trust	0
+	body	anger	0
+	body	anticipation	0
+	body	disgust	0
+	body	fear	0
+	body	joy	0
+	body	negative	0
+	body	positive	0
+	body	sadness	0
+	body	surprise	0
+	body	trust	0
+	bodyguard	anger	0
+	bodyguard	anticipation	0
+	bodyguard	disgust	0
+	bodyguard	fear	0
+	bodyguard	joy	0
+	bodyguard	negative	0
+	bodyguard	positive	1
+	bodyguard	sadness	0
+	bodyguard	surprise	0
+	bodyguard	trust	1
+	bog	anger	0
+	bog	anticipation	0
+	bog	disgust	0
+	bog	fear	0
+	bog	joy	0
+	bog	negative	1
+	bog	positive	0
+	bog	sadness	0
+	bog	surprise	0
+	bog	trust	0
+	bogus	anger	1
+	bogus	anticipation	0
+	bogus	disgust	1
+	bogus	fear	0
+	bogus	joy	0
+	bogus	negative	1
+	bogus	positive	0
+	bogus	sadness	0
+	bogus	surprise	0
+	bogus	trust	0
+	boil	anger	0
+	boil	anticipation	0
+	boil	disgust	1
+	boil	fear	0
+	boil	joy	0
+	boil	negative	1
+	boil	positive	0
+	boil	sadness	0
+	boil	surprise	0
+	boil	trust	0
+	boiler	anger	0
+	boiler	anticipation	0
+	boiler	disgust	0
+	boiler	fear	0
+	boiler	joy	0
+	boiler	negative	0
+	boiler	positive	0
+	boiler	sadness	0
+	boiler	surprise	0
+	boiler	trust	0
+	boilerplate	anger	0
+	boilerplate	anticipation	0
+	boilerplate	disgust	0
+	boilerplate	fear	0
+	boilerplate	joy	0
+	boilerplate	negative	1
+	boilerplate	positive	0
+	boilerplate	sadness	0
+	boilerplate	surprise	0
+	boilerplate	trust	0
+	boiling	anger	0
+	boiling	anticipation	0
+	boiling	disgust	0
+	boiling	fear	0
+	boiling	joy	0
+	boiling	negative	0
+	boiling	positive	0
+	boiling	sadness	0
+	boiling	surprise	0
+	boiling	trust	0
+	boisterous	anger	1
+	boisterous	anticipation	1
+	boisterous	disgust	0
+	boisterous	fear	0
+	boisterous	joy	1
+	boisterous	negative	1
+	boisterous	positive	1
+	boisterous	sadness	0
+	boisterous	surprise	0
+	boisterous	trust	0
+	bold	anger	0
+	bold	anticipation	0
+	bold	disgust	0
+	bold	fear	0
+	bold	joy	0
+	bold	negative	0
+	bold	positive	1
+	bold	sadness	0
+	bold	surprise	0
+	bold	trust	0
+	boldness	anger	0
+	boldness	anticipation	0
+	boldness	disgust	0
+	boldness	fear	0
+	boldness	joy	0
+	boldness	negative	0
+	boldness	positive	1
+	boldness	sadness	0
+	boldness	surprise	0
+	boldness	trust	0
+	bolster	anger	0
+	bolster	anticipation	0
+	bolster	disgust	0
+	bolster	fear	0
+	bolster	joy	0
+	bolster	negative	0
+	bolster	positive	1
+	bolster	sadness	0
+	bolster	surprise	0
+	bolster	trust	0
+	bolt	anger	0
+	bolt	anticipation	0
+	bolt	disgust	0
+	bolt	fear	0
+	bolt	joy	0
+	bolt	negative	0
+	bolt	positive	0
+	bolt	sadness	0
+	bolt	surprise	0
+	bolt	trust	0
+	bolus	anger	0
+	bolus	anticipation	0
+	bolus	disgust	0
+	bolus	fear	0
+	bolus	joy	0
+	bolus	negative	0
+	bolus	positive	0
+	bolus	sadness	0
+	bolus	surprise	0
+	bolus	trust	0
+	bomb	anger	1
+	bomb	anticipation	0
+	bomb	disgust	0
+	bomb	fear	1
+	bomb	joy	0
+	bomb	negative	1
+	bomb	positive	0
+	bomb	sadness	1
+	bomb	surprise	1
+	bomb	trust	0
+	bombard	anger	1
+	bombard	anticipation	0
+	bombard	disgust	0
+	bombard	fear	1
+	bombard	joy	0
+	bombard	negative	1
+	bombard	positive	0
+	bombard	sadness	0
+	bombard	surprise	0
+	bombard	trust	0
+	bombardment	anger	1
+	bombardment	anticipation	0
+	bombardment	disgust	0
+	bombardment	fear	1
+	bombardment	joy	0
+	bombardment	negative	1
+	bombardment	positive	0
+	bombardment	sadness	0
+	bombardment	surprise	0
+	bombardment	trust	0
+	bombed	anger	0
+	bombed	anticipation	0
+	bombed	disgust	1
+	bombed	fear	0
+	bombed	joy	0
+	bombed	negative	1
+	bombed	positive	0
+	bombed	sadness	0
+	bombed	surprise	0
+	bombed	trust	0
+	bomber	anger	0
+	bomber	anticipation	0
+	bomber	disgust	0
+	bomber	fear	1
+	bomber	joy	0
+	bomber	negative	0
+	bomber	positive	0
+	bomber	sadness	1
+	bomber	surprise	0
+	bomber	trust	0
+	bonanza	anger	0
+	bonanza	anticipation	0
+	bonanza	disgust	0
+	bonanza	fear	0
+	bonanza	joy	1
+	bonanza	negative	0
+	bonanza	positive	1
+	bonanza	sadness	0
+	bonanza	surprise	0
+	bonanza	trust	0
+	bond	anger	0
+	bond	anticipation	0
+	bond	disgust	0
+	bond	fear	0
+	bond	joy	0
+	bond	negative	0
+	bond	positive	0
+	bond	sadness	0
+	bond	surprise	0
+	bond	trust	0
+	bondage	anger	0
+	bondage	anticipation	0
+	bondage	disgust	0
+	bondage	fear	1
+	bondage	joy	0
+	bondage	negative	1
+	bondage	positive	0
+	bondage	sadness	1
+	bondage	surprise	0
+	bondage	trust	0
+	bonds	anger	0
+	bonds	anticipation	0
+	bonds	disgust	0
+	bonds	fear	0
+	bonds	joy	0
+	bonds	negative	1
+	bonds	positive	0
+	bonds	sadness	0
+	bonds	surprise	0
+	bonds	trust	0
+	bone	anger	0
+	bone	anticipation	0
+	bone	disgust	0
+	bone	fear	0
+	bone	joy	0
+	bone	negative	0
+	bone	positive	0
+	bone	sadness	0
+	bone	surprise	0
+	bone	trust	0
+	boner	anger	0
+	boner	anticipation	0
+	boner	disgust	0
+	boner	fear	0
+	boner	joy	0
+	boner	negative	0
+	boner	positive	0
+	boner	sadness	0
+	boner	surprise	0
+	boner	trust	0
+	bones	anger	0
+	bones	anticipation	0
+	bones	disgust	0
+	bones	fear	0
+	bones	joy	0
+	bones	negative	0
+	bones	positive	0
+	bones	sadness	0
+	bones	surprise	0
+	bones	trust	0
+	bonfire	anger	0
+	bonfire	anticipation	0
+	bonfire	disgust	0
+	bonfire	fear	0
+	bonfire	joy	0
+	bonfire	negative	0
+	bonfire	positive	0
+	bonfire	sadness	0
+	bonfire	surprise	0
+	bonfire	trust	0
+	bonne	anger	0
+	bonne	anticipation	0
+	bonne	disgust	0
+	bonne	fear	0
+	bonne	joy	0
+	bonne	negative	0
+	bonne	positive	1
+	bonne	sadness	0
+	bonne	surprise	0
+	bonne	trust	0
+	bonnet	anger	0
+	bonnet	anticipation	0
+	bonnet	disgust	0
+	bonnet	fear	0
+	bonnet	joy	0
+	bonnet	negative	0
+	bonnet	positive	0
+	bonnet	sadness	0
+	bonnet	surprise	0
+	bonnet	trust	0
+	bonus	anger	0
+	bonus	anticipation	1
+	bonus	disgust	0
+	bonus	fear	0
+	bonus	joy	1
+	bonus	negative	0
+	bonus	positive	1
+	bonus	sadness	0
+	bonus	surprise	1
+	bonus	trust	0
+	bony	anger	0
+	bony	anticipation	0
+	bony	disgust	0
+	bony	fear	0
+	bony	joy	0
+	bony	negative	0
+	bony	positive	0
+	bony	sadness	0
+	bony	surprise	0
+	bony	trust	0
+	boo	anger	0
+	boo	anticipation	0
+	boo	disgust	0
+	boo	fear	0
+	boo	joy	0
+	boo	negative	1
+	boo	positive	0
+	boo	sadness	0
+	boo	surprise	0
+	boo	trust	0
+	boob	anger	0
+	boob	anticipation	0
+	boob	disgust	0
+	boob	fear	0
+	boob	joy	0
+	boob	negative	0
+	boob	positive	0
+	boob	sadness	0
+	boob	surprise	0
+	boob	trust	0
+	booby	anger	0
+	booby	anticipation	0
+	booby	disgust	0
+	booby	fear	0
+	booby	joy	0
+	booby	negative	1
+	booby	positive	0
+	booby	sadness	0
+	booby	surprise	0
+	booby	trust	0
+	book	anger	0
+	book	anticipation	0
+	book	disgust	0
+	book	fear	0
+	book	joy	0
+	book	negative	0
+	book	positive	0
+	book	sadness	0
+	book	surprise	0
+	book	trust	0
+	bookcase	anger	0
+	bookcase	anticipation	0
+	bookcase	disgust	0
+	bookcase	fear	0
+	bookcase	joy	0
+	bookcase	negative	0
+	bookcase	positive	0
+	bookcase	sadness	0
+	bookcase	surprise	0
+	bookcase	trust	0
+	booking	anger	0
+	booking	anticipation	0
+	booking	disgust	0
+	booking	fear	0
+	booking	joy	0
+	booking	negative	0
+	booking	positive	0
+	booking	sadness	0
+	booking	surprise	0
+	booking	trust	0
+	bookish	anger	0
+	bookish	anticipation	0
+	bookish	disgust	0
+	bookish	fear	0
+	bookish	joy	0
+	bookish	negative	0
+	bookish	positive	1
+	bookish	sadness	0
+	bookish	surprise	0
+	bookish	trust	0
+	bookkeeper	anger	0
+	bookkeeper	anticipation	0
+	bookkeeper	disgust	0
+	bookkeeper	fear	0
+	bookkeeper	joy	0
+	bookkeeper	negative	0
+	bookkeeper	positive	0
+	bookkeeper	sadness	0
+	bookkeeper	surprise	0
+	bookkeeper	trust	0
+	bookkeeping	anger	0
+	bookkeeping	anticipation	0
+	bookkeeping	disgust	0
+	bookkeeping	fear	0
+	bookkeeping	joy	0
+	bookkeeping	negative	0
+	bookkeeping	positive	0
+	bookkeeping	sadness	0
+	bookkeeping	surprise	0
+	bookkeeping	trust	0
+	booklet	anger	0
+	booklet	anticipation	0
+	booklet	disgust	0
+	booklet	fear	0
+	booklet	joy	0
+	booklet	negative	0
+	booklet	positive	0
+	booklet	sadness	0
+	booklet	surprise	0
+	booklet	trust	0
+	books	anger	0
+	books	anticipation	0
+	books	disgust	0
+	books	fear	0
+	books	joy	0
+	books	negative	0
+	books	positive	0
+	books	sadness	0
+	books	surprise	0
+	books	trust	0
+	bookseller	anger	0
+	bookseller	anticipation	0
+	bookseller	disgust	0
+	bookseller	fear	0
+	bookseller	joy	0
+	bookseller	negative	0
+	bookseller	positive	0
+	bookseller	sadness	0
+	bookseller	surprise	0
+	bookseller	trust	0
+	bookshop	anger	0
+	bookshop	anticipation	0
+	bookshop	disgust	0
+	bookshop	fear	0
+	bookshop	joy	0
+	bookshop	negative	0
+	bookshop	positive	1
+	bookshop	sadness	0
+	bookshop	surprise	0
+	bookshop	trust	0
+	bookstore	anger	0
+	bookstore	anticipation	0
+	bookstore	disgust	0
+	bookstore	fear	0
+	bookstore	joy	0
+	bookstore	negative	0
+	bookstore	positive	0
+	bookstore	sadness	0
+	bookstore	surprise	0
+	bookstore	trust	0
+	bookworm	anger	0
+	bookworm	anticipation	0
+	bookworm	disgust	0
+	bookworm	fear	0
+	bookworm	joy	0
+	bookworm	negative	1
+	bookworm	positive	1
+	bookworm	sadness	0
+	bookworm	surprise	0
+	bookworm	trust	0
+	boomerang	anger	0
+	boomerang	anticipation	1
+	boomerang	disgust	0
+	boomerang	fear	0
+	boomerang	joy	0
+	boomerang	negative	0
+	boomerang	positive	0
+	boomerang	sadness	0
+	boomerang	surprise	0
+	boomerang	trust	1
+	booming	anger	0
+	booming	anticipation	0
+	booming	disgust	0
+	booming	fear	0
+	booming	joy	0
+	booming	negative	0
+	booming	positive	0
+	booming	sadness	0
+	booming	surprise	0
+	booming	trust	0
+	boon	anger	0
+	boon	anticipation	0
+	boon	disgust	0
+	boon	fear	0
+	boon	joy	0
+	boon	negative	0
+	boon	positive	1
+	boon	sadness	0
+	boon	surprise	0
+	boon	trust	0
+	boost	anger	0
+	boost	anticipation	0
+	boost	disgust	0
+	boost	fear	0
+	boost	joy	0
+	boost	negative	0
+	boost	positive	0
+	boost	sadness	0
+	boost	surprise	0
+	boost	trust	0
+	booster	anger	0
+	booster	anticipation	0
+	booster	disgust	0
+	booster	fear	0
+	booster	joy	0
+	booster	negative	0
+	booster	positive	0
+	booster	sadness	0
+	booster	surprise	0
+	booster	trust	0
+	boot	anger	0
+	boot	anticipation	0
+	boot	disgust	0
+	boot	fear	0
+	boot	joy	0
+	boot	negative	0
+	boot	positive	0
+	boot	sadness	0
+	boot	surprise	0
+	boot	trust	0
+	booth	anger	0
+	booth	anticipation	0
+	booth	disgust	0
+	booth	fear	0
+	booth	joy	0
+	booth	negative	0
+	booth	positive	0
+	booth	sadness	0
+	booth	surprise	0
+	booth	trust	0
+	boots	anger	0
+	boots	anticipation	0
+	boots	disgust	0
+	boots	fear	0
+	boots	joy	0
+	boots	negative	0
+	boots	positive	0
+	boots	sadness	0
+	boots	surprise	0
+	boots	trust	0
+	booty	anger	0
+	booty	anticipation	0
+	booty	disgust	0
+	booty	fear	0
+	booty	joy	0
+	booty	negative	0
+	booty	positive	0
+	booty	sadness	0
+	booty	surprise	0
+	booty	trust	0
+	booze	anger	0
+	booze	anticipation	0
+	booze	disgust	0
+	booze	fear	0
+	booze	joy	0
+	booze	negative	1
+	booze	positive	0
+	booze	sadness	0
+	booze	surprise	0
+	booze	trust	0
+	border	anger	0
+	border	anticipation	0
+	border	disgust	0
+	border	fear	0
+	border	joy	0
+	border	negative	0
+	border	positive	0
+	border	sadness	0
+	border	surprise	0
+	border	trust	0
+	bordering	anger	0
+	bordering	anticipation	0
+	bordering	disgust	0
+	bordering	fear	0
+	bordering	joy	0
+	bordering	negative	0
+	bordering	positive	0
+	bordering	sadness	0
+	bordering	surprise	0
+	bordering	trust	0
+	bore	anger	0
+	bore	anticipation	0
+	bore	disgust	0
+	bore	fear	0
+	bore	joy	0
+	bore	negative	1
+	bore	positive	0
+	bore	sadness	0
+	bore	surprise	0
+	bore	trust	0
+	boreal	anger	0
+	boreal	anticipation	0
+	boreal	disgust	0
+	boreal	fear	0
+	boreal	joy	0
+	boreal	negative	0
+	boreal	positive	0
+	boreal	sadness	0
+	boreal	surprise	0
+	boreal	trust	0
+	boredom	anger	0
+	boredom	anticipation	0
+	boredom	disgust	0
+	boredom	fear	0
+	boredom	joy	0
+	boredom	negative	1
+	boredom	positive	0
+	boredom	sadness	1
+	boredom	surprise	0
+	boredom	trust	0
+	borer	anger	0
+	borer	anticipation	0
+	borer	disgust	0
+	borer	fear	0
+	borer	joy	0
+	borer	negative	0
+	borer	positive	0
+	borer	sadness	0
+	borer	surprise	0
+	borer	trust	0
+	boring	anger	0
+	boring	anticipation	0
+	boring	disgust	0
+	boring	fear	0
+	boring	joy	0
+	boring	negative	1
+	boring	positive	0
+	boring	sadness	0
+	boring	surprise	0
+	boring	trust	0
+	borough	anger	0
+	borough	anticipation	0
+	borough	disgust	0
+	borough	fear	0
+	borough	joy	0
+	borough	negative	0
+	borough	positive	0
+	borough	sadness	0
+	borough	surprise	0
+	borough	trust	0
+	borrow	anger	0
+	borrow	anticipation	0
+	borrow	disgust	0
+	borrow	fear	0
+	borrow	joy	0
+	borrow	negative	0
+	borrow	positive	0
+	borrow	sadness	0
+	borrow	surprise	0
+	borrow	trust	0
+	borrower	anger	0
+	borrower	anticipation	0
+	borrower	disgust	0
+	borrower	fear	0
+	borrower	joy	0
+	borrower	negative	1
+	borrower	positive	0
+	borrower	sadness	0
+	borrower	surprise	0
+	borrower	trust	0
+	bosom	anger	0
+	bosom	anticipation	0
+	bosom	disgust	0
+	bosom	fear	0
+	bosom	joy	0
+	bosom	negative	0
+	bosom	positive	0
+	bosom	sadness	0
+	bosom	surprise	0
+	bosom	trust	0
+	boss	anger	0
+	boss	anticipation	0
+	boss	disgust	0
+	boss	fear	0
+	boss	joy	0
+	boss	negative	0
+	boss	positive	0
+	boss	sadness	0
+	boss	surprise	0
+	boss	trust	0
+	boston	anger	0
+	boston	anticipation	0
+	boston	disgust	0
+	boston	fear	0
+	boston	joy	0
+	boston	negative	0
+	boston	positive	0
+	boston	sadness	0
+	boston	surprise	0
+	boston	trust	0
+	botanical	anger	0
+	botanical	anticipation	0
+	botanical	disgust	0
+	botanical	fear	0
+	botanical	joy	0
+	botanical	negative	0
+	botanical	positive	0
+	botanical	sadness	0
+	botanical	surprise	0
+	botanical	trust	0
+	botanist	anger	0
+	botanist	anticipation	0
+	botanist	disgust	0
+	botanist	fear	0
+	botanist	joy	0
+	botanist	negative	0
+	botanist	positive	0
+	botanist	sadness	0
+	botanist	surprise	0
+	botanist	trust	0
+	botany	anger	0
+	botany	anticipation	0
+	botany	disgust	0
+	botany	fear	0
+	botany	joy	0
+	botany	negative	0
+	botany	positive	0
+	botany	sadness	0
+	botany	surprise	0
+	botany	trust	0
+	bother	anger	0
+	bother	anticipation	0
+	bother	disgust	0
+	bother	fear	0
+	bother	joy	0
+	bother	negative	1
+	bother	positive	0
+	bother	sadness	0
+	bother	surprise	0
+	bother	trust	0
+	bothering	anger	1
+	bothering	anticipation	0
+	bothering	disgust	0
+	bothering	fear	0
+	bothering	joy	0
+	bothering	negative	1
+	bothering	positive	0
+	bothering	sadness	1
+	bothering	surprise	0
+	bothering	trust	0
+	bottle	anger	0
+	bottle	anticipation	0
+	bottle	disgust	0
+	bottle	fear	0
+	bottle	joy	0
+	bottle	negative	0
+	bottle	positive	0
+	bottle	sadness	0
+	bottle	surprise	0
+	bottle	trust	0
+	bottom	anger	0
+	bottom	anticipation	0
+	bottom	disgust	0
+	bottom	fear	0
+	bottom	joy	0
+	bottom	negative	1
+	bottom	positive	0
+	bottom	sadness	1
+	bottom	surprise	0
+	bottom	trust	0
+	bottomless	anger	0
+	bottomless	anticipation	0
+	bottomless	disgust	0
+	bottomless	fear	1
+	bottomless	joy	0
+	bottomless	negative	0
+	bottomless	positive	0
+	bottomless	sadness	0
+	bottomless	surprise	0
+	bottomless	trust	0
+	boulder	anger	0
+	boulder	anticipation	0
+	boulder	disgust	0
+	boulder	fear	0
+	boulder	joy	0
+	boulder	negative	0
+	boulder	positive	0
+	boulder	sadness	0
+	boulder	surprise	0
+	boulder	trust	0
+	bounce	anger	0
+	bounce	anticipation	0
+	bounce	disgust	0
+	bounce	fear	0
+	bounce	joy	0
+	bounce	negative	0
+	bounce	positive	0
+	bounce	sadness	0
+	bounce	surprise	0
+	bounce	trust	0
+	bound	anger	0
+	bound	anticipation	0
+	bound	disgust	0
+	bound	fear	0
+	bound	joy	0
+	bound	negative	1
+	bound	positive	0
+	bound	sadness	0
+	bound	surprise	0
+	bound	trust	0
+	boundary	anger	0
+	boundary	anticipation	0
+	boundary	disgust	0
+	boundary	fear	0
+	boundary	joy	0
+	boundary	negative	0
+	boundary	positive	0
+	boundary	sadness	0
+	boundary	surprise	0
+	boundary	trust	0
+	boundless	anger	0
+	boundless	anticipation	0
+	boundless	disgust	0
+	boundless	fear	0
+	boundless	joy	0
+	boundless	negative	0
+	boundless	positive	0
+	boundless	sadness	0
+	boundless	surprise	0
+	boundless	trust	0
+	bounds	anger	0
+	bounds	anticipation	0
+	bounds	disgust	0
+	bounds	fear	0
+	bounds	joy	0
+	bounds	negative	0
+	bounds	positive	0
+	bounds	sadness	0
+	bounds	surprise	0
+	bounds	trust	0
+	bountiful	anger	0
+	bountiful	anticipation	1
+	bountiful	disgust	0
+	bountiful	fear	0
+	bountiful	joy	1
+	bountiful	negative	0
+	bountiful	positive	1
+	bountiful	sadness	0
+	bountiful	surprise	0
+	bountiful	trust	0
+	bounty	anger	0
+	bounty	anticipation	1
+	bounty	disgust	0
+	bounty	fear	0
+	bounty	joy	1
+	bounty	negative	0
+	bounty	positive	1
+	bounty	sadness	0
+	bounty	surprise	0
+	bounty	trust	1
+	bouquet	anger	0
+	bouquet	anticipation	0
+	bouquet	disgust	0
+	bouquet	fear	0
+	bouquet	joy	1
+	bouquet	negative	0
+	bouquet	positive	1
+	bouquet	sadness	0
+	bouquet	surprise	0
+	bouquet	trust	1
+	bourgeois	anger	0
+	bourgeois	anticipation	0
+	bourgeois	disgust	0
+	bourgeois	fear	0
+	bourgeois	joy	0
+	bourgeois	negative	0
+	bourgeois	positive	0
+	bourgeois	sadness	0
+	bourgeois	surprise	0
+	bourgeois	trust	0
+	bourgeoisie	anger	0
+	bourgeoisie	anticipation	0
+	bourgeoisie	disgust	0
+	bourgeoisie	fear	0
+	bourgeoisie	joy	0
+	bourgeoisie	negative	0
+	bourgeoisie	positive	0
+	bourgeoisie	sadness	0
+	bourgeoisie	surprise	0
+	bourgeoisie	trust	0
+	bourse	anger	0
+	bourse	anticipation	0
+	bourse	disgust	0
+	bourse	fear	0
+	bourse	joy	0
+	bourse	negative	0
+	bourse	positive	0
+	bourse	sadness	0
+	bourse	surprise	0
+	bourse	trust	0
+	bout	anger	1
+	bout	anticipation	0
+	bout	disgust	0
+	bout	fear	0
+	bout	joy	0
+	bout	negative	1
+	bout	positive	0
+	bout	sadness	0
+	bout	surprise	0
+	bout	trust	0
+	bovine	anger	0
+	bovine	anticipation	0
+	bovine	disgust	1
+	bovine	fear	0
+	bovine	joy	0
+	bovine	negative	1
+	bovine	positive	0
+	bovine	sadness	0
+	bovine	surprise	0
+	bovine	trust	0
+	bowed	anger	0
+	bowed	anticipation	0
+	bowed	disgust	0
+	bowed	fear	0
+	bowed	joy	0
+	bowed	negative	0
+	bowed	positive	0
+	bowed	sadness	0
+	bowed	surprise	0
+	bowed	trust	0
+	bowels	anger	0
+	bowels	anticipation	0
+	bowels	disgust	1
+	bowels	fear	0
+	bowels	joy	0
+	bowels	negative	0
+	bowels	positive	0
+	bowels	sadness	0
+	bowels	surprise	0
+	bowels	trust	0
+	bowl	anger	0
+	bowl	anticipation	0
+	bowl	disgust	0
+	bowl	fear	0
+	bowl	joy	0
+	bowl	negative	0
+	bowl	positive	0
+	bowl	sadness	0
+	bowl	surprise	0
+	bowl	trust	0
+	bowls	anger	0
+	bowls	anticipation	0
+	bowls	disgust	0
+	bowls	fear	0
+	bowls	joy	0
+	bowls	negative	0
+	bowls	positive	0
+	bowls	sadness	0
+	bowls	surprise	0
+	bowls	trust	0
+	box	anger	0
+	box	anticipation	0
+	box	disgust	0
+	box	fear	0
+	box	joy	0
+	box	negative	0
+	box	positive	0
+	box	sadness	0
+	box	surprise	0
+	box	trust	0
+	boxer	anger	0
+	boxer	anticipation	0
+	boxer	disgust	0
+	boxer	fear	0
+	boxer	joy	0
+	boxer	negative	0
+	boxer	positive	0
+	boxer	sadness	0
+	boxer	surprise	0
+	boxer	trust	0
+	boxing	anger	1
+	boxing	anticipation	0
+	boxing	disgust	0
+	boxing	fear	0
+	boxing	joy	0
+	boxing	negative	0
+	boxing	positive	0
+	boxing	sadness	0
+	boxing	surprise	0
+	boxing	trust	0
+	boy	anger	0
+	boy	anticipation	0
+	boy	disgust	1
+	boy	fear	0
+	boy	joy	0
+	boy	negative	1
+	boy	positive	0
+	boy	sadness	0
+	boy	surprise	0
+	boy	trust	0
+	boycott	anger	0
+	boycott	anticipation	0
+	boycott	disgust	0
+	boycott	fear	0
+	boycott	joy	0
+	boycott	negative	1
+	boycott	positive	0
+	boycott	sadness	0
+	boycott	surprise	0
+	boycott	trust	0
+	boyhood	anger	0
+	boyhood	anticipation	0
+	boyhood	disgust	0
+	boyhood	fear	0
+	boyhood	joy	0
+	boyhood	negative	0
+	boyhood	positive	0
+	boyhood	sadness	0
+	boyhood	surprise	0
+	boyhood	trust	0
+	boyish	anger	0
+	boyish	anticipation	0
+	boyish	disgust	0
+	boyish	fear	0
+	boyish	joy	0
+	boyish	negative	0
+	boyish	positive	0
+	boyish	sadness	0
+	boyish	surprise	0
+	boyish	trust	0
+	brace	anger	0
+	brace	anticipation	0
+	brace	disgust	0
+	brace	fear	0
+	brace	joy	0
+	brace	negative	0
+	brace	positive	0
+	brace	sadness	0
+	brace	surprise	0
+	brace	trust	0
+	bracelet	anger	0
+	bracelet	anticipation	0
+	bracelet	disgust	0
+	bracelet	fear	0
+	bracelet	joy	0
+	bracelet	negative	0
+	bracelet	positive	0
+	bracelet	sadness	0
+	bracelet	surprise	0
+	bracelet	trust	0
+	braces	anger	0
+	braces	anticipation	0
+	braces	disgust	0
+	braces	fear	0
+	braces	joy	0
+	braces	negative	0
+	braces	positive	0
+	braces	sadness	0
+	braces	surprise	0
+	braces	trust	0
+	brachial	anger	0
+	brachial	anticipation	0
+	brachial	disgust	0
+	brachial	fear	0
+	brachial	joy	0
+	brachial	negative	0
+	brachial	positive	0
+	brachial	sadness	0
+	brachial	surprise	0
+	brachial	trust	0
+	bracket	anger	0
+	bracket	anticipation	0
+	bracket	disgust	0
+	bracket	fear	0
+	bracket	joy	0
+	bracket	negative	0
+	bracket	positive	0
+	bracket	sadness	0
+	bracket	surprise	0
+	bracket	trust	0
+	brackets	anger	0
+	brackets	anticipation	0
+	brackets	disgust	0
+	brackets	fear	0
+	brackets	joy	0
+	brackets	negative	0
+	brackets	positive	0
+	brackets	sadness	0
+	brackets	surprise	0
+	brackets	trust	0
+	brackish	anger	0
+	brackish	anticipation	0
+	brackish	disgust	0
+	brackish	fear	0
+	brackish	joy	0
+	brackish	negative	0
+	brackish	positive	0
+	brackish	sadness	0
+	brackish	surprise	0
+	brackish	trust	0
+	brad	anger	0
+	brad	anticipation	0
+	brad	disgust	0
+	brad	fear	0
+	brad	joy	0
+	brad	negative	0
+	brad	positive	0
+	brad	sadness	0
+	brad	surprise	0
+	brad	trust	0
+	brag	anger	0
+	brag	anticipation	0
+	brag	disgust	0
+	brag	fear	0
+	brag	joy	0
+	brag	negative	1
+	brag	positive	0
+	brag	sadness	0
+	brag	surprise	0
+	brag	trust	0
+	braid	anger	0
+	braid	anticipation	0
+	braid	disgust	0
+	braid	fear	0
+	braid	joy	0
+	braid	negative	0
+	braid	positive	0
+	braid	sadness	0
+	braid	surprise	0
+	braid	trust	0
+	brain	anger	0
+	brain	anticipation	0
+	brain	disgust	0
+	brain	fear	0
+	brain	joy	0
+	brain	negative	0
+	brain	positive	0
+	brain	sadness	0
+	brain	surprise	0
+	brain	trust	0
+	brains	anger	0
+	brains	anticipation	0
+	brains	disgust	0
+	brains	fear	0
+	brains	joy	0
+	brains	negative	0
+	brains	positive	1
+	brains	sadness	0
+	brains	surprise	0
+	brains	trust	0
+	brainstorm	anger	0
+	brainstorm	anticipation	0
+	brainstorm	disgust	0
+	brainstorm	fear	0
+	brainstorm	joy	0
+	brainstorm	negative	0
+	brainstorm	positive	0
+	brainstorm	sadness	0
+	brainstorm	surprise	0
+	brainstorm	trust	0
+	brake	anger	0
+	brake	anticipation	0
+	brake	disgust	0
+	brake	fear	0
+	brake	joy	0
+	brake	negative	0
+	brake	positive	0
+	brake	sadness	0
+	brake	surprise	0
+	brake	trust	0
+	bran	anger	0
+	bran	anticipation	0
+	bran	disgust	1
+	bran	fear	0
+	bran	joy	0
+	bran	negative	0
+	bran	positive	0
+	bran	sadness	0
+	bran	surprise	0
+	bran	trust	0
+	branch	anger	0
+	branch	anticipation	0
+	branch	disgust	0
+	branch	fear	0
+	branch	joy	0
+	branch	negative	0
+	branch	positive	0
+	branch	sadness	0
+	branch	surprise	0
+	branch	trust	0
+	branching	anger	0
+	branching	anticipation	0
+	branching	disgust	0
+	branching	fear	0
+	branching	joy	0
+	branching	negative	0
+	branching	positive	0
+	branching	sadness	0
+	branching	surprise	0
+	branching	trust	0
+	brandy	anger	0
+	brandy	anticipation	0
+	brandy	disgust	0
+	brandy	fear	0
+	brandy	joy	0
+	brandy	negative	1
+	brandy	positive	0
+	brandy	sadness	0
+	brandy	surprise	0
+	brandy	trust	0
+	brass	anger	0
+	brass	anticipation	0
+	brass	disgust	0
+	brass	fear	0
+	brass	joy	0
+	brass	negative	0
+	brass	positive	0
+	brass	sadness	0
+	brass	surprise	0
+	brass	trust	0
+	brat	anger	0
+	brat	anticipation	0
+	brat	disgust	0
+	brat	fear	0
+	brat	joy	0
+	brat	negative	0
+	brat	positive	0
+	brat	sadness	0
+	brat	surprise	0
+	brat	trust	0
+	bravado	anger	0
+	bravado	anticipation	0
+	bravado	disgust	0
+	bravado	fear	0
+	bravado	joy	0
+	bravado	negative	1
+	bravado	positive	0
+	bravado	sadness	0
+	bravado	surprise	0
+	bravado	trust	0
+	bravery	anger	0
+	bravery	anticipation	0
+	bravery	disgust	0
+	bravery	fear	0
+	bravery	joy	0
+	bravery	negative	0
+	bravery	positive	1
+	bravery	sadness	0
+	bravery	surprise	0
+	bravery	trust	0
+	brawl	anger	1
+	brawl	anticipation	0
+	brawl	disgust	1
+	brawl	fear	1
+	brawl	joy	0
+	brawl	negative	1
+	brawl	positive	0
+	brawl	sadness	0
+	brawl	surprise	0
+	brawl	trust	0
+	brazen	anger	1
+	brazen	anticipation	0
+	brazen	disgust	0
+	brazen	fear	0
+	brazen	joy	0
+	brazen	negative	1
+	brazen	positive	0
+	brazen	sadness	0
+	brazen	surprise	0
+	brazen	trust	0
+	breach	anger	0
+	breach	anticipation	0
+	breach	disgust	0
+	breach	fear	0
+	breach	joy	0
+	breach	negative	1
+	breach	positive	0
+	breach	sadness	0
+	breach	surprise	0
+	breach	trust	0
+	bread	anger	0
+	bread	anticipation	0
+	bread	disgust	0
+	bread	fear	0
+	bread	joy	0
+	bread	negative	0
+	bread	positive	0
+	bread	sadness	0
+	bread	surprise	0
+	bread	trust	0
+	breadth	anger	0
+	breadth	anticipation	0
+	breadth	disgust	0
+	breadth	fear	0
+	breadth	joy	0
+	breadth	negative	0
+	breadth	positive	0
+	breadth	sadness	0
+	breadth	surprise	0
+	breadth	trust	0
+	break	anger	0
+	break	anticipation	0
+	break	disgust	0
+	break	fear	0
+	break	joy	0
+	break	negative	0
+	break	positive	0
+	break	sadness	0
+	break	surprise	1
+	break	trust	0
+	breakable	anger	0
+	breakable	anticipation	0
+	breakable	disgust	0
+	breakable	fear	0
+	breakable	joy	0
+	breakable	negative	0
+	breakable	positive	0
+	breakable	sadness	0
+	breakable	surprise	0
+	breakable	trust	0
+	breakdown	anger	0
+	breakdown	anticipation	0
+	breakdown	disgust	0
+	breakdown	fear	0
+	breakdown	joy	0
+	breakdown	negative	1
+	breakdown	positive	0
+	breakdown	sadness	0
+	breakdown	surprise	0
+	breakdown	trust	0
+	breaker	anger	0
+	breaker	anticipation	0
+	breaker	disgust	0
+	breaker	fear	0
+	breaker	joy	0
+	breaker	negative	0
+	breaker	positive	0
+	breaker	sadness	0
+	breaker	surprise	0
+	breaker	trust	0
+	breakers	anger	0
+	breakers	anticipation	0
+	breakers	disgust	0
+	breakers	fear	0
+	breakers	joy	0
+	breakers	negative	0
+	breakers	positive	0
+	breakers	sadness	0
+	breakers	surprise	0
+	breakers	trust	0
+	breakfast	anger	0
+	breakfast	anticipation	0
+	breakfast	disgust	0
+	breakfast	fear	0
+	breakfast	joy	0
+	breakfast	negative	0
+	breakfast	positive	1
+	breakfast	sadness	0
+	breakfast	surprise	0
+	breakfast	trust	0
+	breakneck	anger	0
+	breakneck	anticipation	0
+	breakneck	disgust	0
+	breakneck	fear	0
+	breakneck	joy	0
+	breakneck	negative	1
+	breakneck	positive	0
+	breakneck	sadness	0
+	breakneck	surprise	0
+	breakneck	trust	0
+	breakup	anger	0
+	breakup	anticipation	0
+	breakup	disgust	0
+	breakup	fear	0
+	breakup	joy	0
+	breakup	negative	1
+	breakup	positive	0
+	breakup	sadness	1
+	breakup	surprise	0
+	breakup	trust	0
+	breath	anger	0
+	breath	anticipation	0
+	breath	disgust	0
+	breath	fear	0
+	breath	joy	0
+	breath	negative	0
+	breath	positive	0
+	breath	sadness	0
+	breath	surprise	0
+	breath	trust	0
+	breech	anger	0
+	breech	anticipation	0
+	breech	disgust	0
+	breech	fear	0
+	breech	joy	0
+	breech	negative	0
+	breech	positive	0
+	breech	sadness	0
+	breech	surprise	0
+	breech	trust	0
+	breeches	anger	0
+	breeches	anticipation	0
+	breeches	disgust	0
+	breeches	fear	0
+	breeches	joy	0
+	breeches	negative	0
+	breeches	positive	0
+	breeches	sadness	0
+	breeches	surprise	0
+	breeches	trust	0
+	breed	anger	0
+	breed	anticipation	0
+	breed	disgust	0
+	breed	fear	0
+	breed	joy	0
+	breed	negative	0
+	breed	positive	0
+	breed	sadness	0
+	breed	surprise	0
+	breed	trust	0
+	breeder	anger	0
+	breeder	anticipation	0
+	breeder	disgust	0
+	breeder	fear	0
+	breeder	joy	0
+	breeder	negative	0
+	breeder	positive	0
+	breeder	sadness	0
+	breeder	surprise	0
+	breeder	trust	0
+	breeding	anger	0
+	breeding	anticipation	0
+	breeding	disgust	0
+	breeding	fear	0
+	breeding	joy	0
+	breeding	negative	0
+	breeding	positive	0
+	breeding	sadness	0
+	breeding	surprise	0
+	breeding	trust	0
+	breeze	anger	0
+	breeze	anticipation	0
+	breeze	disgust	0
+	breeze	fear	0
+	breeze	joy	0
+	breeze	negative	0
+	breeze	positive	0
+	breeze	sadness	0
+	breeze	surprise	0
+	breeze	trust	0
+	breezy	anger	0
+	breezy	anticipation	0
+	breezy	disgust	0
+	breezy	fear	0
+	breezy	joy	0
+	breezy	negative	0
+	breezy	positive	0
+	breezy	sadness	0
+	breezy	surprise	0
+	breezy	trust	0
+	brethren	anger	0
+	brethren	anticipation	0
+	brethren	disgust	0
+	brethren	fear	0
+	brethren	joy	0
+	brethren	negative	0
+	brethren	positive	0
+	brethren	sadness	0
+	brethren	surprise	0
+	brethren	trust	0
+	breve	anger	0
+	breve	anticipation	0
+	breve	disgust	0
+	breve	fear	0
+	breve	joy	0
+	breve	negative	0
+	breve	positive	0
+	breve	sadness	0
+	breve	surprise	0
+	breve	trust	0
+	brevity	anger	0
+	brevity	anticipation	0
+	brevity	disgust	0
+	brevity	fear	0
+	brevity	joy	0
+	brevity	negative	0
+	brevity	positive	0
+	brevity	sadness	0
+	brevity	surprise	0
+	brevity	trust	0
+	brew	anger	0
+	brew	anticipation	0
+	brew	disgust	0
+	brew	fear	0
+	brew	joy	0
+	brew	negative	0
+	brew	positive	0
+	brew	sadness	0
+	brew	surprise	0
+	brew	trust	0
+	brewing	anger	0
+	brewing	anticipation	0
+	brewing	disgust	0
+	brewing	fear	0
+	brewing	joy	0
+	brewing	negative	0
+	brewing	positive	0
+	brewing	sadness	0
+	brewing	surprise	0
+	brewing	trust	0
+	bribe	anger	0
+	bribe	anticipation	0
+	bribe	disgust	0
+	bribe	fear	0
+	bribe	joy	0
+	bribe	negative	1
+	bribe	positive	0
+	bribe	sadness	0
+	bribe	surprise	0
+	bribe	trust	0
+	bribery	anger	0
+	bribery	anticipation	0
+	bribery	disgust	1
+	bribery	fear	0
+	bribery	joy	0
+	bribery	negative	1
+	bribery	positive	0
+	bribery	sadness	0
+	bribery	surprise	0
+	bribery	trust	0
+	brick	anger	0
+	brick	anticipation	0
+	brick	disgust	0
+	brick	fear	0
+	brick	joy	0
+	brick	negative	0
+	brick	positive	0
+	brick	sadness	0
+	brick	surprise	0
+	brick	trust	0
+	bridal	anger	0
+	bridal	anticipation	1
+	bridal	disgust	0
+	bridal	fear	0
+	bridal	joy	1
+	bridal	negative	0
+	bridal	positive	1
+	bridal	sadness	0
+	bridal	surprise	0
+	bridal	trust	1
+	bride	anger	0
+	bride	anticipation	1
+	bride	disgust	0
+	bride	fear	0
+	bride	joy	1
+	bride	negative	0
+	bride	positive	1
+	bride	sadness	0
+	bride	surprise	0
+	bride	trust	1
+	bridegroom	anger	0
+	bridegroom	anticipation	1
+	bridegroom	disgust	0
+	bridegroom	fear	0
+	bridegroom	joy	1
+	bridegroom	negative	0
+	bridegroom	positive	1
+	bridegroom	sadness	0
+	bridegroom	surprise	0
+	bridegroom	trust	1
+	bridesmaid	anger	0
+	bridesmaid	anticipation	0
+	bridesmaid	disgust	0
+	bridesmaid	fear	0
+	bridesmaid	joy	1
+	bridesmaid	negative	0
+	bridesmaid	positive	1
+	bridesmaid	sadness	0
+	bridesmaid	surprise	0
+	bridesmaid	trust	1
+	bridge	anger	0
+	bridge	anticipation	0
+	bridge	disgust	0
+	bridge	fear	0
+	bridge	joy	0
+	bridge	negative	0
+	bridge	positive	0
+	bridge	sadness	0
+	bridge	surprise	0
+	bridge	trust	0
+	bridle	anger	0
+	bridle	anticipation	0
+	bridle	disgust	0
+	bridle	fear	0
+	bridle	joy	0
+	bridle	negative	0
+	bridle	positive	0
+	bridle	sadness	0
+	bridle	surprise	0
+	bridle	trust	0
+	briefly	anger	0
+	briefly	anticipation	0
+	briefly	disgust	0
+	briefly	fear	0
+	briefly	joy	0
+	briefly	negative	0
+	briefly	positive	0
+	briefly	sadness	0
+	briefly	surprise	0
+	briefly	trust	0
+	brig	anger	0
+	brig	anticipation	0
+	brig	disgust	0
+	brig	fear	0
+	brig	joy	0
+	brig	negative	0
+	brig	positive	0
+	brig	sadness	0
+	brig	surprise	0
+	brig	trust	0
+	brigade	anger	0
+	brigade	anticipation	0
+	brigade	disgust	0
+	brigade	fear	1
+	brigade	joy	0
+	brigade	negative	1
+	brigade	positive	0
+	brigade	sadness	0
+	brigade	surprise	0
+	brigade	trust	0
+	brighten	anger	0
+	brighten	anticipation	0
+	brighten	disgust	0
+	brighten	fear	0
+	brighten	joy	1
+	brighten	negative	0
+	brighten	positive	1
+	brighten	sadness	0
+	brighten	surprise	1
+	brighten	trust	1
+	brightness	anger	0
+	brightness	anticipation	0
+	brightness	disgust	0
+	brightness	fear	0
+	brightness	joy	0
+	brightness	negative	0
+	brightness	positive	1
+	brightness	sadness	0
+	brightness	surprise	0
+	brightness	trust	0
+	brilliant	anger	0
+	brilliant	anticipation	1
+	brilliant	disgust	0
+	brilliant	fear	0
+	brilliant	joy	1
+	brilliant	negative	0
+	brilliant	positive	1
+	brilliant	sadness	0
+	brilliant	surprise	0
+	brilliant	trust	1
+	brim	anger	0
+	brim	anticipation	0
+	brim	disgust	0
+	brim	fear	0
+	brim	joy	0
+	brim	negative	0
+	brim	positive	0
+	brim	sadness	0
+	brim	surprise	0
+	brim	trust	0
+	brimming	anger	0
+	brimming	anticipation	0
+	brimming	disgust	0
+	brimming	fear	0
+	brimming	joy	0
+	brimming	negative	0
+	brimming	positive	0
+	brimming	sadness	0
+	brimming	surprise	0
+	brimming	trust	0
+	brimstone	anger	1
+	brimstone	anticipation	0
+	brimstone	disgust	0
+	brimstone	fear	1
+	brimstone	joy	0
+	brimstone	negative	1
+	brimstone	positive	0
+	brimstone	sadness	0
+	brimstone	surprise	0
+	brimstone	trust	0
+	brine	anger	0
+	brine	anticipation	0
+	brine	disgust	0
+	brine	fear	0
+	brine	joy	0
+	brine	negative	0
+	brine	positive	0
+	brine	sadness	0
+	brine	surprise	0
+	brine	trust	0
+	bring	anger	0
+	bring	anticipation	0
+	bring	disgust	0
+	bring	fear	0
+	bring	joy	0
+	bring	negative	0
+	bring	positive	0
+	bring	sadness	0
+	bring	surprise	0
+	bring	trust	0
+	brink	anger	0
+	brink	anticipation	0
+	brink	disgust	0
+	brink	fear	0
+	brink	joy	0
+	brink	negative	0
+	brink	positive	0
+	brink	sadness	0
+	brink	surprise	0
+	brink	trust	0
+	brisk	anger	0
+	brisk	anticipation	0
+	brisk	disgust	0
+	brisk	fear	0
+	brisk	joy	0
+	brisk	negative	0
+	brisk	positive	0
+	brisk	sadness	0
+	brisk	surprise	0
+	brisk	trust	0
+	bristle	anger	0
+	bristle	anticipation	0
+	bristle	disgust	0
+	bristle	fear	0
+	bristle	joy	0
+	bristle	negative	1
+	bristle	positive	0
+	bristle	sadness	0
+	bristle	surprise	0
+	bristle	trust	0
+	brittle	anger	0
+	brittle	anticipation	0
+	brittle	disgust	0
+	brittle	fear	0
+	brittle	joy	0
+	brittle	negative	0
+	brittle	positive	0
+	brittle	sadness	0
+	brittle	surprise	0
+	brittle	trust	0
+	broadcast	anger	0
+	broadcast	anticipation	0
+	broadcast	disgust	0
+	broadcast	fear	0
+	broadcast	joy	0
+	broadcast	negative	0
+	broadcast	positive	0
+	broadcast	sadness	0
+	broadcast	surprise	0
+	broadcast	trust	0
+	broadside	anger	0
+	broadside	anticipation	1
+	broadside	disgust	0
+	broadside	fear	0
+	broadside	joy	0
+	broadside	negative	1
+	broadside	positive	0
+	broadside	sadness	0
+	broadside	surprise	0
+	broadside	trust	0
+	brocade	anger	0
+	brocade	anticipation	0
+	brocade	disgust	0
+	brocade	fear	0
+	brocade	joy	0
+	brocade	negative	0
+	brocade	positive	1
+	brocade	sadness	0
+	brocade	surprise	0
+	brocade	trust	0
+	brochure	anger	0
+	brochure	anticipation	0
+	brochure	disgust	0
+	brochure	fear	0
+	brochure	joy	0
+	brochure	negative	0
+	brochure	positive	0
+	brochure	sadness	0
+	brochure	surprise	0
+	brochure	trust	0
+	broil	anger	1
+	broil	anticipation	0
+	broil	disgust	0
+	broil	fear	0
+	broil	joy	0
+	broil	negative	1
+	broil	positive	0
+	broil	sadness	0
+	broil	surprise	0
+	broil	trust	0
+	broke	anger	0
+	broke	anticipation	0
+	broke	disgust	0
+	broke	fear	1
+	broke	joy	0
+	broke	negative	1
+	broke	positive	0
+	broke	sadness	1
+	broke	surprise	0
+	broke	trust	0
+	broken	anger	1
+	broken	anticipation	0
+	broken	disgust	0
+	broken	fear	1
+	broken	joy	0
+	broken	negative	1
+	broken	positive	0
+	broken	sadness	1
+	broken	surprise	0
+	broken	trust	0
+	broker	anger	0
+	broker	anticipation	0
+	broker	disgust	0
+	broker	fear	0
+	broker	joy	0
+	broker	negative	0
+	broker	positive	0
+	broker	sadness	0
+	broker	surprise	0
+	broker	trust	0
+	brokerage	anger	0
+	brokerage	anticipation	0
+	brokerage	disgust	0
+	brokerage	fear	0
+	brokerage	joy	0
+	brokerage	negative	0
+	brokerage	positive	0
+	brokerage	sadness	0
+	brokerage	surprise	0
+	brokerage	trust	0
+	bronco	anger	0
+	bronco	anticipation	0
+	bronco	disgust	0
+	bronco	fear	0
+	bronco	joy	0
+	bronco	negative	0
+	bronco	positive	0
+	bronco	sadness	0
+	bronco	surprise	0
+	bronco	trust	0
+	bronze	anger	0
+	bronze	anticipation	0
+	bronze	disgust	0
+	bronze	fear	0
+	bronze	joy	0
+	bronze	negative	0
+	bronze	positive	0
+	bronze	sadness	0
+	bronze	surprise	0
+	bronze	trust	0
+	brood	anger	0
+	brood	anticipation	0
+	brood	disgust	0
+	brood	fear	0
+	brood	joy	0
+	brood	negative	0
+	brood	positive	0
+	brood	sadness	0
+	brood	surprise	0
+	brood	trust	0
+	brooding	anger	0
+	brooding	anticipation	0
+	brooding	disgust	0
+	brooding	fear	0
+	brooding	joy	0
+	brooding	negative	0
+	brooding	positive	0
+	brooding	sadness	0
+	brooding	surprise	0
+	brooding	trust	0
+	brook	anger	0
+	brook	anticipation	0
+	brook	disgust	0
+	brook	fear	0
+	brook	joy	0
+	brook	negative	0
+	brook	positive	0
+	brook	sadness	0
+	brook	surprise	0
+	brook	trust	0
+	broom	anger	0
+	broom	anticipation	0
+	broom	disgust	0
+	broom	fear	0
+	broom	joy	0
+	broom	negative	0
+	broom	positive	0
+	broom	sadness	0
+	broom	surprise	0
+	broom	trust	0
+	broth	anger	0
+	broth	anticipation	0
+	broth	disgust	0
+	broth	fear	0
+	broth	joy	0
+	broth	negative	0
+	broth	positive	0
+	broth	sadness	0
+	broth	surprise	0
+	broth	trust	0
+	brothel	anger	0
+	brothel	anticipation	0
+	brothel	disgust	1
+	brothel	fear	0
+	brothel	joy	0
+	brothel	negative	1
+	brothel	positive	0
+	brothel	sadness	0
+	brothel	surprise	0
+	brothel	trust	0
+	brother	anger	0
+	brother	anticipation	0
+	brother	disgust	0
+	brother	fear	0
+	brother	joy	0
+	brother	negative	0
+	brother	positive	1
+	brother	sadness	0
+	brother	surprise	0
+	brother	trust	1
+	brotherhood	anger	0
+	brotherhood	anticipation	0
+	brotherhood	disgust	0
+	brotherhood	fear	0
+	brotherhood	joy	0
+	brotherhood	negative	0
+	brotherhood	positive	1
+	brotherhood	sadness	0
+	brotherhood	surprise	0
+	brotherhood	trust	1
+	brotherly	anger	0
+	brotherly	anticipation	1
+	brotherly	disgust	0
+	brotherly	fear	0
+	brotherly	joy	1
+	brotherly	negative	0
+	brotherly	positive	1
+	brotherly	sadness	0
+	brotherly	surprise	0
+	brotherly	trust	1
+	brow	anger	0
+	brow	anticipation	0
+	brow	disgust	0
+	brow	fear	0
+	brow	joy	0
+	brow	negative	0
+	brow	positive	0
+	brow	sadness	0
+	brow	surprise	0
+	brow	trust	0
+	brown	anger	0
+	brown	anticipation	0
+	brown	disgust	0
+	brown	fear	0
+	brown	joy	0
+	brown	negative	0
+	brown	positive	0
+	brown	sadness	0
+	brown	surprise	0
+	brown	trust	0
+	bruise	anger	0
+	bruise	anticipation	1
+	bruise	disgust	0
+	bruise	fear	0
+	bruise	joy	0
+	bruise	negative	1
+	bruise	positive	0
+	bruise	sadness	0
+	bruise	surprise	0
+	bruise	trust	0
+	brunette	anger	0
+	brunette	anticipation	0
+	brunette	disgust	0
+	brunette	fear	0
+	brunette	joy	0
+	brunette	negative	0
+	brunette	positive	0
+	brunette	sadness	0
+	brunette	surprise	0
+	brunette	trust	0
+	brunt	anger	1
+	brunt	anticipation	0
+	brunt	disgust	0
+	brunt	fear	0
+	brunt	joy	0
+	brunt	negative	1
+	brunt	positive	0
+	brunt	sadness	0
+	brunt	surprise	0
+	brunt	trust	0
+	brush	anger	0
+	brush	anticipation	0
+	brush	disgust	0
+	brush	fear	0
+	brush	joy	0
+	brush	negative	0
+	brush	positive	0
+	brush	sadness	0
+	brush	surprise	0
+	brush	trust	0
+	brutal	anger	1
+	brutal	anticipation	0
+	brutal	disgust	0
+	brutal	fear	1
+	brutal	joy	0
+	brutal	negative	1
+	brutal	positive	0
+	brutal	sadness	0
+	brutal	surprise	0
+	brutal	trust	0
+	brutality	anger	1
+	brutality	anticipation	0
+	brutality	disgust	0
+	brutality	fear	1
+	brutality	joy	0
+	brutality	negative	1
+	brutality	positive	0
+	brutality	sadness	0
+	brutality	surprise	0
+	brutality	trust	0
+	brute	anger	1
+	brute	anticipation	0
+	brute	disgust	0
+	brute	fear	1
+	brute	joy	0
+	brute	negative	1
+	brute	positive	0
+	brute	sadness	1
+	brute	surprise	0
+	brute	trust	0
+	bubble	anger	0
+	bubble	anticipation	0
+	bubble	disgust	0
+	bubble	fear	0
+	bubble	joy	0
+	bubble	negative	0
+	bubble	positive	0
+	bubble	sadness	0
+	bubble	surprise	0
+	bubble	trust	0
+	bubbling	anger	0
+	bubbling	anticipation	0
+	bubbling	disgust	0
+	bubbling	fear	0
+	bubbling	joy	0
+	bubbling	negative	0
+	bubbling	positive	0
+	bubbling	sadness	0
+	bubbling	surprise	0
+	bubbling	trust	0
+	buck	anger	0
+	buck	anticipation	0
+	buck	disgust	0
+	buck	fear	1
+	buck	joy	0
+	buck	negative	1
+	buck	positive	1
+	buck	sadness	0
+	buck	surprise	1
+	buck	trust	0
+	bucket	anger	0
+	bucket	anticipation	0
+	bucket	disgust	0
+	bucket	fear	0
+	bucket	joy	0
+	bucket	negative	0
+	bucket	positive	0
+	bucket	sadness	0
+	bucket	surprise	0
+	bucket	trust	0
+	buckle	anger	0
+	buckle	anticipation	0
+	buckle	disgust	0
+	buckle	fear	0
+	buckle	joy	0
+	buckle	negative	0
+	buckle	positive	0
+	buckle	sadness	0
+	buckle	surprise	0
+	buckle	trust	0
+	buckled	anger	0
+	buckled	anticipation	0
+	buckled	disgust	0
+	buckled	fear	0
+	buckled	joy	0
+	buckled	negative	0
+	buckled	positive	0
+	buckled	sadness	0
+	buckled	surprise	0
+	buckled	trust	0
+	bud	anger	0
+	bud	anticipation	0
+	bud	disgust	0
+	bud	fear	0
+	bud	joy	0
+	bud	negative	0
+	bud	positive	0
+	bud	sadness	0
+	bud	surprise	0
+	bud	trust	0
+	buddy	anger	0
+	buddy	anticipation	1
+	buddy	disgust	0
+	buddy	fear	0
+	buddy	joy	1
+	buddy	negative	0
+	buddy	positive	1
+	buddy	sadness	0
+	buddy	surprise	0
+	buddy	trust	1
+	budge	anger	0
+	budge	anticipation	0
+	budge	disgust	0
+	budge	fear	0
+	budge	joy	0
+	budge	negative	0
+	budge	positive	0
+	budge	sadness	0
+	budge	surprise	0
+	budge	trust	0
+	budget	anger	0
+	budget	anticipation	0
+	budget	disgust	0
+	budget	fear	0
+	budget	joy	0
+	budget	negative	0
+	budget	positive	0
+	budget	sadness	0
+	budget	surprise	0
+	budget	trust	1
+	buffalo	anger	0
+	buffalo	anticipation	0
+	buffalo	disgust	0
+	buffalo	fear	0
+	buffalo	joy	0
+	buffalo	negative	0
+	buffalo	positive	0
+	buffalo	sadness	0
+	buffalo	surprise	0
+	buffalo	trust	0
+	buffer	anger	0
+	buffer	anticipation	0
+	buffer	disgust	0
+	buffer	fear	0
+	buffer	joy	0
+	buffer	negative	0
+	buffer	positive	0
+	buffer	sadness	0
+	buffer	surprise	0
+	buffer	trust	0
+	buffet	anger	1
+	buffet	anticipation	0
+	buffet	disgust	0
+	buffet	fear	0
+	buffet	joy	0
+	buffet	negative	1
+	buffet	positive	0
+	buffet	sadness	0
+	buffet	surprise	0
+	buffet	trust	0
+	bug	anger	0
+	bug	anticipation	0
+	bug	disgust	1
+	bug	fear	1
+	bug	joy	0
+	bug	negative	1
+	bug	positive	0
+	bug	sadness	0
+	bug	surprise	0
+	bug	trust	0
+	bugaboo	anger	1
+	bugaboo	anticipation	0
+	bugaboo	disgust	0
+	bugaboo	fear	1
+	bugaboo	joy	0
+	bugaboo	negative	1
+	bugaboo	positive	0
+	bugaboo	sadness	1
+	bugaboo	surprise	0
+	bugaboo	trust	0
+	buggy	anger	0
+	buggy	anticipation	0
+	buggy	disgust	0
+	buggy	fear	0
+	buggy	joy	0
+	buggy	negative	0
+	buggy	positive	0
+	buggy	sadness	0
+	buggy	surprise	0
+	buggy	trust	0
+	bugle	anger	0
+	bugle	anticipation	1
+	bugle	disgust	0
+	bugle	fear	0
+	bugle	joy	0
+	bugle	negative	0
+	bugle	positive	0
+	bugle	sadness	0
+	bugle	surprise	0
+	bugle	trust	0
+	build	anger	0
+	build	anticipation	0
+	build	disgust	0
+	build	fear	0
+	build	joy	0
+	build	negative	0
+	build	positive	1
+	build	sadness	0
+	build	surprise	0
+	build	trust	0
+	builder	anger	0
+	builder	anticipation	0
+	builder	disgust	0
+	builder	fear	0
+	builder	joy	0
+	builder	negative	0
+	builder	positive	0
+	builder	sadness	0
+	builder	surprise	0
+	builder	trust	0
+	building	anger	0
+	building	anticipation	0
+	building	disgust	0
+	building	fear	0
+	building	joy	0
+	building	negative	0
+	building	positive	1
+	building	sadness	0
+	building	surprise	0
+	building	trust	0
+	buildings	anger	0
+	buildings	anticipation	0
+	buildings	disgust	0
+	buildings	fear	0
+	buildings	joy	0
+	buildings	negative	0
+	buildings	positive	0
+	buildings	sadness	0
+	buildings	surprise	0
+	buildings	trust	0
+	bulb	anger	0
+	bulb	anticipation	0
+	bulb	disgust	0
+	bulb	fear	0
+	bulb	joy	0
+	bulb	negative	0
+	bulb	positive	0
+	bulb	sadness	0
+	bulb	surprise	0
+	bulb	trust	0
+	bulbous	anger	0
+	bulbous	anticipation	0
+	bulbous	disgust	0
+	bulbous	fear	0
+	bulbous	joy	0
+	bulbous	negative	1
+	bulbous	positive	0
+	bulbous	sadness	0
+	bulbous	surprise	0
+	bulbous	trust	0
+	bulge	anger	0
+	bulge	anticipation	0
+	bulge	disgust	0
+	bulge	fear	0
+	bulge	joy	0
+	bulge	negative	0
+	bulge	positive	0
+	bulge	sadness	0
+	bulge	surprise	0
+	bulge	trust	0
+	bulk	anger	0
+	bulk	anticipation	0
+	bulk	disgust	0
+	bulk	fear	0
+	bulk	joy	0
+	bulk	negative	0
+	bulk	positive	0
+	bulk	sadness	0
+	bulk	surprise	0
+	bulk	trust	0
+	bulkhead	anger	0
+	bulkhead	anticipation	0
+	bulkhead	disgust	0
+	bulkhead	fear	0
+	bulkhead	joy	0
+	bulkhead	negative	0
+	bulkhead	positive	0
+	bulkhead	sadness	0
+	bulkhead	surprise	0
+	bulkhead	trust	0
+	bulky	anger	0
+	bulky	anticipation	0
+	bulky	disgust	0
+	bulky	fear	0
+	bulky	joy	0
+	bulky	negative	0
+	bulky	positive	0
+	bulky	sadness	0
+	bulky	surprise	0
+	bulky	trust	0
+	bull	anger	0
+	bull	anticipation	0
+	bull	disgust	0
+	bull	fear	0
+	bull	joy	0
+	bull	negative	0
+	bull	positive	0
+	bull	sadness	0
+	bull	surprise	0
+	bull	trust	0
+	bulldog	anger	0
+	bulldog	anticipation	0
+	bulldog	disgust	0
+	bulldog	fear	0
+	bulldog	joy	0
+	bulldog	negative	0
+	bulldog	positive	1
+	bulldog	sadness	0
+	bulldog	surprise	0
+	bulldog	trust	0
+	bulldozer	anger	0
+	bulldozer	anticipation	0
+	bulldozer	disgust	0
+	bulldozer	fear	0
+	bulldozer	joy	0
+	bulldozer	negative	0
+	bulldozer	positive	0
+	bulldozer	sadness	0
+	bulldozer	surprise	0
+	bulldozer	trust	0
+	bullet	anger	0
+	bullet	anticipation	0
+	bullet	disgust	0
+	bullet	fear	0
+	bullet	joy	0
+	bullet	negative	0
+	bullet	positive	0
+	bullet	sadness	0
+	bullet	surprise	0
+	bullet	trust	0
+	bulletin	anger	0
+	bulletin	anticipation	0
+	bulletin	disgust	0
+	bulletin	fear	0
+	bulletin	joy	0
+	bulletin	negative	0
+	bulletin	positive	0
+	bulletin	sadness	0
+	bulletin	surprise	0
+	bulletin	trust	0
+	bulletproof	anger	0
+	bulletproof	anticipation	0
+	bulletproof	disgust	0
+	bulletproof	fear	0
+	bulletproof	joy	0
+	bulletproof	negative	0
+	bulletproof	positive	1
+	bulletproof	sadness	0
+	bulletproof	surprise	0
+	bulletproof	trust	0
+	bullock	anger	0
+	bullock	anticipation	0
+	bullock	disgust	0
+	bullock	fear	0
+	bullock	joy	0
+	bullock	negative	0
+	bullock	positive	0
+	bullock	sadness	0
+	bullock	surprise	0
+	bullock	trust	0
+	bully	anger	1
+	bully	anticipation	0
+	bully	disgust	0
+	bully	fear	1
+	bully	joy	0
+	bully	negative	1
+	bully	positive	0
+	bully	sadness	0
+	bully	surprise	0
+	bully	trust	0
+	bulwark	anger	0
+	bulwark	anticipation	0
+	bulwark	disgust	0
+	bulwark	fear	0
+	bulwark	joy	0
+	bulwark	negative	0
+	bulwark	positive	0
+	bulwark	sadness	0
+	bulwark	surprise	0
+	bulwark	trust	0
+	bum	anger	0
+	bum	anticipation	0
+	bum	disgust	1
+	bum	fear	0
+	bum	joy	0
+	bum	negative	1
+	bum	positive	0
+	bum	sadness	1
+	bum	surprise	0
+	bum	trust	0
+	bummer	anger	1
+	bummer	anticipation	0
+	bummer	disgust	1
+	bummer	fear	0
+	bummer	joy	0
+	bummer	negative	1
+	bummer	positive	0
+	bummer	sadness	0
+	bummer	surprise	0
+	bummer	trust	0
+	bump	anger	0
+	bump	anticipation	0
+	bump	disgust	0
+	bump	fear	0
+	bump	joy	0
+	bump	negative	0
+	bump	positive	0
+	bump	sadness	0
+	bump	surprise	0
+	bump	trust	0
+	bun	anger	0
+	bun	anticipation	0
+	bun	disgust	0
+	bun	fear	0
+	bun	joy	0
+	bun	negative	0
+	bun	positive	0
+	bun	sadness	0
+	bun	surprise	0
+	bun	trust	0
+	bunch	anger	0
+	bunch	anticipation	0
+	bunch	disgust	0
+	bunch	fear	0
+	bunch	joy	0
+	bunch	negative	0
+	bunch	positive	0
+	bunch	sadness	0
+	bunch	surprise	0
+	bunch	trust	0
+	bundle	anger	0
+	bundle	anticipation	0
+	bundle	disgust	0
+	bundle	fear	0
+	bundle	joy	0
+	bundle	negative	0
+	bundle	positive	0
+	bundle	sadness	0
+	bundle	surprise	0
+	bundle	trust	0
+	bungalow	anger	0
+	bungalow	anticipation	0
+	bungalow	disgust	0
+	bungalow	fear	0
+	bungalow	joy	0
+	bungalow	negative	0
+	bungalow	positive	0
+	bungalow	sadness	0
+	bungalow	surprise	0
+	bungalow	trust	0
+	bunk	anger	0
+	bunk	anticipation	0
+	bunk	disgust	0
+	bunk	fear	0
+	bunk	joy	0
+	bunk	negative	0
+	bunk	positive	0
+	bunk	sadness	0
+	bunk	surprise	0
+	bunk	trust	0
+	bunker	anger	0
+	bunker	anticipation	0
+	bunker	disgust	0
+	bunker	fear	1
+	bunker	joy	0
+	bunker	negative	0
+	bunker	positive	0
+	bunker	sadness	0
+	bunker	surprise	0
+	bunker	trust	0
+	bunt	anger	0
+	bunt	anticipation	0
+	bunt	disgust	0
+	bunt	fear	0
+	bunt	joy	0
+	bunt	negative	0
+	bunt	positive	0
+	bunt	sadness	0
+	bunt	surprise	0
+	bunt	trust	0
+	buoy	anger	0
+	buoy	anticipation	0
+	buoy	disgust	0
+	buoy	fear	0
+	buoy	joy	0
+	buoy	negative	0
+	buoy	positive	1
+	buoy	sadness	0
+	buoy	surprise	0
+	buoy	trust	0
+	buoyancy	anger	0
+	buoyancy	anticipation	0
+	buoyancy	disgust	0
+	buoyancy	fear	0
+	buoyancy	joy	0
+	buoyancy	negative	0
+	buoyancy	positive	0
+	buoyancy	sadness	0
+	buoyancy	surprise	0
+	buoyancy	trust	0
+	bur	anger	0
+	bur	anticipation	0
+	bur	disgust	0
+	bur	fear	0
+	bur	joy	0
+	bur	negative	0
+	bur	positive	0
+	bur	sadness	0
+	bur	surprise	0
+	bur	trust	0
+	burden	anger	0
+	burden	anticipation	0
+	burden	disgust	0
+	burden	fear	0
+	burden	joy	0
+	burden	negative	0
+	burden	positive	0
+	burden	sadness	0
+	burden	surprise	0
+	burden	trust	0
+	burdensome	anger	0
+	burdensome	anticipation	0
+	burdensome	disgust	0
+	burdensome	fear	1
+	burdensome	joy	0
+	burdensome	negative	1
+	burdensome	positive	0
+	burdensome	sadness	1
+	burdensome	surprise	0
+	burdensome	trust	0
+	bureau	anger	0
+	bureau	anticipation	0
+	bureau	disgust	0
+	bureau	fear	0
+	bureau	joy	0
+	bureau	negative	0
+	bureau	positive	0
+	bureau	sadness	0
+	bureau	surprise	0
+	bureau	trust	0
+	bureaucracy	anger	0
+	bureaucracy	anticipation	0
+	bureaucracy	disgust	0
+	bureaucracy	fear	0
+	bureaucracy	joy	0
+	bureaucracy	negative	1
+	bureaucracy	positive	0
+	bureaucracy	sadness	0
+	bureaucracy	surprise	0
+	bureaucracy	trust	1
+	bureaucrat	anger	0
+	bureaucrat	anticipation	0
+	bureaucrat	disgust	1
+	bureaucrat	fear	0
+	bureaucrat	joy	0
+	bureaucrat	negative	1
+	bureaucrat	positive	0
+	bureaucrat	sadness	0
+	bureaucrat	surprise	0
+	bureaucrat	trust	0
+	burglar	anger	0
+	burglar	anticipation	0
+	burglar	disgust	1
+	burglar	fear	1
+	burglar	joy	0
+	burglar	negative	1
+	burglar	positive	0
+	burglar	sadness	0
+	burglar	surprise	0
+	burglar	trust	0
+	burglary	anger	0
+	burglary	anticipation	0
+	burglary	disgust	0
+	burglary	fear	0
+	burglary	joy	0
+	burglary	negative	1
+	burglary	positive	0
+	burglary	sadness	0
+	burglary	surprise	0
+	burglary	trust	0
+	burial	anger	1
+	burial	anticipation	0
+	burial	disgust	0
+	burial	fear	1
+	burial	joy	0
+	burial	negative	1
+	burial	positive	0
+	burial	sadness	1
+	burial	surprise	0
+	burial	trust	0
+	buried	anger	0
+	buried	anticipation	0
+	buried	disgust	0
+	buried	fear	1
+	buried	joy	0
+	buried	negative	1
+	buried	positive	0
+	buried	sadness	1
+	buried	surprise	0
+	buried	trust	0
+	burke	anger	1
+	burke	anticipation	0
+	burke	disgust	1
+	burke	fear	1
+	burke	joy	0
+	burke	negative	1
+	burke	positive	0
+	burke	sadness	1
+	burke	surprise	0
+	burke	trust	0
+	burlap	anger	0
+	burlap	anticipation	0
+	burlap	disgust	0
+	burlap	fear	0
+	burlap	joy	0
+	burlap	negative	0
+	burlap	positive	0
+	burlap	sadness	0
+	burlap	surprise	0
+	burlap	trust	0
+	burlesque	anger	0
+	burlesque	anticipation	0
+	burlesque	disgust	0
+	burlesque	fear	0
+	burlesque	joy	0
+	burlesque	negative	0
+	burlesque	positive	0
+	burlesque	sadness	0
+	burlesque	surprise	1
+	burlesque	trust	0
+	burly	anger	0
+	burly	anticipation	0
+	burly	disgust	0
+	burly	fear	0
+	burly	joy	0
+	burly	negative	0
+	burly	positive	0
+	burly	sadness	0
+	burly	surprise	0
+	burly	trust	0
+	burn	anger	0
+	burn	anticipation	0
+	burn	disgust	0
+	burn	fear	0
+	burn	joy	0
+	burn	negative	0
+	burn	positive	0
+	burn	sadness	0
+	burn	surprise	0
+	burn	trust	0
+	burner	anger	0
+	burner	anticipation	0
+	burner	disgust	0
+	burner	fear	0
+	burner	joy	0
+	burner	negative	0
+	burner	positive	0
+	burner	sadness	0
+	burner	surprise	0
+	burner	trust	0
+	burning	anger	0
+	burning	anticipation	0
+	burning	disgust	0
+	burning	fear	0
+	burning	joy	0
+	burning	negative	0
+	burning	positive	0
+	burning	sadness	0
+	burning	surprise	0
+	burning	trust	0
+	burnished	anger	0
+	burnished	anticipation	0
+	burnished	disgust	0
+	burnished	fear	0
+	burnished	joy	0
+	burnished	negative	0
+	burnished	positive	0
+	burnished	sadness	0
+	burnished	surprise	0
+	burnished	trust	0
+	burnout	anger	0
+	burnout	anticipation	0
+	burnout	disgust	0
+	burnout	fear	0
+	burnout	joy	0
+	burnout	negative	0
+	burnout	positive	0
+	burnout	sadness	0
+	burnout	surprise	0
+	burnout	trust	0
+	burnt	anger	0
+	burnt	anticipation	0
+	burnt	disgust	1
+	burnt	fear	0
+	burnt	joy	0
+	burnt	negative	1
+	burnt	positive	0
+	burnt	sadness	0
+	burnt	surprise	0
+	burnt	trust	0
+	burr	anger	0
+	burr	anticipation	0
+	burr	disgust	0
+	burr	fear	0
+	burr	joy	0
+	burr	negative	0
+	burr	positive	0
+	burr	sadness	0
+	burr	surprise	0
+	burr	trust	0
+	burrow	anger	0
+	burrow	anticipation	0
+	burrow	disgust	0
+	burrow	fear	0
+	burrow	joy	0
+	burrow	negative	0
+	burrow	positive	0
+	burrow	sadness	0
+	burrow	surprise	0
+	burrow	trust	0
+	bursary	anger	0
+	bursary	anticipation	0
+	bursary	disgust	0
+	bursary	fear	0
+	bursary	joy	0
+	bursary	negative	0
+	bursary	positive	0
+	bursary	sadness	0
+	bursary	surprise	0
+	bursary	trust	1
+	bury	anger	0
+	bury	anticipation	0
+	bury	disgust	0
+	bury	fear	0
+	bury	joy	0
+	bury	negative	0
+	bury	positive	0
+	bury	sadness	1
+	bury	surprise	0
+	bury	trust	0
+	bus	anger	0
+	bus	anticipation	0
+	bus	disgust	0
+	bus	fear	0
+	bus	joy	0
+	bus	negative	0
+	bus	positive	0
+	bus	sadness	0
+	bus	surprise	0
+	bus	trust	0
+	bush	anger	0
+	bush	anticipation	0
+	bush	disgust	0
+	bush	fear	0
+	bush	joy	0
+	bush	negative	0
+	bush	positive	0
+	bush	sadness	0
+	bush	surprise	0
+	bush	trust	0
+	bushel	anger	0
+	bushel	anticipation	0
+	bushel	disgust	0
+	bushel	fear	0
+	bushel	joy	0
+	bushel	negative	0
+	bushel	positive	0
+	bushel	sadness	0
+	bushel	surprise	0
+	bushel	trust	0
+	bushy	anger	0
+	bushy	anticipation	0
+	bushy	disgust	0
+	bushy	fear	0
+	bushy	joy	0
+	bushy	negative	0
+	bushy	positive	0
+	bushy	sadness	0
+	bushy	surprise	0
+	bushy	trust	0
+	business	anger	0
+	business	anticipation	0
+	business	disgust	0
+	business	fear	0
+	business	joy	0
+	business	negative	0
+	business	positive	0
+	business	sadness	0
+	business	surprise	0
+	business	trust	0
+	buss	anger	0
+	buss	anticipation	0
+	buss	disgust	0
+	buss	fear	0
+	buss	joy	1
+	buss	negative	0
+	buss	positive	1
+	buss	sadness	0
+	buss	surprise	0
+	buss	trust	0
+	bust	anger	0
+	bust	anticipation	0
+	bust	disgust	0
+	bust	fear	0
+	bust	joy	0
+	bust	negative	0
+	bust	positive	0
+	bust	sadness	0
+	bust	surprise	0
+	bust	trust	0
+	busted	anger	1
+	busted	anticipation	0
+	busted	disgust	0
+	busted	fear	1
+	busted	joy	0
+	busted	negative	1
+	busted	positive	0
+	busted	sadness	0
+	busted	surprise	0
+	busted	trust	0
+	bustle	anger	0
+	bustle	anticipation	0
+	bustle	disgust	0
+	bustle	fear	0
+	bustle	joy	0
+	bustle	negative	0
+	bustle	positive	0
+	bustle	sadness	0
+	bustle	surprise	0
+	bustle	trust	0
+	bustling	anger	0
+	bustling	anticipation	0
+	bustling	disgust	0
+	bustling	fear	0
+	bustling	joy	0
+	bustling	negative	0
+	bustling	positive	0
+	bustling	sadness	0
+	bustling	surprise	0
+	bustling	trust	0
+	busy	anger	0
+	busy	anticipation	0
+	busy	disgust	0
+	busy	fear	0
+	busy	joy	0
+	busy	negative	0
+	busy	positive	0
+	busy	sadness	0
+	busy	surprise	0
+	busy	trust	0
+	butane	anger	0
+	butane	anticipation	0
+	butane	disgust	0
+	butane	fear	0
+	butane	joy	0
+	butane	negative	0
+	butane	positive	0
+	butane	sadness	0
+	butane	surprise	0
+	butane	trust	0
+	butcher	anger	1
+	butcher	anticipation	0
+	butcher	disgust	1
+	butcher	fear	1
+	butcher	joy	0
+	butcher	negative	1
+	butcher	positive	0
+	butcher	sadness	0
+	butcher	surprise	0
+	butcher	trust	0
+	butler	anger	0
+	butler	anticipation	0
+	butler	disgust	0
+	butler	fear	0
+	butler	joy	0
+	butler	negative	0
+	butler	positive	1
+	butler	sadness	0
+	butler	surprise	0
+	butler	trust	1
+	butt	anger	0
+	butt	anticipation	0
+	butt	disgust	0
+	butt	fear	0
+	butt	joy	0
+	butt	negative	1
+	butt	positive	0
+	butt	sadness	0
+	butt	surprise	0
+	butt	trust	0
+	butter	anger	0
+	butter	anticipation	0
+	butter	disgust	0
+	butter	fear	0
+	butter	joy	0
+	butter	negative	0
+	butter	positive	0
+	butter	sadness	0
+	butter	surprise	0
+	butter	trust	0
+	butterfly	anger	0
+	butterfly	anticipation	0
+	butterfly	disgust	0
+	butterfly	fear	0
+	butterfly	joy	0
+	butterfly	negative	0
+	butterfly	positive	0
+	butterfly	sadness	0
+	butterfly	surprise	0
+	butterfly	trust	0
+	buttery	anger	0
+	buttery	anticipation	0
+	buttery	disgust	0
+	buttery	fear	0
+	buttery	joy	0
+	buttery	negative	0
+	buttery	positive	1
+	buttery	sadness	0
+	buttery	surprise	0
+	buttery	trust	0
+	buttock	anger	0
+	buttock	anticipation	0
+	buttock	disgust	0
+	buttock	fear	0
+	buttock	joy	0
+	buttock	negative	0
+	buttock	positive	0
+	buttock	sadness	0
+	buttock	surprise	0
+	buttock	trust	0
+	button	anger	0
+	button	anticipation	0
+	button	disgust	0
+	button	fear	0
+	button	joy	0
+	button	negative	0
+	button	positive	0
+	button	sadness	0
+	button	surprise	0
+	button	trust	0
+	buttress	anger	0
+	buttress	anticipation	0
+	buttress	disgust	0
+	buttress	fear	0
+	buttress	joy	0
+	buttress	negative	0
+	buttress	positive	0
+	buttress	sadness	0
+	buttress	surprise	0
+	buttress	trust	0
+	buxom	anger	0
+	buxom	anticipation	0
+	buxom	disgust	0
+	buxom	fear	0
+	buxom	joy	0
+	buxom	negative	0
+	buxom	positive	1
+	buxom	sadness	0
+	buxom	surprise	0
+	buxom	trust	0
+	buy	anger	0
+	buy	anticipation	0
+	buy	disgust	0
+	buy	fear	0
+	buy	joy	0
+	buy	negative	0
+	buy	positive	0
+	buy	sadness	0
+	buy	surprise	0
+	buy	trust	0
+	buyer	anger	0
+	buyer	anticipation	0
+	buyer	disgust	0
+	buyer	fear	0
+	buyer	joy	0
+	buyer	negative	0
+	buyer	positive	0
+	buyer	sadness	0
+	buyer	surprise	0
+	buyer	trust	0
+	buying	anger	0
+	buying	anticipation	0
+	buying	disgust	0
+	buying	fear	0
+	buying	joy	0
+	buying	negative	0
+	buying	positive	0
+	buying	sadness	0
+	buying	surprise	0
+	buying	trust	0
+	buzz	anger	0
+	buzz	anticipation	1
+	buzz	disgust	0
+	buzz	fear	1
+	buzz	joy	0
+	buzz	negative	0
+	buzz	positive	1
+	buzz	sadness	0
+	buzz	surprise	0
+	buzz	trust	0
+	buzzed	anger	0
+	buzzed	anticipation	0
+	buzzed	disgust	0
+	buzzed	fear	0
+	buzzed	joy	0
+	buzzed	negative	1
+	buzzed	positive	0
+	buzzed	sadness	0
+	buzzed	surprise	0
+	buzzed	trust	0
+	buzzer	anger	0
+	buzzer	anticipation	0
+	buzzer	disgust	0
+	buzzer	fear	0
+	buzzer	joy	0
+	buzzer	negative	0
+	buzzer	positive	0
+	buzzer	sadness	0
+	buzzer	surprise	0
+	buzzer	trust	0
+	bye	anger	0
+	bye	anticipation	1
+	bye	disgust	0
+	bye	fear	0
+	bye	joy	0
+	bye	negative	0
+	bye	positive	0
+	bye	sadness	0
+	bye	surprise	0
+	bye	trust	0
+	bygone	anger	0
+	bygone	anticipation	0
+	bygone	disgust	0
+	bygone	fear	0
+	bygone	joy	0
+	bygone	negative	0
+	bygone	positive	0
+	bygone	sadness	0
+	bygone	surprise	0
+	bygone	trust	0
+	bylaw	anger	0
+	bylaw	anticipation	0
+	bylaw	disgust	0
+	bylaw	fear	0
+	bylaw	joy	0
+	bylaw	negative	0
+	bylaw	positive	0
+	bylaw	sadness	0
+	bylaw	surprise	0
+	bylaw	trust	1
+	bystander	anger	0
+	bystander	anticipation	0
+	bystander	disgust	0
+	bystander	fear	0
+	bystander	joy	0
+	bystander	negative	0
+	bystander	positive	0
+	bystander	sadness	0
+	bystander	surprise	0
+	bystander	trust	0
+	byte	anger	0
+	byte	anticipation	0
+	byte	disgust	0
+	byte	fear	0
+	byte	joy	0
+	byte	negative	0
+	byte	positive	0
+	byte	sadness	0
+	byte	surprise	0
+	byte	trust	0
+	cab	anger	0
+	cab	anticipation	0
+	cab	disgust	0
+	cab	fear	0
+	cab	joy	0
+	cab	negative	0
+	cab	positive	1
+	cab	sadness	0
+	cab	surprise	0
+	cab	trust	0
+	cabal	anger	0
+	cabal	anticipation	0
+	cabal	disgust	0
+	cabal	fear	1
+	cabal	joy	0
+	cabal	negative	1
+	cabal	positive	0
+	cabal	sadness	0
+	cabal	surprise	0
+	cabal	trust	0
+	cabbage	anger	0
+	cabbage	anticipation	0
+	cabbage	disgust	0
+	cabbage	fear	0
+	cabbage	joy	0
+	cabbage	negative	0
+	cabbage	positive	0
+	cabbage	sadness	0
+	cabbage	surprise	0
+	cabbage	trust	0
+	cabin	anger	0
+	cabin	anticipation	0
+	cabin	disgust	0
+	cabin	fear	0
+	cabin	joy	0
+	cabin	negative	0
+	cabin	positive	0
+	cabin	sadness	0
+	cabin	surprise	0
+	cabin	trust	0
+	cabinet	anger	0
+	cabinet	anticipation	0
+	cabinet	disgust	0
+	cabinet	fear	0
+	cabinet	joy	0
+	cabinet	negative	0
+	cabinet	positive	1
+	cabinet	sadness	0
+	cabinet	surprise	0
+	cabinet	trust	1
+	cable	anger	0
+	cable	anticipation	0
+	cable	disgust	0
+	cable	fear	0
+	cable	joy	0
+	cable	negative	0
+	cable	positive	0
+	cable	sadness	0
+	cable	surprise	1
+	cable	trust	0
+	cabriolet	anger	0
+	cabriolet	anticipation	0
+	cabriolet	disgust	0
+	cabriolet	fear	0
+	cabriolet	joy	0
+	cabriolet	negative	0
+	cabriolet	positive	0
+	cabriolet	sadness	0
+	cabriolet	surprise	0
+	cabriolet	trust	0
+	cache	anger	0
+	cache	anticipation	0
+	cache	disgust	0
+	cache	fear	0
+	cache	joy	0
+	cache	negative	0
+	cache	positive	0
+	cache	sadness	0
+	cache	surprise	0
+	cache	trust	0
+	cacophony	anger	1
+	cacophony	anticipation	0
+	cacophony	disgust	1
+	cacophony	fear	0
+	cacophony	joy	0
+	cacophony	negative	1
+	cacophony	positive	0
+	cacophony	sadness	0
+	cacophony	surprise	0
+	cacophony	trust	0
+	cad	anger	1
+	cad	anticipation	0
+	cad	disgust	1
+	cad	fear	0
+	cad	joy	0
+	cad	negative	1
+	cad	positive	0
+	cad	sadness	0
+	cad	surprise	0
+	cad	trust	0
+	cadaver	anger	0
+	cadaver	anticipation	0
+	cadaver	disgust	1
+	cadaver	fear	1
+	cadaver	joy	0
+	cadaver	negative	1
+	cadaver	positive	0
+	cadaver	sadness	1
+	cadaver	surprise	1
+	cadaver	trust	0
+	caddy	anger	0
+	caddy	anticipation	0
+	caddy	disgust	0
+	caddy	fear	0
+	caddy	joy	0
+	caddy	negative	0
+	caddy	positive	0
+	caddy	sadness	0
+	caddy	surprise	0
+	caddy	trust	0
+	cadence	anger	0
+	cadence	anticipation	0
+	cadence	disgust	0
+	cadence	fear	0
+	cadence	joy	0
+	cadence	negative	0
+	cadence	positive	0
+	cadence	sadness	0
+	cadence	surprise	0
+	cadence	trust	0
+	cadet	anger	0
+	cadet	anticipation	0
+	cadet	disgust	0
+	cadet	fear	0
+	cadet	joy	0
+	cadet	negative	0
+	cadet	positive	0
+	cadet	sadness	0
+	cadet	surprise	0
+	cadet	trust	0
+	cafe	anger	0
+	cafe	anticipation	0
+	cafe	disgust	0
+	cafe	fear	0
+	cafe	joy	0
+	cafe	negative	0
+	cafe	positive	1
+	cafe	sadness	0
+	cafe	surprise	0
+	cafe	trust	0
+	cage	anger	0
+	cage	anticipation	0
+	cage	disgust	0
+	cage	fear	0
+	cage	joy	0
+	cage	negative	1
+	cage	positive	0
+	cage	sadness	1
+	cage	surprise	0
+	cage	trust	0
+	cairn	anger	0
+	cairn	anticipation	0
+	cairn	disgust	0
+	cairn	fear	0
+	cairn	joy	0
+	cairn	negative	0
+	cairn	positive	0
+	cairn	sadness	0
+	cairn	surprise	0
+	cairn	trust	0
+	cake	anger	0
+	cake	anticipation	0
+	cake	disgust	0
+	cake	fear	0
+	cake	joy	0
+	cake	negative	0
+	cake	positive	0
+	cake	sadness	0
+	cake	surprise	0
+	cake	trust	0
+	calamity	anger	0
+	calamity	anticipation	0
+	calamity	disgust	0
+	calamity	fear	0
+	calamity	joy	0
+	calamity	negative	0
+	calamity	positive	0
+	calamity	sadness	1
+	calamity	surprise	0
+	calamity	trust	0
+	calcareous	anger	0
+	calcareous	anticipation	0
+	calcareous	disgust	0
+	calcareous	fear	0
+	calcareous	joy	0
+	calcareous	negative	0
+	calcareous	positive	0
+	calcareous	sadness	0
+	calcareous	surprise	0
+	calcareous	trust	0
+	calculate	anger	0
+	calculate	anticipation	0
+	calculate	disgust	0
+	calculate	fear	0
+	calculate	joy	0
+	calculate	negative	0
+	calculate	positive	0
+	calculate	sadness	0
+	calculate	surprise	0
+	calculate	trust	0
+	calculated	anger	0
+	calculated	anticipation	0
+	calculated	disgust	0
+	calculated	fear	0
+	calculated	joy	0
+	calculated	negative	0
+	calculated	positive	0
+	calculated	sadness	0
+	calculated	surprise	0
+	calculated	trust	0
+	calculating	anger	0
+	calculating	anticipation	0
+	calculating	disgust	0
+	calculating	fear	0
+	calculating	joy	0
+	calculating	negative	1
+	calculating	positive	0
+	calculating	sadness	0
+	calculating	surprise	0
+	calculating	trust	0
+	calculation	anger	0
+	calculation	anticipation	1
+	calculation	disgust	0
+	calculation	fear	0
+	calculation	joy	0
+	calculation	negative	0
+	calculation	positive	0
+	calculation	sadness	0
+	calculation	surprise	0
+	calculation	trust	0
+	calculator	anger	0
+	calculator	anticipation	0
+	calculator	disgust	0
+	calculator	fear	0
+	calculator	joy	0
+	calculator	negative	0
+	calculator	positive	1
+	calculator	sadness	0
+	calculator	surprise	0
+	calculator	trust	1
+	calculus	anger	0
+	calculus	anticipation	0
+	calculus	disgust	0
+	calculus	fear	0
+	calculus	joy	0
+	calculus	negative	0
+	calculus	positive	0
+	calculus	sadness	0
+	calculus	surprise	0
+	calculus	trust	0
+	calendar	anger	0
+	calendar	anticipation	0
+	calendar	disgust	0
+	calendar	fear	0
+	calendar	joy	0
+	calendar	negative	0
+	calendar	positive	0
+	calendar	sadness	0
+	calendar	surprise	0
+	calendar	trust	0
+	calender	anger	0
+	calender	anticipation	0
+	calender	disgust	0
+	calender	fear	0
+	calender	joy	0
+	calender	negative	0
+	calender	positive	0
+	calender	sadness	0
+	calender	surprise	0
+	calender	trust	0
+	calf	anger	0
+	calf	anticipation	0
+	calf	disgust	0
+	calf	fear	0
+	calf	joy	1
+	calf	negative	0
+	calf	positive	1
+	calf	sadness	0
+	calf	surprise	0
+	calf	trust	1
+	caliber	anger	0
+	caliber	anticipation	0
+	caliber	disgust	0
+	caliber	fear	0
+	caliber	joy	0
+	caliber	negative	0
+	caliber	positive	0
+	caliber	sadness	0
+	caliber	surprise	0
+	caliber	trust	0
+	calibrate	anger	0
+	calibrate	anticipation	0
+	calibrate	disgust	0
+	calibrate	fear	0
+	calibrate	joy	0
+	calibrate	negative	0
+	calibrate	positive	0
+	calibrate	sadness	0
+	calibrate	surprise	0
+	calibrate	trust	0
+	calico	anger	0
+	calico	anticipation	0
+	calico	disgust	0
+	calico	fear	0
+	calico	joy	0
+	calico	negative	0
+	calico	positive	0
+	calico	sadness	0
+	calico	surprise	0
+	calico	trust	0
+	calipers	anger	0
+	calipers	anticipation	0
+	calipers	disgust	0
+	calipers	fear	0
+	calipers	joy	0
+	calipers	negative	0
+	calipers	positive	0
+	calipers	sadness	0
+	calipers	surprise	0
+	calipers	trust	0
+	call	anger	0
+	call	anticipation	0
+	call	disgust	0
+	call	fear	0
+	call	joy	0
+	call	negative	0
+	call	positive	0
+	call	sadness	0
+	call	surprise	0
+	call	trust	0
+	calligraphy	anger	0
+	calligraphy	anticipation	0
+	calligraphy	disgust	0
+	calligraphy	fear	0
+	calligraphy	joy	0
+	calligraphy	negative	0
+	calligraphy	positive	0
+	calligraphy	sadness	0
+	calligraphy	surprise	0
+	calligraphy	trust	0
+	calling	anger	0
+	calling	anticipation	0
+	calling	disgust	0
+	calling	fear	0
+	calling	joy	0
+	calling	negative	0
+	calling	positive	0
+	calling	sadness	0
+	calling	surprise	0
+	calling	trust	0
+	callous	anger	1
+	callous	anticipation	0
+	callous	disgust	1
+	callous	fear	0
+	callous	joy	0
+	callous	negative	1
+	callous	positive	0
+	callous	sadness	0
+	callous	surprise	0
+	callous	trust	0
+	calls	anger	0
+	calls	anticipation	1
+	calls	disgust	0
+	calls	fear	0
+	calls	joy	0
+	calls	negative	1
+	calls	positive	0
+	calls	sadness	0
+	calls	surprise	0
+	calls	trust	1
+	calm	anger	0
+	calm	anticipation	0
+	calm	disgust	0
+	calm	fear	0
+	calm	joy	0
+	calm	negative	0
+	calm	positive	1
+	calm	sadness	0
+	calm	surprise	0
+	calm	trust	0
+	calmness	anger	0
+	calmness	anticipation	0
+	calmness	disgust	0
+	calmness	fear	0
+	calmness	joy	0
+	calmness	negative	0
+	calmness	positive	0
+	calmness	sadness	0
+	calmness	surprise	0
+	calmness	trust	0
+	caloric	anger	0
+	caloric	anticipation	0
+	caloric	disgust	0
+	caloric	fear	0
+	caloric	joy	0
+	caloric	negative	0
+	caloric	positive	0
+	caloric	sadness	0
+	caloric	surprise	0
+	caloric	trust	0
+	calorie	anger	0
+	calorie	anticipation	0
+	calorie	disgust	0
+	calorie	fear	0
+	calorie	joy	0
+	calorie	negative	0
+	calorie	positive	0
+	calorie	sadness	0
+	calorie	surprise	0
+	calorie	trust	0
+	calorimeter	anger	0
+	calorimeter	anticipation	0
+	calorimeter	disgust	0
+	calorimeter	fear	0
+	calorimeter	joy	0
+	calorimeter	negative	0
+	calorimeter	positive	0
+	calorimeter	sadness	0
+	calorimeter	surprise	0
+	calorimeter	trust	0
+	cam	anger	0
+	cam	anticipation	0
+	cam	disgust	0
+	cam	fear	0
+	cam	joy	0
+	cam	negative	0
+	cam	positive	0
+	cam	sadness	0
+	cam	surprise	0
+	cam	trust	0
+	camber	anger	0
+	camber	anticipation	0
+	camber	disgust	0
+	camber	fear	0
+	camber	joy	0
+	camber	negative	0
+	camber	positive	0
+	camber	sadness	0
+	camber	surprise	0
+	camber	trust	0
+	camel	anger	0
+	camel	anticipation	0
+	camel	disgust	0
+	camel	fear	0
+	camel	joy	0
+	camel	negative	0
+	camel	positive	0
+	camel	sadness	0
+	camel	surprise	0
+	camel	trust	0
+	cameo	anger	0
+	cameo	anticipation	0
+	cameo	disgust	0
+	cameo	fear	0
+	cameo	joy	0
+	cameo	negative	0
+	cameo	positive	0
+	cameo	sadness	0
+	cameo	surprise	0
+	cameo	trust	0
+	cameraman	anger	0
+	cameraman	anticipation	0
+	cameraman	disgust	0
+	cameraman	fear	0
+	cameraman	joy	0
+	cameraman	negative	0
+	cameraman	positive	0
+	cameraman	sadness	0
+	cameraman	surprise	0
+	cameraman	trust	0
+	camisole	anger	0
+	camisole	anticipation	0
+	camisole	disgust	0
+	camisole	fear	0
+	camisole	joy	0
+	camisole	negative	0
+	camisole	positive	0
+	camisole	sadness	0
+	camisole	surprise	0
+	camisole	trust	0
+	camouflage	anger	0
+	camouflage	anticipation	0
+	camouflage	disgust	0
+	camouflage	fear	0
+	camouflage	joy	0
+	camouflage	negative	0
+	camouflage	positive	0
+	camouflage	sadness	0
+	camouflage	surprise	1
+	camouflage	trust	0
+	camouflaged	anger	0
+	camouflaged	anticipation	0
+	camouflaged	disgust	0
+	camouflaged	fear	0
+	camouflaged	joy	0
+	camouflaged	negative	0
+	camouflaged	positive	0
+	camouflaged	sadness	0
+	camouflaged	surprise	1
+	camouflaged	trust	0
+	camp	anger	0
+	camp	anticipation	0
+	camp	disgust	0
+	camp	fear	0
+	camp	joy	0
+	camp	negative	0
+	camp	positive	0
+	camp	sadness	0
+	camp	surprise	0
+	camp	trust	0
+	campaign	anger	0
+	campaign	anticipation	0
+	campaign	disgust	0
+	campaign	fear	0
+	campaign	joy	0
+	campaign	negative	0
+	campaign	positive	0
+	campaign	sadness	0
+	campaign	surprise	0
+	campaign	trust	0
+	campaigner	anger	0
+	campaigner	anticipation	0
+	campaigner	disgust	0
+	campaigner	fear	0
+	campaigner	joy	0
+	campaigner	negative	0
+	campaigner	positive	0
+	campaigner	sadness	0
+	campaigner	surprise	0
+	campaigner	trust	0
+	campaigning	anger	1
+	campaigning	anticipation	0
+	campaigning	disgust	0
+	campaigning	fear	1
+	campaigning	joy	0
+	campaigning	negative	1
+	campaigning	positive	0
+	campaigning	sadness	0
+	campaigning	surprise	0
+	campaigning	trust	0
+	campus	anger	0
+	campus	anticipation	0
+	campus	disgust	0
+	campus	fear	0
+	campus	joy	0
+	campus	negative	0
+	campus	positive	0
+	campus	sadness	0
+	campus	surprise	0
+	campus	trust	0
+	canal	anger	0
+	canal	anticipation	0
+	canal	disgust	0
+	canal	fear	0
+	canal	joy	0
+	canal	negative	0
+	canal	positive	0
+	canal	sadness	0
+	canal	surprise	0
+	canal	trust	0
+	canary	anger	0
+	canary	anticipation	0
+	canary	disgust	0
+	canary	fear	0
+	canary	joy	0
+	canary	negative	0
+	canary	positive	1
+	canary	sadness	0
+	canary	surprise	0
+	canary	trust	0
+	cancel	anger	0
+	cancel	anticipation	0
+	cancel	disgust	0
+	cancel	fear	0
+	cancel	joy	0
+	cancel	negative	1
+	cancel	positive	0
+	cancel	sadness	1
+	cancel	surprise	0
+	cancel	trust	0
+	canceling	anger	0
+	canceling	anticipation	0
+	canceling	disgust	0
+	canceling	fear	0
+	canceling	joy	0
+	canceling	negative	0
+	canceling	positive	0
+	canceling	sadness	0
+	canceling	surprise	0
+	canceling	trust	0
+	cancellation	anger	0
+	cancellation	anticipation	0
+	cancellation	disgust	0
+	cancellation	fear	0
+	cancellation	joy	0
+	cancellation	negative	0
+	cancellation	positive	0
+	cancellation	sadness	0
+	cancellation	surprise	0
+	cancellation	trust	0
+	cancer	anger	1
+	cancer	anticipation	0
+	cancer	disgust	1
+	cancer	fear	1
+	cancer	joy	0
+	cancer	negative	1
+	cancer	positive	0
+	cancer	sadness	1
+	cancer	surprise	0
+	cancer	trust	0
+	candid	anger	0
+	candid	anticipation	1
+	candid	disgust	0
+	candid	fear	0
+	candid	joy	1
+	candid	negative	0
+	candid	positive	1
+	candid	sadness	0
+	candid	surprise	1
+	candid	trust	1
+	candidacy	anger	0
+	candidacy	anticipation	0
+	candidacy	disgust	0
+	candidacy	fear	0
+	candidacy	joy	0
+	candidacy	negative	0
+	candidacy	positive	0
+	candidacy	sadness	0
+	candidacy	surprise	0
+	candidacy	trust	0
+	candidate	anger	0
+	candidate	anticipation	0
+	candidate	disgust	0
+	candidate	fear	0
+	candidate	joy	0
+	candidate	negative	0
+	candidate	positive	1
+	candidate	sadness	0
+	candidate	surprise	0
+	candidate	trust	0
+	candied	anger	0
+	candied	anticipation	0
+	candied	disgust	0
+	candied	fear	0
+	candied	joy	0
+	candied	negative	0
+	candied	positive	1
+	candied	sadness	0
+	candied	surprise	0
+	candied	trust	0
+	candle	anger	0
+	candle	anticipation	0
+	candle	disgust	0
+	candle	fear	0
+	candle	joy	0
+	candle	negative	0
+	candle	positive	0
+	candle	sadness	0
+	candle	surprise	0
+	candle	trust	0
+	candlelight	anger	0
+	candlelight	anticipation	0
+	candlelight	disgust	0
+	candlelight	fear	0
+	candlelight	joy	0
+	candlelight	negative	0
+	candlelight	positive	0
+	candlelight	sadness	0
+	candlelight	surprise	0
+	candlelight	trust	0
+	candlestick	anger	0
+	candlestick	anticipation	0
+	candlestick	disgust	0
+	candlestick	fear	0
+	candlestick	joy	0
+	candlestick	negative	0
+	candlestick	positive	0
+	candlestick	sadness	0
+	candlestick	surprise	0
+	candlestick	trust	0
+	candor	anger	0
+	candor	anticipation	0
+	candor	disgust	0
+	candor	fear	0
+	candor	joy	0
+	candor	negative	0
+	candor	positive	0
+	candor	sadness	0
+	candor	surprise	0
+	candor	trust	0
+	candy	anger	0
+	candy	anticipation	0
+	candy	disgust	0
+	candy	fear	0
+	candy	joy	0
+	candy	negative	0
+	candy	positive	0
+	candy	sadness	0
+	candy	surprise	0
+	candy	trust	0
+	cane	anger	1
+	cane	anticipation	0
+	cane	disgust	0
+	cane	fear	1
+	cane	joy	0
+	cane	negative	0
+	cane	positive	0
+	cane	sadness	0
+	cane	surprise	0
+	cane	trust	0
+	canine	anger	0
+	canine	anticipation	0
+	canine	disgust	0
+	canine	fear	0
+	canine	joy	0
+	canine	negative	0
+	canine	positive	0
+	canine	sadness	0
+	canine	surprise	0
+	canine	trust	0
+	canister	anger	0
+	canister	anticipation	0
+	canister	disgust	0
+	canister	fear	0
+	canister	joy	0
+	canister	negative	0
+	canister	positive	0
+	canister	sadness	0
+	canister	surprise	0
+	canister	trust	0
+	canker	anger	1
+	canker	anticipation	0
+	canker	disgust	1
+	canker	fear	0
+	canker	joy	0
+	canker	negative	1
+	canker	positive	0
+	canker	sadness	0
+	canker	surprise	0
+	canker	trust	0
+	cannibal	anger	0
+	cannibal	anticipation	0
+	cannibal	disgust	1
+	cannibal	fear	1
+	cannibal	joy	0
+	cannibal	negative	1
+	cannibal	positive	0
+	cannibal	sadness	0
+	cannibal	surprise	0
+	cannibal	trust	0
+	cannibalism	anger	0
+	cannibalism	anticipation	0
+	cannibalism	disgust	1
+	cannibalism	fear	0
+	cannibalism	joy	0
+	cannibalism	negative	1
+	cannibalism	positive	0
+	cannibalism	sadness	0
+	cannibalism	surprise	0
+	cannibalism	trust	0
+	canning	anger	0
+	canning	anticipation	0
+	canning	disgust	0
+	canning	fear	0
+	canning	joy	0
+	canning	negative	0
+	canning	positive	0
+	canning	sadness	0
+	canning	surprise	0
+	canning	trust	0
+	cannon	anger	1
+	cannon	anticipation	0
+	cannon	disgust	0
+	cannon	fear	1
+	cannon	joy	0
+	cannon	negative	1
+	cannon	positive	0
+	cannon	sadness	0
+	cannon	surprise	0
+	cannon	trust	0
+	canoe	anger	0
+	canoe	anticipation	0
+	canoe	disgust	0
+	canoe	fear	0
+	canoe	joy	0
+	canoe	negative	0
+	canoe	positive	0
+	canoe	sadness	0
+	canoe	surprise	0
+	canoe	trust	0
+	canon	anger	0
+	canon	anticipation	0
+	canon	disgust	0
+	canon	fear	0
+	canon	joy	0
+	canon	negative	0
+	canon	positive	0
+	canon	sadness	0
+	canon	surprise	0
+	canon	trust	0
+	canonical	anger	0
+	canonical	anticipation	0
+	canonical	disgust	0
+	canonical	fear	0
+	canonical	joy	0
+	canonical	negative	0
+	canonical	positive	0
+	canonical	sadness	0
+	canonical	surprise	0
+	canonical	trust	0
+	canons	anger	0
+	canons	anticipation	0
+	canons	disgust	0
+	canons	fear	0
+	canons	joy	0
+	canons	negative	0
+	canons	positive	0
+	canons	sadness	0
+	canons	surprise	0
+	canons	trust	1
+	canopy	anger	0
+	canopy	anticipation	0
+	canopy	disgust	0
+	canopy	fear	0
+	canopy	joy	0
+	canopy	negative	0
+	canopy	positive	0
+	canopy	sadness	0
+	canopy	surprise	0
+	canopy	trust	0
+	canteen	anger	0
+	canteen	anticipation	0
+	canteen	disgust	0
+	canteen	fear	0
+	canteen	joy	0
+	canteen	negative	0
+	canteen	positive	0
+	canteen	sadness	0
+	canteen	surprise	0
+	canteen	trust	0
+	canterbury	anger	0
+	canterbury	anticipation	0
+	canterbury	disgust	0
+	canterbury	fear	0
+	canterbury	joy	0
+	canterbury	negative	0
+	canterbury	positive	0
+	canterbury	sadness	0
+	canterbury	surprise	0
+	canterbury	trust	0
+	cantilever	anger	0
+	cantilever	anticipation	0
+	cantilever	disgust	0
+	cantilever	fear	0
+	cantilever	joy	0
+	cantilever	negative	0
+	cantilever	positive	0
+	cantilever	sadness	0
+	cantilever	surprise	0
+	cantilever	trust	0
+	canto	anger	0
+	canto	anticipation	0
+	canto	disgust	0
+	canto	fear	0
+	canto	joy	0
+	canto	negative	0
+	canto	positive	0
+	canto	sadness	0
+	canto	surprise	0
+	canto	trust	0
+	canton	anger	0
+	canton	anticipation	0
+	canton	disgust	0
+	canton	fear	0
+	canton	joy	0
+	canton	negative	0
+	canton	positive	0
+	canton	sadness	0
+	canton	surprise	0
+	canton	trust	0
+	canvas	anger	0
+	canvas	anticipation	0
+	canvas	disgust	0
+	canvas	fear	0
+	canvas	joy	0
+	canvas	negative	0
+	canvas	positive	0
+	canvas	sadness	0
+	canvas	surprise	0
+	canvas	trust	0
+	canvass	anger	0
+	canvass	anticipation	0
+	canvass	disgust	0
+	canvass	fear	0
+	canvass	joy	0
+	canvass	negative	0
+	canvass	positive	0
+	canvass	sadness	0
+	canvass	surprise	0
+	canvass	trust	0
+	cap	anger	0
+	cap	anticipation	1
+	cap	disgust	0
+	cap	fear	0
+	cap	joy	0
+	cap	negative	0
+	cap	positive	0
+	cap	sadness	0
+	cap	surprise	0
+	cap	trust	1
+	capability	anger	0
+	capability	anticipation	0
+	capability	disgust	0
+	capability	fear	0
+	capability	joy	0
+	capability	negative	0
+	capability	positive	0
+	capability	sadness	0
+	capability	surprise	0
+	capability	trust	0
+	capable	anger	0
+	capable	anticipation	0
+	capable	disgust	0
+	capable	fear	0
+	capable	joy	0
+	capable	negative	0
+	capable	positive	0
+	capable	sadness	0
+	capable	surprise	0
+	capable	trust	0
+	capacity	anger	0
+	capacity	anticipation	0
+	capacity	disgust	0
+	capacity	fear	0
+	capacity	joy	0
+	capacity	negative	0
+	capacity	positive	0
+	capacity	sadness	0
+	capacity	surprise	0
+	capacity	trust	0
+	cape	anger	0
+	cape	anticipation	0
+	cape	disgust	0
+	cape	fear	0
+	cape	joy	0
+	cape	negative	0
+	cape	positive	0
+	cape	sadness	0
+	cape	surprise	0
+	cape	trust	0
+	caper	anger	0
+	caper	anticipation	0
+	caper	disgust	0
+	caper	fear	0
+	caper	joy	0
+	caper	negative	0
+	caper	positive	0
+	caper	sadness	0
+	caper	surprise	0
+	caper	trust	0
+	capillary	anger	0
+	capillary	anticipation	0
+	capillary	disgust	0
+	capillary	fear	0
+	capillary	joy	0
+	capillary	negative	0
+	capillary	positive	0
+	capillary	sadness	0
+	capillary	surprise	0
+	capillary	trust	0
+	capital	anger	0
+	capital	anticipation	0
+	capital	disgust	0
+	capital	fear	0
+	capital	joy	0
+	capital	negative	0
+	capital	positive	0
+	capital	sadness	0
+	capital	surprise	0
+	capital	trust	0
+	capitalist	anger	0
+	capitalist	anticipation	0
+	capitalist	disgust	0
+	capitalist	fear	0
+	capitalist	joy	0
+	capitalist	negative	0
+	capitalist	positive	1
+	capitalist	sadness	0
+	capitalist	surprise	0
+	capitalist	trust	0
+	capitals	anger	0
+	capitals	anticipation	0
+	capitals	disgust	0
+	capitals	fear	0
+	capitals	joy	0
+	capitals	negative	0
+	capitals	positive	0
+	capitals	sadness	0
+	capitals	surprise	0
+	capitals	trust	0
+	capitation	anger	0
+	capitation	anticipation	0
+	capitation	disgust	0
+	capitation	fear	0
+	capitation	joy	0
+	capitation	negative	0
+	capitation	positive	0
+	capitation	sadness	0
+	capitation	surprise	0
+	capitation	trust	0
+	capitol	anger	0
+	capitol	anticipation	0
+	capitol	disgust	0
+	capitol	fear	0
+	capitol	joy	0
+	capitol	negative	0
+	capitol	positive	0
+	capitol	sadness	0
+	capitol	surprise	0
+	capitol	trust	0
+	capitulation	anger	0
+	capitulation	anticipation	0
+	capitulation	disgust	0
+	capitulation	fear	0
+	capitulation	joy	0
+	capitulation	negative	0
+	capitulation	positive	0
+	capitulation	sadness	0
+	capitulation	surprise	0
+	capitulation	trust	0
+	caprice	anger	0
+	caprice	anticipation	0
+	caprice	disgust	0
+	caprice	fear	0
+	caprice	joy	0
+	caprice	negative	0
+	caprice	positive	0
+	caprice	sadness	0
+	caprice	surprise	0
+	caprice	trust	0
+	capricious	anger	0
+	capricious	anticipation	0
+	capricious	disgust	0
+	capricious	fear	0
+	capricious	joy	0
+	capricious	negative	0
+	capricious	positive	0
+	capricious	sadness	0
+	capricious	surprise	0
+	capricious	trust	0
+	caps	anger	0
+	caps	anticipation	0
+	caps	disgust	0
+	caps	fear	0
+	caps	joy	0
+	caps	negative	0
+	caps	positive	0
+	caps	sadness	0
+	caps	surprise	0
+	caps	trust	0
+	capsule	anger	0
+	capsule	anticipation	0
+	capsule	disgust	0
+	capsule	fear	0
+	capsule	joy	0
+	capsule	negative	0
+	capsule	positive	0
+	capsule	sadness	0
+	capsule	surprise	0
+	capsule	trust	0
+	captain	anger	0
+	captain	anticipation	0
+	captain	disgust	0
+	captain	fear	0
+	captain	joy	0
+	captain	negative	0
+	captain	positive	1
+	captain	sadness	0
+	captain	surprise	0
+	captain	trust	0
+	caption	anger	0
+	caption	anticipation	0
+	caption	disgust	0
+	caption	fear	0
+	caption	joy	0
+	caption	negative	0
+	caption	positive	0
+	caption	sadness	0
+	caption	surprise	0
+	caption	trust	0
+	captivate	anger	0
+	captivate	anticipation	1
+	captivate	disgust	0
+	captivate	fear	0
+	captivate	joy	1
+	captivate	negative	0
+	captivate	positive	1
+	captivate	sadness	0
+	captivate	surprise	1
+	captivate	trust	1
+	captivating	anger	0
+	captivating	anticipation	0
+	captivating	disgust	0
+	captivating	fear	0
+	captivating	joy	0
+	captivating	negative	0
+	captivating	positive	1
+	captivating	sadness	0
+	captivating	surprise	0
+	captivating	trust	0
+	captive	anger	0
+	captive	anticipation	0
+	captive	disgust	0
+	captive	fear	1
+	captive	joy	0
+	captive	negative	1
+	captive	positive	0
+	captive	sadness	1
+	captive	surprise	0
+	captive	trust	0
+	captivity	anger	0
+	captivity	anticipation	0
+	captivity	disgust	0
+	captivity	fear	0
+	captivity	joy	0
+	captivity	negative	1
+	captivity	positive	0
+	captivity	sadness	1
+	captivity	surprise	0
+	captivity	trust	0
+	captor	anger	0
+	captor	anticipation	0
+	captor	disgust	0
+	captor	fear	1
+	captor	joy	0
+	captor	negative	1
+	captor	positive	0
+	captor	sadness	0
+	captor	surprise	0
+	captor	trust	0
+	capture	anger	0
+	capture	anticipation	0
+	capture	disgust	0
+	capture	fear	0
+	capture	joy	0
+	capture	negative	1
+	capture	positive	0
+	capture	sadness	0
+	capture	surprise	0
+	capture	trust	0
+	car	anger	0
+	car	anticipation	0
+	car	disgust	0
+	car	fear	0
+	car	joy	0
+	car	negative	0
+	car	positive	0
+	car	sadness	0
+	car	surprise	0
+	car	trust	0
+	caramel	anger	0
+	caramel	anticipation	0
+	caramel	disgust	0
+	caramel	fear	0
+	caramel	joy	0
+	caramel	negative	0
+	caramel	positive	0
+	caramel	sadness	0
+	caramel	surprise	0
+	caramel	trust	0
+	carat	anger	0
+	carat	anticipation	0
+	carat	disgust	0
+	carat	fear	0
+	carat	joy	0
+	carat	negative	0
+	carat	positive	0
+	carat	sadness	0
+	carat	surprise	0
+	carat	trust	0
+	caravan	anger	0
+	caravan	anticipation	0
+	caravan	disgust	0
+	caravan	fear	0
+	caravan	joy	0
+	caravan	negative	0
+	caravan	positive	0
+	caravan	sadness	0
+	caravan	surprise	0
+	caravan	trust	0
+	carbon	anger	0
+	carbon	anticipation	0
+	carbon	disgust	0
+	carbon	fear	0
+	carbon	joy	0
+	carbon	negative	0
+	carbon	positive	0
+	carbon	sadness	0
+	carbon	surprise	0
+	carbon	trust	0
+	carcass	anger	0
+	carcass	anticipation	0
+	carcass	disgust	1
+	carcass	fear	1
+	carcass	joy	0
+	carcass	negative	1
+	carcass	positive	0
+	carcass	sadness	1
+	carcass	surprise	0
+	carcass	trust	0
+	carcinoma	anger	0
+	carcinoma	anticipation	0
+	carcinoma	disgust	0
+	carcinoma	fear	1
+	carcinoma	joy	0
+	carcinoma	negative	1
+	carcinoma	positive	0
+	carcinoma	sadness	1
+	carcinoma	surprise	0
+	carcinoma	trust	0
+	card	anger	0
+	card	anticipation	0
+	card	disgust	0
+	card	fear	0
+	card	joy	0
+	card	negative	0
+	card	positive	0
+	card	sadness	0
+	card	surprise	0
+	card	trust	0
+	cardigan	anger	0
+	cardigan	anticipation	0
+	cardigan	disgust	0
+	cardigan	fear	0
+	cardigan	joy	0
+	cardigan	negative	0
+	cardigan	positive	0
+	cardigan	sadness	0
+	cardigan	surprise	0
+	cardigan	trust	0
+	cardinal	anger	0
+	cardinal	anticipation	0
+	cardinal	disgust	0
+	cardinal	fear	0
+	cardinal	joy	0
+	cardinal	negative	0
+	cardinal	positive	0
+	cardinal	sadness	0
+	cardinal	surprise	0
+	cardinal	trust	0
+	cardiomyopathy	anger	0
+	cardiomyopathy	anticipation	0
+	cardiomyopathy	disgust	0
+	cardiomyopathy	fear	1
+	cardiomyopathy	joy	0
+	cardiomyopathy	negative	1
+	cardiomyopathy	positive	0
+	cardiomyopathy	sadness	1
+	cardiomyopathy	surprise	0
+	cardiomyopathy	trust	0
+	cards	anger	0
+	cards	anticipation	0
+	cards	disgust	0
+	cards	fear	0
+	cards	joy	0
+	cards	negative	0
+	cards	positive	0
+	cards	sadness	0
+	cards	surprise	0
+	cards	trust	0
+	care	anger	0
+	care	anticipation	0
+	care	disgust	0
+	care	fear	0
+	care	joy	0
+	care	negative	0
+	care	positive	0
+	care	sadness	0
+	care	surprise	0
+	care	trust	0
+	career	anger	0
+	career	anticipation	1
+	career	disgust	0
+	career	fear	0
+	career	joy	0
+	career	negative	0
+	career	positive	1
+	career	sadness	0
+	career	surprise	0
+	career	trust	0
+	careful	anger	0
+	careful	anticipation	0
+	careful	disgust	0
+	careful	fear	0
+	careful	joy	0
+	careful	negative	0
+	careful	positive	1
+	careful	sadness	0
+	careful	surprise	0
+	careful	trust	0
+	carefully	anger	0
+	carefully	anticipation	0
+	carefully	disgust	0
+	carefully	fear	0
+	carefully	joy	0
+	carefully	negative	0
+	carefully	positive	1
+	carefully	sadness	0
+	carefully	surprise	0
+	carefully	trust	0
+	carelessness	anger	1
+	carelessness	anticipation	0
+	carelessness	disgust	1
+	carelessness	fear	0
+	carelessness	joy	0
+	carelessness	negative	1
+	carelessness	positive	0
+	carelessness	sadness	0
+	carelessness	surprise	0
+	carelessness	trust	0
+	caress	anger	0
+	caress	anticipation	0
+	caress	disgust	0
+	caress	fear	0
+	caress	joy	0
+	caress	negative	0
+	caress	positive	1
+	caress	sadness	0
+	caress	surprise	0
+	caress	trust	0
+	caret	anger	0
+	caret	anticipation	0
+	caret	disgust	0
+	caret	fear	0
+	caret	joy	0
+	caret	negative	0
+	caret	positive	0
+	caret	sadness	0
+	caret	surprise	0
+	caret	trust	0
+	caretaker	anger	0
+	caretaker	anticipation	0
+	caretaker	disgust	0
+	caretaker	fear	0
+	caretaker	joy	0
+	caretaker	negative	0
+	caretaker	positive	1
+	caretaker	sadness	0
+	caretaker	surprise	0
+	caretaker	trust	1
+	cargo	anger	0
+	cargo	anticipation	0
+	cargo	disgust	0
+	cargo	fear	0
+	cargo	joy	0
+	cargo	negative	0
+	cargo	positive	0
+	cargo	sadness	0
+	cargo	surprise	0
+	cargo	trust	0
+	caribou	anger	0
+	caribou	anticipation	0
+	caribou	disgust	0
+	caribou	fear	0
+	caribou	joy	0
+	caribou	negative	0
+	caribou	positive	0
+	caribou	sadness	0
+	caribou	surprise	0
+	caribou	trust	0
+	caricature	anger	0
+	caricature	anticipation	0
+	caricature	disgust	0
+	caricature	fear	0
+	caricature	joy	0
+	caricature	negative	1
+	caricature	positive	0
+	caricature	sadness	0
+	caricature	surprise	0
+	caricature	trust	0
+	caries	anger	0
+	caries	anticipation	0
+	caries	disgust	1
+	caries	fear	0
+	caries	joy	0
+	caries	negative	1
+	caries	positive	0
+	caries	sadness	0
+	caries	surprise	0
+	caries	trust	0
+	carnage	anger	1
+	carnage	anticipation	0
+	carnage	disgust	1
+	carnage	fear	1
+	carnage	joy	0
+	carnage	negative	1
+	carnage	positive	0
+	carnage	sadness	1
+	carnage	surprise	1
+	carnage	trust	0
+	carnal	anger	0
+	carnal	anticipation	0
+	carnal	disgust	0
+	carnal	fear	0
+	carnal	joy	0
+	carnal	negative	1
+	carnal	positive	0
+	carnal	sadness	0
+	carnal	surprise	0
+	carnal	trust	0
+	carnation	anger	0
+	carnation	anticipation	0
+	carnation	disgust	0
+	carnation	fear	0
+	carnation	joy	0
+	carnation	negative	0
+	carnation	positive	0
+	carnation	sadness	0
+	carnation	surprise	0
+	carnation	trust	0
+	carnivorous	anger	0
+	carnivorous	anticipation	0
+	carnivorous	disgust	0
+	carnivorous	fear	1
+	carnivorous	joy	0
+	carnivorous	negative	1
+	carnivorous	positive	0
+	carnivorous	sadness	0
+	carnivorous	surprise	0
+	carnivorous	trust	0
+	carol	anger	0
+	carol	anticipation	0
+	carol	disgust	0
+	carol	fear	0
+	carol	joy	1
+	carol	negative	0
+	carol	positive	1
+	carol	sadness	0
+	carol	surprise	0
+	carol	trust	1
+	carousel	anger	0
+	carousel	anticipation	0
+	carousel	disgust	0
+	carousel	fear	0
+	carousel	joy	0
+	carousel	negative	0
+	carousel	positive	0
+	carousel	sadness	0
+	carousel	surprise	0
+	carousel	trust	0
+	carpenter	anger	0
+	carpenter	anticipation	0
+	carpenter	disgust	0
+	carpenter	fear	0
+	carpenter	joy	0
+	carpenter	negative	0
+	carpenter	positive	0
+	carpenter	sadness	0
+	carpenter	surprise	0
+	carpenter	trust	0
+	carriage	anger	0
+	carriage	anticipation	0
+	carriage	disgust	0
+	carriage	fear	0
+	carriage	joy	0
+	carriage	negative	0
+	carriage	positive	0
+	carriage	sadness	0
+	carriage	surprise	0
+	carriage	trust	0
+	carried	anger	0
+	carried	anticipation	0
+	carried	disgust	0
+	carried	fear	0
+	carried	joy	0
+	carried	negative	0
+	carried	positive	0
+	carried	sadness	0
+	carried	surprise	0
+	carried	trust	0
+	carrier	anger	0
+	carrier	anticipation	0
+	carrier	disgust	0
+	carrier	fear	0
+	carrier	joy	0
+	carrier	negative	0
+	carrier	positive	0
+	carrier	sadness	0
+	carrier	surprise	0
+	carrier	trust	0
+	carry	anger	0
+	carry	anticipation	0
+	carry	disgust	0
+	carry	fear	0
+	carry	joy	0
+	carry	negative	0
+	carry	positive	0
+	carry	sadness	0
+	carry	surprise	0
+	carry	trust	0
+	carrying	anger	0
+	carrying	anticipation	0
+	carrying	disgust	0
+	carrying	fear	0
+	carrying	joy	0
+	carrying	negative	0
+	carrying	positive	0
+	carrying	sadness	0
+	carrying	surprise	0
+	carrying	trust	0
+	cart	anger	0
+	cart	anticipation	0
+	cart	disgust	0
+	cart	fear	0
+	cart	joy	0
+	cart	negative	0
+	cart	positive	0
+	cart	sadness	0
+	cart	surprise	0
+	cart	trust	0
+	cartel	anger	0
+	cartel	anticipation	0
+	cartel	disgust	0
+	cartel	fear	0
+	cartel	joy	0
+	cartel	negative	1
+	cartel	positive	0
+	cartel	sadness	0
+	cartel	surprise	0
+	cartel	trust	0
+	carter	anger	0
+	carter	anticipation	0
+	carter	disgust	0
+	carter	fear	0
+	carter	joy	0
+	carter	negative	0
+	carter	positive	0
+	carter	sadness	0
+	carter	surprise	0
+	carter	trust	0
+	cartilage	anger	0
+	cartilage	anticipation	0
+	cartilage	disgust	0
+	cartilage	fear	0
+	cartilage	joy	0
+	cartilage	negative	0
+	cartilage	positive	0
+	cartilage	sadness	0
+	cartilage	surprise	0
+	cartilage	trust	0
+	cartographic	anger	0
+	cartographic	anticipation	0
+	cartographic	disgust	0
+	cartographic	fear	0
+	cartographic	joy	0
+	cartographic	negative	0
+	cartographic	positive	0
+	cartographic	sadness	0
+	cartographic	surprise	0
+	cartographic	trust	0
+	cartography	anger	0
+	cartography	anticipation	0
+	cartography	disgust	0
+	cartography	fear	0
+	cartography	joy	0
+	cartography	negative	0
+	cartography	positive	0
+	cartography	sadness	0
+	cartography	surprise	0
+	cartography	trust	0
+	cartoon	anger	0
+	cartoon	anticipation	0
+	cartoon	disgust	0
+	cartoon	fear	0
+	cartoon	joy	0
+	cartoon	negative	0
+	cartoon	positive	0
+	cartoon	sadness	0
+	cartoon	surprise	0
+	cartoon	trust	0
+	cartouche	anger	0
+	cartouche	anticipation	0
+	cartouche	disgust	0
+	cartouche	fear	0
+	cartouche	joy	0
+	cartouche	negative	0
+	cartouche	positive	0
+	cartouche	sadness	0
+	cartouche	surprise	0
+	cartouche	trust	0
+	cartridge	anger	0
+	cartridge	anticipation	0
+	cartridge	disgust	0
+	cartridge	fear	1
+	cartridge	joy	0
+	cartridge	negative	0
+	cartridge	positive	0
+	cartridge	sadness	0
+	cartridge	surprise	0
+	cartridge	trust	0
+	carve	anger	0
+	carve	anticipation	0
+	carve	disgust	0
+	carve	fear	0
+	carve	joy	0
+	carve	negative	0
+	carve	positive	0
+	carve	sadness	0
+	carve	surprise	0
+	carve	trust	0
+	carver	anger	0
+	carver	anticipation	0
+	carver	disgust	0
+	carver	fear	0
+	carver	joy	0
+	carver	negative	0
+	carver	positive	0
+	carver	sadness	0
+	carver	surprise	0
+	carver	trust	0
+	carving	anger	0
+	carving	anticipation	0
+	carving	disgust	0
+	carving	fear	0
+	carving	joy	0
+	carving	negative	0
+	carving	positive	0
+	carving	sadness	0
+	carving	surprise	0
+	carving	trust	0
+	cascade	anger	0
+	cascade	anticipation	0
+	cascade	disgust	0
+	cascade	fear	0
+	cascade	joy	0
+	cascade	negative	0
+	cascade	positive	1
+	cascade	sadness	0
+	cascade	surprise	0
+	cascade	trust	0
 case	anger	0
 case	anticipation	0
 case	disgust	0
@@ -141818,3 +141820,5 @@ zoom	positive	0
 zoom	sadness	0
 zoom	surprise	0
 zoom	trust	0
+`
+}
