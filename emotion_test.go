@@ -12,8 +12,8 @@ func TestEmotion(t *testing.T) {
 	}
 
 	for _, c := range cases {
-		emo, ok := EmotionFor(c.in)
-		if !ok || emo != c.emo {
+		emo := EmotionsIntFor(c.in)
+		if emo != c.emo {
 			t.Errorf("EmotionFor(%q) == %q, want %q", c.in, emo, c.emo)
 		}
 	}

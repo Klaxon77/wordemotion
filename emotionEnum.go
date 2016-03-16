@@ -13,6 +13,8 @@ const (
 	Trust Emotion = 128
 )
 
+var AllEmotions = []Emotion{Anger, Anticipation, Disgust, Fear, Joy, Sadness, Surprise, Trust}
+
 func (emotion Emotion) String() string {
 	switch emotion {
 	case Anger : return "anger"

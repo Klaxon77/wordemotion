@@ -8,6 +8,8 @@ const (
 	Neutral Attitude = 0
 )
 
+var AllAttitudes = []Attitude{Positive, Negative, Neutral}
+
 func (attitude Attitude) String() string {
 	switch attitude {
 	case Positive : return "positive"
@@ -17,7 +19,7 @@ func (attitude Attitude) String() string {
 	}
 }
 
-func ToAttitude(s string) Attitude {
+func ToAttitudeEnum(s string) Attitude {
 	switch s {
 	case Positive.String() : return Positive
 	case Negative.String() : return Negative
